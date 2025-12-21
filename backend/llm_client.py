@@ -10,9 +10,16 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY not found in .env file")
 
-# === Initialize OpenAI client ===
-openai_client = OpenAI(api_key=OPENAI_API_KEY)
-print("OpenAI client initialized successfully!\n")
+# === Initialize OpenAI client lazily ===
+openai_client = None
+
+def get_client():
+    """Get or create the OpenAI client instance"""
+    global openai_client
+    if openai_client is None:
+        openai_client = OpenAI(api_key=OPENAI_API_KEY)
+        print("OpenAI client initialized successfully!")
+    return openai_client
 
 def get_response(
     prompt: str, 
@@ -48,7 +55,8 @@ def get_response(
     messages.append({"role": "user", "content": prompt})
     
     try:
-        response = openai_client.chat.completions.create(
+        client = get_client()
+        response = client.chat.completions.create(
             model=model,
             messages=messages,
             temperature=temperature
@@ -70,7 +78,8 @@ def get_moderation(text: str) -> dict:
         Dictionary with moderation results
     """
     try:
-        response = openai_client.moderations.create(input=text)
+        client = get_client()
+        response = client.moderations.create(input=text)
         result = response.results[0]
         
         return {
