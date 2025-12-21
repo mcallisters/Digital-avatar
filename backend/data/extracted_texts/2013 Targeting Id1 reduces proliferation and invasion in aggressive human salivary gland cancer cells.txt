@@ -1,0 +1,620 @@
+RESEARCH ARTICLE
+Open Access
+Targeting Id1 reduces proliferation and invasion
+in aggressive human salivary gland cancer cells
+Tomoki Sumida1*, Ryuichi Murase1,2, Akiko Onishi-Ishikawa1, Sean D McAllister2,
+Hiroyuki Hamakawa1 and Pierre-Yves Desprez2
+Abstract
+Background: Salivary gland cancer (SGC) is one of the common malignancies of the head and neck area. It
+develops in the minor and major salivary glands and sometimes metastasizes to other organs, particularly to the
+lungs. Inhibitors of differentiation (Id) proteins are negative regulators of basic helix-loop-helix transcription factors
+that control malignant cell behavior and tumor aggressiveness in many tissues. In this study, our goal was to
+determine the potential role of Id proteins, particularly Id1, during human SGC cell progression.
+Methods: We first determined the expression levels of Id1 and Id2 in four SGC cell lines: two adenocarcinoma of
+the salivary gland (HSG and HSY) and two adenoid cystic carcinoma (ACC2 and ACCM) cell lines. We then used
+constructs that expressed antisense cDNAs to Id1 or Id2 to knockdown the expression of these proteins in cell lines
+where they were highly expressed, and determined the effects of the knockdown on cell proliferation, migration
+and invasion.
+Results: Id1 mRNA and protein were detectable in all cell lines, and expression of Id2 was variable, from absent to
+high. The ACC2 and ACCM cell lines expressed both Id1 and Id2, but Id1 was expressed at a higher level in the
+more aggressive ACCM cell line in comparison toACC2 cells as confirmed by Id1 promoter-reporter assays. We
+therefore focused on the ACCM cells for the remainder of the study. We found that proliferation and invasiveness
+of ACCM cells were strongly reduced after Id1 knockdown whereas Id2 suppression had only a slight effect. Results
+of scratch and colony formation assays also confirmed that ACCM cell aggressiveness was significantly reduced
+upon Id1 knockdown. Finally, this knockdown resulted in reduced c-myc and enhanced cyclin-dependent kinase
+inhibitor p21 expression.
+Conclusions: These results demonstrate that Id1 plays an important role in the control of human SGC
+cell aggressiveness and suggest a potential role as a marker of diagnosis, prognosis and progression of
+SGCs. Id1 suppression could represent a novel and effective approach for the treatment of salivary
+gland cancer.
+Keywords: Inhibitor of differentiation, Id2, Id3, Promoter assay, ACCM cells
+Background
+The development of aggressive cancers is a multistep
+process involving many genetic and epigenetic alterations.
+Identifying these alterations is essential to understanding
+the mechanisms of cancer progression, and will enable the
+development of more effective methods for diagnosis and
+treatment. Human salivary gland cancer (SGC) is a typically
+slow-growing neoplasm of the secretory glands, most com-
+mon in the minor and major salivary gland [1,2]. However,
+SGCs also include highly aggressive tumors that invade the
+adjacent tissues and metastasize to distant organs at an
+early stage [1,3]. Some of the most common malignant
+SGCs correspond to adenoid cystic carcinomas (ACC) and
+the survival rates for this type of cancer at 10 and 20 years
+are extremely poor [3-5]. Recurrent cases of ACC are par-
+ticularly difficult to manage because of the ineffectiveness
+of radio- and chemotherapy as well as the cosmetic and
+anatomic limitations in performing wide surgical resection
+* Correspondence: tomoki@m.ehime-u.ac.jp
+1Department of Oral and Maxillofacial Surgery, Ehime University School of
+Medicine, 454 Shitsukawa, Toon-City, Ehime 791-0295, Japan
+Full list of author information is available at the end of the article
+© 2013 Sumida et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+Sumida et al. BMC Cancer 2013, 13:141
+http://www.biomedcentral.com/1471-2407/13/141
+[6,7]. Therefore, a new treatment modality for SGCs is ur-
+gently needed.
+Recently, high expression levels of inhibitor of differ-
+entiation (Id) genes have been observed in cell lines de-
+rived from a variety of tumors and tumor tissues,
+suggesting that Id proteins have been implicated in can-
+cers originating from many organs [8]. Id proteins are a
+class of helix-loop-helix (HLH) transcriptional regula-
+tors. Constitutive expression of these proteins inhibits
+the differentiation of various cell types through their
+interaction with basic helix-loop-helix (bHLH) proteins
+[9,10]. bHLH transcription factors are key regulators of
+lineage- and tissue-specific gene expression in a number
+of mammalian and non-mammalian organisms. bHLH
+proteins act as obligate dimers binding DNA through com-
+posite basic domains to regulate the transcription of target
+genes containing E-boxes (CANNTG) in their promoters.
+Id proteins dimerize with bHLH proteins, but because Id
+proteins lack basic domains, Id-bHLH heterodimers fail to
+bind DNA. Therefore, Id proteins are dominant negative
+regulators of bHLH function [9,11].
+To date, four members of the Id gene family have been
+described (Id1-Id4) [12,13]. They are located on different
+chromosomes and have different expression patterns
+and functions. We hypothesized that Id proteins may be
+involved in the regulation of SGC cell proliferation and
+invasiveness. As a first step, we chose to focus our inves-
+tigations on Id1 and Id2. Id4, however, also has a strong
+association with some types of tumors [14,15] and Id3
+displays similar expression pattern as Id1 [16]. We found
+that both Id1 and Id2 were highly expressed in ACC2
+and particularly ACCM cells, an aggressive sub-clone of
+ACC2. However, only Id1 knockdown but not Id2 knock-
+down triggered a significant reduction in the proliferative
+and invasive phenotype of SGC cells, suggesting an impor-
+tant role of Id1 in the regulation of SGC cell aggressiveness.
+Methods
+Cell culture
+Four cell lines, all derived from human SGCs, were used
+for the studies. HSG cells were established from an
+adenocarcinoma of the submandibular gland [17], HSY
+cells were also established from an adenocarcinoma [18],
+ACC2 cells were established from an adenoid cystic car-
+cinoma, and ACCM cells were a subpopulation of ACC2
+with a highly aggressive phenotype [19]. The HSG and
+HSY cell lines were a generous gift from Prof. Sato
+(Tokushima University, Tokushima, Japan). The ACC2
+and ACCM cell lines were purchased from the Cell Bank
+of Type Culture Collection of the Chinese Academy of
+Science (CBTCCCAS, Shanghai, China). All cell lines
+were cultured in RPMI 1640 (University of California,
+San Francisco, CA) supplemented with 10% FBS and
+5 μg/ml insulin (Sigma) at 37°C in the presence of 5%
+CO2. For the serum-free conditions, FBS was omitted
+from the medium.
+Western blot analysis
+Cells were lysed in 2X Laemmli buffer [20] and stored
+at −70°C. The protein concentration was determined
+using the DC protein assay kit (Bio-Rad). Samples (20–
+30 μg of total protein) were separated by SDS-PAGE and
+transferred to PVDF membranes (Hybond P; Amersham)
+using standard methods [20]. Membranes were blocked
+for 1 h at room temperature with TBST (20 mM Tris,
+137 mM NaCl, 3.8 mM HCl, and 0.1% Tween-20) con-
+taining 5% nonfat milk, and blots were probed with anti-
+Id1, anti-Id2, anti-Id3, anti-p21, and anti-c-myc (Santa
+Cruz Biotechnology), or anti-actin (Chemicon) antibodies
+for 1 h. Membranes were washed and incubated with a
+secondary antibody (either goat anti-rabbit or anti-mouse
+IgG-horseradish peroxidase; Santa Cruz Biotechnology),
+washed again, and developed for enhanced chemilumines-
+cence using the Amersham ECL-Plus kit according to the
+supplier’s instructions.
+RNA extraction and northern blot analysis
+RNA was isolated and purified as described by Chom-
+czynski and Sacchi [21], and 15 μg of total RNA was
+separated by electrophoresis using formaldehyde-agarose
+gels, and transferred to a nylon membrane (Hybond N;
+Amersham). The membrane was hybridized using either
+a 32P-labeled human Id1 [22] or Id2 [23] cDNA probe,
+washed, and exposed to a XAR-5 film for autoradiog-
+raphy, as described previously [24]. Ribosomal 28S and
+18S RNA were used as loading controls and to deter-
+mine RNA integrity.
+Id1 promoter-reporter assays
+We used a 2.2-kb fragment corresponding to the 5-
+upstream region of the human Id1 gene driving a lucifer-
+ase gene (Id1-sbsluc) in the PGL-3 vector (Promega) as
+previously described [25]. Cells were plated in 6-well
+dishes at a density of 3x105 cells per well in RPMI 1640
+medium supplemented with 10% FBS and 5 μg/ml insu-
+lin. After 24 h, cells were co-transfected with 6 μg of
+luciferase reporter plasmids and 2 μg of pCMVβ (Clontech)
+using SuperFect transfection reagent (Qiagen). Vector
+pCMVβ, containing bacterial β-galactosidase driven by the
+constitutive CMV promoter, served as a control for vari-
+ation in transfection efficiency. Three hours after transfec-
+tion, cells were rinsed twice with serum-free medium,
+cultured in RPMI 1640 medium with 10% FBS and 5 μg/ml
+insulin for 48 h, scraped into 1 ml of PBS and collected by
+centrifugation (13,000 rpm for 10 min). Cell pellets were
+re-suspended in 80 μl of reporter lysis buffer (Promega)
+and incubated for 10 min at room temperature. After cen-
+trifugation, supernatants were collected and used for
+Sumida et al. BMC Cancer 2013, 13:141
+Page 2 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+luciferase and β-galactosidase assays using the Luciferase
+Assay System (Promega), β-Galactosidase Assay Kit (Clon-
+tech), and a 2010 luminometer (Pharmingen). Luciferase
+activities were normalized to β-galactosidase activities.
+The pBabe-Id1 retroviral vector and virus production
+The full-length human Id1 cDNA was excised from CMV-
+Id1 and cloned into pBabe-puro [25], a gift from Dr.
+Hartmut Land (ICRF, London, UK). Clones in which the
+Id1 cDNA was inserted in the antisense orientation
+(pBabe-Id1AS) were selected for use. The full-length hu-
+man Id2 cDNA, a gift from Dr. Eiji Hara (Manchester,
+UK), was also cloned into a pBabe vector in the antisense
+orientation (pBabe-Id2AS). Either pBabe-Id1AS or pBabe-
+Id2AS was transfected into the TSA54 packaging cell line
+(Cell Genesis) using calcium phosphate [26]. Twenty-four
+hours after transfection, the culture medium (containing
+infectious virus) was harvested twice at 24 h intervals and
+frozen at −80°C. Viral titers were determined using an
+assay to detect reverse-transcriptase activity.
+Retroviral infection
+Approximately 8 RT units of pBabe-ctl (empty plasmid),
+pBabe-Id1AS or pBabe-Id2AS was mixed with 5 ml of a
+medium containing 4 μg/ml polybrene and added to
+cells in 100-mm dishes. Cells expressing the retroviral
+genes were selected using puromycin. The antibiotic
+resulted in the death of all mock-infected cells within
+3 days, and the surviving cells infected with pBabe-ctl,
+pBabe-Id1AS, or pBabe-Id2AS were harvested.
+[3H]Thymidine incorporation assay
+Cells were cultured on coverslips in 1% serum, [3H]thy-
+midine (μCi/ml; 60–80 Ci/mmol; Amersham) was in-
+cluded during the final 16 h of culture, and cells were
+fixed with a 1:1 methanol and acetone (vol/vol) solution.
+Cell nuclei were stained with DAPI, diluted 1:10,000 in
+PBS. [3H]Thymidine-labeling was developed as previously
+described [27]. The percentage of labeled nuclei was cal-
+culated by comparing the number of [3H]thymidine-
+labeled nuclei with the number of DAPI-stained nuclei in
+a given field using light and fluorescence microscopy.
+Boyden chamber invasion assay
+Invasion assays were performed in modified Boyden
+chambers using 8 μm pore filter inserts in 24-well plates
+(Collaborative Research). The filters were coated with
+10–12 μl of ice-cold Matrigel (Collaborative Research).
+Cells (approximately 80,000/well) were added to the
+upper chamber in 200 μl of the appropriate medium
+containing 0.1% BSA, and the lower chamber was filled
+with 300 μl of NIH-3T3 cell-conditioned medium. Assays
+were performed in triplicate or quadruplicate, and the re-
+sults were averaged. After incubating for 20 h, cells were
+fixed with 2.5% glutaraldehyde in PBS and stained with
+0.5% toluidine blue in 2% Na2CO3. The cells remaining in
+Matrigel or those attached to the upper side of the filter
+were removed with cotton tips. Cells on the lower side of
+the filter were counted under light microscopy.
+Cell migration assay
+Cells were seeded in 6-well plates at a density of 1.0 × 105
+cells per well. The following day, a scratch wound was
+generated by scratching the bottom of the wells with a
+pipette tip. Wells were rinsed with media to remove the
+detached cells, and replaced with media containing 10%
+serum. Cultures were then maintained for 24 h. Photo-
+graphic images of each well were taken immediately fol-
+lowing wound generation and again after 24 h. NIH Image
+(National Institutes of Health, Bethesda, MD) was used
+to measure the areas not covered by the migrating cells
+at each time point. The experiments were performed
+in triplicate.
+Colony formation assay
+Infected ACCM cells were trypsinized, re-suspended as
+single cells, and plated in 6-well plates (coated with 0.5%
+soft agar) at a density of approximately 100 cells per well
+diluted in the upper layer of 0.33% soft agar. After 2
+weeks, colonies were fixed with methanol and stained
+with crystal violet. Colony numbers were counted under
+the microscope. The number of colonies observed in anti-
+sense groups were normalized and presented as a percent-
+age of the average number of colonies in control groups.
+Statistical analyses
+Differences between groups were determined using a Stu-
+dent’s t-test. P values <0.05 were considered statistically sig-
+nificant. All statistical tests were performed using Statcel2
+software (Statcel2, OMS, Tokyo).
+Results
+Id1 and Id2 gene expression in SGC cells
+We first used Western blot analysis to compare the ex-
+pression of Id1 and Id2 among four different SGC cell
+lines, and to determine which cell line would be the
+most suitable for knockdown experiments. Whereas all
+cell lines displayed high levels of Id1 protein expression,
+Id2 expression was more variable (Figure 1). Western
+blot analysis demonstrated that ACCM cells, an aggres-
+sive sub-clone of ACC2 cells, had the strongest expres-
+sion of Id1 (and of Id3 as shown in Additional file 1:
+Figure S1), whereas Id2 was expressed at similar levels
+in ACC2 and ACCM cells, and almost undetectable in
+HSG and HSY cells (Figure 1). Therefore, subsequent
+analysis and experiments were performed using ACC2
+and ACCM cells.
+Sumida et al. BMC Cancer 2013, 13:141
+Page 3 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+Further analysis of Id1 expression using Northern blot-
+ting demonstrated that Id1 mRNA expression was in-
+deed much higher in ACCM cells than in ACC2 cells in
+agreement with the analysis of Id1 protein expression
+(Figure 2A). We also tested whether Id1 and Id2 expres-
+sion was dependent upon the concentration of serum in
+the media. We found that serum starvation did not have
+any significant effect on the expression of Id1 and Id2
+mRNA (Figure 2A) or protein (Figure 2B) (and of Id3
+protein as shown in Additional file 2: Figure S2). Next, we
+performed Id1 promoter-reporter assays in ACC2 and
+ACCM cells. These assays confirmed that higher levels of
+Id1 expression were present in the most aggressive ACCM
+cells compared to less aggressive ACC2 cells (approxi-
+mately
+a three-fold difference in luciferase
+activity)
+(Figure 2C).
+Effect of Id1 and Id2 knockdown on ACCM cell
+proliferation and invasion
+In order to investigate the potential role of Id1 and Id2
+in the regulation of SGC cell aggressiveness, we used the
+ACCM cells stably infected with the pBabe-Id1AS or
+pBabe-Id2AS constructs. First, Id1 knockdown in the
+ACCM pBabe-Id1AS cells was confirmed by Western
+blotting (Figure 3A). Using [3H]thymidine-incorporation
+assay, we then determined that Id1 knockdown resulted
+in a significant reduction in cell proliferation relative to
+the control group (Figure 3B). Similar to what was ob-
+served for Id1 mRNA and protein expression, serum star-
+vation did not have any significant effect on the reduced
+proliferation rate produced by Id1 knockdown. Id1 knock-
+down was also associated with modifications of the ex-
+pression of proliferation markers. Whereas p21 expression
+was strongly up-regulated, expression of the c-myc onco-
+gene was down-regulated in ACCM pBabe-Id1AS cells
+(Figure 3A). Finally, Id1 knockdown in SGC cells also
+Figure 2 Id1 and Id2 mRNA and protein expression in SGC cells in the presence or absence of serum. (A) Total RNA isolated from ACC2
+and ACCM cells cultured in 10% FBS or in serum-free medium (0%) were analyzed for expression of Id1 and Id2 by Northern blotting. To control
+for RNA quantity and integrity, the ethidium bromide-stained gel is shown in the lower panel. (B) Western blot comparing the levels of Id1 and
+Id2 protein expression in cells cultured under the same conditions as in (A) is shown. (C) Relative expression of Id1 in ACC2 and ACCM cells is
+indicated by the expression of luciferase (a reporter driven by a human Id1 promoter). * indicates a significant difference between the two cell
+lines (p < 0.05, Student’s t test).
+Figure 1 Id1 and Id2 protein expression in human SGC cell
+lines. HSG, HSY, ACC2 and ACCM cells were analyzed for
+expression of Id1 and Id2 by Western blotting. A loading control
+was carried out by stripping the blot and re-probing with an
+anti-actin antibody.
+Sumida et al. BMC Cancer 2013, 13:141
+Page 4 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+produced a significant reduction in cell invasion. Using
+the Boyden chamber invasion assay, we found that the
+number of invading cells was reduced by approximately
+50% in the antisense group when compared to control
+(Figure 3C).
+In contrast to Id1, successful knockdown of Id2 in
+ACCM cells (Figure 4A) did not lead to a significant de-
+crease in the proliferation rate or invasion of the cancer
+cells (Figure 4B and C). In addition, only a minor reduc-
+tion in c-myc and increase in p21 expression was ob-
+served compared to control cells (Figure 4A).
+Id1 but not Id2 regulates cell migration and ability of
+ACCM cells to form colonies
+We used scratch and colony formation assays to exam-
+ine the effects of Id1 and Id2 knockdown on additional
+aspects of ACCM cell aggressiveness. Id1 knockdown
+triggered a significant reduction in ACCM cell migration
+in the scratch assay after 24 h when compared to control
+cells (Figure 5A; p < 0.05, Student’s t test) as well as a
+significant decrease in the number of colonies when we
+used the colony formation assay (Figure 5B; p < 0.05, Stu-
+dent’s t test). In contrast, Id2 knockdown did not affect
+cell migration, since almost the entire area of the scratch
+was filled after 24 h (Figure 6A), and failed to produce a
+significant decrease in colony formation (Figure 6B).
+Overall these data are in agreement with our results
+obtained from the proliferation and invasion assays impli-
+cating Id1 as a key factor in SGC cells.
+Discussion
+The pathways controlling the proliferation and invasion
+of aggressive and metastatic ACC are still not well un-
+derstood, a gap in the field further hindered by the fact
+Figure 3 Effects of Id1 knockdown on proliferation and invasiveness of ACCM cells. (A) Western blot shows the effects of Id1 knockdown
+(Id1AS) on the expression of the cell proliferation markers c-myc and p21. (B) Effect of Id1 knockdown on the proliferation of ACCM cells was
+determined in 10% serum or serum-free medium (0%) after 48 h. (C) Effect of Id1 knockdown on cell invasiveness was determined using Boyden
+chamber invasion assays. Data represent the average of 6 independent experiments and are presented as percentage of controls (ctl). * indicates
+significant differences between cell populations (p < 0.05, Student’s t test).
+Sumida et al. BMC Cancer 2013, 13:141
+Page 5 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+that cancer cell lines derived from salivary glands are dif-
+ficult to obtain. Here, we compared four different SGC
+cell lines, including the ACCM cell line, a highly meta-
+static and aggressive variant obtained from the parental
+ACC2 cells [19]. We found that Id1 mRNA and protein
+expression was indeed higher in ACCM cells than in
+ACC2 cells, whereas Id2 protein expression was almost
+identical in both cell lines. These data suggested that a
+constitutively high expression of Id1 (independent of the
+presence of serum) was at least partly responsible for the
+highly aggressive nature of ACCM cells. Since Id3 was
+also expressed in these cells and may play a role in the
+proliferative and/or invasive phenotype of SGCs, it is
+possible that a double Id1/Id3 knockdown would further
+increase the reduction of tumor cell aggressiveness.
+Overall, the high levels of Id expression detected in
+ACCM cells suggest that this family of proteins could be
+responsible for the proliferative, migratory and invasive na-
+ture of these cells, and suggest that these transcriptional
+regulators could serve as diagnostic and/or prognostic fac-
+tors of SGC. High expression levels of Id genes have been
+observed in cell lines derived from a wide variety of tumors
+and tumor tissues [28]. Id proteins, especially Id1, are asso-
+ciated with a more aggressive and invasive behavior, as well
+as with a less differentiated tumor phenotype, and in some
+kinds of tumors, as markers of cancer diagnosis and pro-
+gression [28]. Our results demonstrating a different role of
+Id1 and Id2 in ACCM cells suggest that SGCs differ from
+other types of cancer in which Id1 and Id2 appear to play a
+more equivalent role. For example, Id1 and Id2 are both
+over-expressed in pancreatic cancer cells [29], and are both
+considered prognostic markers of squamous cell carcinoma
+metastasis in the esophageal region [30].
+Upon Id1 knockdown, c-myc expression was repressed
+and p21 protein was strongly up-regulated. On the other
+hand, there was a lack of modulation of c-myc and p21
+expression after Id2 knockdown. Therefore, we can specu-
+late that Id1 protein is, at least indirectly, associated with
+Figure 4 Effects of Id2 knockdown on proliferation and invasiveness of ACCM cells. (A) Western blot shows the effects of Id2 knockdown
+(Id2AS) on the expression of the cell proliferation markers c-myc and p21. (B) Effect of Id2 knockdown on the proliferation of ACCM cells was
+determined in 10% serum or serum-free medium (0%) after 48 h. (C) Effect of Id2 knockdown on cell invasiveness was determined using Boyden
+chamber invasion assays. Data represent the average of 6 independent experiments and are presented as percentage of controls (ctl). * indicates
+significant differences between cell populations (p < 0.05, Student’s t test).
+Sumida et al. BMC Cancer 2013, 13:141
+Page 6 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+the regulation of cell cycle-associated genes. In prostate
+cancer cells, silencing Id1 induced the expression of the cell
+cycle regulatory proteins p16 and p21 and triggered a
+change in MMP-9 levels [31]. We previously reported that
+in human aggressive SGC cells [32] and in metastatic breast
+cancer cells [33], introduction of the progesterone receptor
+and treatment with progestin was sufficient to reduce Id1
+expression, down-regulation of c-myc and MMP-9, up-
+regulation of p21 and consequently a decrease in the ag-
+gressive phenotype of the cells. The down-regulation of
+proteins such as matrix metallo-proteinases could explain
+the effects of Id1 knockdown on the reduction of SGC
+cell invasion.
+Moreover, the significant effects of Id1 knockdown,
+but not of Id2 knockdown, on cell migration (measured
+using the scratch assay) and on the ability of the cells to
+grow in an anchorage-independency fashion (measured
+using the soft agar assay) provide additional support for
+the key role of Id1 during SGC cell progression.
+Conclusions
+The results of this study indicate that Id1 expression is
+correlated with a highly aggressive phenotype of SGC
+cells and may be associated with the malignant progres-
+sion of salivary gland epithelial cells. Knockdown of Id1
+decreased the rate of proliferation, growth in soft agar,
+migration and invasion of ACCM cells, indicating that
+suppression of Id1 may impact SGC progression in pa-
+tients. We are now testing the role of Id1 on SGC cell
+metastasis in vivo as the next logical step in understand-
+ing the importance of Id1 during SGC progression. In
+conclusion, we propose that suppression of Id1 gene ex-
+pression may represent a novel and effective approach
+for the treatment of SGC.
+Figure 5 Effects of Id1 knockdown on ACCM cell migration and
+colony formation. (A) Images show scratch wounds using pipette
+tips and compare ACCM-control cells (Ctl) and ACCM-Id1-antisense
+cells (Id1AS) immediately (0 hr) or 24 hr after scratches were inflected.
+(B) Results of colony formation assays comparing ACCM-control cells
+(Ctl) and ACCM-Id1-antisense cells (Id1AS) are shown. Bars represent the
+percentage of number of colonies in Id1AS cells relative to control cells.
+* indicates a significant difference between cell populations (Student’s
+t test, p < 0.05).
+Figure 6 Effects of Id2 knockdown on ACCM cell migration and colony formation. (A) Images show scratch wounds using pipette tips and
+compare ACCM-control cells (Ctl) and ACCM-Id2-antisense cells (Id2AS) immediately (0 hr) or 24 hr after scratches were inflected. (B) Results of
+colony formation assays comparing ACCM-control cells (Ctl) and ACCM-Id2-antisense cells (Id2AS) are shown. Bars represent the percentage of
+number of colonies in Id2AS cells relative to control cells. * indicates a significant difference between cell populations (Student’s t test, p < 0.05).
+Sumida et al. BMC Cancer 2013, 13:141
+Page 7 of 8
+http://www.biomedcentral.com/1471-2407/13/141
+Additional files
+Additional file 1: Figure S1. Id3 protein expression in human SGC cell
+lines. HSG, HSY, ACC2 and ACCM cells were analyzed for expression of
+Id3 by Western blotting. Loading control was carried out by stripping the
+blot and re-probing with an anti-actin antibody.
+Additional file 2: Figure S2. Id3 protein expression in SGC cells in the
+presence or absence of serum. Western blot comparing the levels of Id3
+protein expression in ACC2 and ACCM cells cultured in 10% FBS or in
+serum-free medium (0%) is shown.
+Abbreviations
+ACC: Adenoid cystic carcinomas; bHLH: Basic helix-loop-helix; HLH:
+Helix-Loop-Helix; Id: Inhibitor of differentiation; SGC: Salivary gland cancer.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+TS designed the study and drafted the manuscript; RM and AOI performed
+the experiments; SDM, HH and PYD supervised the experiments and edited
+the manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+This work was supported by grants from the Japanese Ministry of Education,
+Culture, Sports, Science and Technology (to T.S.), and from the National
+Institutes of Health (CA082548 to P.Y.D.; CA135281 to S.D.M. and P.Y.D.).
+Author details
+1Department of Oral and Maxillofacial Surgery, Ehime University School of
+Medicine, 454 Shitsukawa, Toon-City, Ehime 791-0295, Japan. 2California Pacific
+Medical Center, Cancer Research Institute, San Francisco, CA 94107, USA.
+Received: 27 June 2012 Accepted: 18 March 2013
+Published: 22 March 2013
+References
+1.
+Lima SS, Soares AF, de Amorim RF, Freitas RA: Epidemiologic profile of
+salivary gland neoplasms: analysis of 245 cases. Rev Bras Otorrinolaringol
+2005, 71:335–340.
+2.
+Toida M, Shimokawa K, Makita H, Kato K, Kobayashi A, Kusunoki Y,
+Hatakeyama D, Fujitsuka H, Yamashita T, Shibata T: Intraoral minor salivary
+gland tumors: a clinicopathological study of 82 cases. Int J Oral Maxillofac
+Surg 2005, 34:528–532.
+3.
+Lopes MA, Santos GC, Kowalski LP: Multivariate survival analysis of 128 cases
+of oral cavity minor salivary gland carcinomas. Head Neck 1998, 20:699–706.
+4.
+Jones AS, Hamilton JW, Rowley H, Husband D, Helliwell TR: Adenoid cystic
+carcinoma of the head and neck. Clin Otolaryngol Allied Sci 1997, 22:434–443.
+5.
+Spiro RH: Distant metastasis in adenoid cystic carcinoma of salivary
+origin. Am J Surgery 1997, 174:495–498.
+6.
+Marandas P, Dharkar D, Davis A, Leridant AM, Pacheco Ojeda L, Micheau C,
+Wibault P, Schwaab G: Malignant tumours of the parotid: a study of 76
+patients. Clin Otolaryngol 1990, 15:103–109.
+7.
+Takagi D, Fukuda S, Furuta Y, Yagi K, Homma A, Nagahashi T, Inuyama Y:
+Clinical study of adenoid cystic carcinoma of the head and neck.
+Auris Nasus Larynx 2001, 28:S99–102.
+8.
+Sikder HA, Devlin MK, Dunlap S, Ryu B, Alani RM: Id proteins in cell growth
+and tumorigenesis. Cancer Cell 2003, 3:525–530.
+9.
+Benezra R, Davis RL, Lockshon D, Turner DL, Weintraub H: The protein Id: a
+negative regulator of helix-loop-helix DNA binding proteins. Cell 1990,
+61:49–59.
+10.
+Norton JD, Deed RW, Craggs G, Sablitzky F: Id helix-loop-helix proteins in
+cell growth and differentiation. Trends Cell Biol 1998, 8:58–65.
+11.
+Norton JD: ID helix-loop-helix proteins in cell growth, differentiation and
+tumorigenesis. J Cell Sci 2000, 113:3897–3905.
+12.
+Riechmann V, van Crüchten I, Sablitzky F: The expression pattern of Id4, a
+novel dominant negative helix-loop-helix protein, is distinct from Id1,
+Id2 and Id3. Nucleic Acids Res 1994, 22:749–755.
+13.
+Riechmann V, Sablitzky F: Mutually exclusive expression of two dominant-
+negative helix-loop-helix (dnHLH) genes, ld4 and ld3, in the developing
+brain of the mouse suggests distinct regulatory roles of these dnHLH
+proteins during cellular proliferation and differentiation of the nervous
+system. Cell Growth Differ 1995, 6:837–843.
+14.
+Lee YS, Kang JW, Lee YH, Kim DW: ID4 mediates proliferation of astrocytes
+after excitotoxic damage in the mouse hippocampus. Anat Cell Biol 2011,
+44:128–134.
+15.
+Kuzontkoski PM, Mulligan-Kehoe MJ, Harris BT, Israel MA: Inhibitor of DNA
+binding-4 promotes angiogenesis and growth of glioblastoma
+multiforme by elevating matrix GLA levels. Oncogene 2010, 29:3793–802.
+16.
+Lowery JW, Frump AL, Anderson L, DiCarlo GE, Jones MT, de Caestecker MP:
+ID family protein expression and regulation in hypoxic pulmonary
+hypertension. Am J Physiol Regul Integr Comp Physiol 2010, 299:1463–1477.
+17.
+Sato N, Kyakumoto S, Sawano K, Ota M: Proliferative signal transduction
+by epidermal growth factor (EGF) in the human salivary gland
+adenocarcinoma (HSG) cell line. Biochem Mol Biol Int 1996, 38:597–606.
+18.
+Myoken Y, Myoken Y, Okamoto T, Kan M, McKeehan WL, Sato JD, Takada K:
+Expression of fibroblast growth factor-1 (FGF-1), FGF-2 and FGF
+receptor-1 in a human salivary-gland adenocarcinoma cell line: evidence
+of growth. Int J Cancer 1996, 65:650–657.
+19.
+Guan XF, Qiu WL, He RG, Zhou XJ: Selection of adenoid cystic carcinoma
+cell clone highly metastatic to the lung: an experimental study. Int J Oral
+Maxillofac Surg 1997, 26:116–119.
+20.
+Maniatis T, Fritsch EF, Sambrook J: Molecular Cloning: A Laboratory Manual.
+Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press; 1989.
+21.
+Chomczynski P, Sacchi N: Single-step method of RNA isolation by acid
+guanidinium thiocyanate-phenol-chloroform extraction. Anal Biochem
+1987, 162:156–159.
+22.
+Hara E, Yamaguchi T, Nojima H, Ide T, Campisi J, Okayama H, Oda K: Id-
+related genes encoding helix-loop-helix proteins are required for G1
+progression and are repressed in senescent human fibroblasts. J Biol
+Chem 1994, 269:2139–2145.
+23.
+Parrinello S, Lin CQ, Murata K, Itahana Y, Singh J, Krtolica A, Campisi J,
+Desprez PY: Id-1, ITF-2, and Id-2 comprise a network of helix-loop-helix
+proteins that regulate mammary epithelial cell proliferation,
+differentiation, and apoptosis. J Biol Chem 2001, 276:39213–39219.
+24.
+Lin CQ, Singh J, Murata K, Itahana Y, Parrinello S, Liang SH, Gillett CE, Campisi J,
+Desprez PY: A role for Id-1 in the aggressive phenotype and steroid hormone
+response of human breast cancer cells. Cancer Res 2000, 60:1332–1340.
+25.
+Morgenstern JP, Land H: Advanced mammalian gene transfer: high titre
+retroviral vectors with multiple drug selection markers and a complementary
+helperfree packaging cell line. Nucleic Acids Res 1990, 18:3587–3596.
+26.
+Gorman C: High efficiency gene transfer into mammalian cell. In DNA
+Cloning. Edited by Glover DM. Oxford, United Kingdom: IRL; 1986:143–211.
+27.
+Desprez PY, Lin CQ, Thomasset N, Sympson CJ, Bissell MJ, Campisi J: A
+novel pathway for mammary epithelial cell invasion induced by the
+helix-loop-helix protein Id-1. Mol Cell Biol 1998, 18:4577–4588.
+28.
+Israel MA, Hernandez MC, Florio M, Andres-Barquin PJ, Mantani A, Carter JH,
+Julin CM: Id gene expression as a key mediator of tumor cell biology.
+Cancer Res 1999, 59:1726–1730.
+29.
+Maruyama H, Kleeff J, Wildi S, Friess H, Büchler MW, Israel MA, Korc M: Id-1
+and Id-2 are overexpressed in pancreatic cancer and in dysplastic
+lesions in chronic pancreatitis. Am J Pathol 1999, 155:815–822.
+30.
+Yuen HF, Chan YP, Chan KK, Chu YY, Wong ML, Law SY, Srivastava G, Wong YC,
+Wang X, Chan KW: Id-1 and Id-2 are markers for metastasis and prognosis
+in oesophageal squamous cell carcinoma. Br J Cancer 2007, 97:1409–1415.
+31.
+Asirvatham AJ, Carey JP, Chaudhary J: ID1-, ID2-, and ID3-regulated gene
+expression in E2A positive or negative prostate cancer cells. Prostate
+2007, 67:1411–1420.
+32.
+Yoshimura T, Sumida T, Liu S, Onishi A, Shintani S, Desprez PY, Hamakawa
+H: Growth inhibition of human salivary gland tumor cells by introduction
+of progesterone (Pg) receptor and Pg treatment. Endocr Relat Cancer
+2007, 14:1107–1116.
+33.
+Sumida T, Itahana Y, Hamakawa H, Desprez PY: Reduction of human
+metastatic breast cancer cell aggressiveness on introduction of either
+form A or B of the progesterone receptor and then treatment with
+progestins. Cancer Res 2004, 64:7886–7892.
+doi:10.1186/1471-2407-13-141
+Cite this article as: Sumida et al.: Targeting Id1 reduces proliferation and
+invasion in aggressive human salivary gland cancer cells. BMC Cancer
+2013 13:141.
+Sumida et al. BMC Cancer 2013, 13:141
+Page 8 of 8
+http://www.biomedcentral.com/1471-2407/13/141

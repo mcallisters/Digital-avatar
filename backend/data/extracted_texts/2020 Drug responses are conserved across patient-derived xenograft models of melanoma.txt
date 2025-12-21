@@ -1,0 +1,1512 @@
+ARTICLE
+Translational Therapeutics
+Drug responses are conserved across patient-derived xenograft
+models of melanoma leading to identiﬁcation of novel drug
+combination therapies
+Ryan J. Ice1, Michelle Chen1, Max Sidorov1, Tam Le Ho1, Rinette W. L. Woo1, Aida Rodriguez-Brotons1, Tri Luu1, Damon Jian1,
+Kevin B. Kim1, Stanley P. Leong1, HanKyul Kim1, Angela Kim1, Des Stone1, Ari Nazarian1, Alyssia Oh1, Gregory J. Tranah1, Mehdi Nosrati1,
+David de Semir1, Altaf A. Dar1, Stephen Chang2, Pierre-Yves Desprez1, Mohammed Kashani-Sabet1, Liliana Soroceanu1 and
+Sean D. McAllister1
+BACKGROUND: Patient-derived xenograft (PDX) mouse tumour models can predict response to therapy in patients. Predictions
+made from PDX cultures (PDXC) would allow for more rapid and comprehensive evaluation of potential treatment options for
+patients, including drug combinations.
+METHODS: We developed a PDX library of BRAF-mutant metastatic melanoma, and a high-throughput drug-screening (HTDS)
+platform utilising clinically relevant drug exposures. We then evaluated 34 antitumor agents across eight melanoma PDXCs,
+compared drug response to BRAF and MEK inhibitors alone or in combination with PDXC and the corresponding PDX, and
+investigated novel drug combinations targeting BRAF inhibitor-resistant melanoma.
+RESULTS: The concordance of cancer-driving mutations across patient, matched PDX and subsequent PDX generations increases
+as variant allele frequency (VAF) increases. There was a high correlation in the magnitude of response to BRAF and MEK inhibitors
+between PDXCs and corresponding PDXs. PDXCs and corresponding PDXs from metastatic melanoma patients that progressed on
+standard-of-care therapy demonstrated similar resistance patterns to BRAF and MEK inhibitor therapy. Importantly, HTDS identiﬁed
+novel drug combinations to target BRAF-resistant melanoma.
+CONCLUSIONS: The biological consistency observed between PDXCs and PDXs suggests that PDXCs may allow for a rapid and
+comprehensive identiﬁcation of treatments for aggressive cancers, including combination therapies.
+British Journal of Cancer (2020) 122:648–657; https://doi.org/10.1038/s41416-019-0696-y
+BACKGROUND
+Effective therapies have been developed to treat a subset of
+metastatic melanoma, including the use of kinase inhibitors (BRAF
+and MEK) and immune checkpoint blockade.1 Melanoma, however,
+has a high mutational burden,2 and a signiﬁcant proportion of cases
+adapt to current therapies and progress. As a result, additional
+treatment strategies are needed for patients with cancers resistant
+to the standard-of-care.3 In the development of effective persona-
+lised therapy platforms for cancer patients, research has focused on
+the use of patient-derived xenografts (PDXs). In a recent study,
+researchers compared drug response of 92 patients with response
+observed in their corresponding PDX model.4 Their analysis showed
+that the response in PDXs predicted the response in the patient
+87% of the time, even as patients underwent several cycles of
+therapy. This is in agreement with other studies demonstrating the
+utility of PDXs to predict clinical responses.5–8
+Development of PDX technology to make precision medicine
+predictions for patients requires signiﬁcant ﬁnancial investment,
+time for tumour engraftment and serial passaging (2–8 months).
+Most importantly, it is not amenable to the rapid identiﬁcation of
+multiple single drug candidates, or drug combinations for
+targeting cancer, the latter being critical for addressing advanced
+cancers resistant to single agents. By contrast, PDXCs used in a
+HTDS format represent a high speed and lower cost opportunity
+to study the activity of multiple single agents and drug
+combinations. Prior studies have shown that a robust drug
+response in PDXCs leads to some measure of signiﬁcant activity
+in vivo in the corresponding PDXs.9,10 However, detailed studies
+demonstrating a direct statistical correlation in the magnitude of
+targeted therapy drug response between PDXCs and correspond-
+ing PDXs are needed. The existence of a strong correlation would
+increase support for the utility of PDXCs as a model for discovery
+of drug combination therapies targeting resistant cancers.
+In this study, we ﬁrst developed a PDX library of BRAF-mutant
+metastatic
+melanoma,
+with
+accompanying
+DNA
+mutational
+proﬁling of key driver genes, as well as clinical annotation. Using
+this library, we then assessed the utility of PDXCs, and a HTDS
+platform optimised for patient-derived tumour models and
+utilising clinically relevant drug exposures, for identifying treat-
+ments. Demonstrating the biological consistency between PDXCs
+www.nature.com/bjc
+Received: 6 August 2019 Revised: 27 November 2019 Accepted: 5 December 2019
+Published online: 20 December 2019
+1California Paciﬁc Medical Center Research Institute, San Francisco, CA 94107, USA and 2University of California at San Francisco, School of Pharmacy, Department of Clinical
+Pharmacy, San Francisco, CA 94143, USA
+Correspondence: Sean D. McAllister (mcallis@cpmcri.org)
+© The Author(s), under exclusive licence to Cancer Research UK 2019
+and corresponding PDXs would validate the role of PDXCs as a
+useful model for rapid and comprehensive discovery of drug
+combinations targeting treatment-refractory cancers.
+METHODS
+Generation of melanoma PDXs
+Patient-derived tumour cells (PDCs).
+Upon receiving human BRAF-
+metastatic melanoma tissue, samples were mechanically disrupted
+and cultured as described in Supplementary Methods.
+Patient-derived xenograft generation and passaging.
+PDCs and
+PDXCs were passaged in vivo as described in Supplementary
+Methods. An example of a patient-derived culture used to seed a
+tumour is shown in Supplementary Fig. 1.
+High-throughput drug screening
+Development of inhibitor screen.
+All PDXCs or PDCs were plated in
+384-well low attachment round bottom microplates (Corning,
+Tewksbury, MA) within 3–7 days after processing the original tumour
+material or thawing frozen cells, and they were then allowed to
+acclimate for 3 days. The low attachment round bottom microplates,
+media conditions and acclimation period allowed for formation of
+tumourspheres before addition of drugs. Melanoma PDXCs were
+screened in an HTDS format (Supplementary Methods) against a 6-
+point concentration–response curve of drugs chosen primarily based
+on the following criteria: (1) The drug is FDA-approved or in clinical
+trials; (2) The drug is available for research purposes; (3) Pharmaco-
+kinetic (PK) data in humans are available. For most drugs, the 6-point
+concentration–response curve contained drug concentrations begin-
+ning with the highest concentration starting with the approximate
+maximum plasma concentration (Cmax) reported in published clinical
+trials (Supplementary Table 1). For a small percentage of drugs in
+historical screens, where there was signiﬁcant HTDS data, the
+concentration was kept as long as it did not vary more than
+threefold of the published Cmax, the exceptions being vorinostat and
+gedatolisib which varied by 5–10-fold. The drug list used in this study
+and associated references are included (Supplementary Table 1).
+Quantiﬁcation of drug response.
+The resulting drug-response data
+were ﬁtted using area under the pharmacological curve (AUC) and
+with the program Prism (GraphPad, San Diego, CA) using the
+formula ΔX*(Y1 + Y2)/2. Past studies and a recent large-scale
+screening effort demonstrate that AUC is more effective than
+either calculating the potency and efﬁcacy of a drug across
+multiple cancer cell lines,11,12 since AUC takes into account both
+drug potency and efﬁcacy in a single value. For ease of evaluation,
+we used a standard min–max normalisation equation13 to create a
+scoring scale similar to a typical grading scale. We transformed the
+AUC value to equal a value between 0 and 100: score = 100 × (1
+−(AUC−AUCmin/AUCmax−AUCmin), where 0 is no effect and 100
+represents killing of all the cells. Drugs that stimulate cell growth
+produce a score < 0. As part of our drug scoring platform, all the
+analyses are automated using specialised in-house VBA pro-
+grammed Excel spreadsheets and Prism.
+Next-generation sequencing
+Genomic DNA was extracted from fresh human and mouse PDX
+tissue samples as described in Supplementary Methods. A
+sequencing library targeting 212 amplicons in 48 genes was
+generated using the Illumina TruSeq Amplicon—Cancer Panel that
+provides pre-designed, optimised oligonucleotide probes for
+sequencing mutational hotspots in > 35 kilobases of target
+genomic sequence (Supplementary Methods).
+Treatment studies in vivo
+Eight to ten-week-old female NSG mice (Jackson Laboratories,
+Sacramento, CA) bearing subcutaneous PDX tumours were
+randomised according to initial tumour volume. Mice where
+housed in a single ventilated cage in groups of four, provided
+environmental enrichment materials and free access to water and
+food. Mice were treated with either vehicle (control group), 20 mg/
+kg vemurafenib, 5 mg/kg cobimetinib or 5 mg/kg apitolisib, or
+speciﬁc combinations. All treatments were carried out in the home
+cage in a biosafety cabinet. Dosing ranges were based on
+previously published studies, and intraperitoneally (i.p.) dosing
+was chosen to standardised route of administration and vehicle
+formulation between all drugs. All drugs were diluted in the
+vehicle formulation: 4% DMSO, 4% Tween-80 and 92% saline. PDX
+tumour volumes were measured once per week via callipers, and
+treatment groups were blinded to measuring personnel. Treat-
+ment began when PDX tumour volumes reached ~100 mm3.
+PDX-bearing NSG mice were treated i.p. daily in the afternoon for
+5 consecutive days for ~4 weeks for a total of 20 treatments or
+until PDX tumour volumes reached 2000 mm3. Tumours were
+measured approximately once weekly by an operator blinded
+to the treatment groups. Tumour volume was calculated as
+(length × width2)/2. The response was determined by comparing
+tumour volume change at time t to its baseline: % tumour volume
+change = ΔVolt = 100% × ((Vt−Vinitial)/Vinitial).14 The justiﬁcation for
+the use two to four mice in the PDX and PDXC drug response
+comparison is explained in the Results section. Six to twelve mice
+were used for speciﬁc drug combination studies based on sample
+size calculations from initial studies. Animal number was increased
+in the drug combination groups to adjust for a smaller effect size
+expected when comparing single drug effects to drug combina-
+tion effects, as opposed to comparisons made to the control
+group. At the completion of in vivo experiments, all animals were
+humanely killed using CO2 overdose followed by thoracotomy as
+outline by the American Veterinary Medical Association guidelines
+for the euthanasia of animals.
+Statistical analyses
+Pearson
+correlations
+were
+determined,
+where
+appropriate.
+A Spearman's correlation coefﬁcient (p) was calculated to assess
+the relationship between drug response of the PDXC and the
+corresponding PDX. PDX drug scores (for each cell line and drug
+pairing) were calculated as the average relative tumour growth (in
+percent) in the control relative to treatment. The average relative
+tumour growth was deﬁned as the tumour volume at the ﬁnal
+time divided by the initial tumour volume averaged over the total
+PDX realisations. The time span between initial and ﬁnal tumour
+measurements was identical for the control and all treatment
+groups of a given PDX, and varied between 23 and 29 days.
+Differences in tumour growth between treatment groups were
+evaluated using two-way ANOVA repeated measures, and a
+Tukey’s multiple comparisons test. Statistical signiﬁcance was
+deﬁned as a p-value < 0.05.
+RESULTS
+Establishment of PDX models from BRAF-mutant metastatic
+melanoma
+Ten BRAF-mutant metastatic melanoma PDXs were established
+(Supplementary
+Table
+2).
+For
+generation
+of
+PDXs,
+human
+tumour tissue samples were received within 1–2 h after resection.
+Samples were processed to create PDC and then implanted as cell
+suspensions (see the Methods section).
+The ten samples were obtained from seven men and three
+women (Supplementary Table 2), with ages ranging from 49 to 79,
+and obtained from various sites, including lymph node, soft tissue
+and brain. Each patient had various treatment histories, including
+immunotherapy,
+BRAF
+inhibitors
+or
+BRAF + MEK
+inhibitors.
+As expected, PDXs had different growth rates even when the cell
+number injected for seeding of tumours was standardised
+(Supplementary
+Fig.
+2).
+The
+metastatic
+melanoma
+samples
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+649
+1234567890();,:
+collected, which were used to derive PDXs, reﬂect patient
+populations receiving the current standard of care, including
+immunotherapy and targeted therapy.
+Concordance of somatic mutations across patients and PDXs
+correlates with VAF
+Next-generation sequencing was performed to determine the
+DNA mutational proﬁle across the original patient tumours and
+different generations of PDXs (Fig. 1; Supplementary Table 3). The
+nomenclature used for xenograft passaged tumours was X (ﬁrst
+generation), X1 (second generation) and X2 (third generation),
+corresponding to serial passaging in vivo. A sequencing library
+targeting 212 amplicons in 48 genes was generated using the
+Illumina TruSeq Amplicon—Cancer Panel. BRAF mutations, either
+V600E or V600K, identiﬁed by standard clinical testing using
+parafﬁn-embedded patient tumour tissue (Supplementary Table 2),
+was conﬁrmed in the fresh patient tumour and the corresponding
+ﬁrst generation PDX (Fig. 1a; Supplementary Table 3), and
+identiﬁed in all subsequent generations of PDXs (Fig. 1b;
+Supplementary Table 3). In agreement with previously published
+melanoma Cancer Genome Atlas Network data,2 melanoma
+tumour tissues from the patients and their corresponding PDXs
+contained NRAS, PTEN, KIT, KDR and TP53 mutations. It should be
+noted that NF1, a common DNA mutation in melanoma,2 is not
+included in the standard Illumina panel and was therefore not
+evaluated.
+The most striking ﬁnding was that an increase in VAF resulted in
+an increase in stability of speciﬁc mutations across the patient
+tumour, corresponding PDX (Fig. 1a; Supplementary Table 3), and
+subsequent generations of PDXs (Fig. 1b; Supplementary Table 3).
+Total concordance15 in patient tumour and ﬁrst-generation PDX
+was 48% for VAF ≥10 and 88% for VAF ≥25% (Supplementary
+Table 3, Supplementary Methods). For ﬁrst-generation PDXs versus
+second-generation PDXs, the total concordance was 91% for
+300 300X
+313 313X
+314 314X
+325 325X
+334 334X
+354 354X1
+358 358X
+300X 300X1
+302X 302X1
+313X 313X1
+314X 314X1
+325X 325X1
+334X 334X1
+337X 337X1
+APC
+ABL1
+ATM
+BRAF
+CTNNB1
+ERBB4
+FBXW7
+FGFR3
+FLT3
+GNA11
+GNAQ
+HNF1A
+KDR
+KIT
+MET
+NPM1
+NRAS
+PTEN
+RB1
+SMAD4
+SMARCB1
+STK11
+TP53
+ABL1
+APC
+ATM
+BRAF
+CTNNB1
+EGFR
+ERBB4
+FBXW7
+FGFR3
+GNA11
+GNAQ
+HNF1A
+KDR
+KIT
+NRAS
+PTEN
+RB1
+SMARCB1
+TP53
+a
+b
+Fig. 1
+Comparison of SNV and insertion/deletion (ins/del) variants of DNA mutational hotspots from patient tumour and ﬁrst- and
+second-generation PDX derivatives. a Patient tumour and corresponding ﬁrst-generation (X) PDX, and b X and second-generation (X1) PDX
+generations were compared. The matched pairs are grouped using coloured columns, for example, MM300 with MM300X (light grey).
+The mutations identiﬁed are listed by row (far left column). Red indicates an allele frequency (AF) 5–24%. Black indicates an AF ≥25%.
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+650
+VAF ≥10 and 95% for VAF ≥25%. Our data demonstrate that PDXs
+harbour somatic mutations in cancer-driving genes observed
+in melanoma in accordance with TCGA data. Furthermore, the
+concordance of somatic mutations across patient tumour and
+matched PDXs, and additional PDX generations, increases as VAF
+increases. The ﬁdelity of cancer-driving genes across human and
+PDX samples would suggest the conservation of responses to
+antitumor agents across derivatives.
+Evaluation of PDXC response to antitumor agents using HTDS
+Thirty-four antitumor agents were evaluated across eight meta-
+static melanoma PDXCs. These eight BRAF-mutant metastatic
+melanoma models were chosen for the remainder of the study,
+because they produced the most consistent tumour growth in
+mice and PDXC yield amendable to HTDS. Melanoma cells were
+cultured as three-dimensional tumourspheres in 384-well plates,
+treated with drugs for 3 days and assessed for cell viability (Fig. 2a;
+Supplementary Table 4). Since a precision medicine platform
+was being developed, we chose our maximum concentration
+in the assay to correspond to the maximum plasma concentration
+(Cmax) at the highest single dose recommended based on
+clinical trials when the information was available, and when the
+drug was not limited by solubility (see the Methods section).
+We developed a drug score based on calculating the area under
+the dose–response curve (AUC) with corresponding conﬁdence
+intervals (CI). As cell viability/proliferation is decreased, the AUC
+is reduced.11,12 For ease of evaluation, we used a standard
+normalisation equation to create a scoring scale similar to a typical
+grading scale. We transformed the AUC value to equal a
+value between 0 and 100, where 0 is no effect and 100 represents
+killing of all the cells. Drugs that stimulate cell growth produce a
+score < 0.
+As an example, responses to a BRAF inhibitor (vemurafenib),
+MEK inhibitor (cobimetinib) or the combination of both in
+MM358X are shown (Fig. 2b–d). MM358X is derived from a
+patient harbouring a BRAF-mutant melanoma that progressed
+on BRAF and MEK inhibitors. The PDXC showed resistance
+to inhibition by treatment with vemurafenib, cobimetinib and
+–20.00
+BRAF
+id
+id
+125
+100
+75
+50
+Viability
+25
+0
+125
+100
+75
+50
+Viability
+25
+0
+–10
+–9
+–8
+–7
+–6
+–5
+–8
+–7
+–6
+log [Concentration], M
+log [Concentration], M
+Cobimetinib
+125
+100
+75
+50
+Viability
+25
+0
+–8
+–7
+–6
+–5
+–4
+log [Concentration], M
+Vemurafenib + Cobimetinib
+125
+100
+75
+50
+Viability
+25
+0
+–8
+–7
+–6
+–5
+–4
+log [Concentration], M
+Vemurafenib + Cobimetinib
+125
+100
+75
+50
+Viability
+25
+0
+–10
+–9
+–8
+–7
+–6
+–5
+log [Concentration], M
+Cobimetinib
+Vemurafenib
+–5
+–4
+125
+100
+75
+50
+Viability
+25
+0
+–8
+–7
+–6
+log [Concentration], M
+Vemurafenib
+–5
+–4
+Vemurafenib + Cobimetinib
+Dabrafenib
+Vemurafenib
+Trametinib
+Cobimetinib
+Crizotinib
+Tivantinib
+Dasatinib
+Bosutinib
+Erlotinib
+Lapatinib
+Axitinib
+Regorafenib
+Sunitinib
+Imatinib
+Linsitinib
+LY2228820
+Dacomitinib
+Temsirolimus
+Buparlisib
+Everolimus
+Ipatasertib
+MK2206
+Sapanisertib
+PX866
+Palbociclib
+Dinaciclib
+Doxorubicin
+Vismodegib
+Ganetespib
+Olaparib
+Veliparib
+Semagacestat
+Tozasertib
+Vorinostat
+MM321X2
+MM337X1
+MM314X1
+MM334X1
+MM325X
+MM313X
+MM302X
+MM358X
+ALK
+MET
+ABL
+EGFR
+VEGFR
+PDGFR
+IGF1R
+P38 MAPK
+ERBB2
+PI3K
+mTOR
+AKT
+CDK
+ALK
+Hedgehog
+HSP90
+PARP
+Gamma-secreatase
+Aurora kinase
+HDAC
+BRAF + MEK
+MEK
+100.00
+a
+b
+c
+d
+e
+f
+g
+SRC
+Fig. 2
+HTDS in eight BRAF-mutant melanoma PDXCs. a Hierarchical clustering of effects of single agent and vemurafenib + cobimetinib
+combination on melanoma cell viability/proliferation of eight PDXCs. Drug score of 0 equals no effect and 100 represents killing all the cells.
+Drugs that stimulate cell growth produce a score < 0. Darkest red of the heatmap indicates greatest inhibition of cell viability/proliferation and
+white equals no response. Drugs (right) were arranged based on the primary drug target (left). b–d Response of MM358X from a patient that
+progressed on BRAF and MEK inhibitors. e, f Response of MM314X from a patient not previously treated with BRAF and MEK inhibitors. Error
+bars are SD of n = 3 replicates.
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+651
+vemurafenib + cobimetinib. In addition, responses to vemurafe-
+nib, cobimetinib or the combination of both in MM314X are
+shown (Fig. 2e–g). MM314X is derived from a patient harbouring a
+BRAF-mutant
+melanoma
+not
+previously
+treated
+with
+BRAF
+and MEK inhibitors. The PDXC showed a marked response
+to vemurafenib, cobimetinib and vemurafenib + cobimetinib.
+Of the four patients that progressed on BRAF inhibitor therapy
+(MM321, MM337, MM302 and MM358), all PDXCs demonstrated
+resistance to vemurafenib in HTDS (Fig. 2a), when compared with
+the three previously untreated BRAF-mutant melanoma lines
+(MM313, MM314 and MM325) (Fig. 2a). The clinical history of
+MM334 is discussed in detail later as a case study. In addition to
+the previously described BRAF and MEK inhibitor responses,
+multiple tumours exhibited notable sensitivities to dinaciclib (CDK
+inhibitor),
+doxorubicin
+(DNA
+synthesis
+inhibitor),
+vorinostat
+(histone deacetylase inhibitor) and ganetespib (heat shock protein
+90 inhibitor) (Fig. 2a). Overall, PDXCs recapitulate the resistance to
+BRAF and MEK inhibitor therapy observed in the patient, and
+PDXCs from treatment-naive BRAF-mutant melanoma patients
+showed a marked response to BRAF and MEK inhibitor therapy.
+The HTDS also identiﬁed notable sensitivities to additional
+antitumor agents that are FDA approved or in clinical trials,
+including dinaciclib, vorinostat, ganetespib and doxorubicin.
+To determine whether drug response across derivatives was
+conserved, we evaluated drug sensitivities across various culture
+passages. We found a very high correlation between drug
+response using the same PDXC in different assays carried out
+within the same run, even when the plated cell number varied
+(Supplementary Fig. 3A, B). We also found a high correlation for
+drug
+sensitivities
+between
+different
+generations
+of
+PDXCs
+(Supplementary Fig. 3C–E) and between a PDC and corresponding
+PDXC (Supplementary Fig. 3F). We next aimed to determine
+whether the drug response between PDXCs and corresponding
+PDXs was conserved.
+Response of PDXCs to BRAF and MEK inhibition correlates with
+response observed in PDX models
+A few studies have suggested that highly robust targeted therapy
+drug responses observed in a PDXC can translate to some
+measure of response in a PDX.9,10 However, to date, no studies
+have demonstrated a statistical correlation between the magni-
+tudes of targeted therapy drug response in HTDS utilising PDXC,
+when compared with the response in vivo in the corresponding
+PDX. We therefore investigated the correlation between the
+response to the BRAF inhibitor vemurafenib, the MEK inhibitor
+cobimetinib or the combination of both drugs, across eight PDXCs
+and corresponding PDX models (Fig. 3). Previously, a 1 × 1 × 1
+model (one mouse, harbouring a single unique PDX, receiving
+one treatment condition) had been recommended to evaluate
+population responses of drug treatments across multiple PDXs.14
+The responses can then be evaluated using modiﬁed RECIST
+criteria similar to that used in the clinic. This was expected to
+600
+150
+1500
+Vehicle
+Vemurafenib
+Vemurafenib +
+cobimetinib
+Cobimetinib
+Change in tumour
+volume (%)
+1000
+500
+0
+0
+5
+10
+15
+Days
+20
+25
+30
+100
+50
+0
+Change in tumour
+volume (%)
+–50
+–100
+0
+MM337X1
+MM321X1
+5
+Days
+10
+15
+25
+20
+400
+200
+Change in tumour
+volume (%)
+0
+0
+5
+10
+15
+Days
+MM358X1
+20
+25
+30
+0
+0
+200
+400
+600
+Change in tumour
+volume (%)
+800
+1000
+1200
+–100
+0
+100
+200
+Change in tumour
+volume (%)
+300
+400
+500
+0
+–100
+0
+5
+10
+15
+Days
+20
+25
+30
+0
+5
+10
+15
+Days
+20
+25
+30
+100
+200
+300
+Change in tumour
+volume (%)
+400
+500
+600
+–100
+0
+100
+200
+Change in tumour
+volume (%)
+300
+400
+500
+5
+10
+15
+Days
+MM302X
+MM334X
+MM313X
+MM314X
+20
+25
+30
+0
+5
+10
+15
+Days
+20
+25
+30
+0
+250
+Change in tumour
+volume (%)
+500
+750
+1000
+MM325X
+0
+5
+10
+15
+Days
+20
+25
+30
+Fig. 3
+Treatment of multiple melanoma PDXs with vemurafenib, cobimetinib and vemurafenib + cobimetinib. Tumours from MM358X1,
+MM337X1, MM321X1, MM302X, MM313X, MM314X, MM334X and MM325X were generated in NSG mice (2–4 per group) by subcutaneous
+injection of 0.5 × 106 cells. Animals with established tumours (average volume of 100 mm3) were randomised and treated with i.p. injections of
+vehicle, vemurafenib (20 mg/kg), cobimetinib (5 mg/kg) or the combination of vemurafenib (20 mg/kg) + cobimetinib (5 mg/kg) daily 5 days a
+week for an average of 3 weeks. Tumour volume (mm3) was calculated, and data were expressed as percent change in tumour volume. Error
+bars are SEM.
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+652
+improve comparison of drug efﬁcacy results between a PDX and
+the patient from which the PDX was derived. We found that
+implantation of a single tumour in a mouse for a single condition
+leads to unacceptable variation for analysis. Therefore, each
+group in our studies consisted of the average response from at
+least 2–4 mice. Modiﬁed RECIST criteria were used to evaluate
+the response.14 In all treatment groups, there was a signiﬁcant
+correlation between the magnitude of drug response observed in
+the PDXC and corresponding PDX: vemurafenib (Fig. 4a), p = 0.98
+(p-value = 0.03e−03); cobimetinib (Fig. 4b), p = 0.92 (p-value =
+1.11e−03); and vemurafenib + cobimetinib (Fig. 4c), p = 0.91
+(p-value = 2.01e−03). Therefore, using BRAF and MEK inhibitors,
+both individually and in combination, we found a high correlation
+between the drug response in PDXCs and corresponding PDXs.
+Patterns of response to BRAF and MEK inhibitors following in vivo
+development of drug resistance
+We next explored the biological consistency of response to
+targeted therapy between PDX and corresponding PDXC models
+in an in vivo model of drug resistance. We selected melanoma
+MM334X, a PDX that originally demonstrated a signiﬁcant
+response to BRAF and MEK therapy in vivo. Patient MM334 was
+originally treated with BRAF + MEK therapy and had a dramatic
+and durable response after multiple cycles of therapy (Fig. 5a
+upper panels; Supplementary Fig. 4), resulting in treatment
+discontinuation. Seven months later, the patient progressed, with
+metastatic disease also involving the brain. The brain metastasis
+was resected and processed for PDX generation. Over the course
+of the next 3 years, the patient was treated with multiple rounds
+of stereotactic radiosurgery and a short course of immunotherapy.
+The detailed patient history timeline is presented in Supplemen-
+tary Fig. 4. When the tumour recurred again in the brain and
+progression was not halted with radiation or immunotherapy, the
+patient was again treated with BRAF + MEK inhibitors, and a
+response to therapy was observed (Fig. 5a lower panels).
+We subsequently created a PDX model of targeted therapy
+resistance using MM334 in multiple individual mice by sequential
+on/off dosing with vemurafenib + cobimetinib (Fig. 5b). We aimed
+to assess the biological consistency in responses observed to
+targeted drugs across different mice harbouring the same initial
+tumour. Initially, PDXs derived from MM334X showed a robust
+response to BRAF and MEK therapy (Fig. 5b). After three treatment
+rounds, all tumours became resistant to the combination of
+vemurafenib + cobimetinib (Fig. 5b). We removed the PDX from
+two individual mice (R1 and R2) and performed HTDS on each of
+the corresponding PDXCs. HTDS revealed reductions in potency
+and efﬁcacy for the single agents and drug combination in
+comparison with the original PDX (Fig. 5c–e). Based on the
+pharmacological screen, the PDXC derived from each individual
+tumour showed an identical reduction in response to drug
+treatment. These data demonstrate that prolonged treatment of
+individual mice bearing the same PDX with BRAF and MEK
+inhibitor therapy leads to an identical reduction in drug response.
+In addition, the reduction in drug response was consistently
+observed in the corresponding culture models (PDXC).
+HTDS of BRAF inhibitor-resistant melanoma identiﬁes novel
+targetable drug combinations
+The
+ﬁdelity
+of
+cancer-driving
+mutations,
+pharmacological
+response and development of resistance observed between
+PDXCs and PDXs suggests that PDXCs alone may constitute a
+suitable precision medicine platform for discovering novel drug
+combinations to target BRAF inhibitor-
+resistant metastatic
+melanoma. Since PDXCs are an expandable resource, we ran an
+extensive HTDS on the BRAF inhibitor- and immune therapy-
+resistant PDXC MM302X in order to discover novel combinations
+of drugs to overcome BRAF-inhibitor resistance. MM302 was
+derived from a patient that was initially placed on BRAF + MEK-
+targeted therapy, but had an adverse reaction to the MEK
+inhibitor; therefore, the patient continued treatment on BRAF
+inhibitor alone until the tumour progressed. The patient was also
+treated with immunotherapy and also progressed. MM302X cells
+were treated with a full concentration response curve of 29 drugs,
+or the full concentration response curve of the drugs combined
+with a single concentration of vemurafenib (5 μM, 10% Cmax)
+(Fig. 6a). Responses in the presence or absence of vemurafenib
+were
+compared
+statistically
+using
+AUC
+and
+corresponding
+conﬁdence limits (see the Methods section). The top ten drug
+combinations that performed better than single agents included
+two agents targeting microtubules (paclitaxel and lexibulin), three
+drugs that targeted mTOR or PI3K/mTOR (everolimus, apitolisib
+and sapanisertib), and drugs inhibiting IGF1R (BMS754807), HDAC
+(vorinostat), MET (tivantinib), RTK (dovitinib) and PKC (midos-
+taurin) (Fig. 6a; Supplementary Table 5). We further analysed the
+compounds for drug interactions using the combination index (CI)
+(Fig. 6b). All the inhibitors demonstrated multiple synergistic
+interactions (below dash line) across multiple concentration
+ranges, with some additive (CI = 1) and antagonistic (above dash
+line) interactions observed; the latter is expected when testing a
+range of concentrations when combining two drugs.16 The top ten
+drug combinations were tested again in two additional BRAF
+inhibitor-resistant PDXCs, MM358X (Supplementary Fig. 5A, C;
+Supplementary Table 5) and MM337X (Supplementary Fig. 5B, D;
+Supplementary Table 5). With the exception of midostaurin, in
+MM358X the drug combinations were also more active than the
+drugs alone. However, the majority of synergistic interactions were
+8
+Spearman  = 0.976
+p-value = 3.31e – 05
+7
+6
+5
+4
+Response in PDX
+3
+2
+1
+2
+4
+Drug score
+6
+8
+8
+Spearman  = 0.922
+p-value = 0.00111
+7
+6
+5
+4
+Response in PDX
+3
+2
+1
+2
+4
+Drug score
+6
+8
+8
+Spearman  = 0.905
+p-value = 0.00201
+7
+6
+5
+4
+Response in PDX
+3
+2
+1
+2
+4
+Drug score
+6
+8
+a
+b
+c
+Fig. 4
+Correlation of drug response between patient-derived derivatives. Eight matched PDXCs and PDXs (MM358X1, MM337X1,
+MM321X1, MM302X, MM313X, MM314X, MM334X and MM325X) were treated with (a) vemurafenib, (b) cobimetinib or (c) vemurafenib +
+cobimetinib. A Spearman correlation analysis was performed comparing the response in PDXs to the drug score obtained in HTDS.
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+653
+observed only when inhibition of cell viability/proliferation
+exceeded 50% (fraction affected) (Supplementary Fig. 5C). In
+comparison to MM302X and MM358X, MM337X was more
+resistant to single drug activity and drug combinations (Supple-
+mentary Fig. 5B, D; Supplementary Table 5).
+Multiple drugs targeting the mTOR or PI3K/mTOR pathway
+show synergetic interactions when combined with vemurafenib.
+As a result, we chose the combination of vemurafenib + apitolisib
+to validate drug response in vivo (Fig. 6c). Apitolisib is a dual PI3K/
+mTOR inhibitor.17,18 Vemurafenib + apitolisib demonstrated low CI
+scores across multiple concentrations in MM302X. Mice-bearing
+tumours derived from MM302X were treated with vehicle,
+vemurafenib, apitolisib or vemurafenib + apitolisib. As expected,
+the MM302X-derived tumours were resistant to vemurafenib
+alone. While apitolisib alone produced some initial antitumor
+activity, the tumour became resistant over time. The combination
+of vemurafenib + apitolisib produced a robust and sustained
+inhibition of tumour growth. These data demonstrate the utility of
+using the HTDS platform and PDXCs to discover multiple novel
+drug combinations to overcome BRAF-inhibitor resistance in
+BRAF-mutant melanoma.
+DISCUSSION
+In the development of effective personalised therapy platforms for
+cancer patients, PDX models have become the preferred preclinical
+model both in academic research and in industry.4,6,19–22 A major
+drawback of PDX technology is the time and cost to test the
+inhibitory activity of multiple single-drug therapies, and combina-
+tion therapies. It is therefore important to determine whether the
+response to speciﬁc targeted therapies in derivatives of PDXs, such
+as PDXCs, show a direct correlation to the response observed
+in vivo. If they do, PDXCs used in HTDS format represent a high
+speed and lower cost opportunity to study single agent and drug
+combination therapy.
+Past studies have shown that a robust single agent or
+combination therapy drug response in culture (PDXCs) led to
+some measure of inhibitory activity in vivo in the corresponding
+PDXs.9,20 However, we are not aware of any published studies to
+date that determined whether there is a direct statistical
+correlation in the magnitude of drug responses, at all response
+levels, when single and combination therapies are compared
+across multiple PDXCs and corresponding PDXs.
+To answer this question, we ﬁrst developed a PDX library of
+BRAF-mutant metastatic melanoma and observed a correlation
+between VAF and increased stability of driver mutations across the
+patient tumour, corresponding PDX and subsequent generations
+of PDXs for multiple genes (e.g., BRAF, KDR, TP53 and PTEN).
+A recent pan-cancer analysis has shown that high somatic VAF in
+tumours is associated with cancer-driving genes.22
+Using HTDS, we next evaluated the response of eight metastatic
+melanoma PDXCs to 34 antitumor agents that are either FDA
+approved or in clinical trials. As part of our HTDS platform, we
+incorporated the use of three-dimensional tumourspheres (PDXC)
+Initial treatment (2014)
+Additional treatment (2018)
+8 months
+3 months
+1500
+MM334X R1
+MM334X R2
+Tumour volume (mm3)
+1000
+500
+0
+0
+2
+4
+6
+Week
+8
+10
+12
+100
+Vem MM334X1
+Vem MM334X1R1
+Vem MM334X1R2
+25
+0
+–8
+–7
+–6
+log [Concentration], M
+–5
+–4
+75
+50
+Viability
+100
+Cob MM334X1
+Cob MM334X1R1
+Cob MM334X1R2
+25
+0
+–8
+–7
+–6
+log [Concentration], M
+–5
+–4
+75
+50
+Viability
+100
+Cob + Vem MM334X1
+Cob + Vem MM334X1R1
+Cob + Vem MM334X1R2
+25
+0
+–8
+–7
+–6
+log [Concentration], M
+–5
+–4
+75
+50
+Viability
+a
+b
+c
+d
+e
+Fig. 5
+Biological consistency of producing targeted therapy responses in PDXs. a Upper left, CT scan of patient MM334 presenting with a
+metastatic melanoma to the right inguinal lymph node (yellow arrow). Upper right, remission of tumour after treatment with BRAF and MEK
+inhibitors (yellow arrow). Lower left, recurrence of the melanoma in the left subclavicular lymph node. Lower right, tumour persisting after
+BRAF and MEK inhibitor treatment. b Resistance training of two MM334 PDX tumours. Horizontal arrows indicate periods of treatment with
+BRAF and MEK inhibitors. HTDS response to (c) vemurafenib, (d) cobimetinib and (e) cobimetinib + vemurafenib in pre- (solid line) and post-
+resistance (dashed lines) MM334 PDXC. (*) indicates statistically signiﬁcant differences between resistant and control groups (p < 0.05).
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+654
+and clinically relevant drug exposures. The tumourspheres better
+approximate drug penetrance levels in a three-dimensional
+tumour. Setting the highest drug concentration used in HTDS to
+the approximate Cmax reported in published clinical trials was
+expected to improve clinical translation and reduce false positive
+rates.23 The combination of using tumourspheres and relevant
+drug exposures was also expected to translate to improved
+correlation between responses in culture and in vivo. In addition
+to evaluation of response to BRAF and MEK inhibitors, HTDS
+identiﬁed notable sensitivities to single agent dinaciclib, vorino-
+stat, ganetespib and doxorubicin across multiple BRAF-mutant
+metastatic melanoma PDXCs. Dinaciclib is an inhibitor of CDK1/2/
+5/9, and has demonstrated clinical activity in multiple myeloma.24
+It has been shown to produce tumour regression in human
+melanoma xenografts.25 Vorinostat is a histone deacetylase
+(HDAC) inhibitor that has demonstrated antitumor activity in
+patients with cancer.26 HDAC therapy alone or in combination
+with BRAF and/or MEK inhibitors has been suggested as a
+treatment for BRAF-mutant melanoma through multiple different
+mechanisms.27–29 Ganetespib is a heat shock protein 90 (HSP90)
+inhibitor30 and has demonstrated antitumor activity in a variety of
+cancer types, and is currently being evaluated in multiple clinical
+trials.31 Ganetespib has been shown to inhibit survival of
+melanoma with acquired resistance to BRAF inhibition through
+multiple pathways, including inhibition of extracellular signal-
+regulated kinase (ERK) signalling.32,33 Doxorubicin is a classical
+chemotherapy agent that works in part through interfering with
+DNA synthesis, and used for a variety of cancers, though not
+commonly used to treat melanoma. A phase II clinical trial in 30
+melanoma patients utilised a pegylated liposomal form of the
+drug to decrease toxicity and identiﬁed a subpopulation of
+responders without a signiﬁcant improvement in survival.34 A goal
+of the PDXCs, PDXs and other precision medicine preclinical
+models is to provide a preclinical assessment of patient response
+–20.00
+id
+100.00
+–20.00
+id
+100.00
+Dabrafenib
+Linsitinib
+MK2206
+Afatinib
+Apitolisib
+Buparlisib
+Dovitinib
+Dovitinib
+Vehicle
+Vemurafenib
+Apitolisib
+Vemurafenib + Apitolisib
+Temsirolimus
+AZD7762
+Lapatinib
+Erlotinib
+Cilengitide
+Cabozantinib
+Mebendazole
+Vemurafenib
+Vemurafenib + BMS754807
+Vemurafenib + Paclitaxel
+Vemurafenib + Lexibulin
+Vemurafenib + Vorinostat
+Vemurafenib + Tivantinib
+Vemurafenib + Midostaurin
+Vemurafenib + Sapanisertib
+Vemurafenib + Gedatolisib
+Vemurafenib + Apitolisib
+Vemurafenib + Dovitinib
+AZD4547
+Imatinib
+Trametinib
+Paclitaxel
+Paclitaxel
+Ganetespib
+4
+3
+2
+Combination index
+1
+0
+0.3
+1250
+MM302X
+MM302X
+1000
+750
+500
+Tumour volume (mm3)
+250
+0
+0
+5
+10
+15
+Days
+20
+25
+30
+0.4
+0.5
+0.6
+0.7
+Fraction affected (Fa)
+0.8
+0.9
+1.0
+BMS754807
+BMS754807
+Cobimetinib
+Lexibulin
+Lexibulin
+Sapanisertib
+Sapanisertib
+Gedatolisib
+Gedatolisib
+Vorinostat
+Vorinostat
+Midostaurin
+Midostaurin
+Crizotinib
+Tivantinib
+Tivantinib
+Apitolisib
+a
+b
+c
+Fig. 6
+Identiﬁcation of multiple drug combinations that inhibit the growth of BRAF inhibitor-resistant melanoma. a Response of single
+agent or drug combinations on melanoma cell viability/proliferation in MM302X PDXCs. Drug score of 0 equals no effect and 100 represents
+killing all the cells. Drugs that stimulate cell growth produce a score < 0. Darkest red of the heatmap indicates greatest inhibition of cell
+viability/proliferation, and white equals no response. b CI values (range 0–4) for drug combinations in MM302X PDXCs. A CI value of < 1, 1 and
+> 1 indicates synergism, additivity and antagonism, respectively. c Tumours from MM302X were generated in NSG mice (6–12 per group) by
+subcutaneous injection of 0.5 × 106 cells. Animals with established tumours (average volume of 100 mm3) were randomised and treated with i.
+p. injections of vehicle, vemurafenib (20 mg/kg), apitolisib (5 mg/kg) or the combination of vemurafenib (20 mg/kg) + apitolisib (5 mg/kg)
+daily 5 days a week for 4 weeks. Tumour volume (mm3) was calculated, and data was expressed as % change in tumour volume. Error bars are
+SEM. * and # indicates statistically signiﬁcant differences between vehicle and vemurafenib + apitolisib, or apitolisib and vemurafenib +
+apitolisib, respectively (p < 0.05).
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+655
+to
+speciﬁc
+drugs
+and
+reﬁne
+clinical
+trials
+by
+identifying
+relevant “responder” patient populations as well as to develop
+biomarkers of therapeutic response35 and discover mechanisms of
+resistance.36
+In the HTDS, PDXCs derived from patients harbouring a BRAF-
+mutant melanoma that progressed on BRAF and MEK inhibitors
+showed resistance to these treatments, whereas PDXCs derived
+from treatment-naive patients showed a marked response to
+these treatments. Similar results were found in vivo. This
+demonstrates a signiﬁcant correlation between drug response in
+PDXCs, PDXs and patients. We also compared drug response in
+eight metastatic melanoma PDXCs and corresponding PDXs
+treated with vemurafenib, cobimetinib and vemurafenib + cobi-
+metinib, and found a strong correlation between all levels of drug
+responses measured between PDXC and the corresponding PDX.
+The biological consistency between PDXCs and PDXs was also
+evaluated in the context of in vivo development of resistance to
+BRAF + MEK inhibitor therapy. Tumours derived from the same
+initial PDX were treated with vemurafenib + cobimetinib for
+multiple cycles until the tumour progressed on therapy. Based
+on the pharmacological screen, each individual tumour showed
+identical resistance to the treatments, demonstrating the biologi-
+cal consistency of the models.
+A recent investigation provided evidence that particular copy-
+number
+alterations
+(CNAs)
+acquired
+during
+PDX
+passaging
+differed from those acquired during tumour evolution in patients,
+and that CNAs for cancer cell lines and PDXs were similar.37
+Furthermore, the data suggested that model-acquired CNAs
+predominantly result from clonal dynamics, rather than from
+genomic instability. The authors cautioned that genetic drift is an
+inevitable part of cancer progression and can differ depending on
+the speciﬁc microenvironment, namely the patient microenviron-
+ment versus the mouse. While all preclinical models have speciﬁc
+weaknesses, numerous studies utilising PDX models,6–8 including
+the Izumchenko et al.4 study, show a high correlation rate
+between PDXs and patient response; therefore, expansion in the
+mouse microenvironment still results in tumours with signiﬁcant
+utility for precision medicine platforms.
+Given
+the
+high
+correlation
+between
+responses
+observed
+between PDXs and patients,4 and high correlation of drug
+response between PDXCs and PDXs, for speciﬁc drugs PDXCs
+may prove useful to predict responses in patients. Pharmacoge-
+nomic evaluation of PDXC has also shown that these derivatives
+recapitulate known mechanisms of both drug sensitivity and
+resistance.10 A recent investigation demonstrated that drug
+response in patient-derived tumour cells (PDCs) predict the
+response of the patient’s tumour retrospectively for speciﬁc
+drugs.38 While this investigation did not evaluate responses in
+melanoma,
+it
+does
+demonstrate
+the
+feasibility
+of
+making
+treatment predictions using PDCs. In this study38 and in a large-
+scale analysis of PDC derived from haematological malignancies,39
+investigators
+demonstrated
+that
+pharmacogenomic
+analysis
+allowed for the identiﬁcation of novel treatments and markers
+of drug sensitivity. The major drawback with PDC is the initial
+tumour is often too small to create enough viable PDCs for
+screening, and extensive drug combination studies are generally
+not feasible. Importantly, without creating a renewal resource,
+namely PDXs and PDXCs, one cannot guarantee opportunity for
+future investigations.
+As a result of the biologically consistency between PDXCs and
+corresponding PDXs, we used the HTDS platform and PDXCs to
+discover multiple novel combinations of drugs to overcome BRAF-
+inhibitor resistance. Across three BRAF inhibitor-resistant PDXCs,
+pathways identiﬁed as therapeutic targets when combined with
+BRAF inhibition included PI3K/mTOR, microtubules, HDAC, MET
+and RTK. Notably, the IGF1R inhibitor BMS754807 in combination
+with BRAF inhibition produced a robust inhibitory response in two
+of the three BRAF-resistant PDXCs. We validated responses
+observed in a PDXC in a corresponding PDX by evaluating
+apitolisib in combination with vemurafenib. As predicted by HTDS,
+the combination of vemurafenib and apitolisib produced a robust
+and sustained inhibition of tumour growth in vivo. In agreement
+with our ﬁndings with BRAF inhibitor-resistant melanoma, it
+has been shown using BRAF/MEK-resistant melanoma PDX and
+next-generation sequencing that the MAPK pathway activation
+represents a common mechanism of resistance to BRAF/MEK
+therapy.40 Inhibition of MET, RTK and IGF1R can each impact
+MAPK
+signalling
+at
+various
+levels,
+although
+the
+upstream
+inhibition of MAPK through IGF1R appears to be more efﬁcient,
+at least in two of the three BRAF inhibitor-resistant PDXCs. Finally,
+in BRAF inhibitor-sensitive cell lines, targeting HDAC has been
+shown to enhance efﬁcacy of BRAF inhibitors through production
+of DNA damage.27 Our data, using a PDX/PDXC platform, suggest
+the potential utility of this drug combination in the resistance
+setting.
+In summary, utilising a HTDS platform, we found a direct
+correlation between magnitude of drug response in short-term
+PDXCs and corresponding PDX models for BRAF, MEK and BRAF +
+MEK inhibitor. We also identify multiple novel drug combinations
+that may overcome BRAF inhibitor-resistance in melanoma.
+Melanoma has a high mutational burden, and a signiﬁcant
+proportion of melanomas adapt to current therapies and progress,
+at which point (combinatorial) targeted therapies are likely a next
+option. Our ﬁndings also underscore the potential usefulness of
+this platform to discover additional novel combination therapies
+in other treatment-resistant cancer
+populations/cohorts. Our
+results provide a framework for identifying and validating drugs
+that have a high correlation of response between PDXCs and
+PDXs. In addition, biological consistency is observed when
+developing models of BRAF + MEK inhibitor-resistance from PDXs.
+Systematically identifying antitumor agent responses that corre-
+late between PDXCs and PDXs could support precision medicine
+approaches for cancer patients by providing a high-speed and
+low-cost opportunity to study the activity of multiple single agents
+and drug combinations. The latter is particularly important
+because aggressive tumours often do not respond to single-
+agent therapy.
+ACKNOWLEDGEMENTS
+The authors would like to thank the Research and Education Leadership Committee
+of the CPMC Foundation for their support of the Cancer Avatar Project.
+AUTHOR CONTRIBUTIONS
+S.D.M. and R.J.I. wrote the paper and conceived experiments. S.D.M., R.J.I., M.K.-S., L.S.,
+P.Y.D. and M.N. supervised the project, assisted in experimental design and
+interpretation of the data. M.C., T.L., D.J. and P.Y.D. performed DNA extraction and
+MiSeq sequencing. R.J.I., M.C., M.S. and R.W.L. carried out in vivo experiments. A.N., T.
+H., A.O. and M.S. developed technology for the study, and performed additional
+experiments. S.C. and G.J.T. performed statistical and additional analyses. A.A.D., D.d.
+S. and A.R.-B. provided reagents for the project, assisted with the development of the
+model systems utilised, or interpreted data. K.B.K. and S.P.L. provided human tissue
+for the project and interpreted clinical data. H.K., A.K. and D.S. collected human tissue
+for the project, consented patients and provided clinical data. All authors assisted
+editing the paper. All authors approved the ﬁnal submitted paper.
+ADDITIONAL INFORMATION
+Ethics approval and consent to participate Patient tumour tissue was collected
+under a California Paciﬁc Medical Center Institutional Review Board research protocol
+in accordance with the Declaration of Helsinki. Informed consent was obtained from
+each patient in the study. In vivo studies were carried out in accordance with the
+National Institutes of Health guidelines, Health Research Extension Act of 1985 and
+the Public Health Service Policy on Humane Care and Use of Laboratory Animals
+(Policy), Ofﬁce of Laboratory Animal Welfare assurance, and an approved California
+Paciﬁc Medical Center Institutional Animal Care and Use Committee (IACUC) protocol.
+A completed ARRIVE guidelines checklist is included in Supplementary information.
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+656
+Consent to publish All patient data were de-identiﬁed for the study.
+Data availability The data that support the ﬁndings of this study are available from
+the corresponding author upon reasonable request.
+Competing interests The authors declare no competing interests.
+Funding information This research was funded through the Research and Education
+Leadership Committee of the CPMC Foundation.
+Supplementary information is available for this paper at https://doi.org/10.1038/
+s41416-019-0696-y.
+Note This work is published under the standard license to publish agreement. After
+12 months the work will become freely available and the license terms will switch to
+a Creative Commons Attribution 4.0 International (CC BY 4.0).
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional afﬁliations.
+REFERENCES
+1. Luke, J. J., Flaherty, K. T., Ribas, A. & Long, G. V. Targeted agents and
+immunotherapies: optimizing outcomes in melanoma. Nat. Rev. Clin. Oncol. 14,
+463 (2017).
+2. Cancer Genome Atlas, N. Genomic classiﬁcation of cutaneous melanoma. Cell
+161, 1681–1696 (2015).
+3. Keller, H. R., Zhang, X., Li, L., Schaider, H. & Wells, J. W. Overcoming resistance to
+targeted therapy with immunotherapy and combination therapy for metastatic
+melanoma. Oncotarget 8, 75675–75686 (2017).
+4. Izumchenko, E., Paz, K., Ciznadija, D., Sloma, I., Katz, A., Vasquez-Dunddel, D. et al.
+Patient-derived xenografts effectively capture responses to oncology therapy in a
+heterogeneous cohort of patients with solid tumors. Ann, Oncol. 28, 2595–2605
+(2017).
+5. Rosfjord, E., Lucas, J., Li, G. & Gerber, H. P. Advances in patient-derived tumor
+xenografts: from target identiﬁcation to predicting clinical response rates in
+oncology. Biochem. Pharmacol. 91, 135–143 (2014).
+6. Hidalgo, M., Amant, F., Biankin, A. V., Budinska, E., Byrne, A. T., Caldas, C. et al.
+Patient-derived xenograft models: an emerging platform for translational cancer
+research. Cancer Discov. 4, 998–1013 (2014).
+7. Oh, B. Y., Lee, W. Y., Jung, S., Hong, H. K., Nam, D. H., Park, Y. A. et al. Correlation
+between tumor engraftment in patient-derived xenograft models and clinical
+outcomes in colorectal cancer patients. Oncotarget 6, 16059–16068 (2015).
+8. Yu, J., Qin, B., Moyer, A. M., Sinnwell, J. P., Thompson, K. J., Copland, J. A. 3rd et al.
+Establishing and characterizing patient-derived xenografts using pre-chemotherapy
+percutaneous biopsy and post-chemotherapy surgical samples from a prospective
+neoadjuvant breast cancer study. Breast Cancer Res. 19, 130 (2017).
+9. Friedman, A. A., Xia, Y., Trippa, L., Le, L. P., Igras, V., Frederick, D. T. et al. Feasibility of
+ultra-high-throughput functional screening of melanoma biopsies for discovery of
+novel cancer drug combinations. Clin. Cancer Res. 23, 4680–4692 (2017).
+10. Bruna, A., Rueda, O. M., Greenwood, W., Batra, A. S., Callari, M., Batra, R. N. et al.
+A biobank of breast cancer explants with preserved intra-tumor heterogeneity to
+screen anticancer compounds. Cell 167, 260–274 (2016).
+11. Haverty, P. M., Lin, E., Tan, J., Yu, Y., Lam, B., Lianoglou, S. et al. Reproducible
+pharmacogenomic proﬁling of cancer cell line panels. Nature 533, 333–337
+(2016).
+12. Fallahi-Sichani, M., Honarnejad, S., Heiser, L. M., Gray, J. W. & Sorger, P. K. Metrics
+other than potency reveal systematic variation in responses to cancer drugs. Nat.
+Chem. Biol. 9, 708–714 (2013).
+13. Zuriani, M. & Yusof, Y. A comparison of normalization techniques in predicting
+dengue outbreak. in International Conference on Business and Economics Research
+Vol. 1, 345–349 (IACSIT Press, 2011). http://www.ipedr.com/vol1/74-G10007.pdf.
+14. Gao, H., Korn, J. M., Ferretti, S., Monahan, J. E., Wang, Y., Singh, M. et al. High-
+throughput screening using patient-derived tumor xenografts to predict clinical
+trial drug response. Nat. Med. 21, 1318–1325 (2015).
+15. Calapre, L., Giardina, T., Robinson, C., Reid, A. L., Al-Ogaili, Z., Pereira, M. R. et al.
+Locus-speciﬁc concordance of genomic alterations between tissue and plasma
+circulating tumor DNA (ctDNA) in metastatic melanoma. Mol. Oncol. 13, 171–184
+(2018).
+16. Chou, T. C. Theoretical basis, experimental design, and computerized simulation
+of synergism and antagonism in drug combination studies. Pharmacol. Rev. 58,
+621–681 (2006).
+17. Dolly, S. O., Wagner, A. J., Bendell, J. C., Kindler, H. L., Krug, L. M., Seiwert, T. Y. et al.
+Phase I study of apitolisib (GDC-0980), dual phosphatidylinositol-3-kinase and
+mammalian target of rapamycin kinase inhibitor, in patients with advanced solid
+tumors. Clin. Cancer Res. 22, 2874–2884 (2016).
+18. Makker, V., Recio, F. O., Ma, L., Matulonis, U. A., Lauchle, J. O., Parmar, H. et al. A
+multicenter, single-arm, open-label, phase 2 study of apitolisib (GDC-0980) for
+the treatment of recurrent or persistent endometrial carcinoma (MAGGIE study).
+Cancer 122, 3519–3528 (2016).
+19. Ireson, C. R., Alavijeh, M. S., Palmer, A. M., Fowler, E. R. & Jones, H. J. The role of
+mouse tumour models in the discovery and development of anticancer drugs.
+Br. J. Cancer 121, 101–108 (2019).
+20. Crystal, A. S., Shaw, A. T., Sequist, L. V., Friboulet, L., Niederst, M. J., Lockerman, E.
+L. et al. Patient-derived models of acquired resistance can identify effective drug
+combinations for cancer. Science 346, 1480–1486 (2014).
+21. Klinghammer, K., Raguse, J. D., Plath, T., Albers, A. E., Joehrens, K., Zakarneh, A.
+et al. A comprehensively characterized large panel of head and neck cancer
+patient-derived xenografts identiﬁes the mTOR inhibitor everolimus as potential
+new treatment option. Int. J. Cancer 136, 2940–2948 (2015).
+22. Spurr, L., Li, M., Alomran, N., Zhang, Q., Restrepo, P., Movassagh, M. et al. Sys-
+tematic pan-cancer analysis of somatic allele frequency. Sci. Rep. 8, 7735 (2018).
+23. Liston, D. R. & Davis, M. Clinically relevant concentrations of anticancer drugs: a
+guide for nonclinical studies. Clin. Cancer Res. 23, 3489–3498 (2017).
+24. Kumar, S. K., LaPlant, B., Chng, W. J., Zonder, J., Callander, N., Fonseca, R. et al.
+Dinaciclib, a novel CDK inhibitor, demonstrates encouraging single-agent activity
+in patients with relapsed multiple myeloma. Blood 125, 443–448 (2015).
+25. Desai, B. M., Villanueva, J., Nguyen, T. T., Lioni, M., Xiao, M., Kong, J. et al. The anti-
+melanoma activity of dinaciclib, a cyclin-dependent kinase inhibitor, is depen-
+dent on p53 signaling. PLoS ONE 8, e59588 (2013).
+26. Falkenberg, K. J. & Johnstone, R. W. Histone deacetylases and their inhibitors in
+cancer, neurological diseases and immune disorders. Nat. Rev. Drug Discov. 13,
+673–691 (2014).
+27. Maertens, O., Kuzmickas, R., Manchester, H. E., Emerson, C. E., Gavin, A. G., Guild,
+C. J. et al. MAPK pathway suppression unmasks latent DNA repair defects and
+confers a chemical synthetic vulnerability in BRAF-, NRAS-, and NF1-mutant
+melanomas. Cancer Discov. 9, 526–545 (2019).
+28. Wang, L., Leite de Oliveira, R., Huijberts, S., Bosdriesz, E., Pencheva, N., Brunen, D.
+et al. An acquired vulnerability of drug-resistant melanoma with therapeutic
+potential. Cell 173, 1413–1425 (2018).
+29. Yokoyama, S., Feige, E., Poling, L. L., Levy, C., Widlund, H. R., Khaled, M. et al.
+Pharmacologic suppression of MITF expression via HDAC inhibitors in the mel-
+anocyte lineage. Pigment Cell Melanoma Res. 21, 457–463 (2008).
+30. Schopf, F. H., Biebl, M. M. & Buchner, J. The HSP90 chaperone machinery. Nat. Rev.
+Mol. Cell Biol. 18, 345–360 (2017).
+31. Jhaveri, K. & Modi, S. Ganetespib: research and clinical development. Onco Tar-
+gets Ther. 8, 1849–1858 (2015).
+32. Wu, X., Marmarelis, M. E. & Hodi, F. S. Activity of the heat shock protein 90
+inhibitor ganetespib in melanoma. PLoS ONE 8, e56134 (2013).
+33. Acquaviva, J., Smith, D. L., Jimenez, J. P., Zhang, C., Sequeira, M., He, S. et al.
+Overcoming acquired BRAF inhibitor resistance in melanoma via targeted inhi-
+bition of Hsp90 with ganetespib. Mol. Cancer Ther. 13, 353–363 (2014).
+34. Fink, W., Zimpfer-Rechner, C., Thoelke, A., Figl, R., Kaatz, M., Ugurel, S. et al. Clinical
+phase II study of pegylated liposomal doxorubicin as second-line treatment in
+disseminated melanoma. Onkologie 27, 540–544 (2004).
+35. Bertotti, A., Papp, E., Jones, S., Adleff, V., Anagnostou, V., Lupo, B. et al. The
+genomic landscape of response to EGFR blockade in colorectal cancer. Nature
+526, 263–267 (2015).
+36. Kemper, K., Krijgsman, O., Kong, X., Cornelissen-Steijger, P., Shahrabi, A., Weeber,
+F. et al. BRAF(V600E) kinase domain duplication identiﬁed in therapy-refractory
+melanoma patient-derived xenografts. Cell Rep. 16, 263–277 (2016).
+37. Ben-David, U., Ha, G., Tseng, Y. Y., Greenwald, N. F., Oh, C., Shih, J. et al. Patient-
+derived xenografts undergo mouse-speciﬁc tumor evolution. Nat. Genet. 49,
+1567–1575 (2017).
+38. Lee, J. K., Liu, Z., Sa, J. K., Shin, S., Wang, J., Bordyuh, M. et al. Pharmacogenomic
+landscape of patient-derived tumor cells informs precision oncology therapy.
+Nat. Genet. 50, 1399–1411 (2018).
+39. Kurtz, S. E., Eide, C. A., Kaempf, A., Khanna, V., Savage, S. L., Rofelty, A. et al.
+Molecularly targeted drug combinations demonstrate selective effectiveness for
+myeloid- and lymphoid-derived hematologic malignancies. Proc. Natl Acad. Sci.
+USA 114, E7554–E7563 (2017).
+40. Krepler, C., Xiao, M., Sproesser, K., Brafford, P. A., Shannan, B., Beqiri, M. et al.
+Personalized preclinical trials in BRAF inhibitor-resistant patient-derived xeno-
+graft models identify second-line combination therapies. Clin. Cancer Res. 22,
+1592–1602 (2016).
+Drug responses are conserved across patient-derived xenograft models of. . .
+RJ Ice et al.
+657

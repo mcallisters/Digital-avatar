@@ -1,0 +1,730 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/8503871
+Amyotrophic lateral sclerosis: Delayed disease progression in mice by
+treatment with a cannabinoid
+Article  in  Amyotrophic Lateral Sclerosis and Other Motor Neuron Disorders · April 2004
+DOI: 10.1080/14660820310016813 · Source: PubMed
+CITATIONS
+139
+READS
+584
+6 authors, including:
+Chandrasekaran Raman
+Thermo Fisher Scientific, 46500 Kato Road, Fremont, CA
+15 PUBLICATIONS   1,411 CITATIONS   
+SEE PROFILE
+Don Mcallister
+50 PUBLICATIONS   3,288 CITATIONS   
+SEE PROFILE
+Mary E Abood
+Temple University
+150 PUBLICATIONS   11,018 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Mary E Abood on 20 May 2014.
+The user has requested enhancement of the downloaded file.
+Amyotrophic lateral sclerosis: delayed disease
+progression in mice by treatment with a
+cannabinoid
+Chandrasekaran Raman, Sean D McAllister, Gulrukh Rizvi, Sonal G Patel, Dan H Moore* and Mary E Abood
+Introduction
+Amyotrophic lateral sclerosis (ALS) is the third most common
+neurodegenerative cause of adult death, after Alzheimer’s
+disease and Parkinson’s disease.1 ALS results in the degenera-
+tion of motor neurons in the cortex, brainstem and spinal
+cord.1,2 Most causes of ALS are presently unknown and
+several mechanisms of insult to motor neurons have been
+suggested.3–5 Two of the primary theories underlying motor
+neuron vulnerability are susceptibility to excitotoxicity and
+oxidative damage.4,5 Cannabinoid agonists have been reported
+to reduce both excitotoxic and oxidative cell damage.6,7
+D9-tetrahydrocannabinol (D9-THC), in particular, is anti-
+excitotoxic and antioxidant in cellular and animal models.7–10
+This potentially synergistic action of a single compound may
+lead to an improved therapeutic effect as compared to con-
+ventional glutamate antagonists or antioxidants. Moreover,
+cannabinoid agonists modulate tremor and spasticity in a
+mouse model of multiple sclerosis.11,12 Furthermore, ALS
+patients taking Marinol report a lessening of spasticity.13
+Mutations in Cu/Zn superoxide dismutase (SOD1) are
+the primary cause of up to 20% of familial ALS cases.14
+Transgenic mice expressing human SOD1 mutations have
+been generated. These hSOD1 mutant transgenic mice exhibit
+pathological and cytological neuromuscular degeneration
+similar to patients with familial and some forms of sporadic
+ALS.15–17 The hSOD1G93A mice are used for preclinical testing
+of compounds for treating ALS, since the disease in these
+animals follows a consistent onset, progression and outcome
+that mimics human ALS.18–20 We previously showed that D9-
+THC was anti-excitotoxic in spinal cord cultures in vitro.10
+Here we report that D9-THC slows disease progression in
+hSOD1G93A mice when administered either before or after
+onset of signs. Furthermore, we demonstrate that D9-THC is
+extremely effective at reducing oxidative damage in spinal
+cord
+cultures,
+providing
+a
+cellular
+mechanism
+for
+its
+neuroprotective effect.
+Materials and methods
+Transgenic mice
+Male
+transgenic
+mice
+expressing
+the
+human
+SOD1G93A
+(B6SJL-TgN[SOD1-G93A]1Gur)(
+hSOD1G93A
+mice)
+were
+Forbes Norris MDA/ALS Research Center, 2351 Clay
+Street, Suite 416
+*Geraldine Brush Cancer Research Institute, California
+Paciﬁc Medical Center, San Francisco, CA 94115,
+USA
+Correspondence:
+Mary E. Abood, MD, Forbes Norris MDA/ALS
+Research Center, Suite 416, California Paciﬁc
+Medical Center, San Francisco, CA 94115, USA
+Tel: z415 600-3607
+Fax: z415 563-7325
+E-mail: mabood@cooper.cpmc.org
+Received 7 April 2003
+Accepted 30 August 2003
+Effective treatment for amyotrophic lateral
+sclerosis (ALS) remains elusive. Two of the
+primary hypotheses underlying motor neuron
+vulnerability are susceptibility to excitotoxi-
+city and oxidative damage. There is rapidly
+emerging evidence that the cannabinoid
+receptor system has the potential to reduce
+both excitotoxic and oxidative cell damage.
+Here we report that treatment with D9-
+tetrahydrocannabinol (D9-THC) was effective
+if administered either before or after onset of
+signs in the ALS mouse model (hSODG93A
+transgenic mice). Administration at the onset
+of tremors delayed motor impairment and
+prolonged survival in D9-THC treated mice
+when compared to vehicle controls. In
+addition, we present an improved method
+for the analysis of disease progression in the
+ALS mouse model. This logistic model pro-
+vides an estimate of the age at which muscle
+endurance has declined by 50% with much
+greater accuracy than could be attained for
+any other measure of decline. In vitro, D9-THC
+was extremely effective at reducing oxidative
+damage in spinal cord cultures. Additionally,
+D9-THC is anti-excitotoxic in vitro. These
+cellular mechanisms may underlie the pre-
+sumed neuroprotective effect in ALS. As D9-
+THC is well tolerated, it and other cannabi-
+noids may prove to be novel therapeutic
+targets for the treatment of ALS. (ALS 2004; 5:
+33-39)
+Keywords: amyotrophic lateral sclerosis – D9-THC – cannabinoid – anti-oxidant –
+anti-excitotoxicity – neuroprotection
+DOI: 10.1080/14660820310016813
+ALS and other motor neuron disorders 2004 5, 33–39
+# 2004 ALS and other motor neuron disorders. All rights reserved. ISSN 1466-0822
+33
+Original Research
+bred with background matched B6SJL wild type females
+(Jackson Laboratories, Bar Harbor, ME). The total DNA was
+isolated from tail clips of the progeny by proteinase K
+digestion and subsequent phenol-chloroform extraction. The
+progeny were genotyped using primers speciﬁc to exon 4 of
+the human SOD1 gene within the transgenic construct and
+segregated and used for subsequent studies. Transgenic mice
+were housed in micro-isolator cages in a barrier facility and
+were seronegative for mouse hepatitis virus, Sendai virus and
+other common viral and bacterial pathogens. The mice were
+observed twice a week during the ﬁrst 60 days of age and
+subsequently monitored every day for general health and
+signs of illness. Body weight was taken once a week and every
+day after the onset of disease.
+Treatment protocols
+Male hSOD1G93A mice were injected intraperitoneally with
+vehicle (18:1:1 ratio of normal saline: emulphor: ethanol) or
+5 or 10 mg/kg body weight D9-THC (Research Triangle Park,
+NIDA/NIH) dissolved in the same vehicle, daily from day 60
+of their age. Alternatively, mice were administered 20 mg/kg
+D9-THC or vehicle beginning on day 75 when tremors were
+ﬁrst observed. Mice were given ad libitum access to food and
+water, including moistened food on the ﬂoor after the onset
+of disease.
+Evaluation of motor function
+Motor neuron function in mice was evaluated using a rotarod
+(Accuscan Instruments, Columbus, OH). Mice were trained
+on the rotarod for 10 minutes at speeds of 5 and 10 rpm
+beginning at 40 days of age. After the treatment started the
+mice were evaluated on the rotarod at 10 rpm on a weekly
+basis. The time they remained on the rotarod was registered
+automatically.
+If the mouse remained
+on
+the rod for
+10 minutes, the test was completed and scored as 10 minutes.
+Mice were tested on the rotarod at 5 rpm after failing at
+10 rpm in order to follow the decrement in motor function.
+Clinical end points
+The clinical condition of mice was monitored twice a
+week after entry into each protocol and observed daily after
+entering into the treatment schedule. The earliest clinical signs
+observed were tremors and shaking of their limbs when mice
+were suspended brieﬂy in the air by their tails. Progression of
+disease was measured by the decrement in the ability of
+mice to remain on the rotarod. To determine ‘mortality’ as an
+independent measure and humanely, mice were euthanized
+when they could not right themselves within 3 seconds after
+being placed on their sides.20
+Oxidative damage in mixed spinal cord cultures
+Mixed spinal cord cultures were prepared from 13-day-old
+mouse embryos using methods previously described.10,22
+Experiments were performed after 1 week in culture. To
+induce oxidative damage, cultures were treated for 5 hours in
+the presence of 200 mM tert-butyl hydroperoxide (TBH).23 The
+compounds evaluated were added at the same time as TBH.
+D9-THC (0.5 mM) and SR14716A (1 mM) were diluted from
+1 mM stock solutions in ethanol; the ﬁnal concentration of
+ethanol was kept constant in all treatments (0.1%). After the
+5-hour treatment, cell viability was quantiﬁed by a combina-
+tion of lactate dehydrogenase (LDH) activity and visually
+conﬁrmed by propidium iodide ﬂuorescence.10
+Statistical analysis
+A logistic response curve was ﬁtted to the endurance time for
+each mouse using a nonlinear mixed effects model.24 The
+model is described by the equation:
+Time~10 1z exp Age{A
+ð
+Þ=B
+ð
+Þ
+ð
+Þ{1,
+where Time is rod endurance time (range 0–10 mins), Age is
+mouse age in days, and A and B are constants representing
+day at which endurance is reduced to 50% (A) and rate of
+decline (1/B). The ﬁtting program allows A and B to vary
+from mouse to mouse and can be used to test whether A and
+B differ by drug dose, delay in treatment and rpm of the rod.
+First we ﬁtted the model allowing both A and B to vary from
+mouse to mouse, but neither A nor B were dependent on
+dose, delay or rpm. Next, we ﬁtted a sequence of models
+starting with A and B each a linear function of dose and rpm,
+(A=A0zA1
+DosezA2
+delayzA3 rpm,
+and
+B=B0zB1
+DosezB2 delayzB3 rpm). The coefﬁcients for A and B and
+their standard errors were calculated by the program and
+Wald statistics were used to test whether each of the
+coefﬁcients (A0, A1,...,B3) differed signiﬁcantly from zero. A
+and B terms with nonsigniﬁcant (Pw0.05) coefﬁcients were
+removed and the model was reﬁtted. This process was
+repeated until all remaining terms were taken into account.
+Summary ﬁt curves were prepared for all mice in each
+treatment group. Survival data were summarized by Kaplan-
+Meier curves.25 For survival, a Cox proportional hazard model
+was ﬁtted to the data and the effect of dose was tested by the
+likelihood ratio test and Wald statistics. First we tested for a
+difference among all 3 doses (log-rank test P=0.003). Then
+we tested pairwise differences ﬁnding that each dose effect on
+survival was signiﬁcantly different from vehicle (0) dose
+(P=0.004 for 10 mg and P=0.01 for 20 mg) but that there
+was
+no
+difference
+between
+10
+and
+20
+(P=0.56).
+All
+calculations were carried out in S-Plus version 6. Mortality
+results are expressed as means of individual animals with
+s.e.m. per group. Results of in vitro experiments are expressed
+as means of cultures±s.e.m. per group. These data were
+assessed using an unpaired t-test with GraphPad Prism
+software (GraphPad, San Diego, CA).
+Results
+D9-THC delays disease progression and improves
+survival
+The primary aim of this study was to evaluate the effec-
+tiveness of a cannabinoid in the treatment of a mouse model
+of ALS. A second aim was to improve the analysis of disease
+progression in the mouse model of ALS by using a more
+34
+C Raman, SD McAllister, G Rizvi et al
+Original Research
+powerful statistical model. hSOD1G93A mice were adminis-
+tered D9-THC (5 and 10 mg/kg body weight) or vehicle
+beginning at 60 days of age, i.e., prior to onset of motor
+dysfunction. The earliest clinical signs of disease observed
+were tremors and shaking of their limbs when mice were
+suspended brieﬂy in the air by their tails.18 These signs were
+never seen in non-transgenic littermates, but were always seen
+in hSODG93A mice after 75 days. In a subsequent set of
+experiments,
+mice
+were
+administered
+20 mg/kg
+D9-THC
+beginning on day 75 when tremors were ﬁrst observed, i.e.,
+after onset of disease signs. Mice were evaluated on a rotarod
+to follow disease progression. No changes in motor behavior
+were observed in the D9-THC treated animals at any of the
+doses given, conﬁrming earlier reports.21,26 Furthermore, no
+signiﬁcant difference in weights was observed between the
+treatment groups.
+In order to assess the effect of D9-THC on disease pro-
+gression, a logistic response curve was ﬁtted to the endurance
+time for each mouse using a nonlinear mixed effects model.24
+For these experiments, each mouse was assessed on the
+rotarod at 5 and 10 rpm.27 Figure 1A shows the observed data
+and ﬁtted endurance curves at 10 rpm for each mouse. The
+results from the nonlinear mixed effects model showed that
+both dose and rpm (but not delay in treatment initiation)
+signiﬁcantly affected age at which endurance declined to 50%
+(i.e., 5 minutes, abbreviated as A50% henceforth). These
+results are summarized in Table 1 and shown graphically in
+Figure 1B. We found that A50% increased 3.3 days (±1.1 day)
+per 10 mg/kg of THC (2-sided P=0.003). In other words,
+disease progression as assessed by rotarod performance was
+delayed 3.3 days in the 10 mg/kg and 6.6 days in the 20 mg/kg
+group as compared to the vehicle treated animals. This
+represents a 3% increase in motor performance endurance in
+the 10 mg/kg group and a 6% increase in the 20 mg/kg group.
+We were able to assess animals later in the disease by testing
+them at the slower rotarod speed (5 rpm). In the data analysis,
+we found that A50% increased 6.5 days (±0.4 day) when
+changing from 10 rpm to 5 rpm. However, compared with the
+rate of 10 rpm, the rate at 5 rpm was increased by a factor of 2.
+This rate of decline can also be inferred by expressing it as
+number of days to decline from 9 minutes to 1 minute
+endurance, based on the ﬁtting equation, i.e., at 10 rpm, it
+took 17.1 (±1.76) days to decline from 9 to 1 minute
+compared with 8.55 (±0.88) days at 5 rpm. These results are
+summarized in Table 2 and shown graphically in Figure 1B.
+In these experiments, the treatment effect was to slow the
+progression of disease (Figure 1b). Furthermore, treatment
+with D9-THC improved survival. Treatment with 10 mg/kg
+D9-THC
+extended
+mean
+survival
+from
+125.9±1.6
+days
+(vehicle, n=15) to 131.8±2.4 days (D9-THC, n=8, P=0.004)
+(Figure 2a, c). This represents a 4.9 day (4.6%) increase in
+survival in the 10 mg/kg D9-THC-treated group. At a (delayed)
+dose of 20 mg/kg the increase in mean survival was 6.4 days
+(5.1%) (P=0.01, Figure 2a,c).
+D9-THC is anti-oxidant and anti-excitotoxic in vitro
+D9-THC is known to be effective in attenuating in vitro excito-
+toxic and oxidative cell damage. Both of these mechanisms
+have been implicated in the progression of ALS. We had
+previously reported that D9-THC was as effective as the anti-
+excitotoxic compound NBQX, an AMPA/Kainate receptor
+antagonist, in protecting spinal cord neurons against direct
+excitotoxin (kainate) exposure.10 To evaluate the possibility
+that D9-THC may also have antioxidant properties in spinal
+(a)
+(b)
+Figure 1
+D9-THC delays progression of disease in hSOD1G93A mice. Motor function
+was tested weekly on the rotarod at 10 and 5 rpm. The decline in endur-
+ance over time for each animal at 10 rpm is shown in (a). Mouse numbers
+1–13 correspond to vehicle treated animals, numbers 1001–1008 corre-
+spond to the 10 mg/kg D9-THC treatment group, and 2001–2009 correspond
+to the 20 mg/kg D9-THC treatment group. In (b) the curves show
+declines based on ﬁtting a logistic model to observed data. Solid
+curves are tests at 10 rpm, dashed curves for 5 rpm. The three curves
+for each rpm are for doses of 0 (vehicle, blue), 10 (mg/kg D9-THC,
+green) and 20 (mg/kg D9-THC, red). Parameters for curves are based on a
+nonlinear mixed effects model given by Time=10/(1zexp((AgexA)/B)).
+Amyotrophic lateral sclerosis: delayed disease progression in mice by treatment with a cannabinoid
+35
+Original Research
+Factor
+Estimate
+Std Error
+DF
+t-statistic
+P-value
+A.(intercept)
+109.78
+2.31
+477
+47.44
+,.0001
+A.(dose)
+3.29
+1.12
+477
+2.95
+0.0034
+A.(rpm)
+x6.54
+0.44
+477
+x14.90
+,.0001
+B.(rpm)
+1.95
+0.20
+477
+9.67
+,.0001
+Table 1
+Summary of results
+rpm
+Dose
+Days to 50% endurance
+Days from 9 to 1 min
+5
+0
+106.5
+8.55
+5
+10
+109.8
+8.55
+5
+20
+113.1
+8.55
+10
+0
+100.0
+17.10
+10
+10
+103.3
+17.10
+10
+20
+106.6
+17.10
+Table 2
+Predictions based on model
+Figure 2
+D9-THC extends survival in hSOD1G93A mice. Cumulative survival in hSOD1G93A mice treated with 10 mg/kg D9-THC, begun at 60 days of age (a) or 20 mg/
+kg D9-THC, started at 75 days of age. Vehicle controls were treated at 60 days and 75 days of age, respectively; no difference was seen in the lifespan
+between the two vehicle treatment paradigms, so the data were pooled for analysis. (b). Mortality of hSOD1G93A mice treated with D9-THC or vehicle
+(c). Survival was signiﬁcantly increased in the 10 and 20 mg/kg D9-THC treated groups compared to vehicle controls (*, P=0.004, P=0.01, respectively,
+error bars represent s.e.m.).
+36
+C Raman, SD McAllister, G Rizvi et al
+Original Research
+cord cultures, we determined whether D9-THC could protect
+against oxidative damage produced by direct application of
+the oxidant tert-butyl hydroperoxide (TBH).23 D9-THC was
+extremely effective at reducing oxidative damage produced by
+TBH in mixed spinal cord cultures. Exposure to 200 mM TBH
+for 5 hours resulted in 74 (±14) % cytotoxicity, which was
+reduced to 28 (±8) % in the presence of 0.5 mM D9-THC
+(n=4,
+P,0.001)(Figure 3).
+These
+quantitative
+data
+were
+visually conﬁrmed by measuring propidium iodide uptake
+in parallel cultures (data not shown); both neurons and glia
+were affected by TBH as previously published.23 To test if this
+profound antioxidant effect was CB1 receptor mediated, 1mM
+SR141716A was used to block the receptor (Figure 3). There
+was no difference in the level of protection, suggesting the
+antioxidant effect was not CB1 receptor mediated.
+Discussion
+Our study is innovative in at least two characteristics. First,
+treatment at 20 mg/kg began after ﬁrst appearance of disease
+signs. This design more realistically mimics treatment in
+humans where it is not possible to treat prior to symptom
+onset. Secondly, the use of a nonlinear mixed effects model
+for data analysis increased statistical power to detect a large
+range of effects and to test separately for delayed disease onset
+and rate of disease progression. Use of the model eliminates
+the complication of deﬁning an age at onset based on
+observed symptoms. The use of a logistic model provides an
+estimate of the age at which muscle endurance has declined
+by 50% with much greater accuracy than could be attained
+for any other measure of decline. This is because statistically
+maximum precision is attained at the median of a logistic
+regression. Use of the logistic model also allowed us to test
+whether the dose effect at 20 mg/kg was diminished by
+delaying treatment until the ﬁrst appearance of disease signs.
+The results showed that endurance and survival could be
+increase in the hSODG93A mice even when D9-THC was
+administered after the onset of disease.
+The mechanisms for neuroprotection by D9-THC appear to
+be multifaceted. In this study, the antioxidant neuroprotective
+effect of D9-THC was not CB1-receptor mediated because the
+CB1 receptor antagonist SR141716A did not diminish the
+antioxidant effect. CB1 receptors were detected in neurons
+and glia in the spinal cord cultures by immunocytochemistry
+and Western blot analysis, thus the lack of effect of receptor
+antagonist is not due to the absence of receptors in the
+cultures.10 CB2 receptor expression has not been demon-
+strated in neurons or astrocytes though we can readily detect
+CB2 receptor expression in cells from the immune system.28
+Other cannabinoid receptor subtypes have been proposed,
+however they have not been identiﬁed. Thus while it is
+possible that other cannabinoid-type receptors could be
+involved with the antioxidant effect, there are no reagents
+to test this possibility. Previous investigations into the poten-
+tial neuroprotective effects of cannabinoids have focused on
+models of cerebral ischemia9,29, multiple sclerosis11 and
+epilepsy.26 Our results are in line with the in vitro models of
+cerebral ischemia in which the predominant neuroprotective
+effect of cannabinoids is as an antioxidant but not CB1
+receptor mediated.7,29 In addition, cannabinoids were equally
+effective as neuroprotective antioxidants in cultured neurons
+from CB1 receptor knockout mice or control wild-type litter-
+mates.30 Furthermore, cannabidiol and (z)11-OH-D8-THC
+(HU-211) which have no CB1 receptor activity are also
+effective antioxidants.7 D9-THC, cannabidiol and HU-211
+were found to possess greater antioxidant properties than
+either ascorbate or a-tocopherol, similar to that of BHT.7
+The antioxidant properties of D9-THC may also contribute
+to the attenuation of excitotoxicity in primary neuronal cul-
+tures.7,31 We previously found that D9-THC protected against
+kainate-mediated toxicity in mixed (neuronal and glial)
+spinal cord cultures.10 The amount of cytotoxicity produced
+by kainate was about half of that produced by the oxidative
+stress paradigm described in this report, but is consistent with
+a neuronal toxicity (excitotoxicity) as opposed to a combined
+neural and glial toxicity (oxidative stress).23 That D9-THC
+protects glia as well as neurons may contribute towards its
+effectiveness in the hSODG93A mice. Astrocytic cell damage is
+believed to contribute to the disease process by suppressing
+the activity of EAAT2 glutamate transporters that are necessary
+for recovering synaptic glutamate and/or preventing repetitive
+motor neuron ﬁring.3
+A potential therapeutic application of D9-THC for the
+symptoms of ALS includes the relief of spasticity.6,32–34
+Similar results were found in a mouse model of multiple
+sclerosis in which cannabinoids quantitatively ameliorate
+both tremor and spasticity.11 Recently, increased levels of the
+endogenous ligands anandamide, 2-arachidonylglycerol and
+palmitoylethanolamide were found in the brain and spinal
+cord, areas associated with the induced nerve damage.12 The
+endogenous ligands were also anti-spastic; in addition, inhi-
+bitors of re-uptake and hydrolysis were shown to signiﬁcantly
+attenuate spasticity.12
+In order for a pharmacological treatment to be clinically
+effective for ALS, it must be able to protect the remaining
+motor neurons (as up to 50% are lost at the time of clinical
+diagnosis).35 Other treatments to date have focused on anti-
+oxidants, neurotrophic, immunosuppressive and neuroprotective
+Figure 3
+D9-THC attenuates oxidative stress in mouse spinal cord cultures. Mouse
+primary spinal cord cultures were exposed to the oxidant tert-butyl
+hydroxide in vehicle (TBH), or in the presence of 0.5 mM D9-THC (TBH z
+THC) or 0.5 mM D9-THC plus 1 mM SR141716A (TBH z THC z SR1).
+D9-THC was extremely effective at reducing TBH cytotoxicity as assessed
+by LDH release; this effect was not reversed by the CB1 receptor antago-
+nist SR141716A (**, P,0.001, n=3–6, error bars represent s.e.m.).
+Amyotrophic lateral sclerosis: delayed disease progression in mice by treatment with a cannabinoid
+37
+Original Research
+agents, most of which have been shown to be neuroprotective
+in cellular and animal models of ALS.35 Nevertheless, over 25
+large clinical studies based on these strategies have shown no
+beneﬁt, apart from riluzole.35,36 As a result, riluzole is the
+only drug approved and marketed for the treatment of ALS.37
+However, candidate compounds are usually tested in the
+mouse model by administration prior to the onset of disease
+signs, which may explain their failure in clinical trials.
+An important additional consideration is that ALS is a
+chronic disease, therefore long-term toxicity of treatment
+drugs becomes an important issue. D9-THC is well tolerated
+and already in clinical usage for nausea associated with cancer
+chemotherapy
+and
+appetite
+stimulation
+with
+the
+AIDS
+wasting syndrome. In a pilot study of the safety and
+tolerability of D9-THC in ALS patients, symptomatic beneﬁts
+were seen in insomnia, appetite and spasticity.13 D9-THC is
+effective in a pre-clinical model of ALS, suggesting it could be
+evaluated for its effectiveness in the human disease.
+Conclusion
+The data presented here indicate that D9-THC delays pro-
+gression of disease and increases survival time in hSODG93A
+mice even when administered after onset of signs. Our
+ﬁnding that D9-THC is both anti-excitotoxic and antioxidant
+in vitro suggests it may act additively towards its therapeutic
+effect in the hSODG93A mice.
+Acknowledgements
+The authors would like to thank Robert G. Miller, Billy R.
+Martin and George Kunos for critical reading of the manu-
+script, and the ALS and Neuromuscular Research Foundation
+and NS041639 for support.
+References
+1. Nicholson SJ, Witherden AS, Hafezparast M, Martin JE, Fisher
+EM. Mice, the motor system, and human motor neuron
+pathology. Mamm Genome 2000; 11: 1041–1052.
+2. Brown RH, Jr. Amyotrophic lateral sclerosis: insights from
+genetics. Arch Neurol 1997; 54: 1246–1250.
+3. Cleveland DW, Rothstein JD. From Charcot to Lou Gehrig:
+deciphering selective motor neuron death in ALS. Nat Rev
+Neurosci 2001; 2: 806–819.
+4. Ludolph AC, Meyer T, Riepe MW. The role of excitotoxicity in
+ALS:what is the evidence? J Neurol 2000; 247: I7–16.
+5. Robberecht W. Oxidative stress in amyotrophic lateral sclerosis.
+J Neurol 2000; 247: I1–6.
+6. Carter
+GT,
+Rosen
+BS.
+Marijuana
+in
+the
+management
+of
+amyotrophic lateral sclerosis. Am J Hosp Palliat Care 2001; 18:
+264–270.
+7. Hampson A, Grimaldi M, Axelrod J, Wink D. Cannabidiol and
+(-)Delta9-tetrahydrocannabinol are neuroprotective antioxidants.
+Proc Natl Acad Sci U S A 1998; 95: 8268–8273.
+8. Shen M, Thayer S. Delta9-Tetrahydrocannabinol acts as a partial
+agonist to modulate glutamatergic synaptic transmission between
+rat hippocampal neurons in culture. Mol Pharmacol 1999; 55: 8–13.
+9. van der Stelt M, Veldhuis WB, Bar PR, Veldink GA, Vliegenthart
+JF, Nicolay K. Neuroprotection by Delta9-tetrahydrocannabinol,
+the main active compound in marijuana, against ouabain-
+induced in vivo excitotoxicity. J Neurosci 2001; 21: 6475–6479.
+10. Abood ME, Rizvi G, Sallapudi N, McAllister SD. Activation of the
+CB(1) cannabinoid receptor protects cultured mouse spinal
+neurons against excitotoxicity. Neurosci Lett 2001; 309: 197–201.
+11. Baker D, Pryce G, Croxford J et al. Cannabinoids control
+spasticity and tremor in a multiple sclerosis model. Nature 2000;
+404: 84–87.
+12. Baker D, Pryce G, Croxford JL et al. Endocannabinoids control
+spasticity in a multiple sclerosis model. Faseb J 2001; 15:
+300–302.
+13. Gelinas D, Miller R, Abood M. A pilot study of safety and
+tolerability
+of
+Delta
+9-THC
+(Marinol)
+treatment
+for
+ALS.
+Amyotrophic Later Scler & Motor Neuron Disord 2002; 3: 23.
+14. Rosen D, Siddique T, Patterson D et al. Mutations in Cu/Zn
+superoxide dismutase gene are associated with familial amyo-
+trophic lateral sclerosis. Nature 1993; 362: 59–62.
+15. Gurney M, Pu H, Chiu A et al. Motor neuron degeneration in
+mice
+that
+express
+a
+human
+Cu/Zn
+superoxide
+dismutase
+mutation. Science 1994; 264: 1772–1775.
+16. Bruijn L, Becher M, Lee M et al. ALS-linked SOD1 mutant G85R
+mediates damage to astrocytes and promotes rapidly progressive
+disease with SOD1-containing inclusions. Neuron 1997; 18:
+327–338.
+17. Wong P, Pardo C, Borchelt D et al. An adverse property of a
+familial ALS-linked SOD1 mutation causes motor neuron disease
+characterized by vacuolar degeneration of mitochondria. Neuron
+1995; 14: 1105–1116.
+18. Gurney ME, Cutting FB, Zhai P et al. Beneﬁt of vitamin E,
+riluzole, and gabapentin in a transgenic model of familial
+amyotrophic lateral sclerosis. Ann Neurol 1996; 39: 147–157.
+19. Zhu S, Stavrovskaya IG, Drozda M et al. Minocycline inhibits
+cytochrome c release and delays progression of amyotrophic
+lateral sclerosis in mice. Nature 2002; 417: 74–78.
+20. Klivenyi P, Ferrante RJ, Matthews RT et al. Neuroprotective
+effects of creatine in a transgenic animal model of amyotrophic
+lateral sclerosis. Nat Med 1999; 5: 347–350.
+21. Abood ME, Sauss C, Fan F, Tilton CL, Martin BR. Development
+of
+behavioral
+tolerance
+to
+D9-THC
+without
+alteration
+of
+cannabinoid receptor binding or mRNA levels in whole brain.
+Pharmacol Biochem Behav 1993; 46: 575–579.
+22. Carriedo S, Yin H, Weiss J. Motor neurons are selectively
+vulnerable to AMPA/kainate receptor-mediated injury in vitro.
+J Neurosci 1996; 16: 4069–4079.
+23. Abe K, Saito H. Characterization of t-butyl hydroperoxide toxi-
+city in cultured rat cortical neurons and astrocytes. Pharmacol
+Toxicol 1998; 83: 40–46.
+24. Pinheiro JC, Bates DM. Mixed-Effects Models in S and S-PLUS.
+New York: Springer; 2000.
+25. Kaplan E, Meier P. Non-parametric estimation from incomplete
+observations. J Amer Statist Assoc 1958; 53: 457–481.
+26. Wallace MJ, Wiley JL, Martin BR, DeLorenzo RJ. Assessment of
+the role of CB1 receptors in cannabinoid anticonvulsant effects.
+Eur J Pharmacol 2001; 428: 51–57.
+38
+C Raman, SD McAllister, G Rizvi et al
+Original Research
+27. Li M, Ona VO, Guegan C et al. Functional role of caspase-1 and
+caspase-3 in an ALS transgenic mouse model. Science 2000; 288:
+335–339.
+28. Grifﬁn G, Wray E, Tao Q et al. Evaluation of the cannabinoid
+CB2 receptor-selective antagonist, SR144528: further evidence for
+cannabinoid CB2 receptor absence in the rat central nervous
+system. Eur J Pharmacol 1999; 377: 117–125.
+29. Nagayama T, Sinor A, Simon R et al. Cannabinoids and
+neuroprotection in global and focal cerebral ischemia and in
+neuronal cultures. J Neurosci 1999; 19: 2987–2995.
+30. Marsicano G, Moosmann B, Hermann H, Lutz B, Behl C.
+Neuroprotective properties of cannabinoids against oxidative
+stress: role of the cannabinoid receptor CB1. J Neurochem 2002;
+80: 448–456.
+31. Eshhar N, Striem S, Kohen R, Tirosh O, Biegon A. Neuro-
+protective and antioxidant activities of HU-211, a novel NMDA
+receptor antagonist. Eur J Pharmacol 1995; 283: 19–29.
+32. Consroe P, Musty R, Tilley W, Pertwee R. The perceived effects of
+smoked cannabis on patients with multiple sclerosis. Eur Neurol
+1996; 38: 44–48.
+33. Malec J, Harvey R, Cayner J. Cannabis effect on spasticity
+in spinal cord injury. Arch Phys Med Rehabil 1982; 63: 116–
+118.
+34. Voth
+E,
+Schwartz
+R.
+Medicinal
+applications
+of
+Delta-9-
+tetrahydrocannabinol and marijuana. Ann Intern Med 1997;
+126: 791–798.
+35. Louvel E, Hugon J, Doble A. Therapeutic advances in amyotrophic
+lateral sclerosis. Trends Pharmacol Sci 1997; 18: 196–203.
+36. Bensimon G, Lacomblez L, Meininger V. A controlled trial of
+riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study
+Group [see comments]. N Engl J Med 1994; 330: 585–591.
+37. Miller RG, Mitchell JD, Moore DH. Riluzole for amyotrophic
+lateral sclerosis (ALS)/motor neuron disease (MND). Cochrane
+Database Syst Rev 2000; 2: CD001447.
+Amyotrophic lateral sclerosis: delayed disease progression in mice by treatment with a cannabinoid
+39
+Original Research
+View publication stats

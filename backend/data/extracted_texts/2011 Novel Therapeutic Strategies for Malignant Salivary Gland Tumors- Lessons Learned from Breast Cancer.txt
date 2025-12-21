@@ -1,0 +1,916 @@
+Hindawi Publishing Corporation
+International Journal of Otolaryngology
+Volume 2011, Article ID 187623, 9 pages
+doi:10.1155/2011/187623
+Review Article
+Novel Therapeutic Strategies for Malignant Salivary Gland
+Tumors: Lessons Learned from Breast Cancer
+Ryuichi Murase,1, 2 Tomoki Sumida,1 Akiko Ishikawa,1 Rumi Murase,2 Sean D. McAllister,2
+Hiroyuki Hamakawa,1 and Pierre-Yves Desprez2
+1Department of Oral and Maxillofacial Surgery, Ehime University Graduate School of Medicine, Ehime 791-0295, Japan
+2California Paciﬁc Medical Center Research Institute, San Francisco, CA 94107, USA
+Correspondence should be addressed to Pierre-Yves Desprez, pydesprez@cpmcri.org
+Received 13 April 2011; Revised 26 August 2011; Accepted 27 August 2011
+Academic Editor: David W. Eisele
+Copyright © 2011 Ryuichi Murase et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Malignant salivary gland tumors (MSGTs) account for 2–6% of all head and neck cancers. Despite the rarity, MSGTs have been of
+great interest due to a wide variety of pathological features and high metastasis rates resulting in poor prognosis. Surgical resection
+followed by radiation therapy represents the main treatment of this malignancy. Adjuvant therapy is reserved for the management
+of local recurrence, no longer amenable to additional local therapy, and for metastasis. Based on the studies from other types of
+tumors, particularly breast cancer, the expression and function of sex steroid hormone receptors in cancer have been extensively
+studied and applied to diagnosis and treatment. Although a number of studies in MSGTs have been published, the rationale for
+hormone therapy is still controversial due to the disparate results and insuﬃcient number of cases. However, some recent reports
+have demonstrated that certain salivary gland neoplasms are similar to breast cancer, not only in terms of the pathological features,
+but also at the molecular level. Here, we shed light on the biological similarity between MSGTs and certain types of breast cancer,
+and describe the potential use of hormone and additional therapies for MSGTs.
+1. The Role of Sex Steroid Hormone Receptors in
+Cancer Therapy
+The function of sex steroid hormone receptors in breast
+cancer has been extensively studied and applied to diagnosis
+and treatment [1, 2]. Estrogen stimulates cell proliferation of
+breast epithelial cells, and the close relationship between the
+expression of estrogen receptor (ER) and the prognosis of
+breast cancer has been well characterized [3]. Progesterone
+levels ﬂuctuate during the menstrual cycle and regulate cell
+proliferation and diﬀerentiation; however, less is known
+regarding its role in breast cancer [4–6]. We have previ-
+ously identiﬁed that introducing progesterone receptor (PR)
+into hormone-independent breast cancer cells signiﬁcantly
+suppressed their proliferative and invasive activities upon
+progesterone treatment [7].
+Several drugs such as Tamoxifen, an estrogen receptor
+antagonist, as well as a synthetic progestin similar to pro-
+gesterone, are considered to be eﬀective at inhibiting tumor
+cell proliferation. These drugs are given as adjuvant therapies
+in breast cancer patients when greater than 10% of the
+breast cancer cells express ER or PR receptors as assessed
+by immunohistochemical staining of the tumor tissue [8, 9].
+Molecular targeted drug therapy is generally deﬁned as less
+toxic than traditional chemotherapy; however, some studies
+have reported severe side eﬀects, and carefully designed and
+regulated clinical trials are necessary to conﬁrm the safety.
+Moreover, these types of therapies are not viable when a
+tumor expresses a low level of a molecular target, for exam-
+ple, a receptor [10]. This problem is exempliﬁed in breast
+cancers which do not express ER, PR, or HER2 receptors,
+that is, triple negative cases. In this patient population, it is a
+challenge for clinicians to provide eﬃcacious treatments.
+Sex steroid hormone therapy in prostate cancers is based
+on their high sensitivity to androgen inhibition. The most
+common hormone therapy is initiated by reducing the
+concentration of circulating androgens through surgical or
+medical castration and/or by administering antiandrogens
+2
+International Journal of Otolaryngology
+such as ﬂutamide or bicalutamide [11, 12]. However, in
+almost all patients, the eﬃcacy of the treatment decreases
+over time as the tumor becomes “androgen refractory” [13].
+As a result, these patients develop distant metastases, such as
+in bone, which eventually is fatal to the patient. The molec-
+ular events, therefore, which control the transition from
+androgen-sensitive prostate cancer to androgen-refractory
+prostate cancer need to be elucidated.
+Accumulating evidence suggests that the androgen recep-
+tor (AR) plays a critical role in regulating the growth of both
+androgen-sensitive and androgen-refractory prostate cancer
+[14–19]. In addition, recent studies showed that the AR can
+regulate invasion and metastasis [20]. In AR-negative cell
+lines such as PC3 and DU145, it has been shown that forced
+AR expression decreased invasive properties and treatment
+with androgen further reduced invasion of these cells [21,
+22]. Moreover, it was reported that hormone refractory
+prostate cancers demonstrated a variety of AR alterations
+that were either not found in hormone na¨ıve tumors or
+found at lower frequency [19]. A more recent investigation
+has demonstrated that forced expression of AR, in a subline
+of a metastatic androgen-dependent prostate cancer cell line,
+led to increased invasion [20]. It is clear that a more detailed
+understanding of the AR alterations in the evolution of
+androgen-refractory prostate cancer is needed to help drive
+the development of potential new therapies.
+Regarding the potential applications of hormone thera-
+pies against other cancers, some studies in ovarian and colon
+cancer have been described [23]. In ovarian cancer, the use
+of estrogen as a menopausal therapy has frequently been
+associated with an increased risk of ovarian cancer, and there
+is still conﬂicting evidence on the impact hormone therapy
+has on decreasing the risk of cancer [24]. A recent study,
+however, suggests that this problem can be circumvented
+by coadministering progestin and estrogen [25]. Further,
+experiments in culture showed that progesterone reduced
+proliferation of both benign and malignant ovarian tumor
+cells [26]. Therefore, progestin might be a key factor to
+prevent and suppress ovarian cancer cell growth. In contrast
+to ovarian cancer, estrogen appears to have protective eﬀects
+against colon cancer [27]. However, the role of hormone
+replacement therapy involving estrogen for treatment of
+colon cancer is poorly understood, and further analyses are
+needed.
+2. Pathological and Biological Similarities
+between MSGTs and Breast Cancer
+Mammary and salivary glands are tubuloacinar exocrine
+glands and share similar morphological characteristics.
+Comparing the tumors arising from these two diﬀerent sites,
+similar histological features are observed [28–31]. Although
+the cancers diﬀer in incidence and clinical behavior, certain
+biological features identiﬁed in both entities have been
+described, and potential common therapeutic approaches
+have been considered.
+The WHO classiﬁcation of MSGTs represents more than
+twenty diﬀerent histological subtypes [32, 33]. The majority
+of them are divided into two groups, the secretory duct
+origin (including mucoepidermoid carcinoma (MEC) and
+salivary duct carcinoma (SDC)) and the intercalated origin
+type (including adenoid cystic carcinoma (ACC)) [34, 35].
+Most of these tumors occur in the parotid gland (70%), and
+less than 25% are malignant [36]. Although the incidence
+of tumors at other sites, such as submandibular, sublingual,
+and minor salivary glands, is less common, the proportion
+of malignancy is higher, approximating 50% [36]. Most of
+aggressive breast cancers are composed of invasive ductal
+carcinoma, and other histologic features such as MEC and
+ACC are relatively rare. Below, we brieﬂy describe some
+of the types of MSGTs that display common features (at
+the morphological and molecular levels) with breast cancers
+and, therefore, could provide potential common therapeutic
+strategies.
+2.1. Mucoepidermoid Carcinoma (MEC). MEC is the most
+common salivary gland neoplasm, accounting for 29–34%
+of all malignancies of the major and minor salivary glands
+[32]. These tumors grow slowly and present painless massed
+in most cases. They are primarily composed of intermediate,
+mucous, and epidermoid cells. The cell types are classiﬁed
+histologically as low, intermediate, and high grade, and 5-
+year overall survival (OS) varies from 92% to 100% in low-
+grade tumors, 62% to 92% in intermediate-grade tumors,
+and 0% to 43% in high-grade tumors [37]. High-grade MEC
+is an aggressive malignancy, characterized by high rate of
+local recurrence and distant metastasis. On the contrary, low-
+grade MEC generally do not metastasize.
+On the other hand, MEC of breast is a rare entity with an
+estimated incidence of 0.2% and is composed of a mixture
+of basaloid, intermediate, epidermoid, and mucinous cells
+[30, 38]. Since Patchefsky et al. ﬁrst described breast MEC
+in 1979, only 28 cases have been reported [38–53]. Because
+of the rarity, the prognosis is still controversial. However, it
+was described that MECs deriving from breast and salivary
+glands share similar biological features and morphologies
+[30]. They classiﬁed breast MECs into three grades using the
+same grading system as for the salivary gland tumors and
+demonstrated that high-grade tumors show high mortality
+resulting from lymph node and distant metastasis. These
+results suggest that MECs from both mammary and salivary
+glands, having similar morphological features, could have
+similar treatment strategies.
+Further, a common cytogenetic alteration of breast and
+salivary MECs has been reported. A reciprocal translocation
+t(11;19)(q21;p13) (MAML2:MECT) was shown in breast
+MEC, which is known as the most frequent genetic alteration
+of salivary gland counterparts [54]. This translocation creates
+a fusion product (MAML2:MECT1) that activates transcrip-
+tion of cAMP/CREB target genes [54, 55]. Another report
+described that the expression of the protein fusion gene was
+associated with a signiﬁcantly lower risk of death compared
+to those without the fusion protein MAML2:MECT1 [56].
+It has also been shown that other subtypes of breast cancers
+are negative for this gene, suggesting that this fusion gene is
+speciﬁc to MEC. This translocation is likely to be a promising
+marker for MECs from both breast and salivary gland [57].
+International Journal of Otolaryngology
+3
+2.2. Adenoid Cystic Carcinoma (ACC). ACCs account for
+22% of MSGTs [58]. There are three histological subtypes:
+tubular, cribriform, and solid [29, 59]. In contrast to squa-
+mous cell carcinomas that account for the vast majority of
+head and neck malignancies, ACC often spreads systemically,
+especially to lung and bone, and the metastatic proportion
+of this type of neoplasm represents 24–55% [60]. Due to the
+high metastatic rate, prognosis is poor. The 10-year OS is 39–
+55%, and 20-year OS is 21–25% [60].
+On the other hand, breast ACC is a rare malignancy,
+accounting for 0.1–1% of all breast cancers [31]. In addition,
+these neoplasms show diﬀerent clinical behaviors than their
+salivary gland counterparts. 10-year OS represents more than
+90%, and lymph node and distant metastases are generally
+rare [31]. However, the histological features of breast ACCs
+are very similar to ACCs originating from salivary glands
+(as shown in Figure 1). Ro et al. applied the same grading
+system to ACCs from both types of tissues, and breast
+and salivary gland tumors are characterized by expression
+of c-KIT and share a common chromosomal translocation
+t(6;9) leading to the fusion gene MYB-NFIB [31, 61, 62].
+c-KIT has been shown to be expressed in 80–100% of
+ACCs of salivary gland and in almost all ACCs from the
+breast [63–70]. The genetic alteration t(6;9)(q22-23;p23-
+24) was ﬁrst identiﬁed as a characteristic for salivary gland
+ACCs [71]. Since then, the same translocation has been
+detected in breast tumors [62]. The fusion gene is highly
+expressed in proliferating cells and is downregulated, as the
+cells become more diﬀerentiated. Therefore, this gene may
+provide new therapeutic approaches for the management of
+ACCs.
+2.3. Salivary Duct Carcinoma (SDC). SDC is a rare and
+highly aggressive neoplasm representing close histologic
+features with invasive ductal carcinoma of the breast (IDC)
+[28, 72, 73]. SDC generally shows more aggressive features
+and less survival rates than other MSGTs. The epithelium
+tends to form cribriform, papillary, and solid growth patterns
+along with the duct-like structures [28]. The morphology of
+SDC is characterized by cuboidal and polygonal cells forming
+distended ducts and solid nests (often with central necrosis)
+and which are very similar to comedo carcinomas of the
+breast [28]. In addition to the histopathological resemblance,
+both entities have similar clinical behaviors; that is, they have
+highly metastatic features leading to poor prognosis.
+A wide variety of molecular studies have been performed
+and led to the identiﬁcation of certain biological markers
+for SDCs. Among them is HER-2, which is ampliﬁed in 20–
+25% of breast cancers [74, 75]. Various studies of HER-2 in
+SDC have shown variable results, with ampliﬁcation ranging
+between 25% and 100% of the tumors [76]. Nonetheless,
+the proportion is much higher than in other histological
+subtypes such as ACCs and MECs described above [8, 28,
+32, 36, 77–84]. HER-2 expression is considered to correlate
+with histological grades in both salivary gland neoplasms as
+well as breast cancer, and it represents a potential attractive
+therapeutic approach for SDCs. As HER-2 can also enhance
+AR function, antiandrogen therapy may be eﬀective against
+MSGTs when HER-2 is overexpressed.
+Previous studies have described that high EGFR expres-
+sion in SDCs may contribute to tumor growth [78, 85].
+EGFR has been shown to enhance tumorigenesis in several
+human carcinomas by blocking apoptosis and promoting
+angiogenesis [86]. Regarding both EGFR and HER-2, the
+interaction with hormonal pathways has also been described.
+In the breast and uterus cancers, treatment with anti-EGF
+antibodies reduced tumor proliferation induced by treat-
+ment with estradiol. Likewise, the antiestrogen ICI 164,384
+reduced the eﬀects of EGF-induced tumor proliferation [87].
+Hoang et al. performed molecular studies, using micro-
+satellite markers and DNA ﬂow cytometry, and compared
+the biological characteristics underlying SDC and IDC.
+They determined that there were similar allelic alterations
+on chromosomal arms 6q, 16q, 17p and 17q, and that
+DNA aneuploidy in both malignancies may contribute to
+their aggressive behavior [88]. Recently, it was determined
+that polysomy of chromosome 7 was detected in 25% of
+SDCs and this alteration correlated with poor OS [89].
+This correlation was also reported in IDCs and supported
+the notion that EGFR gene mutations may guide therapy
+[90]. Taken together, gene alterations of both EGFR and
+HER-2 may deﬁne molecular features of these two types
+of malignancies, and these receptors may be candidates for
+targeted therapy.
+3. Hormone Therapy for the Treatment of
+Patients with MSGTs
+As described above, several types of MSGTs are morphologi-
+cally and biologically similar to malignant breast cancers [29,
+91] (Figure 1). Further, the clinical signiﬁcance of sex hor-
+mone receptors has been debated since White and Garcelon
+ﬁrst described therapy with estrogen against salivary gland
+neoplasms in 1955 [92]. Previous reports obtained using a
+low number of biopsy samples have shown conﬂicting results
+regarding the expression of sex hormone receptors, making
+diﬃcult to determine the potential beneﬁts of hormone
+therapy [93–103]. Therefore, additional studies are required
+in order to clarify the role of hormone receptors in MSGTs.
+Although several studies examined ER and PR expression
+in MSGTs, there is substantial disparity in the results: the
+expression of ER and PR can vary between 0–86% and 0–
+50%, respectively [93–103]. This disparity may be explained
+by diﬀerences in antibodies used, experimental methods for
+detection (e.g., Western blotting versus immunohistochem-
+istry), and the criteria used to rule out false positives and
+negatives. It is, therefore, particularly critical to standardize
+protocols (such as for the IHC) similar to that described for
+the analysis of breast cancer tissues. In addition, some of the
+diﬀerences might result from insuﬃcient number of samples
+available.
+Even though ER expression is unlikely to represent a
+useful marker for detecting MSGTs, a subset of MSGTs
+clearly expresses hormone receptors, and these receptors
+could control disease progression. Thus, current therapeutic
+strategies used in breast cancer patients may also be eﬀective
+for the treatment of MSGTs. Moreover, the feasibility of
+hormone therapy seems to be supported by the accumulating
+4
+International Journal of Otolaryngology
+Malignant salivary
+Breast cancer
+Adenoid cystic carcinoma
+×200
+Ductal carcinoma
+gland tumor
+Figure 1: Histological comparison of malignant salivary and mammary gland tumors. Salivary glands and mammary glands are both tubuloac-
+inar exocrine tissues sharing similar morphological features. It is, therefore, expected that the tumors originating from these two diﬀerent
+glands would show similarities in their response to hormonal treatment.
+reports of AR expression in SDCs. Although the expression of
+AR is generally rare in salivary gland neoplasms, SDCs com-
+monly express AR in 92–100% of the cases [85, 104, 105].
+Recently, Jaspers et al. reported that androgen deprivation
+therapy (ADT) in patients with recurrent or disseminated
+disease showed a clinical beneﬁt in ﬁve out of ten cases, and
+two of them had partial responses [76]. This approach is,
+therefore, more eﬀective than the results obtained after the
+use of chemotherapy. Given the fact that ADT has generally
+less adverse eﬀects than chemotherapy, antiandrogen therapy
+may lead to better clinical outcome and become a standard
+treatment method for SDCs.
+Williams et al. described that most tumors derived from
+breast and salivary glands expressed estrogen receptor-beta
+(ER-β) and that the patients whose tumors lacked ER-β were
+at higher risk for local recurrence [8]. In addition, previous
+studies have linked the loss of ER expression to aggressive
+features in adenocarcinomas from breast, prostate, and colon
+[106–111]. In breast and prostate carcinoma, ER-β has been
+shown to inhibit cell proliferation by cyclin D1 pathway and
+to induce apoptosis by downregulating bcl-2 and/or inducing
+Bax expression [112, 113]. Targeting ER-β may, therefore,
+become a useful approach for the management of salivary
+duct carcinoma.
+In our previous studies, we determined that MSGTs cell
+lines in culture lacked estrogen and progesterone receptors.
+However, lack of hormone receptors may be a consequence of
+malignant transformation and may represent a requirement
+for the establishment of immortal cell lines. Studies have
+reported the eﬃcacy of Tamoxifen against MSGTs in patients
+[114, 115], and one of them showed a long-term survival
+even though ER was not detected by immunohistochemistry.
+This result appears to be supported by another case report,
+where Tamoxifen could reactivate ER expression [116]. Our
+previous studies showed that progesterone could suppress
+MGST cell aggressiveness similarly to that observed in breast
+cancer cells (Figure 2). Speciﬁcally, we demonstrated that
+after transduction of PR, progesterone could signiﬁcantly
+suppress proliferation (and invasion) of MSGT cells [117].
+This suppression did not lead to cell death but to cell-cycle
+arrest. These data suggest that if MSGTs express signiﬁcant
+levels of PR, then progesterone treatment may slow the
+growth of the primary tumor and potentially shift it to a
+dormant state. Since most MSGTs occur in older age patients,
+triggering tumor dormancy could improve quality of life
+and may be a successful way to allow the patient a normal
+lifespan.
+Although 5-year OS in patients with MSGTs represents
+the average, extended survival rates are extremely low [118–
+120]. MSGTs show low sensitivity to chemotherapy and
+surgery because of anatomical limitations [121, 122]. Since
+radiation is also less eﬀective, novel therapeutic approaches
+are eagerly anticipated. Triggering tumor dormancy as a
+consequence of hormone therapy would represent a novel
+strategy for the treatment of patients with MSGTs.
+4. Conclusions
+Besides surgical resection and radiation of MSGTs, there are
+no other eﬀective therapies. Adjuvant therapy is generally
+reserved for palliative treatment; however, there is no clear
+evidence that such treatment can bring clinical beneﬁts. Since
+adverse eﬀects caused by chemotherapy often threaten the
+life of a patient, and since some patients with speciﬁc MSGTs,
+especially ACCs, show long survival even with multiple
+metastases, the adoption of adjuvant therapy should be
+International Journal of Otolaryngology
+5
+DNA
+Progesterone
+Progesterone receptor
+Transcription p21, etc.
+c-myc, Id-1, etc.
+Figure 2: Pg suppresses proliferation and invasion of both salivary gland and breast cancer cells. In our recent studies, the inhibitory eﬀect
+of Pg on the proliferative and invasive activities of the salivary gland and breast tumor cells was demonstrated, suggesting some common
+mechanisms. In both types of cancers, expression of Id-1 and c-myc was downregulated after Pg treatment, whereas p21 expression level was
+upregulated.
+carefully considered. To achieve new therapeutic methods, it
+is now necessary to clarify several unanswered questions such
+as the expression and/or function of sex steroid hormone
+receptors in MSGTs. As indicated by AR expression in SDCs,
+there is now evidence linking hormone receptors and growth
+factor receptors to the disease. Expression of these receptors
+could render the tumors sensitive to hormone therapy.
+However, to improve clinical outcome with rather rare
+malignancies, more accurate data obtained from multiple
+and larger studies are required. MSGTs tend to occur in
+older age patients, and triggering tumor dormancy could
+be a successful way to slow down their disease progression,
+therefore providing an improvement in their quality of
+life. Our studies in PR-negative cells also suggest that
+the induction of hormone receptor gene expression might
+be an option for delaying disease progression. Based on
+multiple lines of evidence from a range of cancers, sex
+steroid hormone receptors may prove to be appropriate
+targets for the establishment of novel treatments for patients
+with MSGTs.
+Acknowledgment
+R. Murase and T. Sumida have contributed equally to the
+paper.
+References
+[1] H. A. Kester, B. J. M. Van Der Leede, P. T. Van Der Saag, and
+B. Van Der Burg, “Novel progesterone target genes identiﬁed
+by an improved diﬀerential display technique suggest that
+progestin-induced growth inhibition of breast cancer cells
+coincides with enhancement of diﬀerentiation,” Journal of
+Biological Chemistry, vol. 272, no. 26, pp. 16637–16643, 1997.
+[2] C. L. Clarke and R. L. Sutherland, “Progestin regulation of
+cellular proliferation,” Endocrine Reviews, vol. 11, no. 2, pp.
+266–301, 1990.
+[3] C. X. Ma, C. G. Sanchez, and M. J. Ellis, “Predicting
+endocrine therapy responsiveness in breast cancer,” Oncology,
+vol. 23, no. 2, pp. 133–142, 2009.
+[4] M. H. Jeng, C. J. Parker, and V. C. Jordan, “Estrogenic
+potential of progestins in oral contraceptives to stimulate
+human breast cancer cell proliferation,” Cancer Research, vol.
+52, no. 23, pp. 6539–6546, 1992.
+[5] B. van der Burg, E. Kalkhoven, L. Isbrucker, and S. W. De
+Laat, “Eﬀects of progestins on the proliferation of estrogen-
+dependent human breast cancer cells under growth factor-
+deﬁned conditions,” Journal of Steroid Biochemistry and
+Molecular Biology, vol. 42, no. 5, pp. 457–465, 1992.
+[6] R. L. Sutherland, R. E. Hall, G. Y. N. Pang, E. A. Musgrove,
+and C. L. Clarke, “Eﬀect of medroxyprogesterone acetate
+on proliferation and cell cycle kinetics of human mammary
+carcinoma cells,” Cancer Research, vol. 48, no. 18, pp. 5084–
+5091, 1988.
+[7] T. Sumida, Y. Itahana, H. Hamakawa, and P. Y. Desprez,
+“Reduction of human metastatic breast cancer cell aggres-
+siveness on introduction of either form A or B of the
+progesterone receptor and then treatment with progestins,”
+Cancer Research, vol. 64, no. 21, pp. 7886–7892, 2004.
+[8] M. D. Williams, D. Roberts, G. R. Blumenschein et al., “Dif-
+ferential expression of hormonal and growth factor receptors
+in salivary duct carcinomas: biologic signiﬁcance and poten-
+tial role in therapeutic stratiﬁcation of patients,” American
+Journal of Surgical Pathology, vol. 31, no. 11, pp. 1645–1652,
+2007.
+[9] K. B. Horwitz, “Mechanisms of hormone resistance in breast
+cancer,” Breast Cancer Research and Treatment, vol. 26, no. 2,
+pp. 119–130, 1993.
+[10] R. Ismail-Khan and M. M. Bui, “A review of triple-negative
+breast cancer,” Cancer Control, vol. 17, no. 3, pp. 173–176,
+2010.
+6
+International Journal of Otolaryngology
+[11] H. Miyake, I. Hara, and H. Eto, “Clinical outcome of
+maximum androgen blockade using ﬂutamide as second-line
+hormonal therapy for hormone-refractory prostate cancer,”
+BJU International, vol. 96, no. 6, pp. 791–795, 2005.
+[12] L. Klotz and P. Schellhammer, “Combined androgen block-
+ade: the case for bicalutamide,” Clinical Prostate Cancer, vol.
+3, no. 4, pp. 215–219, 2005.
+[13] X. Yuan and S. P. Balk, “Mechanisms mediating androgen
+receptor reactivation after castration,” Urologic Oncology, vol.
+27, no. 1, pp. 36–41, 2009.
+[14] H. I. Scher and C. L. Sawyers, “Biology of progressive,
+castration-resistant prostate cancer: directed therapies tar-
+geting the androgen-receptor signaling axis,” Journal of
+Clinical Oncology, vol. 23, no. 32, pp. 8253–8261, 2005.
+[15] M. E. Grossmann, H. Huang, and D. J. Tindall, “Androgen
+receptor signaling in androgen-refractory prostate cancer,”
+Journal of the National Cancer Institute, vol. 93, no. 22, pp.
+1687–1697, 2001.
+[16] J. D. Debes and D. J. Tindall, “Mechanisms of androgen-
+refractory prostate cancer,” New England Journal of Medicine,
+vol. 351, no. 15, pp. 1488–1490, 2004.
+[17] C. D. Chen, D. S. Welsbie, C. Tran et al., “Molecular
+determinants of resistance to antiandrogen therapy,” Nature
+Medicine, vol. 10, no. 1, pp. 33–39, 2004.
+[18] T. Hara, K. Nakamura, H. Araki, M. Kusaka, and M.
+Yamaoka, “Enhanced androgen receptor signaling correlates
+with the androgen-refractory growth in a newly established
+MDA PCa 2b-hr human prostate cancer cell subline,” Cancer
+Research, vol. 63, no. 17, pp. 5622–5628, 2003.
+[19] M. E. Taplin and S. P. Balk, “Androgen receptor: a key
+molecule in the progression of prostate cancer to hormone
+independence,” Journal of Cellular Biochemistry, vol. 91, no.
+3, pp. 483–490, 2004.
+[20] T. Hara, H. Miyazaki, A. Lee, C. P. Tran, and R. E. Reiter,
+“Androgen receptor and invasion in prostate cancer,” Cancer
+Research, vol. 68, no. 4, pp. 1128–1135, 2008.
+[21] L. Bonaccorsi, V. Carloni, M. Muratori et al., “Androgen
+receptor expression in prostate carcinoma cells suppresses
+α6β4 integrin-mediated invasive phenotype,” Endocrinology,
+vol. 141, no. 9, pp. 3172–3182, 2000.
+[22] B. Cinar, K. S. Koeneman, M. Edlund, G. S. Prins, H. E.
+Zhau, and L. W. K. Chung, “Androgen receptor mediates the
+reduced tumor growth, enhanced androgen responsiveness,
+and selected target gene transactivation in a human prostate
+cancer cell line,” Cancer Research, vol. 61, no. 19, pp. 7310–
+7317, 2001.
+[23] R. T. Burkman, “Reproductive hormones and cancer: ovarian
+and colon cancer,” Obstetrics and Gynecology Clinics of North
+America, vol. 29, no. 3, pp. 527–540, 2002.
+[24] C. M. Greiser, E. M. Greiser, and M. D¨oren, “Menopausal
+hormone therapy and risk of lung cancer-Systematic review
+and meta-analysis,” Maturitas, vol. 65, no. 3, pp. 198–204,
+2010.
+[25] C. L. Pearce, K. Chung, M. C. Pike, and A. H. Wu, “Increased
+ovarian cancer risk associated with menopausal estrogen
+therapy is reduced by adding a progestin,” Cancer, vol. 115,
+no. 3, pp. 531–539, 2009.
+[26] H. Zhou, M. P. Luo, A. H. Sch¨onthal et al., “Eﬀect of
+reproductive hormones on ovarian epithelial tumors: I. eﬀect
+on cell cycle activity,” Cancer Biology & Therapy, vol. 1, no. 3,
+pp. 300–306, 2002.
+[27] R. Kennelly, D. O. Kavanagh, A. M. Hogan, and D. C. Winter,
+“Oestrogen and the colon: potential mechanisms for cancer
+prevention,” The Lancet Oncology, vol. 9, no. 4, pp. 385–391,
+2008.
+[28] H. B. Hellquist, M. G. Karlsson, and C. Nilsson, “Salivary
+duct carcinoma - A highly aggressive salivary gland tumour
+with overexpression of c-erbB-2,” Journal of Pathology, vol.
+172, no. 1, pp. 35–44, 1994.
+[29] M. Pia-Foschini, J. S. Reis-Filho, and V. Eusebi, “Salivary
+gland-like tumours of the breast: surgical and molecular
+pathology,” Journal of Clinical Pathology, vol. 56, no. 7, pp.
+497–506, 2003.
+[30] S. I. Camelo-Piragua, C. Habib, P. Kanumuri, C. E. Lago,
+H. S. Mason, and C. N. Otis, “Mucoepidermoid carcinoma
+of the breast shares cytogenetic abnormality with mucoepi-
+dermoid carcinoma of the salivary gland: a case report with
+molecular analysis and review of the literature,” Human
+Pathology, vol. 40, no. 6, pp. 887–892, 2009.
+[31] C. Marchi`o, B. Weigelt, and J. S. Reis-Filho, “Adenoid
+cystic carcinomas of the breast and salivary glands (or ’The
+strange case of Dr Jekyll and Mr Hyde’ of exocrine gland
+carcinomas),” Journal of Clinical Pathology, vol. 63, no. 3, pp.
+220–228, 2010.
+[32] A. Milano, F. Longo, M. Basile, R. V. Iaﬀaioli, and F.
+Caponigro, “Recent advances in the treatment of salivary
+gland cancers: emphasis on molecular targeted therapy,” Oral
+Oncology, vol. 43, no. 8, pp. 729–734, 2007.
+[33] S. A. Laurie and L. Licitra, “Systemic therapy in the palliative
+management of advanced salivary gland cancers,” Journal of
+Clinical Oncology, vol. 24, no. 17, pp. 2673–2678, 2006.
+[34] J. G. Batsakis, J. A. Regezi, M. A. Luna, and A. El-Naggar,
+“Histogenesis of salivary gland neoplasms: a postulate with
+prognostic implications,” Journal of Laryngology and Otology,
+vol. 103, no. 10, pp. 939–944, 1989.
+[35] I. Dardick and A. W. van Nostrand, “Morphogenesis of
+salivary gland tumors. A prerequisite to improving classiﬁ-
+cation,” Pathology Annual, vol. 22, pp. 1–53, 1987.
+[36] B. Glisson, A. D. Colevas, R. Haddad et al., “HER2 expression
+in salivary gland carcinomas: dependence on histological
+subtype,” Clinical Cancer Research, vol. 10, no. 3, pp. 944–
+946, 2004.
+[37] F. R. Pires, O. P. De Almeida, V. C. De Ara´ujo, and
+L. P. Kowalski, “Prognostic Factors in Head and Neck
+Mucoepidermoid Carcinoma,” Archives of Otolaryngology—
+Head and Neck Surgery, vol. 130, no. 2, pp. 174–180, 2004.
+[38] E. R. Fisher, R. M. Gregorio, A. S. Palekar, and J. D.
+Paulson, “Mucoepidermoid and squamous cell carcinomas of
+breast with reference to squamous metaplasia and giant cell
+tumors,” American Journal of Surgical Pathology, vol. 7, no. 1,
+pp. 15–27, 1983.
+[39] A. S. Patchefsky, C. M. Frauenhoﬀer, R. A. Krall, and H.
+S. Cooper, “Low-grade mucoepidermoid carcinoma of the
+breast,” Archives of Pathology and Laboratory Medicine, vol.
+103, no. 4, pp. 196–198, 1979.
+[40] J. Kovi, H. D. Duong, and L. D. Leﬀall, “High-grade mucoepi-
+dermoid carcinoma of the breast,” Archives of Pathology and
+Laboratory Medicine, vol. 105, no. 11, pp. 612–614, 1981.
+[41] H. Hornychov´a, A. Ryˇska, J. Betlach et al., “Mucoepidermoid
+carcinoma of the breast,” Neoplasma, vol. 54, no. 2, pp. 168–
+172, 2007.
+[42] V. G´omez-Aracil, E. M. Artal, J. Azua-Romeo, R. M. Alvira, J.
+Az´ua-Blanco, and A. Arraiza Goicoechea, “Fine needle aspi-
+ration cytology of high grade mucoepidermoid carcinoma of
+the breast: a case report,” Acta Cytologica, vol. 50, no. 3, pp.
+344–348, 2006.
+International Journal of Otolaryngology
+7
+[43] M. G. Berry, C. Caldwell, and R. Carpenter, “Mucoepider-
+moid carcinoma of the breast: a case report and review of the
+literature,” European Journal of Surgical Oncology, vol. 24, no.
+1, pp. 78–80, 1998.
+[44] A. S. Y. Leong and J. A. R. Williams, “Mucoepidermoid
+carcinoma of the breast: high grade variant,” Pathology, vol.
+17, no. 3, pp. 516–521, 1985.
+[45] N. Hastrup and M. Sehested, “High-grade mucoepidermoid
+carcinoma of the breast,” Histopathology, vol. 9, no. 8, pp.
+887–892, 1985.
+[46] H. Luchtrath and R. Moll, “Mucoepidermoid mammary
+carcinoma. Immunohistochemical and biochemical analyses
+of intermediate ﬁlaments,” Virchows Archiv—A Pathological
+Anatomy and Histopathology, vol. 416, no. 2, pp. 105–113,
+1989.
+[47] G. Pettinato, L. Insabato, A. De Chiara, A. Manco, and
+G. Petrella, “High-grade mucoepidermoid carcinoma of the
+breast. Fine needle aspiration cytology and clinicopathologic
+study of a case,” Acta Cytologica, vol. 33, no. 2, pp. 195–200,
+1989.
+[48] C. Markopoulos, H. Gogas, A. Livaditou, and D. Floros,
+“Mucoepidermoid carcinoma of the breast,” European Jour-
+nal of Gynaecological Oncology, vol. 19, no. 3, pp. 291–293,
+1998.
+[49] L. C. Chang, N. Lee, C. T. Lee, and J. S. Huang, “High-
+grade mucoepidermoid carcinoma of the breast: case report,”
+Changgeng Yi Xue Za Zhi, vol. 21, no. 3, pp. 352–357, 1998.
+[50] L. Di Tommaso, M. P. Foschini, T. Ragazzini et al., “Mucoepi-
+dermoid carcinoma of the breast,” Virchows Archiv, vol. 444,
+no. 1, pp. 13–19, 2004.
+[51] W. A. A. Tjalma, I. O. J. Verslegers, P. A. J. De Loecker, and
+E. A. E. Van Marck, “Low and high grade mucoepidermoid
+carcinomas of the breast,” European Journal of Gynaecological
+Oncology, vol. 23, no. 5, pp. 423–425, 2002.
+[52] S. Ratanarapee, N. Prinyar-Nussorn, N. Chantarakul, and P.
+Pacharee, “High-grade mucoepidermoid carcinoma of the
+breast. A case report,” Journal of the Medical Association of
+Thailand, vol. 66, no. 10, pp. 642–648, 1983.
+[53] W. Hanna and H. J. Kahn, “Ultrastructural and immunohis-
+tochemical characteristics of mucoepidermoid carcinoma of
+the breast,” Human Pathology, vol. 16, no. 9, pp. 941–946,
+1985.
+[54] G. Tonon, S. Modi, L. Wu et al., “t(11;19)(q21;p13) translo-
+cation in mucoepidermoid carcinoma creates a novel fusion
+product that disrupts a Notch signaling pathway,” Nature
+Genetics, vol. 33, no. 2, pp. 208–213, 2003.
+[55] G. Tonon, K. S. Gehlhaus, R. Yonescu, F. J. Kaye, and I.
+R. Kirsch, “Multiple reciprocal translocations in salivary
+gland mucoepidermoid carcinomas,” Cancer Genetics and
+Cytogenetics, vol. 152, no. 1, pp. 15–22, 2004.
+[56] A. Behboudi, F. Enlund, M. Winnes et al., “Molecular
+classiﬁcation of mucoepidermoid carcinomas -Prognostic
+signiﬁcance of the MECT1-MAML2 fusion oncogene,” Genes
+Chromosomes and Cancer, vol. 45, no. 5, pp. 470–481, 2006.
+[57] A. Nordkvist, H. Gustafsson, M. Juberg-Ode, and G. Sten-
+man, “Recurrent rearrangements of 11q14-22 in mucoepi-
+dermoid carcinoma,” Cancer Genetics and Cytogenetics, vol.
+74, no. 2, pp. 77–83, 1994.
+[58] S. J. Hotte, E. W. Winquist, E. Lamont et al., “Imatinib mesy-
+late in patients with adenoid cystic cancers of the salivary
+glands expressing c-kit: a rincess Margaret Hospital Phase II
+Consortium study,” Journal of Clinical Oncology, vol. 23, no.
+3, pp. 585–590, 2005.
+[59] L. da Silva, L. Buck, P. T. Simpson et al., “Molecular and
+morphological analysis of adenoid cystic carcinoma of the
+breast with synchronous tubular adenosis,” Virchows Archiv,
+vol. 454, no. 1, pp. 107–114, 2009.
+[60] R. L. Dodd and N. J. Slevin, “Salivary gland adenoid
+cystic carcinoma: a review of chemotherapy and molecular
+therapies,” Oral Oncology, vol. 42, no. 8, pp. 759–769, 2006.
+[61] J. Y. Ro, E. G. Silva, and H. S. Gallager, “Adenoid cystic
+carcinoma of the breast,” Human Pathology, vol. 18, no. 12,
+pp. 1276–1281, 1987.
+[62] M. Persson, Y. Andr´en, J. Mark, H. M. Horlings, F. Persson,
+and G. Stenman, “Recurrent fusion of MYB and NFIB
+transcription factor genes in carcinomas of the breast and
+head and neck,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 106, no. 44, pp.
+18740–18744, 2009.
+[63] B. Weigelt, H. M. Horlings, B. Kreike et al., “Reﬁnement of
+breast cancer classiﬁcation by molecular characterization of
+histological special types,” Journal of Pathology, vol. 216, no.
+2, pp. 141–150, 2008.
+[64] L. Vila, H. Liu, S. Z. Al-Quran, D. P. Coco, H. J. Dong, and
+C. Liu, “Identiﬁcation of c-kit gene mutations in primary
+adenoid cystic carcinoma of the salivary gland,” Modern
+Pathology, vol. 22, no. 10, pp. 1296–1302, 2009.
+[65] M. G. Mastropasqua, E. Maiorano, G. Pruneri et al.,
+“Immunoreactivity for c-kit and p63 as an adjunct in the
+diagnosis of adenoid cystic carcinoma of the breast,” Modern
+Pathology, vol. 18, no. 10, pp. 1277–1282, 2005.
+[66] S. Azoulay, M. La´e, P. Fr´eneaux et al., “KIT is highly
+expressed in adenoid cystic carcinoma of the breast, a basal-
+like carcinoma associated with a favorable outcome,” Modern
+Pathology, vol. 18, no. 12, pp. 1623–1631, 2005.
+[67] G. M. Crisi, S. A. Marconi, G. Makari-Judson, and R. A.
+Goulart, “Expression of c-kit in adenoid cystic carcinoma of
+the breast,” American Journal of Clinical Pathology, vol. 124,
+no. 5, pp. 733–739, 2005.
+[68] P. C. Edwards, T. Bhuiya, and R. D. Kelsch, “C-kit expression
+in the salivary gland neoplasms adenoid cystic carcinoma,
+polymorphous low-grade adenocarcinoma, and monomor-
+phic adenoma,” Oral Surgery, Oral Medicine, Oral Pathology,
+Oral Radiology, and Endodontics, vol. 95, no. 5, pp. 586–593,
+2003.
+[69] V. A. Holst, C. E. Marshall, C. A. Moskaluk, and H. F.
+Frierson, “Kit protein expression and analysis of c-kit gene
+mutation in adenoid cystic carcinoma,” Modern Pathology,
+vol. 12, no. 10, pp. 956–960, 1999.
+[70] Y. M. Jeng, C. Y. Lin, and H. C. Hsu, “Expression of the c-kit
+protein is associated with certain subtypes of salivary gland
+carcinoma,” Cancer Letters, vol. 154, no. 1, pp. 107–111, 2000.
+[71] A. Nordkvist, J. Mark, H. Gustafsson, G. Bang, and G.
+Stenman, “Non-random chromosome rearrangements in
+adenoid cystic carcinoma of the salivary glands,” Genes
+Chromosomes and Cancer, vol. 10, no. 2, pp. 115–121, 1994.
+[72] L. Barnes, U. Rao, J. Krause, L. Contis, A. Schwartz, and
+P. Scalamogna, “Salivary duct carcinoma. Part I. A clinico-
+pathologic evaluation and DNA image analysis of 13 cases
+with review of the literature,” Oral Surgery, Oral Medicine,
+Oral Pathology, vol. 78, no. 1, pp. 64–73, 1994.
+[73] O. Kleinsasser, H. J. Klein, and G. H¨ubner, “Salivary duct
+carcinoma. A group of salivary gland tumors analogous
+to mammary duct carcinoma,” Archiv fur Klinische und
+Experimentelle Ohren- Nasen- und Kehlkopfheilkunde, vol.
+192, no. 1, pp. 100–105, 1968.
+8
+International Journal of Otolaryngology
+[74] M. F. Press, L. Bernstein, P. A. Thomas et al., “HER-2/neu
+gene ampliﬁcation characterized by ﬂuorescence in situ
+hybridization: poor prognosis in node-negative breast carci-
+nomas,” Journal of Clinical Oncology, vol. 15, no. 8, pp. 2894–
+2904, 1997.
+[75] B. Moy and P. E. Goss, “Lapatinib: current status and future
+directions in breast cancer,” Oncologist, vol. 11, no. 10, pp.
+1047–1057, 2006.
+[76] H. C.J. Jaspers, B. M. Verbist, R. Schoﬀelen et al., “Androgen
+receptor-positive salivary duct carcinoma: a disease entity
+with promising new treatment options,” Journal of Clinical
+Oncology, vol. 29, no. 16, pp. e473–e476, 2011.
+[77] M. F. Press, M. C. Pike, G. Hung et al., “Ampliﬁcation and
+overexpression of HER-2/neu in carcinomas of the salivary
+gland: correlation with poor prognosis,” Cancer Research, vol.
+54, no. 21, pp. 5675–5682, 1994.
+[78] L. D. Locati, F. Perrone, M. Losa et al., “Treatment relevant
+target immunophenotyping of 139 salivary gland carcinomas
+(SGCs),” Oral Oncology, vol. 45, no. 11, pp. 986–990, 2009.
+[79] M. D. Gibbons, U. Manne, W. R. Carroll, G. E. Peters,
+H. L. Weiss, and W. E. Grizzle, “Molecular diﬀerences in
+mucoepidermoid carcinoma and adenoid cystic carcinoma
+of the major salivary glands,” Laryngoscope, vol. 111, no. 8,
+pp. 1373–1378, 2001.
+[80] C. Giannoni, A. K. El-Naggar, N. G. Ord˜noez et al., “c-
+erbB-2/neu oncogene and Ki-67 analysis in the assessment
+of palatal salivary gland neoplasms,” Otolaryngology—Head
+and Neck Surgery, vol. 112, no. 3, pp. 391–398, 1995.
+[81] L. H. P. Nguyen, M. J. Black, M. Hier, P. Chauvin, and L.
+Rochon, “HER2/neu and Ki-67 as prognostic indicators in
+mucoepidermoid carcinoma of salivary glands,” Journal of
+Otolaryngology, vol. 32, no. 5, pp. 328–331, 2003.
+[82] M. Jaehne, K. Roeser, T. Jaekel, J. David Schepers, N. Albert,
+and T. L¨oning, “Clinical and immunohistologic typing of
+salivary duct carcinoma: a report of 50 cases,” Cancer, vol.
+103, no. 12, pp. 2526–2533, 2005.
+[83] A. Etges, D. S. Pinto, L. P. Kowalski, F. A. Soares, and V.
+C. Ara´ujo, “Salivary duct carcinoma: immunohistochemical
+proﬁle of an aggressive salivary gland tumour,” Journal of
+Clinical Pathology, vol. 56, no. 12, pp. 914–918, 2003.
+[84] A. Sk´alov´a, I. St´arek, V. Kuerov´a, P. Sz´epe, and L. Plank,
+“Salivary duct carcinoma—a highly aggressive salivary gland
+tumor with HER-2/neu oncoprotein overexpression,” Pathol-
+ogy Research and Practice, vol. 197, no. 9, pp. 621–626, 2001.
+[85] C. Y. Fan, M. F. Melhem, A. Seﬁc Hosal, J. Rubin Grandis, and
+E. Leon Barnes, “Expression of androgen receptor, epidermal
+growth factor receptor, and transforming growth factor α in
+salivary duct carcinoma,” Archives of Otolaryngology—Head
+and Neck Surgery, vol. 127, no. 9, pp. 1075–1079, 2001.
+[86] C. Kari, T. O. Chan, M. Rocha de Quadros, and U. Rodeck,
+“Targeting the epidermal growth factor receptor in cancer:
+apoptosis takes center stage,” Cancer Research, vol. 63, no. 1,
+pp. 1–5, 2003.
+[87] M. A. Shupnik, “Crosstalk between steroid receptors and
+the c-Src-receptor tyrosine kinase pathways: implications for
+cell proliferation,” Oncogene, vol. 23, no. 48, pp. 7979–7989,
+2004.
+[88] M. P. Hoang, D. L. Callender, J. J. Sola Gallego et al., “Molec-
+ular and biomarker analyses of salivary duct carcinomas:
+comparison with mammary duct carcinoma,” International
+journal of oncology, vol. 19, no. 4, pp. 865–871, 2001.
+[89] M. D. Williams, D. B. Roberts, M. S. Kies, L. Mao, R. S. Weber,
+and A. K. El-Naggar, “Genetic and expression analysis of
+HER-2 and EGFR genes in salivary duct carcinoma: empirical
+and therapeutic signiﬁcance,” Clinical Cancer Research, vol.
+16, no. 8, pp. 2266–2274, 2010.
+[90] T. Shien, T. Tashiro, M. Omatsu et al., “Frequent overex-
+pression of epidermal growth factor receptor (EGFR) in
+mammary high grade ductal carcinomas with myoepithelial
+diﬀerentiation,” Journal of Clinical Pathology, vol. 58, no. 12,
+pp. 1299–1304, 2005.
+[91] M. R. Wick, D. M. Ockner, S. E. Mills, J. H. Ritter, and P.
+E. Swanson, “Homologous carcinomas of the breasts, skin,
+and salivary glands: a histologic and immunohistochemical
+comparison of ductal mammary carcinoma, ductal sweat
+gland carcinoma, and salivary duct carcinoma,” American
+Journal of Clinical Pathology, vol. 109, no. 1, pp. 75–84, 1998.
+[92] G. White and G. G. Garcelon, “Estrogen and combined
+estrogen and x-ray therapy; their eﬀects on advanced malig-
+nant salivary-gland tumors,” The New England Journal of
+Medicine, vol. 253, no. 10, pp. 410–412, 1955.
+[93] J. P. Jeannon, J. V. Soames, H. Bell, and J. A. Wilson,
+“Immunohistochemical detection of oestrogen and proges-
+terone receptors in salivary tumours,” Clinical Otolaryngology
+and Allied Sciences, vol. 24, no. 1, pp. 52–54, 1999.
+[94] A. S. Miller, G. G. Hartman, S. Y. Chen, P. R. Edmonds, S.
+A. Brightman, and R. D. Harwick, “Estrogen receptor assay
+in polymorphous low-grade adenocarcinoma and adenoid
+cystic carcinoma of salivary gland origin. An immunohis-
+tochemical study,” Oral Surgery Oral Medicine and Oral
+Pathology, vol. 77, no. 1, pp. 36–40, 1994.
+[95] P. J. Lamey, R. E. Leake, and S. K. Cowan, “Steroid hormone
+receptors in human salivary gland tumours,” Journal of
+Clinical Pathology, vol. 40, no. 5, pp. 532–534, 1987.
+[96] P. C. Shick, G. P. Riordan, and R. D. Foss, “Estrogen
+and progesterone receptors in salivary gland adenoid cystic
+carcinoma,” Oral Surgery, Oral Medicine, Oral Pathology, Oral
+Radiology and, vol. 80, no. 4, pp. 440–444, 1995.
+[97] L. Barnes, U. Rao, L. Contis, J. Krause, A. Schwartz, and P.
+Scalamogna, “Salivary duct carcinoma. Part II. Immunohis-
+tochemical evaluation of 13 cases for estrogen and proges-
+terone receptors, cathepsin D, and c-erbB-2 protein,” Oral
+Surgery, Oral Medicine, Oral Pathology, vol. 78, no. 1, pp. 74–
+80, 1994.
+[98] I. W. Dimery, L. A. Jones, R. P. Verjan, A. K. Raymond, H.
+Goepfert, and W. K. Hong, “Estrogen receptors in normal
+salivary gland and salivary gland carcinoma,” Archives of
+Otolaryngology—Head and Neck Surgery, vol. 113, no. 10, pp.
+1082–1085, 1987.
+[99] J. E. Lewis, B. C. McKinney, L. H. Weiland, J. A. Ferreiro, and
+K. D. Olsen, “Salivary duct carcinoma: clinicopathologic and
+immunohistochemical review of 26 cases,” Cancer, vol. 77,
+no. 2, pp. 223–230, 1996.
+[100] J. E. Barrera, K. R. Shroyer, S. Said et al., “Estrogen and
+progesterone receptor and p53 gene expression in adenoid
+cystic cancer,” Head and neck pathology, vol. 2, no. 1, pp. 13–
+18, 2008.
+[101] S. Dori, P. Trougouboﬀ, R. David, and A. Buchner,
+“Immunohistochemical evaluation of estrogen and proges-
+terone receptors in adenoid cystic carcinoma of salivary gland
+origin,” Oral Oncology, vol. 36, no. 5, pp. 450–453, 2000.
+[102] F. R. Pires, D. E.D.C. Perez, O. P. De Almeida, and L. P.
+Kowalski, “Estrogen receptor expression in salivary gland
+mucoepidermoid carcinoma and adenoid cystic carcinoma,”
+Pathology and Oncology Research, vol. 10, no. 3, pp. 166–168,
+2004.
+[103] S. M. Nasser, W. C. Faquin, and Y. Dayal, “Expression of
+androgen, estrogen, and progesterone receptors in salivary
+International Journal of Otolaryngology
+9
+gland tumors: frequent expression of androgen receptor in a
+subset of malignant salivary gland tumors,” American Journal
+of Clinical Pathology, vol. 119, no. 6, pp. 801–806, 2003.
+[104] S. B. Kapadia and L. Barnes, “Expression of androgen recep-
+tor, gross cystic disease ﬂuid protein, and CD44 in salivary
+duct carcinoma,” Modern Pathology, vol. 11, no. 11, pp. 1033–
+1038, 1998.
+[105] T. Moriki, S. Ueta, T. Takahashi, M. Mitani, and M. Ichien,
+“Salivary duct carcinoma: cytologic characteristics and appli-
+cation of androgen receptor immunostaining for diagnosis,”
+Cancer, vol. 93, no. 5, pp. 344–350, 2001.
+[106] E. F. Foley, A. A. Jazaeri, M. A. Shupnik, O. Jazaeri, and L.
+W. Rice, “Selective loss of estrogen receptor β in malignant
+human colon,” Cancer Research, vol. 60, no. 2, pp. 245–248,
+2000.
+[107] S. A. W. Fuqua, R. Schiﬀ, I. Parra et al., “Estrogen receptor
+β protein in human breast cancer: correlation with clinical
+tumor parameters,” Cancer Research, vol. 63, no. 10, pp.
+2434–2439, 2003.
+[108] E. Leygue, H. Dotzlaw, P. H. Watson, and L. C. Murphy,
+“Expression of estrogen receptor β,β2, and β5 messenger
+RNAs in human breast tissue,” Cancer Research, vol. 59, no.
+6, pp. 1175–1179, 1999.
+[109] M. Maggiolini, A. G. Recchia, A. Carpino et al., “Oestrogen
+receptor β is required for androgen-stimulated prolifera-
+tion of LNCaP prostate cancer cells,” Journal of Molecular
+Endocrinology, vol. 32, no. 3, pp. 777–791, 2004.
+[110] A. Str¨om, J. Hartman, J. S. Foster, S. Kietz, J. Wimalasena,
+and J. - ˚A. Gustafsson, “Estrogen receptor β inhibits 17β-
+estradiol-stimulated proliferation of the breast cancer cell
+line T47D,” Proceedings of the National Academy of Sciences of
+the United States of America, vol. 101, no. 6, pp. 1566–1571,
+2004.
+[111] N. A.C.S. Wong, R. D.G. Malcomson, D. I. Jodrell, N.
+P. Groome, D. J. Harrison, and P. T.K. Saunders, “ERβ
+isoform expression in colorectal carcinoma: an in vivo and in
+vitro study of clinicopathological and molecular correlates,”
+Journal of Pathology, vol. 207, no. 1, pp. 53–60, 2005.
+[112] A. Bardin, N. Boulle, G. Lazennec, F. Vignon, and P. Pujol,
+“Loss of ERβ expression as a common step in estrogen-
+dependent tumor progression,” Endocrine-Related Cancer,
+vol. 11, no. 3, pp. 537–551, 2004.
+[113] K. Pettersson, F. Delaunay, and J. A. Gustafsson, “Estrogen
+receptor β acts as a dominant regulator of estrogen signaling,”
+Oncogene, vol. 19, no. 43, pp. 4970–4978, 2000.
+[114] A. D. Elkin and C. D. Jacobs, “Tamoxifen for salivary gland
+adenoid cystic carcinoma: report of two cases,” Journal of
+Cancer Research and Clinical Oncology, vol. 134, no. 10, pp.
+1151–1153, 2008.
+[115] A. Shadaba, M. N. Gaze, and H. R. Grant, “The response of
+adenoid cystic carcinoma to tamoxifen,” Journal of Laryngol-
+ogy and Otology, vol. 111, no. 12, pp. 1186–1189, 1997.
+[116] D. Sharma, N. K. Saxena, N. E. Davidson, and P. M. Vertino,
+“Restoration of tamoxifen sensitivity in estrogen receptor-
+negative breast cancer cells: tamoxifen-bound reactivated ER
+recruits distinctve corepressor complexes,” Cancer Research,
+vol. 66, no. 12, pp. 6370–6378, 2006.
+[117] T. Yoshimura, T. Sumida, S. Liu et al., “Growth inhibition
+of human salivary gland tumor cells by introduction of
+progesterone (Pg) receptor and Pg treatment,” Endocrine-
+Related Cancer, vol. 14, no. 4, pp. 1107–1116, 2007.
+[118] M. A. Lopes, G. C. Santos, and L. P. Kowalski, “Multivariate
+survival analysis of 128 cases of oral cavity minor salivary
+gland carcinomas,” Head and Neck, vol. 20, no. 8, pp. 699–
+706, 1998.
+[119] A. S. Jones, J. W. Hamilton, H. Rowley, D. Husband, and T. R.
+Helliwell, “Adenoid cystic carcinoma of the head and neck,”
+Clinical Otolaryngology and Allied Sciences, vol. 22, no. 5, pp.
+434–443, 1997.
+[120] R. H. Spiro, “Distant metastasis in adenoid cystic carcinoma
+of salivary origin,” American Journal of Surgery, vol. 174, no.
+5, pp. 495–496, 1997.
+[121] D. Takagi, S. Fukuda, Y. Furuta et al., “Clinical study of
+adenoid cystic carcinoma of the head and neck,” Auris Nasus
+Larynx, vol. 28, supplement, pp. S99–S102, 2001.
+[122] P. Marandas, D. Dharkar, A. Davis et al., “Malignant tumours
+of the parotid: a study of 76 patients,” Clinical Otolaryngology
+and Allied Sciences, vol. 15, no. 2, pp. 103–109, 1990.

@@ -1,0 +1,1690 @@
+Prevalence of Homologous Recombination
+Pathway Gene Mutations in Melanoma:
+Rationale for a New Targeted Therapeutic
+Approach
+Kevin B. Kim1,2,6, Liliana Soroceanu2, David de Semir1,2, Sherri Z. Millis3, Jeffrey Ross3,4,
+Elham Vosoughi1,2, Altaf A. Dar1,2, Mehdi Nosrati1,2, Pierre-Yves Desprez2, Ryan Ice2, Michelle Chen2,
+Kashish Chetal5, Anukana Bhattacharjee5, John Moretto1, Stanley P. Leong1, Mark I. Singer1,
+Brian M. Parrett1, David R. Minor1, Sean McAllister2, James R. Miller III1,2, Nathan Salomonis5 and
+Mohammed Kashani-Sabet1,2,6
+Homologous recombination DNA damage repair (HR-DDR) deﬁcient patients with various solid tumors have
+been treated with PARP inhibitors. However, the clinical characteristics of patients with melanoma who have
+HR-DDR gene mutations and the consequences of PARP inhibition are poorly understood. We compared the
+commercially available next-generation sequencing data from 84 patients with melanomas from our institution
+with a dataset of 1,986 patients as well as 1,088 patients proﬁled in cBioportal. In total, 21.4% of patients had 1
+functional HR-DDR mutation, most commonly involving BRCA1, ARID1A, ATM, ATR, and FANCA. Concurrent
+NF1, BRAF, and NRAS mutations were found in 39%, 39%, and 22% of cases, respectively. HR-DDR gene mu-
+tation was associated with high tumor mutational burden and clinical response to checkpoint blockade. A
+higher prevalence of HR-DDR mutations was observed in the datasets from Foundation Medicine (Cambridge,
+CA) and those from the Cancer Genome Atlas. Treatment of HR-DDR‒mutated patient-derived xenograft
+models of melanoma with PARP inhibitor produced signiﬁcant antitumor activity in vivo and was associated
+with increased apoptotic activity. RNA sequencing analysis of PARP inhibitoretreated tumors indicated alter-
+ations in the pathways involving extracellular matrix remodeling, cell adhesion, and cell-cycle progression.
+Melanomas with HR-DDR mutations represent a unique subset, which is more likely to beneﬁt from checkpoint
+blockade and may be targeted with PARP inhibitor.
+Journal of Investigative Dermatology (2021) 141, 2028e2036; doi:10.1016/j.jid.2021.01.024
+INTRODUCTION
+The development of checkpoint inhibitors and, for V600
+BRAF-mutant melanoma, BRAF/MAPK/(extracellular signale
+regulated kinase) kinase‒targeted therapies has signiﬁcantly
+prolonged the overall survival (OS) of patients with advanced
+melanoma (Chapman et al., 2011; Hauschild et al., 2012;
+Larkin et al., 2014; Robert et al., 2015). However, a majority
+of patients will ultimately experience disease progression and
+will need subsequent treatments. The identiﬁcation of novel,
+actionable molecular targets for these patients would be
+highly desirable.
+PARP inhibition is one of the latest molecular targeting
+strategies in cancer. PARP is directly involved in the pre-
+vention of DNA double-strand breaks and is required for
+proper homologous recombination DNA damage repair (HR-
+DDR) (Bryant et al., 2009). Accordingly, the deﬁciency or
+dysfunction of HR-DDR sensitizes cancer cells to PARP in-
+hibitor (PARPi), resulting in chromosome instability, cell-
+cycle arrest, and apoptosis (Ashworth, 2008; Farmer et al.,
+2005). The loss or disruption of proteins necessary for HR-
+DDR is observed in many tumor types and may confer
+sensitivity to PARPis (Bell et al., 1999; Bullrich et al., 1999;
+Couch et al., 2005; Konstantinopoulos et al., 2010; Marsit
+et al., 2004; McCabe et al., 2006; Miller et al., 2002;
+Narayan et al., 2004; Turner et al., 2004; Vorechovsky et al.,
+1999; Walsh et al., 2011). Clinically, PARPis have shown
+promising clinical activity in patients with homologous
+recombination (HR)-deﬁcient tumors (Mirza et al., 2016;
+Swisher et al., 2017), with a prolongation of progression-free
+survival and/or OS in various cancers with a BRCA mutation
+and/or HR deﬁciency, including ovarian, breast, pancreatic,
+and prostate cancers (de Bono et al., 2020; Golan et al.,
+1Center for Melanoma Research and Treatment, California Paciﬁc Medical
+Center, San Francisco, California, USA; 2California Paciﬁc Medical Center
+Research Institute, San Francisco, California, USA; 3Foundation Medicine,
+Cambridge, Massachusetts, USA; 4Upstate Medical University, Syracuse,
+New York, USA; and 5Division of Biomedical Informatics, Cincinnati
+Children’s Hospital Medical Center, Cincinnati, Ohio, USA
+6These authors contributed equally to this work.
+Correspondence: Kevin B. Kim, Hematology Oncology, California Paciﬁc
+Medical Center Research Institute, 2333 Buchanan St, San Francisco,
+California 94115, USA. E-mail: kimkb@sutterhealth.org
+Abbreviations: FMI, Foundation Medicine; HR, homologous recombination;
+HR-DDR, homologous recombination- DNA damage repair; MM, melanoma
+model; OS, overall survival; PARPi, PARP inhibitor; PDX, patient-derived
+xenograft; TMB, tumor mutational burden
+Received 5 October 2020; revised 17 December 2020; accepted 11 January
+2021; accepted manuscript published online 19 February 2021; corrected
+proof published online 21 April 2021
+ORIGINAL ARTICLE
+Journal of Investigative Dermatology (2021), Volume 141
+ª 2021 The Authors. Published by Elsevier, Inc. on behalf of the Society for Investigative Dermatology. This is
+an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+2028
+2019; Litton et al., 2018; Mirza et al., 2016; Robson et al.,
+2017; Swisher et al., 2017), and have obtained regulatory
+approval for some of these cancers.
+In this study, we investigated the frequency of functional
+mutations in HR-DDR pathway genes in patients with
+advanced melanoma, along with their clinical and pathologic
+characteristics, and investigated the preclinical activity of
+PARPi in melanoma cell lines with HR-DDR pathway gene
+mutations.
+RESULTS
+Frequency of HR-DDR pathway gene mutations
+Genomic analysis was conducted on samples from 84 pa-
+tients with metastatic (i.e., stage III or IV) cutaneous mela-
+noma. Tumors of 18 patients (21.4%) harbored an alteration
+in at least one of the HR genes categorized as pathogenic or
+likely pathogenic, which was known or considered to result
+in a change to the function of the protein likely to disrupt
+DNA repair. The most commonly altered genes were BRCA1
+and ARID1A (3.6% each), followed by ATM, ATR, and
+FANCA (2.4% each) (Table 1). Mutations in ATRX, BRIP1,
+BAP1, CHEK2, BARD1, MRE11, FANCD2, ARID1B, and
+PALB2 (1.2%) were found in one patient each. Two patients
+had concurrent mutations in multiple HR-DDR pathway
+genes within the same melanoma sample: one with muta-
+tions in ARID1A, BRCA1, and MRE11 and the other with
+mutations in ARID1B and BRCA1. Among patients with HR
+mutation(s), concurrent NF1, V600 BRAF, NRAS, and KIT
+mutations were found in seven patients (38.9%), seven pa-
+tients (38.9%), four patients (22.2%), and one patient (5.6%),
+respectively. To conﬁrm the frequency of HR deﬁciency in a
+larger cohort of patients with melanoma, next-generation
+sequencing data of 1,986 melanoma samples performed by
+Foundation Medicine (FMI) (Cambridge, CA) were evaluated.
+Analysis of the FMI cohort identiﬁed 33.5% of cases with HR-
+DDR alterations (Table 1), consistent with our ﬁndings. In this
+dataset, the most common mutated gene was ARID1A
+(5.0%), followed by ATM (4.0%), BAP1 (3.1%), ATRX (2.8%),
+BRCA2 (2.3%), FANCG/L (2%), ATR (1.6%), BRCA1 (1.3%),
+BRIP1 (1.1%), NBN (1.0%), and FANCA (1.0%). Interestingly,
+15 of the mutations identiﬁed in HR-DDR genes have not
+been previously reported in the Catalogue of Somatic Mu-
+tations
+in
+Cancer
+database
+(https://cancer.sanger.ac.uk/
+cosmic and Supplementary Table S1). Analysis of the 1,088
+proﬁled patients with melanoma in cBioportal also identiﬁed
+a high prevalence of HR-DDR pathway gene mutations
+(Table 1).
+Patients and tumor characteristics
+Among the 18 patients with HR-deﬁcient melanoma, the
+median age was 68 years. A total of 14 patients (77.8%) were
+male, and 11 patients (73.3%) had a primary melanoma in
+the head and neck (Table 2). Among the 14 patients with HR
+deﬁciency with known status of ulceration and dermal
+mitotic rates in the primary tumor, 12 (85.7%) had non-
+ulcerated melanoma and 12 (85.7%) had a mitotic rate 1/
+mm2. Among 16 patients with known tumor mutational
+burden (TMB), TMB was high in 11 patients (68.8%) and low
+in 3 patients (18.8%). Among nine patients with HR deﬁ-
+ciency who were treated with anti‒PD-1 antibody (with or
+without anti-CTLA4 antibody), six (66.7%) had a clinical
+response, and only one patient (11.1%) experienced early
+disease progression within 3 months.
+These
+clinical
+and
+pathologic
+characteristics
+were
+compared with those of 66 patients whose tumors did not
+harbor an HR-DDR pathway gene alteration. HR-DDR
+pathway
+alterations
+were
+signiﬁcantly
+associated
+with
+thinner primary tumors, a higher proportion of head and neck
+primary melanoma, high TMB, and increased proportion of
+responders to anti‒PD-1 antibody‒based therapy (Table 2).
+Interestingly, there was a signiﬁcantly higher proportion of
+thinner tumors (up to 2-mm thick) in the HR-DDR‒mutated
+group (P ¼ 0.03, Table 2). In addition, 45% of the patients
+without HR-DDR alteration had early disease progression
+within 3 months after starting anti‒PD-1‒based therapy
+compared with 11.1% in the HR-DDR‒mutated group (P ¼
+0.03). By univariate Cox regression analysis, increasing age
+and tumor thickness as well as response to PD-1 blockade
+were signiﬁcantly predictive of OS, whereas there was no
+signiﬁcant association between HR-DDR pathway gene
+mutational status and OS (Table 3). Multivariate analysis of
+the factors signiﬁcant on univariate analysis identiﬁed PD-1
+response as the most signiﬁcant factor predictive of survival
+in this cohort (P ¼ 0.008), followed by age (P ¼ 0.046) and
+tumor thickness (P ¼ 0.048).
+Effects of PARP inhibition on melanoma cells with HR
+pathway mutation
+Although the tissue-based analysis presented earlier deter-
+mined a relatively high prevalence of HR-DDR pathway gene
+mutations in melanoma, whether the presence of such mu-
+tations confers sensitivity to PARPis in melanoma cells has
+not been clearly demonstrated. To this end, we screened our
+library of in-house patient-derived xenograft (PDX) models of
+melanoma and identiﬁed two lines for further analysis:
+MM425 (harboring mutations in BRCA1 and ARID1B) and
+MM390 (harboring a mutation in the CHD2 gene). The
+CHD2 gene was of interest because it directly interacts with
+PARP1 (Luijsterburg et al., 2016) even though it was not
+included in the original list of HR-DDR pathway genes.
+Analysis of our institutional, FMI, and cBioportal datasets
+indicated a 1%, 1%, and 4% prevalence of CHD2 mutations
+in melanoma, respectively.
+Initially, a dose-ﬁnding study was conducted to determine
+the tolerable doses of two PARPis, niraparib and olaparib, in
+NSG mice. On the basis of this, a dose of 25 mg/kg (for
+niraparib; #S2741, Selleck Chemicals, Houston, TX) and a
+dose of 50 mg/kg (for Olaparib; #S1060, Selleck Chemicals)
+were selected for antitumor studies. Daily intraperitoneal
+injections of either olaparib or niraparib resulted in signiﬁ-
+cant antitumor effects against both MM425X (Figure 1a) and
+MM390X (Figure 1b) cells. To determine the transcriptomic
+proﬁles altered after niraparib treatment, RNA sequencing
+was performed in MM425 tumors from three mice treated
+with niraparib compared with three mice treated with
+vehicle. Gene ontology analysis indicated alterations in the
+cell cycle, cell movement, integrin signaling, and collagen
+and matrix remodeling as well as in triglyceride metabolism
+and fatty acid and cholesterol biosynthesis pathways. Super-
+vised analysis of the niraparib-treated samples versus that of
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+www.jidonline.org
+2029
+vehicle-treated
+samples
+identiﬁed
+268
+differentially
+expressed genes (Figure 1c). Of these, 28 genes were upre-
+gulated and 16 were downregulated
+at least 1.5-fold
+(Supplementary Table S2). Among the signiﬁcantly differen-
+tially expressed genes were AXL, COXL1, COL1A2, COL3A1,
+DPT, and LOXL1 (downregulated) as well as ALDOC,
+ALDH3B2,
+and
+FADS2
+(upregulated).
+The
+differential
+expression of several of these genes was conﬁrmed by
+quantitative real-time reverse transcriptase‒PCR analysis.
+Niraparib-induced modulation of gene expression was vali-
+dated for all the genes listed earlier, whereas olaparib had a
+similar effect on expression levels of most of the genes
+analyzed (Figure 1d).
+We then performed additional analyses in culture to further
+characterize the consequences of niraparib treatment in
+melanoma cell lines. We initially assessed the effects of nir-
+aparib
+treatment
+on
+melanoma
+cell
+viability.
+In
+vitro
+administration of niraparib at concentrations between 1 mM
+and 60 mM resulted in the suppression of the survival of both
+MM425X and MM390X cells (Figure 1e and f, respectively).
+In contrast, treatment of MM507X cells, which did not
+contain detectable HR mutations, resulted in minimal sup-
+pression of survival (Figure 1g). Treatment of MM425X and
+MM390X cells also resulted in the induction of apoptosis
+(Figure 1h and i). Because neither PDX line persists in the
+culture for an extended period of time, we also evaluated the
+effects of niraparib treatment on the established LOX human
+melanoma cell line, which harbors mutations in ARID1A and
+BAP1 genes. Short-term (72-hour) niraparib treatment sup-
+pressed LOX cell viability (Figure 2a), whereas longer-term
+(8-day) exposure resulted in profound suppression of the
+colony formation capacity of LOX cells (Figure 2b and c). The
+growth suppression observed was accompanied by marked
+induction of apoptotic activity (Figure 2d) as well as
+Table 1. Frequency of Functional HR-DDR Pathway
+Gene Mutations in Melanoma
+Gene
+CPMCRI
+Cohort (n [ 841),
+n (%)
+Foundation
+Medicine Cohort
+(n [ 1,986), %
+cBioportal Cohort
+(9 studies;
+n [ 1,0882), %
+BRCA1
+3 (3.6)
+1.3
+5
+ARID1A
+3 (3.6)
+5
+7
+ATM
+2 (2.4)
+4
+7
+ATR
+2 (2.4)
+1.6
+7
+FANCA
+2 (2.4)
+1
+4
+ATRX
+1 (1.2)
+2.8
+7
+BRIP1
+1 (1.2)
+1.1
+4
+BAP1
+1 (1.2)
+3.1
+2.3
+CHEK2
+1 (1.2)
+0.7
+2.5
+BARD1
+1 (1.2)
+0.2
+1.7
+MRE11
+1 (1.2)
+<1
+2.4
+FANCD2
+1 (1.2)
+0.2
+5
+ARID1B
+1 (1.2)
+0.1
+6
+PALB2
+1 (1.2)
+0.5
+4
+NBN
+0 (0)
+1
+2.1
+BRCA2
+0 (0)
+2.3
+8
+FANCC
+0 (0)
+0.4
+1.2
+FANCE
+0 (0)
+0
+1.7
+FANCF
+0 (0)
+0
+0.3
+FANCG
+0 (0)
+2
+1.5
+FANCL
+0 (0)
+2
+1.7
+WRN
+0 (0)
+ND
+5
+BLM
+0 (0)
+0.2
+3
+RAD50
+0 (0)
+0.9
+2.4
+RAD51
+0 (0)
+0.2
+0.8
+RAD51B
+0 (0)
+0
+1.3
+RAD51C
+0 (0)
+0.3
+1.3
+Total
+181 (21.4)
+33.5
+412
+Abbreviations: CPMCRI, California Paciﬁc Medical Center Research
+Institute; HR, homologous recombination; HR-DDR, homologous
+recombination DNA damage repair; ND, not determined.
+1A total of 18 of 84 patients harbored at least one HR pathway gene
+mutation.
+2A total of 444 of 1,088 patients harbored at least one HR pathway gene
+mutation.
+Table 2. Clinical and Pathologic Characteristics of
+Patients with HR Pathway Gene Mutations
+Characteristics
+HR Mutation
+(n [ 18)
+Non-HR
+Mutation
+(n [ 66)
+P-Value
+Age, y, median (range)
+68 (52‒81)
+65 (21‒91)
+0.21
+Sex, n (%)
+Male
+14 (77.8)
+40 (60.6)
+0.41
+Female
+4 (22.2)
+26 (39.4)
+Primary melanoma site, n (%)
+Head and neck
+11 (73.3)
+15 (25.4)
+0.001
+Torso
+3 (20)
+14 (23.7)
+Extremities
+1 (6.7)
+30 (50.9)
+Melanoma thickness (mm), n (%)
+Up to 1
+3 (21.4)
+4 (7.3)
+0.03
+>1e2
+5 (35.7)
+15 (27.3)
+>2e4
+1 (7.2)
+25 (45.4)
+>4
+5 (35.7)
+11 (20)
+Median
+1.6
+2.6
+0.46
+Ulceration status, n (%)
+Present
+2 (14.3)
+25 (46.3)
+0.06
+Absent
+12 (85.7)
+29 (53.7)
+Mitotic rate (mitosis/mm2), n (%)
+<1
+2 (14.3)
+2 (4.2)
+0.57
+1
+12 (85.7)
+46 (95.8)
+Median
+6
+3
+0.41
+Tumor mutation burden, n (%)
+Low
+3 (18.8)
+27 (43.5)
+0.03
+Intermediate
+2 (12.5)
+15 (24.2)
+High
+11 (68.8)
+20 (32.3)
+Median
+10.8
+65.8
+0.02
+Concurrent genetic mutation, n (%)
+NF1
+7 (38.9)
+7 (10.6)
+0.03
+NRAS (Q61, G12, G13)
+4 (22.2)
+23 (34.9)
+0.57
+BRAF (V600)
+7 (38.9)
+28 (42.4)
+1.00
+KIT
+1 (5.6)
+1 (1.5)
+1.00
+Median time to distant metastasis
+from initial diagnosis, mo (range)
+45.0 (0.7‒243) 25.0 (0‒247)
+0.81
+Response to anti‒PD-1 antibody
+inhibitors (ipilimumab), n (%)
+Response
+6 (66.7)
+16 (40.0)
+Stable disease
+2 (22.2)
+6 (15.0)
+Progressive disease
+1 (11.1)
+18 (45.0)
+0.03
+Abbreviation: HR, homologous recombination.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+Journal of Investigative Dermatology (2021), Volume 141
+2030
+pronounced changes in the cell cycle, including reduced S
+phase and a G2/M block (Figure 2e). As described earlier,
+RNA sequencing analysis of niraparib-treated PDX samples
+showed inhibition of pathways regulating cell movement and
+matrix remodeling. Because MM425X and MM390X PDX
+lines did not exhibit an invasive behavior in Matrigel or
+vitronectin-coated transwell assays, we used LOX cells to
+interrogate the functional consequences of niraparib-induced
+changes on melanoma cell invasion. As shown in Figure 2f
+and g, both 3 mM and 6 mM niraparib treatment induced
+signiﬁcant inhibition of cell invasion into Matrigel. Further-
+more, TaqMan analyses of niraparib-treated LOX cells
+compared with that of vehicle-treated LOX cells showed a
+downregulation of the expression of the following genes
+known
+to
+regulate
+cell
+invasion
+and
+migration:
+AXL,
+COL3A1, DPT, and LOXL1 (similar to those of MM425X,
+Figure 2h).
+DISCUSSION
+In this study, we show that HR-DDR pathway gene mutations
+occur frequently in cutaneous melanoma because 21.4% of
+melanomas harbored at least one HR-DDR pathway gene
+alteration in our cohort. Analysis of our cohort identiﬁed
+mutations in several genes that have not been previously re-
+ported in the Catalogue of Somatic Mutations in Cancer
+database either in melanoma or in any other malignancy. Our
+ﬁndings were corroborated by analyses of two larger cohorts,
+with a prevalence of 33.5% in the FMI cohort and a preva-
+lence of 41% in cBioportal. In our cohort, the presence of HR-
+DDR pathway gene mutation was associated with a signiﬁ-
+cantly higher proportion of thinner primary tumors, a higher
+proportion of head and neck primary tumors, higher TMB, and
+concurrent NF1 mutation. Intriguingly, in a small number of
+patients treated with systemic therapy, the majority of patients
+with HR-DDR pathway gene mutations responded to anti‒PD-
+1 antibody‒based immunotherapy, including a signiﬁcantly
+higher objective response rate to a single-agent anti‒PD-1
+antibody (66.7% vs. 40.0%). It is difﬁcult to ascertain whether
+the presence of HR deﬁciency or TMB is a better predictor of
+response to checkpoint inhibition in advanced cutaneous
+melanoma at this time. It should be noted that the deﬁnition of
+a high TMB in our analysis is different from the more recent
+deﬁnition of high TMB (10 mutations per megabase) for
+which pembrolizumab treatment is indicated in other solid
+tumors. Clinical responses to BRAF inhibitors or cytotoxic
+chemotherapy could not be evaluated because few patients
+were treated with these agents. Although in our analysis there
+was no signiﬁcant difference in OS between patients with HR
+deﬁciency and those without, the number of patients was too
+small to make a deﬁnite conclusion about the prognostic
+impact of these mutations. However, response to PD-1
+blockade was signiﬁcantly associated with prolonged sur-
+vival and was the most signiﬁcant factor in multivariate
+analysis.
+To our knowledge, there have not been any other studies to
+characterize the HR-DDR mutant population in cutaneous
+melanoma. Heeke et al. (2018) conducted a pan-cancer
+analysis of 52,426 patients across multiple solid tumors un-
+dergoing next-generation sequencing using a different com-
+mercial platform in which melanoma was included. This
+study reported an 18.1% prevalence of HR-DDR mutations in
+melanoma. Differences between the two studies include
+differences in the testing platforms used, differences in the
+gene set used to deﬁne HR-DDR, as well as the speciﬁc focus
+on cutaneous melanoma in our study. Nevertheless, both
+analyses indicate that HR-DDR mutations are common
+events in melanoma.
+Beyond the apparent positive correlation between the
+presence of HR-DDR pathway gene mutations and response
+to checkpoint inhibitor therapy, the therapeutic implications
+of these mutations in the management of advanced mela-
+noma are not clear. The preclinical efﬁcacy evaluation in this
+study conﬁrmed our hypothesis that mutations within HR-
+DDR
+pathways
+are
+associated
+with
+response
+to
+two
+different PARPi in two distinct PDX models with mutations in
+different HR-DDR pathway genes. These studies also identify
+Table 3. Univariate Cox Regression Analysis of Clinical Factors in Patients with Metastatic Melanoma: Time to
+Death from the Initial Diagnosis
+Clinical Factor
+n
+Chi-Square
+P-Value
+Hazard Ratio
+Comparative Factors
+HR pathway gene mutation
+82
+0.84
+0.36
+0.64
+—
+Age
+82
+5.51
+0.019
+1.39
+—
+Gender
+82
+0.86
+0.35
+1.41
+—
+Primary site
+73
+0.70
+0.40
+0.74
+—
+Melanoma thickness
+68
+4.53
+0.03
+1.58
+—
+Ulceration
+67
+1.2
+0.27
+1.54
+—
+Mitotic rate
+61
+0.30
+0.58
+1.02
+—
+Tumor mutation burden
+76
+2.61
+0.11
+1.82
+Low versus high þ Intermediate
+Concurrent genetic mutation
+BRAF
+82
+0.77
+0.38
+0.72
+—
+NRAS
+82
+0.38
+0.54
+0.79
+—
+NF1
+82
+1.02
+0.31
+1.55
+—
+Response to PD-1 antibody
+39
+9.33
+0.002
+7.13
+PD versus PR þ CR
+47
+6.44
+0.01
+2.92
+PD versus PR and/or CR and/or SD
+Abbreviations: CR, complete response; HR, homologous recombination; PD, progressive disease; PR, partial response; SD, stable disease.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+www.jidonline.org
+2031
+h
+0
+Live
+72.4%
+Late Apop./Dead
+Dead
+Vehicle
+0
+1
+2
+3
+4
+1
+2
+ANNEXIN V
+Early Apop.
+3
+4
+VIABILITY
+Apop = 36.9 ± 5%
+0
+Live
+62.4%
+Late Apop./Dead
+Dead
+Niraparib
+0
+1
+2
+3
+4
+1
+2
+ANNEXIN V
+Early Apop.
+3
+4
+VIABILITY
+Apop = 44.1 ± 3%
+i
+0
+Live
+58.5%
+Late Apop./Dead
+Dead
+Niraparib
+0
+1
+2
+3
+4
+1
+2
+ANNEXIN V
+Early Apop.
+3
+4
+VIABILITY
+Apop = 33 ± 7%
+0
+Live
+66.7%
+Late Apop./Dead
+Dead
+Vehicle
+0
+1
+2
+3
+4
+1
+2
+ANNEXIN V
+Early Apop.
+3
+4
+VIABILITY
+Apop = 23.1 ± 7%
+e
+–6.5
+0
+25
+50
+75
+100
+125
+–6.0
+–5.5
+–5.0
+Concentration LogM
+MM425X
+–4.5
+–4.0
+Viability
+f
+–6.5
+0
+25
+50
+75
+100
+125
+–6.0
+–5.5
+–5.0
+Concentration LogM
+MM390X
+–4.5
+–4.0
+Viability
+g
+–7.0
+0
+25
+50
+75
+100
+125
+–6.0 –5.5 –5.0
+Concentration LogM
+MM507X
+–4.5 –4.0
+–6.5
+Viability
+c
+Niraparib
+Extracellular Matrix
+Cell adhesion
+Integrin Signaling
+Cell substrate adhesion
+G1/S transition cell cycle
+Cholesterol biosynthesis
+TG metabolic process
+Endoplasmic Reticulum
+Isoprenoid biosynthesis
+Pathways
+Control
+–0.3 –0.2 –0.1 0.0
+Differential Expression (log2)
+0.1 0.2 0.3
+d
+0.0
+Relative Expression normalized to HMBS
+1.5
+1.0
+0.5
+AXL
+COL1A2
+COL3A1
+DPT
+LOXL1
+ALDH3B2
+ALDOC
+FADS2
+Niraparib
+Vehicle
+Olaparib
+a
+1
+10
+Days
+MM425X
+Tumor Volume (mm3)
+20
+0
+400
+300
+200
+100
+30
+Vehicle
+Niraparib
+Olaparib
+b
+1
+10
+Days
+MM390X
+Tumor Volume (mm3)
+20
+0
+400
+300
+200
+100
+30
+**
+**
+Vehicle
+Niraparib
+Olaparib
+Figure 1. PARPis exert a potent antitumor effect against melanoma PDXs in vivo. (a) MM425X- and (b) MM390X-bearing NSG mice were treated with niraparib
+(25 mg/kg) or olaparib (50 mg/kg) for 30 days. **P < 0.0001 two-way ANOVA. (c) Heatmap of the RNA-Seq analysis of niraparib-treated samples versus that of
+vehicle-treated MM425X samples (three mice per group) representing the top 268 up and downregulated genes with key modulated pathways (left). (d) Relative
+expression of AXL, COL1A2, COL3A1, DPT, LOXL1, ALDH3B2, ALDOC, and FADS2 genes by qRT-PCR in MM425X tumors from mice treated with vehicle,
+olaparib, or niraparib and normalized to the human HMBS gene. Cell survival analysis of (e) MM425X, (f) MM390X, and (g) MM507X treated with niraparib (1‒
+60 mM; treated for 72 hours). The X-axis represents 0.1 mM (‒7.0, concentration LogM) to 100 mM (‒4.0, concentration LogM). Analysis of Apop in (h) MM425X
+and (i) MM390X cells treated with vehicle or niraparib (6 mM). Apop, apoptosis; PARPi, PARP inhibitor; PDX, patient-derived xenograft; qRT-PCR, quantitative
+real-time reverse transcriptase‒PCR; RNA-Seq, RNA sequencing; TG, triglyceride.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+Journal of Investigative Dermatology (2021), Volume 141
+2032
+d
+0
+88.53 %
+Live
+Late Apop./Dead
+Dead
+Vehicle
+0
+1
+2
+3
+4
+1
+2
+Annexin V
+Early Apop.
+3
+4
+Viability
+Apop  = 11.2 ± 1.22%
+Dead
+Niraparib 3 µM
+0
+71.58 %
+Live
+Late Apop./Dead
+0
+1
+2
+3
+4
+1
+2
+Annexin V
+Early Apop.
+3
+4
+Viability
+Apop = 23 ± 1.5%
+Dead
+0
+59.98 %
+Live
+Apop = 36.2 ± 1.3
+Late Apop./Dead
+Niraparib 6 µM
+0
+1
+2
+3
+4
+1
+2
+Annexin V
+Early Apop.
+3
+4
+Viability
+e
+0
+0
+100
+200
+300
+Counts
+400
+500
+1
+2
+3
+Vehicle
+G0/G1
+60.2 ± 0.62%
+S phase 16.7 ± 0.5%
+G2/M
+22.3 ± 0.8%
+DNA Content Index
+4
+5
+0
+0
+100
+200
+300
+Counts
+400
+500
+1
+2
+3
+Niraparib 6 µM
+G0/G1
+11.9 ± 1.4%
+S phase 7.0 ± 0.52%
+G2/M
+81.1 ± 1.51%
+DNA Content Index
+4
+5
+0
+0
+100
+200
+300
+Counts
+400
+500
+1
+2
+3
+Niraparib 3 µM
+G0/G1
+47.2 ± 1.2%
+S phase 11.0 ± 1.9%
+G2/M
+41.8 ± 2.9%
+DNA Content Index
+4
+5
+a
+0
+50
+Cell Survival (%)
+100
+150
+–7.0
+–6.5
+–6.0
+–5.5
+Log (Niraparib) µM
+–5.0
+–4.5
+–4.0
+c
+0
+50
+100
+150
+200
+Vehicle
+Average Colony Number
+Niraparib 3 µM
+Niraparib 6 µM
+b
+Vehicle
+Niraparib 3 µM
+Niraparib 6 µM
+g
+Vehicle
+Niraparib 3 µM
+Niraparib 6 µM
+0
+50
+100
+150
+200
+Average Invading Cells
+h
+AXL
+COL3A1
+DPT
+LOXL1
+1.5
+Expression normalized
+to HMBS
+1.0
+0.5
+0.0
+Vehicle
+Niraparib
+f
+Vehicle
+Nira 3 µM
+Nira 6 µM
+Figure 2. Niraparib regulates viability, Apop, colony formation, cell-cycle progression, and invasion in LOX cells. (a) Cell survival analysis of LOX cells treated
+with niraparib. (b) Colony formation ability of LOX cells treated with vehicle or niraparib (3 mM and 6 mM). (c) Quantiﬁcation of colony formation in LOX cells
+treated as described in b. (d) Analysis of Apop in LOX cells treated with vehicle or niraparib (3 mM and 6 mM). (e) Cell-cycle analysis of LOX cells treated with
+vehicle or niraparib (3 mM and 6 mM). (f) Representative pictograph showing LOX cells invading into Matrigel after niraparib treatment for 48 hours. (g)
+Quantiﬁcation of LOX cell invasion after niraparib treatment. (h) Relative expression of AXL, COL3A1, DPT, and LOXL1 genes by qRT-PCR in LOX cells treated
+with vehicle or niraparib (6 mM) for 48 hours and normalized to the human HMBS gene. Apop, apoptosis; qRT-PCR, quantitative real-time reverse transcriptase‒
+PCR.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+www.jidonline.org
+2033
+CHD2 mutations as a potential candidate for PARPi therapy,
+even though CHD2 is not a part of the known HR complex.
+Furthermore, culture assays indicated that niraparib treat-
+ment induced apoptosis and inhibited the viability, colony
+formation, and invasiveness of melanoma cells. Molecular
+proﬁling of treated PDX tumor tissues identiﬁed a unique
+gene expression signature of response to niraparib, charac-
+terized by inhibition of cell motility and matrix remodeling,
+which represent the hallmarks of invasive metastatic mela-
+noma. Speciﬁcally, we show that niraparib treatment inhibi-
+ted the expression of collagen genes (COL3A1 and COL1A2)
+in a melanoma PDX. In addition to its role in extracellular
+matrix regulation, COL3A1 expression level is a negative
+prognostic biomarker in ovarian carcinoma (Engqvist et al.,
+2019). LOX levels have been associated with aggressive tu-
+mor
+growth
+and
+shorter
+survival
+in
+uveal
+melanoma
+(Abourbih et al., 2010). This enzyme and the related protein
+LOXL1 directly regulate the cross linking of extracellular
+matrix proteins and thus regulate cancer metastasis (Xiao and
+Ge, 2012), including promoting melanoma lung metastasis
+(Lee et al., 2011). Importantly, niraparib treatment of mela-
+noma PDX samples inhibited the expression levels of AXL.
+Elevated AXL expression has recently been shown to be
+associated with therapeutic resistance in melanoma and
+correlated with an invasive gene signature (Konieczkowski
+et al., 2014; Mu¨ller et al., 2014). A few of the niraparib-
+upregulated genes (ALDOC and FADS2) are associated
+with treatment-induced tumor metabolic reprogramming
+(Ward and Thompson, 2012). Taken together, our results
+suggest that niraparib treatment disrupts multiple key path-
+ways important to tumor progression, including some that
+have not been previously described for any PARPi.
+Our preclinical results are consistent with emerging evi-
+dence in other cancer types that have identiﬁed HR deﬁ-
+ciency as a useful predictive biomarker for PARPi treatment.
+In two randomized trials in patients with germline BRCA-
+mutant, HER-2‒negative advanced breast cancer, PARPi
+treatment was associated with signiﬁcant progression-free
+survival improvement over physician’s choice of chemo-
+therapy, for olaparib over chemotherapy and for talazoparib
+over chemotherapy (Litton et al., 2018; Robson et al., 2017).
+Similar beneﬁts in progression-free survival have been shown
+with various PARPis in patients with metastatic ovarian can-
+cer with either a germline or somatic BRCA mutation
+(Swisher et al., 2017), in patients with germline BRCA-mutant
+pancreatic cancer (Golan et al., 2019), and most recently, in
+patients with castration-resistant prostate cancer (de Bono
+et al., 2020). Intriguingly, PARPis also impart a clinical
+beneﬁt to patients with nongermline BRCA-mutant, HR-
+deﬁcient malignancies. In a phase III study of niraparib in
+patients with recurrent ovarian cancer, maintenance therapy
+with niraparib had a statistically signiﬁcant survival advan-
+tage over placebo, including a clinically meaningful beneﬁt
+to PARP inhibition in patients with cancer with HR deﬁ-
+ciency, regardless of BRCA mutation status (Mirza et al.,
+2016). Similar ﬁndings were reported with olaparib and
+rucaparib, another PARPi, in prostate cancer (Abida et al.,
+2020; de Bono et al., 2020) and rucaparib in ovarian can-
+cer (Swisher et al., 2017). Whereas two clinical trials evalu-
+ated the clinical efﬁcacy of PARP inhibition in combination
+with temozolomide in patients with metastatic melanoma
+(Middleton et al., 2015; Plummer et al., 2013), these studies
+were conducted in unselected patient populations. Thus, to
+date, the antitumor activity of PARP inhibition in melanomas
+with HR-DDR gene alteration has not been evaluated. It will
+be important to determine whether (and which of) these HR-
+DDR pathway gene mutations, which have been reported to
+cause signiﬁcant disruption in DNA repair, will result in
+sensitivity to PARPi in patients with advanced melanoma. On
+the basis of our ﬁnding of frequent HR deﬁciency and the
+strong rationale for a PARPi in this patient population, we have
+initiated a phase II clinical trial of niraparib in patients with
+advanced melanoma harboring an HR-DDR pathway gene
+mutation and are currently enrolling patients (NCT03925350).
+In summary, our study characterized the HR-DDR‒mutant
+cohort in cutaneous melanoma, supported by analysis of two
+large, molecularly proﬁled cohorts of patients with mela-
+noma, and identiﬁed previously unreported mutations in
+various HR-DDR pathway genes in melanoma. However,
+analyses of additional data sets will be necessary to conﬁrm
+the
+signiﬁcant
+association
+observed
+between
+HR-DDR
+pathway gene mutations and response to checkpoint inhibi-
+tor therapy. In addition, our preclinical studies suggest robust
+activity of PARPi in the setting of HR deﬁciency in melanoma
+and have identiﬁed a unique gene signature of response to
+PARP inhibition. Thus, our results suggest that melanomas
+with these alterations may deﬁne a unique subset of patients
+with distinct biologic and clinical characteristics. More
+importantly, our results suggest the potential clinical efﬁcacy
+of PARP inhibition in patients with melanoma with HR
+pathway gene mutations, a hypothesis that is currently being
+tested in a clinical trial.
+MATERIALS AND METHODS
+Approval for this study, including a waiver of informed consent and a
+Health Insurance Portability and Accountability Act waiver autho-
+rization, was obtained from the Sutter Health Institutional Review
+Board and the Western Institutional Review Board. We searched the
+Institutional Tumor Registry Database and Melanoma Center Data-
+base at California Paciﬁc Medical Center (San Francisco, CA) for
+patients with a diagnosis of metastatic melanoma. We performed a
+retrospective medical record review of all patients with metastatic
+cutaneous melanoma whose tumors were analyzed by the hybrid
+capture‒based next-generation sequencing technique (Foundatio-
+nOne) that included the entire coding sequence of 315 cancer-
+related genes performed by FMI using formalin-ﬁxed, parafﬁn-
+embedded tumor samples (Frampton et al., 2013). For this analysis,
+we deﬁned the following genes as HR-DDR pathway genes:
+ARID1A, ARID1B, ATM, ATR, ATRX, BAP1, BARD1, BLM, BRCA1,
+BRCA2,
+BRIP1,
+CHEK2,
+FANCA/C/D2/E/F/G/L,
+MRE11,
+NBN,
+PALB2, RAD50, RAD51, RAD51B/C, and WRN. Mutations were
+included on the basis of information contained in the Catalog of
+Somatic Mutations in Cancer and ClinVar databases for evidence of
+pathogenicity of the speciﬁc alteration. From the sequencing anal-
+ysis, TMB was determined on 1.1 megabase pair of sequenced DNA
+and calculated as previously described (Chalmers et al., 2017). High
+and low TMBs were deﬁned as >20 and <6 mutations per mega-
+base, respectively. The patient and tumor characteristics were ob-
+tained from electronic health records. We included patients with
+advanced melanoma of cutaneous origin and of unknown primary
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+Journal of Investigative Dermatology (2021), Volume 141
+2034
+cutaneous site and excluded mucosal and uveal melanomas in this
+analysis. In addition, we included the frequency of HR pathway
+gene mutations among 1,986 patients with melanoma whose tumors
+were
+assessed
+by
+FoundationOne
+at
+Foundation
+Medicine
+(Supplementary Table S3).
+Treatment studies in vivo
+All experiments were conducted under a California Paciﬁc Medical
+Center Institutional Animal Care and Use Committee‒approved pro-
+tocol (protocol number 18.03.03; Institutional Animal Care and Use
+Committee assurance number D16-00015). Three cohorts of female
+NSG mice aged 8 weeks (strain NOD.Cg-Prkdcscid IL2rgtm1Wjl/SzJ from
+Jackson Laboratories, Sacramento, CA) bearing subcutaneous meta-
+static melanoma PDX tumors were randomized according to initial
+tumor volume. Mice were treated with either vehicle (control group),
+25 mg/kg niraparib (, or 50 mg/kg olaparib. Tumors were measured
+approximately once weekly by an operator blinded to the treatment
+groups. Tumor volume was calculated as (length  width2)/2.
+RNA sequencing and bioinformatics data analysis
+RNA extraction from ﬂash-frozen tissue samples was performed as
+previously described (Olsson et al., 2016; Salomonis et al., 2010;
+Soroceanu et al., 2013). Total RNA was extracted from PDX tumor
+tissues using the RNeasy tissue kit (Qiagen, Hilden, Germany) after
+tissue disruption using ruptor disposable probes, and the concen-
+tration was measured by Qubit RNA HS Assay Kit (Thermo Fisher
+Scientiﬁc, Waltham, MA). RNA sequencing was performed from
+w500 ng of total RNA processed using TruSeq polyA selection at a
+target depth of 40 million paired-end, stranded reads on an Illumina
+2500 (Illumina, San Diego, CA).
+Gene expression analyses
+The RNA sequencing data were aligned to the human reference
+genome (hg19) using the software STAR, followed by gene quanti-
+ﬁcation in the software AltAnalyze to obtain gene-level reads per
+kilobase of transcript per million mapped read values. Gene
+expression quantiﬁcation (Reads Per Kilobase of transcript per
+Million Mapped Read) was determined from exon‒exon junctions,
+and differential expression (fold >1.2, empirical Bayes moderated t-
+test P < 0.05) was performed in AltAnalyze, version 2.1.3, using the
+Ensembl 72 human database. Embedded gene set enrichment ana-
+lyses were performed using GO-Elite with default options. Hierar-
+chical clustering was performed in AltAnalyze using Hierarchical
+Ordered Partitioning and Collapsing Hybrid clustering for rows and
+weighted cosine clustering for genes. The analyses presented
+focused on a heatmap representing the top 268 upregulated and
+downregulated genes (empirical Bayes moderated t-test, P < 0.05;
+fold change ¼ 1.2).
+Statistical analysis
+Prognostic factors were coded in terms of the indexes proposed by
+the American Joint Committee on Cancer Melanoma Expert Panel
+(Gershenwald et al., 2017). Thus, primary tumor thickness was
+classiﬁed using the four-point scale deﬁned by the T categories, and
+age was coded in deciles. The signiﬁcance of differences in the
+frequency of various factors between different groups (e.g., HR
+altered vs. nonaltered) was assessed using chi-square analysis, Fisher
+exact test, or the t-test, as appropriate. The association between the
+presence of a given factor and OS was assessed using univariate and
+multivariate Cox regression analysis. All P-values reported are two-
+sided. Additional information on methods is provided in the
+Supplementary Materials and Methods.
+Data availability statement
+Datasets related to this article can be found at https://www.ncbi.nlm.
+nih.gov/geo/query/acc.cgi?acc¼GSE163424,
+hosted
+at
+National
+Center for Biotechnology Information Gene Expression Omnibus
+(Kim et al., 2020).
+ORCIDs
+Kevin B. Kim: https://orcid.org/0000-0003-0694-0530
+Liliana Soroceanu: http://orcid.org/0000-0002-4811-5099
+David de Semir: https://orcid.org/0000-0001-8250-2183
+Sherri Z. Millis: http://orcid.org/0000-0002-5048-6841
+Jeffrey Ross: http://orcid.org/0000-0001-8494-2596
+Elham Vosoughi: https://orcid.org/0000-0002-5226-4601
+Altaf A. Dar: https://orcid.org/0000-0003-4891-3039
+Mehdi Nosrati: http://orcid.org/0000-0002-0114-5864
+Pierre-Yves Desprez: http://orcid.org/0000-0002-9880-4888
+Ryan Ice: https://orcid.org/0000-0002-3147-1484
+Michelle Chen: https://orcid.org/0000-0001-7028-9274
+Kashish Chetal: http://orcid.org/0000-0001-9314-5759
+Anukana Bhattacharjee: https://orcid.org/0000-0002-4459-4926
+John Moretto: http://orcid.org/0000-0003-4954-5709
+Stanley P. Leong: http://orcid.org/0000-0002-0047-0112
+Mark I. Singer: http://orcid.org/0000-0002-0309-7405
+Brian M. Parrett: http://orcid.org/0000-0002-9478-8673
+David R. Minor: http://orcid.org/0000-0003-2186-2016
+Sean McAllister: http://orcid.org/0000-0002-1749-1251
+James R. Miller III: http://orcid.org/0000-0003-2938-0193
+Nathan Salomonis: http://orcid.org/0000-0001-9689-2469
+Mohammed Kashani-Sabet: http://orcid.org/0000-0001-5265-0011
+CONFLICTS OF INTEREST
+KBK has received an honorarium from Foundation Medicine for serving as a
+consultant, SZM is an employee of Foundation Medicine, and JR is a board
+member for Foundation Medicine. The remaining authors state no conﬂict of
+interest.
+ACKNOWLEDGMENTS
+This study was funded by a gift from the California Paciﬁc Medical Center
+Foundation to the California Paciﬁc Medical Center Research Institute Cancer
+Avatar program. The funders had no role in the design, execution, or inter-
+pretation of the study nor in the writing of the manuscript.
+AUTHOR CONTRIBUTIONS
+Conceptualization: KBK, LS, DDS, MKS; Data Curation: KBK, LS, DDS, SZM,
+MN, MKS; Formal Analysis: KC, JRM, NS, AB; Funding Acquisition: DRM,
+MKS; Investigation: KBK, LS, DDS, SZM, JR, EV, AAD, PYD, RI, MKS; Meth-
+odology: KBK, LS, DDS, JRM, NS, MKS; Project Administration: KBK, LS,
+MKS; Resources: KBK, LS, DDS, SZM, JR, JM, SPL, MIS, BMP, DRM, SM, MKS;
+Software: LS, DDS, AAD, MN, PYD, RI, KC, JRM, NS, AB; Supervision: KBK,
+MKS; Validation: KBK, LS, DDS, MKS; Visualization: LS, DDS, AAD, PYD, RI,
+MKS; Writing e Original Draft Preparation: KBK, LS, DDS, SZM, MKS;
+Writing e Review and Editing: KBK, LS, DDS, JR, MKS
+SUPPLEMENTARY MATERIAL
+Supplementary material is linked to the online version of the paper at www.
+jidonline.org, and at https://doi.org/10.1016/j.jid.2021.01.024.
+REFERENCES
+Abida W, Campbell D, Patnaik A, Shapiro JD, Sautois B, Vogelzang NJ, et al.
+Non-BRCA DNA damage repair gene alterations and response to the PARP
+inhibitor rucaparib in metastatic castration-resistant prostate cancer: anal-
+ysis from the phase II TRITON 2 study. Clin Cancer Res 2020;26:2487e96.
+Abourbih
+DA,
+Di
+Cesare
+S,
+Orellana
+ME,
+Antecka
+E,
+Martins
+C,
+Petruccelli LA, et al. Lysyl oxidase expression and inhibition in uveal
+melanoma. Melanoma Res 2010;20:97e106.
+Ashworth A. A synthetic lethal therapeutic approach: poly(ADP) ribose po-
+lymerase inhibitors for the treatment of cancers deﬁcient in DNA double-
+strand break repair. J Clin Oncol 2008;26:3785e90.
+Bell DW, Varley JM, Szydlo TE, Kang DH, Wahrer DC, Shannon KE, et al.
+Heterozygous germ line hCHK2 mutations in Li-Fraumeni syndrome. Sci-
+ence 1999;286:2528e31.
+Bryant HE, Petermann E, Schultz N, Jemth AS, Loseva O, Issaeva N, et al.
+PARP is activated at stalled forks to mediate Mre11-dependent replication
+restart and recombination. EMBO J 2009;28:2601e15.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+www.jidonline.org
+2035
+Bullrich F, Rasio D, Kitada S, Starostik P, Kipps T, Keating M, et al. ATM
+mutations in B-cell chronic lymphocytic leukemia. Cancer Res 1999;59:
+24e7.
+Chalmers ZR, Connelly CF, Fabrizio D, Gay L, Ali SM, Ennis R, et al. Analysis
+of 100,000 human cancer genomes reveals the landscape of tumor muta-
+tional burden. Genome Med 2017;9:34.
+Chapman PB, Hauschild A, Robert C, Haanen JB, Ascierto P, Larkin J, et al.
+Improved survival with vemurafenib in melanoma with BRAF V600E mu-
+tation. N Engl J Med 2011;364:2507e16.
+Couch FJ, Johnson MR, Rabe K, Boardman L, McWilliams R, de Andrade M,
+et al. Germ line fanconi anemia complementation group C mutations and
+pancreatic cancer. Cancer Res 2005;65:383e6.
+de Bono J, Mateo J, Fizazi K, Saad F, Shore N, Sandhu S, et al. Olaparib for
+metastatic castration-resistant prostate cancer. N Engl J Med 2020;382:
+2091e102.
+Engqvist H, Parris TZ, Kova´cs A, Nemes S, Werner Ro¨nnerman E, De Lara S,
+et al. Immunohistochemical validation of COL3A1, GPR158 and PITHD1
+as prognostic biomarkers in early-stage ovarian carcinomas. BMC Cancer
+2019;19:928.
+Farmer H, McCabe N, Lord CJ, Tutt AN, Johnson DA, Richardson TB, et al.
+Targeting the DNA repair defect in BRCA mutant cells as a therapeutic
+strategy. Nature 2005;434:917e21.
+Frampton GM, Fichtenholtz A, Otto GA, Wang K, Downing SR, He J, et al.
+Development and validation of a clinical cancer genomic proﬁling test
+based on massively parallel DNA sequencing. Nat Biotechnol 2013;31:
+1023e31.
+Gershenwald JE, Scolyer RA, Hess KR, Sondak VK, Long GV, Ross MI, et al.
+Melanoma staging: evidence-based changes in the American Joint Com-
+mittee on Cancer eighth edition cancer staging manual. CA Cancer J Clin
+2017;67:472e92.
+Golan T, Hammel P, Reni M, Van Cutsem E, Macarulla T, Hall MJ, et al.
+Maintenance olaparib for germline BRCA-mutated metastatic pancreatic
+cancer. N Engl J Med 2019;381:317e27.
+Hauschild A, Grob JJ, Demidov LV, Jouary T, Gutzmer R, Millward M,
+et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre,
+open-label, phase 3 randomised controlled trial. Lancet 2012;380:
+358e65.
+Heeke AL, Pishvaian MJ, Lynce F, Xiu J, Brody JR, Chen WJ, et al. Prevalence
+of homologous recombination-related gene mutations across multiple
+cancer types. JCO Precis Oncol 2018;2:1e13.
+Konieczkowski DJ, Johannessen CM, Abudayyeh O, Kim JW, Cooper ZA,
+Piris A, et al. A melanoma cell state distinction inﬂuences sensitivity to
+MAPK pathway inhibitors. Cancer Discov 2014;4:816e27.
+Konstantinopoulos PA, Spentzos D, Karlan BY, Taniguchi T, Fountzilas E,
+Francoeur N, et al. Gene expression proﬁle of BRCAness that correlates
+with responsiveness to chemotherapy and with outcome in patients with
+epithelial ovarian cancer. J Clin Oncol 2010;28:3555e61.
+Larkin J, Ascierto PA, Dre´no B, Atkinson V, Liszkay G, Maio M, et al. Com-
+bined vemurafenib and cobimetinib in BRAF-mutated melanoma. N Engl J
+Med 2014;371:1867e76.
+Lee GH, Kim DS, Chung MJ, Chae SW, Kim HR, Chae HJ. Lysyl oxidase-like-1
+enhances
+lung
+metastasis
+when
+lactate
+accumulation
+and
+mono-
+carboxylate transporter expression are involved. Oncol Lett 2011;2:831e8.
+Litton JK, Rugo HS, Ettl J, Hurvitz SA, Gonc¸alves A, Lee KH, et al. Talazoparib
+in patients with advanced breast cancer and a germline BRCA mutation.
+N Engl J Med 2018;379:753e63.
+Luijsterburg MS, de Krijger I, Wiegant WW, Shah RG, Smeenk G, de
+Groot AJL, et al. PARP1 links CHD2-mediated chromatin expansion and
+H3.3 deposition to DNA repair by non-homologous end-joining. Mol Cell
+2016;61:547e62.
+Marsit CJ, Liu M, Nelson HH, Posner M, Suzuki M, Kelsey KT. Inactivation of
+the fanconi anemia/BRCA pathway in lung and oral cancers: implications
+for treatment and survival. Oncogene 2004;23:1000e4.
+McCabe N, Turner NC, Lord CJ, Kluzek K, Bialkowska A, Swift S, et al.
+Deﬁciency in the repair of DNA damage by homologous recombination
+and sensitivity to poly(ADP-ribose) polymerase inhibition. Cancer Res
+2006;66:8109e15.
+Middleton MR, Friedlander P, Hamid O, Daud A, Plummer R, Falotico N, et al.
+Randomized phase II study evaluating veliparib (ABT-888) with temozolo-
+mide in patients with metastatic melanoma. Ann Oncol 2015;26:2173e9.
+Miller CW, Ikezoe T, Krug U, Hofmann WK, Tavor S, Vegesna V, et al. Mu-
+tations of the CHK2 gene are found in some osteosarcomas, but are rare in
+breast, lung, and ovarian tumors. Genes Chromosomes Cancer 2002;33:
+17e21.
+Mirza MR, Monk BJ, Herrstedt J, Oza AM, Mahner S, Redondo A, et al.
+Niraparib maintenance therapy in platinum-sensitive, recurrent ovarian
+cancer. N Engl J Med 2016;375:2154e64.
+Mu¨ller J, Krijgsman O, Tsoi J, Robert L, Hugo W, Song C, et al. Low MITF/AXL
+ratio predicts early resistance to multiple targeted drugs in melanoma. Nat
+Commun 2014;5:5712.
+Narayan G, Arias-Pulido H, Nandula SV, Basso K, Sugirtharaj DD, Vargas H,
+et al. Promoter hypermethylation of FANCF: disruption of fanconi anemia-
+BRCA pathway in cervical cancer. Cancer Res 2004;64:2994e7.
+Olsson A, Venkatasubramanian M, Chaudhri VK, Aronow BJ, Salomonis N,
+Singh H, et al. Single-cell analysis of mixed-lineage states leading to a
+binary cell fate choice. Nature 2016;537:698e702.
+Plummer R, Lorigan P, Steven N, Scott L, Middleton MR, Wilson RH, et al.
+A phase II study of the potent PARP inhibitor, rucaparib (PF-01367338,
+AG014699), with temozolomide in patients with metastatic melanoma
+demonstrating evidence of chemopotentiation. Cancer Chemother Phar-
+macol 2013;71:1191e9.
+Robert C, Karaszewska B, Schachter J, Rutkowski P, Mackiewicz A,
+Stroiakovski D, et al. Improved overall survival in melanoma with com-
+bined dabrafenib and trametinib. N Engl J Med 2015;372:30e9.
+Robson M, Im SA, Senkus E, Xu B, Domchek SM, Masuda N, et al. Olaparib
+for metastatic breast cancer in patients with a germline BRCA mutation.
+N Engl J Med 2017;377:523e33.
+Salomonis N, Schlieve CR, Pereira L, Wahlquist C, Colas A, Zambon AC,
+et al. Alternative splicing regulates mouse embryonic stem cell pluripo-
+tency and differentiation. Proc Natl Acad Sci USA 2010;107:10514e9.
+Soroceanu L, Murase R, Limbad C, Singer E, Allison J, Adrados I, et al. Id-1 is
+a key transcriptional regulator of glioblastoma aggressiveness and a novel
+therapeutic target. Cancer Res 2013;73:1559e69.
+Swisher EM, Lin KK, Oza AM, Scott CL, Giordano H, Sun J, et al. Rucaparib in
+relapsed, platinum-sensitive high-grade ovarian carcinoma (ARIEL2 Part 1):
+an international, multicentre, open-label, phase 2 trial. Lancet Oncol
+2017;18:75e87.
+Turner N, Tutt A, Ashworth A. Hallmarks of ‘BRCAness’ in sporadic cancers.
+Nat Rev Cancer 2004;4:814e9.
+Vorechovsky I, Luo L, Ortmann E, Steinmann D, Do¨rk T. Missense mutations
+at ATM gene and cancer risk [published correction appears in Lancet
+1999;354:780]. Lancet 1999;353:1276.
+Walsh T, Casadei S, Lee MK, Pennil CC, Nord AS, Thornton AM, et al. Mu-
+tations in 12 genes for inherited ovarian, fallopian tube, and peritoneal
+carcinoma identiﬁed by massively parallel sequencing. Proc Natl Acad Sci
+USA 2011;108:18032e7.
+Ward PS, Thompson CB. Metabolic reprogramming: a cancer hallmark even
+warburg did not anticipate. Cancer Cell 2012;21:297e308.
+Xiao Q, Ge G. Lysyl oxidase, extracellular matrix remodeling and cancer
+metastasis. Cancer Microenviron 2012;5:261e73.
+This work is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+Journal of Investigative Dermatology (2021), Volume 141
+2036
+SUPPLEMENTARY MATERIALS AND METHODS
+Colony formation assay
+LOX cells (a generous gift from Dr Oystein Fodstad) were
+grown in RPMI 1640 media supplemented with 5% fetal
+bovine serum and 1% penicillin and streptomycin at 37 C.
+The colony formation assay was performed as previously
+described (de Semir et al., 2020). LOX cells (300‒500) were
+plated in each well of a six-well plate and treated with the
+respective drugs the next day. Cells were allowed to grow till
+visible colonies appeared, usually 6‒10 days after treatment
+with niraparib (3 mM and 6 mM). Colonies were stained with
+crystal violet (Sigma-Aldrich, St. Louis, MO) and counted.
+Data are presented as a bar graph of the average number of
+colonies along with the pictograph of colonies.
+Cell viability assay
+Cell viability was assessed as described (de Semir et al.,
+2020). Brieﬂy, LOX cells (1,000‒2,000) were plated in a
+96-well
+plate
+and
+treated
+with
+niraparib
+(maximum
+concentration ¼ 6 mM, six dilutions) the next day. Cell
+viability was assessed using the Cell Counting Kit-8 (Dojindo
+Molecular Technologies, Rockville, MD) after 72 hours of
+drug treatment following the manufacturer’s instructions. In
+total, 20 ml of Cell Counting Kit-8 was added to each well,
+and the plate was incubated at 37 C for 2 hours. Absorbance
+was read at 450 nm.
+Cell culture and cell viability assays for metastatic
+melanoma patient-derived xenograft cells
+MM390, MM425, and MM507 patient-derived xenograft
+(PDX) cultures were grown from PDX tissue, as previously
+described (Ice et al., 2020). All PDX-derived cells were
+authenticated using short tandem repeat analysis (ATCC,
+Manassas,
+VA;
+https://www.atcc.org/en/Services/Testing_
+Services/Cell_Authentication_Testing_Service.aspx); the lat-
+est test was performed in 2019 using ﬁrst and second in vivo
+passages; cells were also conﬁrmed to be mycoplasma free
+using a PCR testing service. All experiments described in this
+manuscript were performed using ﬁrst or second in vivo
+passages of metastatic melanoma PDX samples. The cells
+were kept in culture for the duration of the viability experi-
+ments, and fresh batches of cells were used, if needed for
+repeat experiments.
+Master stocks of niraparib (#S2741, Selleck Chemicals,
+Houston, TX) were made at maximum solubility (62.5 mg/
+ml or 195 mM) with DMSO. Cell viability was assayed with
+PDX cells in a 96-well plate (#BD353377, BD Falcon,
+Franklin Lakes, NJ) at a density of 2,000‒3,000 cells per 100
+ml of media and/or well in triplicate. Cells were treated the
+next day with niraparib at different concentrations, and
+controls were treated with DMSO. Cells were incubated for
+72 hours at 37 C and 5% carbon dioxide. After incubation,
+a total of 60 ml of CellTiter-Glo 3D Cell Viability (#G9683,
+Promega, Madison, WI) was added to each well, and cell
+viability was quantiﬁed as per the manufacturer’s instruction
+on luminescence.
+Cell-cycle and apoptosis assays
+Cell cycle and apoptosis were measured using the Muse cell
+cycle kit, Muse Annexin V apoptosis kit, and Muse Caspase 3/
+7
+kit
+(EMD
+Millipore,
+Hayward,
+CA)
+following
+the
+manufacturer’s instructions. Cells were plated and treated the
+next day with the various drugs for 72 hours. For the cell-
+cycle assay, cells were trypsinized, washed with PBS, ﬁxed
+with cold ethanol, and incubated at ‒20 C for 2 hours. Cells
+were centrifuged and washed with PBS, followed by the
+addition of 200 ml of cell-cycle reagent. Cells were incubated
+for 30 minutes in the dark at room temperature and analyzed
+by Muse Cell Analyzer. For the apoptosis assay, cells were
+trypsinized and washed with PBS. Cells were resuspended in
+100 ml of apoptosis reagent and 100 ml of 5% RPMI-1640
+media, incubated for 20 minutes at room temperature, and
+analyzed by Muse Cell Analyzer.
+Cell invasion assays
+LOX cells (75,000 cells) were plated on top of Matrigel-
+coated transwells in the presence of DMSO or niraparib (3
+mM and 6 mM) dissolved in DMEM. Fetal bovine serum (20%)
+was used as a chemoattractant in the lower chamber. Forty-
+eight hours later, the ﬁlters were cleaned, ﬁxed in 2.5%
+glutaraldehyde, and stained with Toluidine blue (Sigma-
+Aldrich). All conditions were run in at least triplicate, and
+cells were counted for the entire ﬁlter area.
+In vivo treatment of tumor-bearing mice with PARP
+inhibitors
+Dosing ranges were based on previously published studies,
+and intraperitoneal dosing was chosen as the standardized
+route of administration and vehicle formulation between all
+drugs. Niraparib was diluted in the vehicle formulation: 4%
+DMSO, 4% Tween-80, and 92% saline. Olaparib was diluted
+in the vehicle formulation: 10% DMSO, 10% Tween-80, and
+80% saline. PDX tumor volumes were measured once per
+week with calipers, and treatment groups were blinded to
+measuring personnel. Treatment began when PDX tumor
+volumes reached approximately 100 mm3. PDX-bearing
+NSG mice were intraperitoneally treated daily for 5 consec-
+utive days for approximately 4 weeks for a total of 20 treat-
+ments. A total of 8 mice per treatment group for a total of 24
+mice were used for each cohort. At the completion of in vivo
+experiments, all mice were humanely killed using carbon
+dioxide overdose followed by cervical dislocation. PDX tu-
+mor tissues were harvested for RNA analysis by ﬂash freezing
+and stored at ‒80 C until further analysis.
+Validation of gene expression using quantitative real-time
+reverse transcriptase‒PCR
+Gene expression was assessed using quantitative real-time
+reverse transcriptase‒PCR (TaqMan assay) as previously re-
+ported (de Semir et al., 2020). mRNAs were assayed using the
+TaqMan Gene Expression Assays according to the manufac-
+turer’s instructions (Thermo Fisher Scientiﬁc, Waltham, MA).
+The
+following
+TaqMan
+probes
+were
+used:
+AXL
+(Hs01064444_m1), COL1A2 (Hs01028956_m1), COL3A1
+(Hs00943809_m1),
+DPT
+(Hs00355056_m1),
+LOXL1
+(Hs00935937_m1), ALDH3B2 (Hs02511514_s1), ALDOC
+(Hs00193059_m1), FADS2 (Hs00188654_m1), and GSTT2
+(Hs00168315_m1). The expression levels of these genes were
+normalized to the human HMBS (Hs00609297_m1) gene
+before comparisons.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+www.jidonline.org 2036.e1
+SUPPLEMENTARY REFERENCES
+de Semir D, Bezrookove V, Nosrati M, Scanlon KR, Singer E, Judkins J, et al.
+PHIP drives glioblastoma motility and invasion by regulating the focal
+adhesion complex. Proc Natl Acad Sci USA 2020;117:9064e73.
+Ice RJ, Chen M, Sidorov M, Le Ho T, Woo RWL, Rodriguez-Brotons A, et al.
+Drug responses are conserved across patient-derived xenograft models of
+melanoma leading to identiﬁcation of novel drug combination therapies. Br
+J Cancer 2020;122:648e57.
+Supplementary Table S1. The 15 Mutations in HR-Deﬁcient Genes from the CPMC Cohort
+Gene
+Mutation
+ATM
+L167*
+FANCA
+3828þ1G>C splice
+CHEK2
+T367fs*15 and 320-1G>A splice
+ARID1A
+Q1537*; Q575* and G133fs*57
+BRCA1
+4185þ1G>A splice; R1495M and 671-1G>A splice
+BAP1
+M1I
+BRIP1
+R798*
+ATR
+V327fs*3
+ATRX
+L664fs*1
+BARD1
+Q666*
+PALB2
+Q1020*
+Abbreviations: CPMC, California Paciﬁc Medical Center; HR, homologous recombination.
+KB Kim et al.
+Characteristics of HR Gene Mutations in Melanoma
+Journal of Investigative Dermatology (2021), Volume 141
+2036.e2

@@ -1,0 +1,1310 @@
+Neuro-Oncology Advances
+4(1), 1–11, 2022 | https://doi.org/10.1093/noajnl/vdac019 | Advance Access date 17 February 2022
+1
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/
+licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+For commercial re-use, please contact journals.permissions@oup.com
+© The Author(s) 2022. Published by Oxford University Press, the Society for Neuro-Oncology and the European Association of Neuro-Oncology.
+Liliana Soroceanu, Eric Singer, Pratiksha Dighe, Max Sidorov, Chandani Limbad, 
+Aida Rodriquez-Brotons, Peter Rix, Rinette W. L. Woo, Lawrence Dickinson, Pierre-Yves Desprez, 
+and Sean D. McAllister
+California Pacific Medical Center Research Institute, San Francisco, CA 94107, USA (L.S., E.S., P.D., M.S., C.L., A.R.-B., 
+R.W.L.W., P.Y.D., S.D.M.); Launch Bioscience, San Diego, CA 92130, USA (P.R.); Eden Medical Center Sutter Research, 
+Castro Valley, CA 94546, USA (L.D.)
+Corresponding Authors: Sean D. McAllister, California Pacific Medical Center Research Institute, 475 Brannan Street, Suite 130, San 
+Francisco, CA 94107, USA (mcallis@cpmcri.org); Liliana Soroceanu, California Pacific Medical Center Research Institute, 475 Brannan 
+Street, Suite 130, San Francisco, CA 94107, USA (sorocel@cpmcri.org).
+Abstract
+Background.  Cannabidiol (CBD), a nonpsychoactive cannabinoid with a low toxicity profile, has been shown to 
+produce antitumor activity across cancers in part through selective production of reactive oxygen species (ROS) in 
+tumor cells. The alkylating agent, temozolomide (TMZ), is standard of care for treatment of glioblastoma (GBM). It 
+can trigger increased ROS to induce DNA damage. It has also been reported that downregulating the expression 
+of RAD51, an important DNA damage repair protein, leads to sensitization of GBM to TMZ.
+Methods. We determined the extent to which CBD enhanced the antitumor activity of TMZ in multiple orthotopic 
+models of GBM. In addition, we investigated the potential for CBD to enhance the antitumor activity of TMZ through 
+production of ROS and modulation of DNA repair pathways.
+Results.  CBD enhanced the activity of TMZ in U87 MG and U251 GBM cell lines and in patient-derived primary 
+GBM163 cells leading to stimulation of ROS, activation of the ROS sensor AMP-activated protein kinase (AMPK), 
+and upregulation of the autophagy marker LC3A. CBD produced a sensitization of U87 and GBM163-derived in­
+tracranial (i.c.) tumors to TMZ and significantly increased survival of tumor-bearing mice. However, these effects 
+were not observed in orthotopic models derived from GBM with intact methylguanine methyltransferase (MGMT) 
+expression. We further demonstrate that CBD inhibited RAD51 expression in MGMT-methylated models of GBM, 
+providing a potential mechanism for tumor sensitization to TMZ by CBD.
+Conclusion. These data support the potential therapeutic benefits of using CBD to enhance the antitumor activity 
+of TMZ in GBM patients.
+Key Points
+•	 CBD produces enhancement of TMZ antitumor activity selectively in MGMT-methylated 
+GBM leading to prolong survival. 
+•	 CBD inhibited RAD51 expression in MGMT-methylated GBM, providing a potential 
+mechanism for tumor sensitization to TMZ by CBD.
+In the management of glioblastoma (GBM), surgery with 
+postoperative radio- and chemotherapy, primarily with the 
+alkylating agent temozolomide (TMZ), are the treatment of 
+choice.1 Additional tumor treatment modalities have also been 
+FDA approved for the treatment of GBM.2 Despite these ag­
+gressive treatments, 90% of the patients die within 2  years.1 
+Specifically, patients with an unmethylated O6-methylguanine–
+DNA methyltransferase (MGMT) promoter respond poorly 
+Cannabidiol inhibits RAD51 and sensitizes glioblastoma 
+to temozolomide in multiple orthotopic tumor models
+   
+ 2
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+to alkylating agents such as TMZ.3 Thus, there is an urgent 
+need for novel therapeutics strategies targeting GBM.
+The cannabinoid (CB) Δ 9-tetrahydrocannabinol (THC) ac­
+tivates 2 known CB receptors (CB1 and CB2), which leads 
+to the inhibition of cell proliferation and induction of ap­
+optosis resulting in the reduction of tumor burden in vivo 
+in multiple cancers, including GBM.4–6 These antitumor 
+effects of CB1 and CB2 receptor agonists are thought to 
+occur primarily through the endoplasmic reticulum (ER) 
+stress-dependent upregulation of autophagy-mediated 
+cell death pathways (a caspase-independent form of pro­
+grammed cell death).6–8 However, the clinical utility of THC 
+is limited by its psychoactive effects. There are more than 
+60 CBs in Cannabis sativa and a majority are not psycho­
+active.9 Nonpsychoactive CBs found in reasonable abun­
+dance include cannabidiol (CBD), cannabigerol (CBG), and 
+cannabichromene (CBC).9 CBD has negligible affinity for 
+the cloned CB1 and CB2 receptors and does not directly 
+target the classical endoCB system.10–12 We determined 
+that in a screen of plant-based cannabiniods, that CBD was 
+the most active at inhibiting cell viability/proliferation (vi­
+ability) in cancer lines from different origins.13 This effect 
+has been shown to exhibit significantly lower potency in 
+noncancer cells.14 The initial site CBD interacts with to pro­
+duce antitumor activity is unknown. Multiple target sites 
+have been implicated,15 but the most unifying downstream 
+mechanism in culture is the initial CBD-dependent selec­
+tive production of reactive oxygen species (ROS) in tumor 
+cells.16
+This led us to hypothesize that nonpsychoactive CBs 
+could be as effective as psychoactive CBs at inhibiting 
+cancer progression and could reduce or replace the 
+amount of psychoactive CBs used in the treatment of 
+cancer. In support of this hypothesis, we previously re­
+ported that CBD can reduce the concentration of THC 
+needed to inhibit GBM cell growth and induce apoptosis 
+in culture.17 This result was confirmed by additional investi­
+gations in vivo18 in subcutaneous xenograft tumor models, 
+while our group has also demonstrated that CBD alone can 
+inhibit human GBM progression in an intracranial xeno­
+graft mouse model.19
+As a result of the growing preclinical body of evidence 
+of direct antitumor activity produced by THC and CBD, 
+multiple clinical trials have evaluated the activity of CBs 
+in GBM. In a pilot study, intracranially administered THC 
+was shown to be safe, in addition to inhibiting markers of 
+tumor cell proliferation.20 Sativex, a plant-based extract 
+containing a 1:1 ratio of THC:CBD, was also shown to pro­
+long survival for GBM patients in a Phase IIb clinical trial, 
+but the detailed results of the trial have not been publish.21 
+The direct antitumor activity produced by CBD has also 
+recently been evaluated in clinical case studies across can­
+cers, including GBM. Clinical responses were observed in a 
+significant subset of patients supporting the need for future 
+controlled clinical trials.22,23 Taken together, these findings 
+underscore the importance of understanding mechanims 
+of CB antitumor activity, which may further improve the ac­
+tivity of the CBs and potentially lead to the development of 
+more active second-generation compounds.
+In this study, we investigated the antitumor activity 
+of CBs alone and in combination with TMZ for targeting 
+GBM progression in intracranial models using GBM cell 
+lines and primary patient-derived GBM. In comparison 
+to standard GBM cell lines, primary patient-derived GBM 
+grown under glioma stem cell conditions more readily re­
+capitulate the genotype, gene expression patterns (tran­
+scriptome), and in vivo growth patterns of human GBM.24 
+Mechanistically, we focused on the antitumor properties 
+of the nonpsychoactive CB, CBD. We found CBD alone, in 
+comparison to THC and the combination of CBD + THC, was 
+as effective at sensitizing GBM tumors to TMZ in multiple 
+intracranial xenograft models. However, CBD did not sen­
+sitize TMZ-resistant GBM to TMZ in vivo. CBD-dependent 
+stimulation of ROS led to inhibition of GBM cell viability 
+in cell lines and primary patient-derived cultures. CBD 
+enhanced the ability of TMZ to inhibit cell viability in part 
+through production of ROS. CBD alone in combination 
+with TMZ upregulated the expression of the ROS sensor 
+AMP-activated protein kinase (AMPK), and the autophagy 
+marker LC3A. CBD alone also inhibited RAD51 in TMZ-
+sensitive cell lines, but not in TMZ-insensitive cell lines. 
+Importantly, CBD has a low toxicity profile in humans and 
+is already being tested in clinical trials for GBM. Taken to­
+gether, these data support CBD as a potential adjuvant 
+therapy for targeting GBM.
+Methods
+Drugs
+CBD was obtained from INSYS Therapeutics, and THC was 
+obtained from National Institutes of Health (NIH; Bethesda, 
+MD) through the National Institute of Drug Abuse. All other 
+chemicals and drugs were obtained through Selleckchem 
+(Houston, TX).
+Primary Cell Culture and In Vivo Passaging
+Cultures were generated in-house from tissue samples 
+obtained during surgical resection of patients diagnosed 
+Importance of Study
+Development of effective treatment strategies 
+for GBM is a high unmet need. This study dem­
+onstrates that CBD produces enhancement of 
+TMZ antitumor activity selectively in MGMT-
+methylated GBM leading to prolong survival. 
+This effect may in part be explained by CBD 
+targeting of RAD51. Additional studies in GBM 
+with the antitumor agent CBD, a brain pene­
+trant cannabinoid with a low toxicity profile, 
+are warranted.
+3
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+Neuro-Oncology 
+Advances
+with GBM. As previously described,25 tumors were then 
+subjected to enzymatic digest, mechanically dissociated 
+and cultured as neurospheres as previously described.26 
+Tumor lines were maintained as subcutaneous flank xeno­
+grafts in athymic nu/nu mice and processed as stated 
+above.
+In Vivo Studies
+Six- to 8-week-old female athymic nu/nu mice with a weight 
+range of 20–25 g were obtained from Envigo (Indianapolis, 
+IN). Human U87, U251, and T98 GBM cells were grown 
+in RPMI media with 10% FBS and were harvested from 
+dishes while in their exponential growth phase in culture 
+with 0.1% trypsin/EDTA, and washed twice with serum-
+free RPMI media. Primary lines were grown as described 
+above. For the intracranial model, tumors were generated 
+in female athymic nu nu mice by the intracranial injection 
+of cells as detailed in the figure legends. Survival studies 
+were carried out in accordance with the National Institutes 
+of Health’s guidelines involving experimental neoplasia 
+and our approved IACUC protocol. Animals in all groups 
+were removed from the study when they demonstrated 
+any single sign indicative of significant tumor burden de­
+velopment, including hunched back, sustained decreased 
+general activity, or a significant decrease in weight. For 
+drug treatment studies, CBs were dissolved in a mixture of 
+2.5% ethanol, 2.5% Tween 80, and 95% saline, and TMZ was 
+dissolved in 30% DMSO and 70% saline. Treatments were 
+initiated based on the known progression of the tumors 
+determined through pilot studies. For luciferase-labeled 
+GBM tumors, mice were randomized based on imaging 
+as previously described.27 When tumor cells where not 
+luciferase-labeled, they were randomized based on their 
+body weight. Animal health observations and removal 
+from the study up first incidence of tumor burden develop­
+ment is described in Supplementary Material.
+Western Blotting
+Western analysis was performed as previously described.13 
+Western blots were probed with the antibodies described 
+in Supplementary Material. Anti-actin and anti-GAPDH 
+were used as loading controls. The relative amounts of 
+proteins were quantified using densitometry and the soft­
+ware program ImageJ (NIH).
+Pharmacokinetic Studies
+To assess the pharmacokinetic (PK) of CBD, female BALBc 
+mice were injected i.p with 15 or 7 mg/kg of CBD. Blood 
+samples were collected at 5, 15, 30 min and 1, 2, 5, 12, 24, 
+and 48 h after i.p. administration and analyzed as described 
+in Supplementary Material.
+Immunohistochemistry and Immunofluorescence
+Animal brains were harvested, fixed in 10% for­
+malin and processed for immunohistochemistry and 
+immunofluorescene as previously published by our 
+group28 and as outlined in Supplementary Material.
+Ethics Approval and Consent to Participate
+Patient tumor tissue was collected under an IRB-approved 
+research protocol in accordance with the Declaration of 
+Helsinki. Informed consent was obtained from each pa­
+tient in the study. All patient data were de-identified for 
+the study. In vivo studies were carried out in accordance 
+with the National Institutes of Health guidelines, Health 
+Research Extension Act of 1985 and the Public Health 
+Service Policy on Humane Care and Use of Laboratory 
+Animals (Policy), Office of Laboratory Animal Welfare as­
+surance, and an approved Institutional Animal Care and 
+Use Committee (IACUC) protocol.
+Data and Statistical Analyses
+The IC50 values with corresponding 95% confidence limits 
+were compared by the analysis of logged data using 
+GraphPad Prism (La Jolla, CA). Significant differences were 
+also determined using a one-way ANOVA or the unpaired 
+Student’s t-test, where suitable. Survival data were evalu­
+ated using Kaplan–Meir curves and a log-rank Mantel–Cox 
+test. P-values < .05 defined statistical significance. To test 
+for synergism, the combination index (CI) was also calcu­
+lated using Compusyn (Paramus, NJ) where CI < 1, = 1, and 
+>1 indicates synergism, additive effect, and antagonism, 
+respectively, as previously described29 and as previously 
+published by our group.17
+Results
+CBD Enhances the Activity of TMZ in U87and 
+U251 GBM Cells
+We determined whether CBD could enhance the activity 
+of the first-line agent TMZ by evaluating the effects of the 
+drugs alone or in combination (Figure 1A and B). U87 and 
+U251 cells were treated for 3 days with a range of concen­
+trations of either CBD, TMZ, or CBD + TMZ and the ability 
+of the drugs to inhibit cell viability was assessed using the 
+MTT assay. Using the calculated IC50 values, various dose 
+ratios of CBD and TMZ were combined in both U87 and 
+U251 cells, and viability was evaluated and a CI throughout 
+the dose ratios was calculated (Figure 1C). A CI value of <1, 
+1, and >1 indicates synergism, additivity, and antagonism, 
+respectively.30 The combination of CBD and TMZ led prima­
+rily to additive inhibition of cell viability across multiple 
+dose ratios in U87 and U251 cells.
+CBD-Dependent Stimulation of ROS Leads to 
+Inhibition of GBM Cell Viability
+CBD produces a sustained upregulation of ROS in a 
+concentration-dependent manner in U251 GBM cells 
+leading to inhibition of cell viability (Figure 1D). This effect 
+ 4
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+is not the result of interaction with CB1 and CB2 receptors, 
+VR1 receptors, or PPRγ, but was reversed by the ROS scav­
+enger α-tocopherol (TOC) (Figure 1E). Inhibition of cell via­
+bility produced by the combination of CBD + TMZ was also 
+blocked by TOC (Figure 1F). The ability of CBs to sensitize 
+GBM to TMZ in orthotopic models has not been evaluate; 
+therefore, we next studied the effects of CBs to sensitize 
+human GBM to TMZ in vivo.
+CBs Sensitize Human U87-Derived Intracranial 
+Tumors to TMZ
+We evaluated the ability of CBD alone or CBD + THC in a 
+1:1 ratio (CBD/THC) in combination with TMZ to inhibit 
+tumor growth and extend survival in an intracranial (i.c.) 
+model of GBM utilizing human U87 cells. In vivo imaging 
+of luciferase-labeled U87 cells evaluated reduction in ra­
+diance (indirect measure of tumor size) in each treatment 
+group (Figure 2A and B). CBD or CBD/THC did not inhibit 
+GBM progression; however, these CBs produced a sen­
+sitization of U87-derived tumors to TMZ, leading to more 
+effective inhibition of tumor progression and prolonged 
+survival (Figure 2C). The mean survival for vehicle, CBD, 
+CBD/THC, TMZ, CBD + TMZ, and CBD/THC + TMZ was 39, 43, 
+40, 46, 53, and 53 days, respectively (Figure 2C). Treatment 
+with CBD + TMZ (P < .043) or CBD/THC + TMZ (P < .030) pro­
+duced a significant improvement in survival in comparison 
+to treatment with TMZ alone. Treatment with CBD + TMZ 
+also produced full regression in 2 of the 11 tumors.
+To determine whether the effect of CBD in vivo was 
+dose dependent, we treated mice bearing U87-derived i.c. 
+tumors with 3.75 and 7.5 mg/kg of CBD alone or in com­
+bination with TMZ (Figure 2D and E). We observed full re­
+gression of a tumor in 1 of 11 mice in the CBD treatment 
+group but overall there was no significant increase in sur­
+vival in this group compared to control. We also observed 
+full regression of tumor growth in 2 of 11 mice in the TMZ-
+treated group. In contrast to 15 mg/kg of CBD (Figure 2C), 
+lower doses of CBs did not enhance the antitumor activity 
+of TMZ in an orthotopic mouse model of human GBM. 
+These data demonstrate that the ability of CBD to en­
+hance the antitumor activity of TMZ is dose dependent. PK 
+parameters for CBD in plasma (Supplementary Table 1 and 
+Supplementary Figure 1A and B) were compared between 
+the 15 mg/kg (produced sensitization to TMZ) and 7.5 mg/kg 
+(did not produce sensitization to TMZ) dosage levels to de­
+termine PK parameters that correlate with CBD-dependent 
+   
+125
+A
+B
+C
+D
+E
+F
+U251
+CBD
+CBD + TMZ
+TMZ
+100
+Viability (%)
+75
+50
+25
+0
+CBD (µM)
+0.35
+84
+0.7
+168
+1.4
+335
+2.8
+670
+TMZ (µM)
+50
+*
+*
+40
+ROS (%)
+30
+20
+10
+0
+Control
+CBD 1.5
+CBD 2
+125
+100
+*
+#
+#
+*
+*
+*
+*
+*
+*
+75
+Viability (%)
+50
+25
+0
+100
+75
+Viability (%)
+50
+25
+0
+Control
+Control
+CBD 1.5 + TMZ 200
+CBD + TMZ + TOC 500
+CBD 1.5
+CBD + TOC 200
+CBD + SR1 1
+CBD + SR2 1
+CBD + SR1 + SR2
+CBD + CPZ 1
+CBD + GW 10
+125
+U87
+CBD
+CBD + TMZ
+Synergistic
+interaction
+TMZ
+100
+Viability (%)
+75
+50
+25
+0
+0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1
+Combination index
+Fraction affected (Fa)
+2
+3
+4
+U251
+U87
+CBD (µM)
+0.18
+34
+0.35
+68
+0.7
+137
+1.4
+274
+TMZ (µM)
+Figure 1.  CBD enhances the inhibitory effects of TMZ on GBM cell growth through upregulation of ROS. (A) U251 and (B) U87 cells were treated 
+for 3 days with vehicle, CBD, TMZ, or CBD + TMZ at specific combined dose ratios and cell viability (%) was calculated as absorbance in the 
+treated cells/control cells × 100. (C) These data were used to calculate combination index (CI) values as described previously by our group17,31 using 
+Compusyn software. A CI value of <1, 1, and >1 indicates synergism (downward arrow), additivity (hashed line), and antagonism, respectively.30 
+(D) U251 cells were treated for 2 days with vehicle or CBD (µM) and production of ROS was measured using 2′-7′dichloro-dihydrofluorescein. (E) 
+U251 cells were treated for 2 days with 1.5 µM CBD (CBD) in the presence or absence of 200 µM µ-tocopherol (TOC), 1 µM CB1 receptor antagonist 
+(SR141716A—SR1), 1 µM CB2 receptor antagonist (SR144528—SR2), 1 µM vanilloid receptor antagonist (capsazepine—CPZ), or 10 µM PPRg an­
+tagonist (GW 9662—GW). (E) U251 cells were treated for 3 days with 1.5 µM CBD (CBD) + 200 µM TMZ in the presence or absence of 500 µM TOC. 
+Data are the mean of 3 independent experiments; bars ± SE. * ,#Statistically significant difference between control and CBD, respectively (P < .05).
+   
+5
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+Neuro-Oncology 
+Advances
+production of TMZ sensitization. Plasma levels of CBD 
+using LC/MS/MS analysis were determined and converted 
+into time–concentration plots, and PK parameters were 
+calculated. To model the in vivo experiments reported in 
+this investigation, i.p administration was used to evaluate 
+drug levels. Therefore, it was not possible to determine 
+absolute bioavailability or the true elimination half-life be­
+cause intravenous administration was not used. The dose 
+of 15 mg/kg of CBD produced a Cmax of 3.3 μg/ml or 10.6 μM 
+in plasma, with a calculated AUC0-t of 1.63 μg·h/ml. The Cmax 
+and AUC0-t were 2.5 and 2.7 time higher, respectively, in the 
+15 mg/kg compared with the 7.5 mg/kg CBD dosing group. 
+The Tmax was similar between both dosing groups. Based 
+on the antitumor studies, we chose to use a CB dose of 
+15 mg/kg for the remainder of the in vivo studies.
+CBD Sensitizes Primary Patient-Derived GBM 
+to TMZ
+CBs produce a sensitization of human U87-derived in­
+tracranial tumors to TMZ. GBM initiation, resistance to 
+therapy, and recurrence has been shown to be driven by 
+a subpopulation of tumor cells with stem-like characteris­
+tics, the glioma stem-like cells (GSC).32–34 In comparison 
+to standard GBM cell lines, primary GBM grown under 
+GSC conditions more readily recapitulated the genotype, 
+gene expression patterns (transcriptome), and in vivo 
+growth patterns of human GBM.24 We therefore evalu­
+ated whether CBD could enhance the antitumor activity 
+of TMZ in a primary patient-derived xenograft mouse 
+model of GBM.
+GBM163X cells were treated for 3 days with a range of 
+concentrations of either CBD or TMZ, and the ability of the 
+drugs to inhibit cell viability was assessed. Using the calcu­
+lated IC50 values, various dose ratios of CBD and TMZ were 
+combined and viability was evaluated and a CI throughout 
+the dose ratios was calculated (Figure 3A).
+In GBM163X cells, the combination of CBD and TMZ 
+led to slightly antagonist to additive inhibition of cell vi­
+ability, as the fraction affected (reduction in cell viability) 
+was increased. Inhibition of GBM163X cell viability pro­
+duce by CBD or CBD +TMZ was blocked in the pres­
+ence of TOC (Figure 3B). We next evaluated the ability of 
+CBD alone or in combination with TMZ to inhibit tumor 
+growth and prolong survival in an i.c. model of GBM util­
+izing GBM163X. As shown in Figure 3C, the mean sur­
+vival for vehicle, CBD, THC, CBD/THC, TMZ, CBD + TMZ, 
+THC + TMZ, and CBD/THC + TMZ was 44, 43, 42, 42, 66, 
+78, 73, and 82  days, respectively. Treatment with TMZ 
+alone prolonged survival (P < .0001); however, treatment 
+with CBD, THC, or CBD/THC alone did not. Treatment with 
+CBD + TMZ (P < .003), THC + TMZ (P < .005), or CBD/THC 
++ TMZ (P < .0003) produced a significant improvement 
+   
+60
+40
+20
+Radiance (×106)
+Days
+0
+0
+10
+20
+Start of
+treatment
+Vehicle
+A
+B
+C
+D
+E
+Vehicle
+3.0
+Radiance
+(p/sec/cm2/sr)
+Color scale
+Min = 2.49e5
+Max = 3.61e6
+2.0
+×106
+1.0
+TMZ
+CBD + TMZ
+TMZ 2
+CBD 15
+CBD/THC 15
+CBD + TMZ
+CBD/THC + TMZ
+30
+40
+30
+20
+10
+Radiance (×106)
+Days
+0
+0
+10
+20
+Start of
+treatment
+Vehicle
+TMZ 2
+CBD 3.75
+CBD 7.5
+CBD 3.75 + TMZ
+CBD 7.5 + TMZ
+30
+40
+100
+50
+Survival (%)
+Days
+0
+20
+40
+60
+Vehicle
+TMZ 2 (p < 0.03)
+CBD 3.75
+CBD 7.5
+CBD 3.75 + TMZ
+CBD 7.5 + TMZ
+80
+100
+100
+50
+Survival (%)
+Days
+0
+20
+40
+60
+Vehicle
+TMZ 2 (p < 0.04)
+CBD 15
+CBD/THC 15
+CBD + TMZ  (p < 0.0001)
+CBD/THC 15 + TMZ (p < 0.0003)
+80
+100
+Figure 2.  Cannabinoids (CBs) sensitize human GBM to TMZ in orthotopic mouse tumor models. Tumors were generated in female athymic nu/nu 
+mice (n = 11–12) by the intracranial (i.c.) injection of 0.3 × 106 U87 luciferase-labeled cells or U251 cells in 4 µl of RPMI. Starting on day 9, CBs were 
+administered i.p. 5 days a week until completion of the experiment. Starting on day 9, TMZ was administered i.p. 5 days a week for one week. Mice 
+were treated with vehicle, 15 mg/kg CBD, 15 mg/kg CBD/THC (1:1), 2 mg/kg TMZ, 15 mg/kg CBD + 15 mg/kg TMZ, and 15 mg/kg CBD/THC + 2 mg/
+kg TMZ and (A) tumor progression, (B) i.c. luciferase-based imaging of vehicle (top), TMZ at 2 mg/kg (middle panel) 15 mg/kg CBD + 2 mg/kg TMZ 
+(bottom) at day 30, and (C) survival were assessed. Mice bearing U87-derived i.c. tumors (n = 11) were treated with 3.75 and 7.5 mg/kg of CBD alone 
+or in combination with TMZ and (D) tumor progression and (E) survival were assessed. Mice bearing U251-derived i.c. tumors (n = 10–11) were 
+treated with vehicle, 15 mg/kg CBD, 1.5 mg/kg TMZ, 15 mg/kg CBD + 1.5 mg/kg TMZ, and (F) survival was assessed between vehicle and treated 
+animals. Survival data were evaluated using Kaplan–Meir curves and the long-rank Mantel–Cox test. P < .05 defined statistically significantly 
+differences.
+   
+ 6
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+in survival in comparison to treatment with TMZ alone. 
+While the combination of CBD/THC + TMZ improved 
+survival to the greatest extent, there was no significant 
+difference between CBs (CBD, THC, or CBD/THC) in the 
+ability to sensitize GBM to TMZ. This is in agreement with 
+what was observed in the U87-derived i.c. model. Both 
+CBD alone and CBD + TMZ produced a sustained inhibi­
+tion of tumor cell proliferation in vivo as evidenced by 
+reduced Ki67 staining (Figure 3D and E). We next deter­
+mined the antitumor activity of CBs alone or in combina­
+tion with TMZ in GBM resistant to the antitumor activity 
+of TMZ.
+CBD Does Not Sensitize TMZ-Resistant, 
+MGMT-Unmethylated GBM to TMZ
+We tested the activity of the combination of CBD + TMZ 
+in the TMZ-resistant GBM T98 cell line and in the TMZ-
+resistant primary GBM 3832 cells (Figure 4). Unlike U87 
+and U251 cells, where MGMT levels are undetectable, 
+3832 and T98 cells express MGMT to a variable extent 
+(Supplementary Figure 2). TMZ is an alkylating agent 
+prodrug, delivering a methyl group to purine bases of 
+DNA (O6-guanine; N7-guanine, and N3-adenine). The 
+primary cytotoxic lesion, O6-methylguanine (O6-MeG), 
+   
+4
+A
+B
+C
+D
+E
+3
+2
+1
+Combination index
+Fraction affected (Fa)
+0
+100
+*
+*
+*
+#
+#
+#
+75
+50
+25
+Viability (%)
+0
+80
+*
+*
+#
+60
+40
+20
+KI67 postive cells/100
+0
+Vehicle
+CBD 15 mg/kg
+CBD + TMZ
+TMZ 1.5 mg/kg
+Vehicle
+TMZ (1 mg/kg)
+CBD (15 mg/kg)
+CBD + TMZ
+100
+50
+Survival (%)
+0
+20
+40
+60
+Days
+80
+100
+Vehicle
+CBD 15 mg/kg
+CBD/THC 15 mg/kg
+THC 15 mg/kg
+TMZ 1 mg/kg
+(p < 0.0001)
+CBD + TMZ
+(p < 0.0001)
+THC + TMZ
+(p < 0.0001)
+CBD/THC + TMZ
+(p < 0.0001)
+Control
+CBD 3
+CBD 3 + TMZ
+CBD 3 + TMZ + TOC
+CBD 3 + TOC
+TMZ 500
+TMZ 500 + TOC
+0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+Synergistic
+interaction
+Figure 3.  Cannabinoids enhance the activity of TMZ in patient-derived orthotropic mouse tumor models. (A) GBM163X cells were treated for 
+3 days with vehicle, CBD or TMZ alone at specific combined dose ratios (3 µM CBD combined with 250, 500, or 750 µM of TMZ) and cell viability 
+(%) was calculated as absorbance in the treated cells/control cells × 100. These data were used to calculate combination index (CI) values as 
+described previously by our group17,31 using CompuSyn software. A CI value of <1, 1, and >1 indicates synergism (downward arrow), additivity 
+(hashed line), and antagonism, respectively.30 (B) GBM163X cells were treated for 3 days with vehicle (control), 2 µM CBD, 500 µM TMZ, or 2 µM 
+CBD + 500 µM TMZ in the presence and absence of TOC and cell viability was evaluated. (C) Tumors were generated in female athymic nu/nu mice 
+by the intracranial (i.c.) injection of 0.3 × 106 GBM163X cells in 4 µl of RPMI. Starting day 21, CBs were administered i.p. 5 days a week until com­
+pletion of the experiment. Starting on day 21, 1 mg/kg TMZ was administered i.p. 5 days a week for 1 week. Mice (n = 8–12 for vehicle, TMZ, and 
+drug combinations) were treated with vehicle, 15 mg/kg CBD, 15 mg/kg THC, 15 mg/kg CBD/THC (1:1), 1 mg/kg TMZ, 15 mg/kg CBD + 1 mg/kg TMZ 
+(CBD + TMZ), 15 mg/kg THC + 1 mg/kg TMZ (THC + TMZ), and 15 mg/kg CBD/THC + 1 mg/kg TMZ (CBD/THC + TMZ) and (C) survival was assessed. 
+(D) Representative microphotographs of H&E staining from GBM163-derived i.c. tumors treated as indicated (left and center panels). Right panels 
+show Ki67 staining of the same tissue samples from mice treated with vehicle, CBD, TMZ, and the combination of CBD + TMZ. Samples were col­
+lected at the time the animals succumbed to disease. Bar = 200 µm. (E) Bar graph shows quantification of Ki67 positive cells counting 6 fields from 
+2 different animals in each group (20×); the plotted numbers represent averages of Ki67 positive cells for 100 total human tumor cells/field. **P < .02 
+when compared with vehicle. Survival data were evaluated using Kaplan–Meir curves and the long-rank Mantel–Cox test. Data are the mean of 3 
+independent experiments; bars, ± SE. * , #Statistically significant from control and CBD, respectively (P < .05).
+   
+7
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+Neuro-Oncology 
+Advances
+can be removed by MGMT through direct DNA repair 
+mechanism. Thus, in tumors expressing this protein, 
+the antitumor activity of TMZ is reduced.35 In contrast 
+to the effect of CBD + TMZ in U87 and U251 cells, the 
+drug combination did not demonstrate additive or syn­
+ergistic effects in T98 and 3832 cells (Figure 4A and B). 
+We next evaluated the ability of CBD alone or in com­
+bination with TMZ to inhibit tumor growth and prolong 
+survival in an i.c. model of primary GBM utilizing 3,832 
+cells. In vehicle-treated mice, this highly aggressive line 
+produces tumors with a median survival of 35 days even 
+at inoculations of 5,000 cells, with 50% of the popula­
+tions of vehicle-treated mice demonstrating symptoms 
+of tumor burden between day 35 and 36. As shown in 
+Figure 4C, the mean survival for vehicle, CBD, TMZ, and 
+CBD + TMZ was 35.5, 39, 38, and 36 days, respectively. 
+In comparison to GBM tumors with undetectable levels 
+of MGMT, tumors derived from 3,832 cells, which ex­
+press MGMT, demonstrated resistance to the antitumor 
+activity of TMZ. Therefore, mice were administered a 
+maximum tolerated dose (MTD) of 75 mg/kg TMZ in vivo 
+(Figure 4C), and treatment with TMZ alone prolonged 
+survival (P < .02). CBD treatment increased animal sur­
+vival (P < .03), consistent with our previously published 
+work26; however, CBD in combination with TMZ was 
+not significantly more effective than either drug alone 
+(Figure 4C). Overall, the data demonstrate that CBD pro­
+duces more robust enhancement of TMZ activity in GBM 
+cells with lower levels of MGMT expression, which are 
+more responsive to TMZ.
+The Combination of CBD + TMZ Activates AMPK 
+and Upregulates the Autophagy Marker LC3-II
+To further understand the mechanisms underlying the 
+CBD-induced sensitization to TMZ, we next investigated 
+the effects of CBD and TMZ on the AMPK and authophagy 
+pathways. TMZ-sensitive U87 and GBM163X (Figure 5A 
+and B) and TMZ-insensitive T98 and GBM3832 (Figure 
+5C and D) cells were treated with vehicle (control), CBD, 
+TMZ or CBD + TMZ. The combination of CBD + TMZ was 
+most efficient at activating the redox (ROS) sensor AMPK 
+(via phosphorylation) in all the tumor cells tested, with 
+varying degrees of AMPK activation produced by CBD 
+and TMZ alone. Stimulation of APMK leads to autophagy-
+mediated cell death.36 The conversion of the soluble 
+form of LC3 (LC3-I) to the lipidated and autophagosome-
+associated form (LC3-II; lower band in the Western blot 
+   
+100
+A
+C
+B
+*
+*
+*
+75
+50
+Viability (%)
+25
+0
+100
+80
+60
+40
+Survival (%)
+20
+0
+10
+20
+30
+Time
+40
+50
+Vehicle
+CBD 15 (p < 0.03)
+TMZ 75 (p < 0.02)
+CBD + TMZ (p < 0.07)
+Control
+CBD 1.5
+CBD + TMZ
+TMZ 200
+100
+*
+*
+75
+50
+Viability (%)
+25
+0
+Control
+CBD 1.5
+CBD + TMZ
+TMZ 200
+Figure 4.  CBD does not enhance the antitumor effects of TMZ in TMZ-resistant GBM. (A) T98 cells and (B) 3832 primary cells where treated with 
+vehicle (control), 1.5 µM CBD, 200 µM TMZ, or 1.5 µM CBD + 200 µM TMZ for 3 days, and cell viability was evaluated. Data are the mean of 3 inde­
+pendent experiments; bars, ± SE. *Statistically significant interaction (P < .05). (C) Athymic nu/nu mice (n = 10) were injected i.c. with 1 × 104 patient-
+derived GSC 3832 cells labeled with luciferase. Treatments started at day 9 following BLI confirmation of tumor presence (using bioluminescence 
+measurements) and randomization of mice. Mice were treated with vehicle, CBD (15 mg/kg), TMZ (75 mg/kg) or CBD (15 mg/kg) + TMZ (75 mg/kg), 
+and survival was assessed. Survival data were evaluated using Kaplan–Meir curves and the long-rank Mantel–Cox test.
+   
+ 8
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+image) is considered one of the hallmarks of autophagy. 
+A  majority of the LC3-I to LC3-II conversion resulted 
+from CBD treatment alone, with the exception of T98 
+cells where conversion was not observed. We next in­
+vestigated additional pathways that may contribute 
+to CBD-dependent sensitization of GBM to TMZ in 
+TMZ-sensitive cells.
+CBD Inhibits the FOXM1-RAD51 Pathway in 
+TMZ-Sensitive Cell Lines
+FOXM1 inhibition sensitizes resistant brain cancer cells to 
+the first-line DNA damage agent TMZ by downregulating 
+the expression of RAD51 gene, which encodes an important 
+DNA damage repair protein.37 Our recently published work 
+demonstrated that across multiple cancers CBD regulated 
+a consistent set of transcription factors controlling tumor 
+progression, including FOXM1.38 We therefore investigated 
+whether CBD regulates the FOXM1-RAD51 pathway in this 
+study. In TMZ-sensitive lines U87 and GBM163X (Figure 5A 
+and B), CBD effectively inhibited RAD51 expression when 
+cells were treated with CBD alone or in combination with 
+TMZ. In contrast, CBD was ineffective at downregulating 
+RAD51 upon cotreatment with TMZ in TMZ-resistant cells 
+(Figure 5C and D). The inhibitory effects of CBD on FOXM1 
+expression were only observed in the CBD alone treatment 
+group in GBM163X, suggesting this target was not consist­
+ently modulated in either TMZ-sensitive or resistant GBM.
+In the presence of the ROS scavenger TOC, CBD was 
+not effective at downregulating RAD51 in GBM163X 
+demonstrating dependence on production of ROS 
+(Supplementary Figure 3A and B). RAD51 levels were 
+also modulated by the combination of CBD and TMZ in 
+vivo, following treatment of mice bearing GBM163X in­
+tracranial tumors with 15  mg/kg CBD and 2  mg/kg TMZ 
+(Supplementary Figure 4).
+Discussion
+GBMs are a heterougenous group of high-grade brain neo­
+plasms that are notoriously resistant to conventional ther­
+apies.39 Therefore, the identification of nontoxic agents 
+which can improve the efficacy of first-line therapies such 
+   
+pAMPK
+A
+B
+C
+D
+U87
+GBM 163X
+Control
+CBD 1.5
+TMZ 200
+CBD + TMZ
+Control
+CBD 3
+TMZ 500
+CBD + TMZ
+tAMPK
+LC3
+Actin
+FOXM1
+RAD51
+Actin
+pAMPK
+2.5
+U87
+2.0
+1.5
+1.0
+0.5
+0.0
+CBD
+TMZ
+CBD + TMZ
+Protein expression/actin (AU)
+2.5
+pAMPK
+tAMPK
+LC3
+FOXM1
+RAD51
+GBM163X
+2.0
+1.5
+1.0
+0.5
+0.0
+CBD
+TMZ
+CBD + TMZ
+Protein expression/GAPDH (AU)
+5
+T98G
+4
+3
+2
+1
+0
+CBD
+TMZ
+CBD + TMZ
+Protein expression/actin (AU)
+8
+pAMPK
+tAMPK
+LC3
+FOXM1
+RAD51
+GBM3832
+6
+4
+2
+0
+CBD
+TMZ
+CBD + TMZ
+Protein expression/actin (AU)
+tAMPK
+LC3
+GAPDH
+GAPDH
+FOXM1
+RAD51
+pAMPK
+T98G
+GBM3832
+Control
+CBD 1.5
+TMZ 200
+CBD + TMZ
+Control
+CBD 1.5
+TMZ 200
+CBD + TMZ
+tAMPK
+LC3
+FOXM1
+RAD51
+Actin
+Figure 5.  CBD stimulates AMPK, upregulates LC3-II conversion, and inhibits FOXM1 and RAD51 expression in TMZ-sensitive GBM cell lines. (A) 
+U87 were treated for 3 days with vehicle (control), 1.5 µM CBD, 200 µM TMZ, or 1.5 µM CBD + 200 µM TMZ and (B) GBM163X were treated for 3 days 
+with vehicle (control), 3 µM CBD, 500 µM TMZ, or 1.5 µM CBD + 500 µM TMZ. C, D) T98G and( 3832 cells were treated for 3 days with vehicle (con­
+trol), 1.5 µM CBD, 200 µM TMZ, or 1.5 µM CBD + 200 µM TMZ. The expression of pAMPK, tAMPK, LC3A, FOXM1, and RAD51 were evaluated using 
+Western analysis and Image J, respectively. Actin or GAPDH served as a loading control.
+   
+9
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+Neuro-Oncology 
+Advances
+as TMZ, possibly allowing for dose lowering, is urgently 
+needed. Several other agents have been tested in combi­
+nation with TMZ, none of them had both the low toxicity40 
+profile and high brain–blood barrier penetrance of CBD.41
+In this study, we determined whether CBD could en­
+hance the activity of the first-line agent TMZ using multiple 
+culture models of human GBM, including patient-derived 
+tumors. The combination of CBD and TMZ led to primarily 
+additive inhibition of cell viability in U87 and U251 cell cul­
+ture models. There was some slight antagonism at lower 
+dose ratios in primary GBM163X cells, which may be a 
+result of the increased resistance of primary GBM cells 
+versus serum-derived cell lines.24 CBD produced a sus­
+tained upregulation of ROS in a concentration-dependent 
+manner in GBM cells leading to inhibition of cell via­
+bility. The inhibition of cell viability produced by CBD or 
+the combination of CBD + TMZ was blocked by the ROS 
+scavenger TOC.
+We next evaluated the ability of CBs alone or in com­
+bination with TMZ to inhibit tumor growth and extend 
+survival i.c. models of MGMT-methylated GBM utilizing 
+cell lines and patient-derived tumors. This study is the 
+first to perform a direct comparison of the antitumor ac­
+tivity of CBD, THC, and CBD + THC alone and in combina­
+tion with TMZ in orthotopic models. CBD, THC, nor CBD/
+THC alone inhibited GBM progression; however, these 
+CBs produced a similar sensitization of tumors to TMZ, 
+leading to more effective inhibition of tumor progression 
+and prolonged survival. This result is in agreement with 
+previous studies targeting GBM with different ratios of 
+CBD:THC + TMZ.42,43 In these investigations, treatments 
+incorporating different ratios of CBD:THC alone targeting 
+subcutaneous implanted GBM significantly inhibited 
+tumor progression; all ratios tested, including treatments 
+incorporating ratios with higher levels of CBD, for ex­
+ample 5:1 CBD:THC, were equally effective. Importantly, 
+the antitumor activity of CBs alone was not observed in 
+intracranial (orthotopic) models; however, the ability of 
+CBs to sensitize GBM to TMZ was still observed. This dif­
+ference is most likely the result of the difference in the 
+tumor microenvironment. Indeed, using live-cell im­
+aging, we have previously shown that after initial inhi­
+bition of tumor growth by CBD, intracranial GBM tumors 
+appear to resume a more rapid growth rate in spite of 
+continuous CBD administration,26 whereas treatment of 
+GBM tumors implanted subcutaneously leads to a more 
+stable inhibition.26,42 Taken together, these data suggest 
+that CBD alone, or in combination with lower concentra­
+tions of THC that do not produce unwanted pyshcoativity, 
+may be a preferred treatment regimen for development 
+of clinical trials targeting GBM.
+The ability of CBD to sensitize GBM to TMZ was dose 
+dependent in the U87 MG i.c. model. The PK parameters 
+corresponding to the active dose of 15 mg/kg and the in­
+active dose of 7.5 mg/kg were compared allowing for an 
+understanding of drug exposure needed to produce CBD-
+dependent sensitization of tumors to TMZ. CBD was rap­
+idly absorbed following ip injection in mice, with maximal 
+concentrations observed at the first sampling time point of 
+5 min postdose. Systemic CBD exposure (plasma Cmax and 
+AUC) was dose proportional between the 7.5 and 15 mg/kg 
+dosage levels. Concentrations in the high dose decreased 
+with a terminal half-life of 7.5 h to a final concentration of 
+0.019 µg/ml by 12 h postdose.
+In contrast to the effects of CBD + TMZ in MGMT-
+methylated GBM lines, the drug combination did not 
+demonstrate additive or synergistic inhibitory effects in 
+MGMT-unmethylated culture and in vivo models. These 
+data demonstrate CBD produces enhancement of TMZ 
+only in MGMT-methylated GBM, suggesting that MGMT-
+unmethylated GBM cells activate additional pathways 
+leading to therapeutic resistance to the effect of CBD.
+While subthreshold doses of TMZ are commonly used 
+to study drug interactions in vivo,42,43 it should be noted 
+that using a higher dose of TMZ, approaching the MTD, 
+in combination with CBD would have been a preferred 
+treatment regimen to more closely model clinical care. 
+There is the potential that CBs would not further improve 
+survival if the combination treatment included a signifi­
+cantly higher dose of TMZ. However, in TMZ-sensitive tu­
+mors, treatment with a higher dose of TMZ, approaching 
+MTD, would result in a significant extension of survival 
+for many months requiring long-term chronic treatment 
+with CBs, which is not feasible due to animal welfare con­
+cerns when considering i.p. injections of CBs 5  days a 
+week over many months.
+The initial site CBD interacts with to produce antitumor 
+activity is unknown, and the most unifying downstream 
+mechanism in culture is the initial CBD-dependent pro­
+duction of ROS.16 Downstream of production of ROS, CBD 
+has been shown to target multiple genes implicated in 
+controlling tumor progression including TIMP1, PAI, ERK, 
+AKT/mTOR, PUMA, and CHOP19,44–48 as well as other path­
+ways.15 We investigated the potential pathways modu­
+lated downstream of ROS that may explain why CBD is 
+more effective at enhancing the activity of TMZ in MGMT-
+methylated versus MGMT-unmethylated GBM cells. The 
+ROS sensor AMP-activated protein kinase (AMPK) is acti­
+vated as a result of cellular stress, and through inhibition 
+of the Akt-mTORC1 complex, lead ultimately to autophagy-
+mediated cell death.36 Both THC and CBD have been shown 
+to upregulate autophagy-mediated cell death markers in 
+human GBM,18,26 and CB1 and CB2 receptor-induced ap­
+optosis across cancers has been show to rely on stimula­
+tion of autophagy.49 CB1 and CB2 receptor agonists have 
+been demonstrated to sensitize tumors to DNA damaging 
+agents through mechanisms including AMPK autophagy-
+mediated cell death.50,51 In MGMT-methylated GBM cells 
+the combination of CBD + TMZ was most efficient at 
+activating AMPK, with varying degrees of AMPK activation 
+produced by CBD and TMZ alone. In comparison to CBD, 
+the combination of CBD + TMZ did not further improve the 
+conversion of LC3-I to LC3-II, suggesting that a majority of 
+the LC3-I to LC3-II conversion is the result of the treatment 
+with CBD.
+The Forkhead box protein M1 (FOXM1) transcrip­
+tion factor has been shown to promote tumorigenesis.52 
+FOXM1 inhibition sensitized resistant brain cancer cells to 
+the first-line DNA damage agent TMZ by downregulating 
+the expression of RAD51 gene, which encodes an impor­
+tant DNA damage repair protein.37 Since across cancers, 
+CBD has been shown to inhibit the expression of specific 
+ 10
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+transcription factors controlling tumor progression,13,26 
+including FOXM1,38 we investigated whether CBD modu­
+lates expression of FOXM1 and RAD51 in GBM. In MGMT-
+methylated lines, CBD effectively downregulated RAD51, 
+but not FOXM1, alone and in combination with TMZ. In 
+contrast, CBD was ineffective at targeting RAD51 expres­
+sion in MGMT-unmethylated GBM lines.
+In this study, we demonstrate in multiple orthotopic 
+models of MGMT-methylated GBM that CBs can 
+sensitize tumors to the chemotherapeutic agent 
+TMZ. We also show for the first time that in MGMT-
+unmethylated GBM cells where MGMT expression 
+is intact, CBD did not enhance the therapeutic effect 
+of TMZ in culture or in orthotopic models. As clinical 
+trial data for targeting GBM with CBs becomes avail­
+able, it would of interest to determine whether MGMT 
+expression correlates with response to CBs. CBD, a 
+CB that does not produce psychoactive side effects, 
+was equally as effective as THC and the combination 
+of CBD + THC at producing sensitization to TMZ in 
+orthotopic mouse models of GBM. CBD and the com­
+bination of CBD + THC are already being tested in GBM 
+in clinical trials or clinical case studies. The current in­
+vestigation suggests that CBD alone, or combinations 
+limiting the concentration of THC, may be a preferred 
+treatment regimen that would limit psychotropic 
+side effects. We also discovered that CBD effectively 
+downregulates RAD51 in MGMT-methylated, but not 
+in MGMT-unmethylated GBM cells. The targeting of 
+RAD51 in MGMT-methylated GBM may in part explain 
+why CBs can sensitize tumors to TMZ in culture and in 
+vivo in preclinical models of GBM.
+Supplementary Material
+Supplementary material is available at Neuro-Oncology 
+Advances online.
+Keywords
+cannabidiol | glioblastoma | patient-derived-xenograft 
+| sensitization to temozolomide
+Funding
+This study was funded by a sponsored research agreement 
+from INSYS Therapeutics and the Research and Education 
+Leadership Committee of the CPMC Foundation.
+Acknowledgments
+We thank Dr. Jeremy Rich for sharing the primary-derived GBM 
+3832.
+Conflict of interest statement: Dr. McAllister and Dr. 
+Soroceanu received funding in the past from INSYS thera­
+peutics in the form of research service agreements and Dr. 
+McAllister and Dr. Desprez have patents for cannabinoid-
+based therapeutics; US20100204312A1 and US9254272B2. The 
+sponsor played no role in the development of this manuscript. 
+The additional authors have no potential competing interests 
+to report.
+Authorship statement: S.M. and L.S. wrote the manuscript and 
+conceived experiments. P.R. assisted in experimental design and 
+interpretation of the PK data. L.D. contributed primary GBM pa­
+tient samples. S.M. and L.S. supervised the project and assisted 
+in experimental design and the in vivo experiments. P.Y.D. as­
+sisted in interpretation of the data and drafting the manuscript. 
+E.S. and P.D. performed culture experiments, Western analysis, 
+and in vivo experiments. A.R. performed Western analysis. P.D., 
+M.S., C.L., and R.W. performed in vivo experiments. All authors 
+assisted in editing the manuscript and approved the final sub­
+mitted manuscript.
+References
+1.	
+Stupp R, Mason WP, van den Bent MJ, et al. Radiotherapy plus concom­
+itant and adjuvant temozolomide for glioblastoma. N Engl J Med. 2005; 
+352(10):987–996.
+2.	
+Zhang H, Wang R, Yu Y, Liu J, Luo T, Fan F. Glioblastoma treatment mo­
+dalities besides surgery. J Cancer. 2019;10(20):4793–4806.
+3.	
+Fernandes  C, Costa  A, Osorio  L, et  al. Current Standards of Care in 
+Glioblastoma Therapy. In: De  Vleeschouwer  S, ed. Glioblastoma. 
+Chapter 11. Brisbane AU: Codon Publications; 2017.
+4.	
+Blázquez C, Carracedo A, Salazar M, et al. Down-regulation of tissue in­
+hibitor of metalloproteinases-1 in gliomas: a new marker of cannabinoid 
+antitumoral activity? Neuropharmacology. 2008;54(1):235–243.
+5.	
+Preet A, Ganju RK, Groopman JE. Delta9-Tetrahydrocannabinol inhibits 
+epithelial growth factor-induced lung cancer cell migration in vitro as well 
+as its growth and metastasis in vivo. Oncogene. 2008;27(3):339–346.
+6.	
+Velasco G, Carracedo A, Blázquez C, et al. Cannabinoids and gliomas. 
+Mol Neurobiol. 2007;36(1):60–67.
+7.	
+Carracedo A, Lorente M, Egia A, et al. The stress-regulated protein p8 
+mediates cannabinoid-induced apoptosis of tumor cells. Cancer cell. 
+2006;9(4):301–312.
+8.	
+Salazar  M, Carracedo  A, Salanueva  IJ, et  al. Cannabinoid action in­
+duces autophagy-mediated cell death through stimulation of ER stress 
+in human glioma cells. J Clin Invest. 2009;119(5):1359–1372.
+9.	
+McPartland JM, Russo EB. Cannabis and cannabis extract: greater than 
+the sum of the parts? J. Cannabis Therapeut. 2001; 1:103–132.
+10.	 Howlett AC. Cannabinoid inhibition of adenylate cyclase: relative activity 
+of constituents and metabolites of marihuana. Neuropharmacology. 
+1987;26(5):507–512.
+11.	 Devane  WA, Dysarz  FA 3rd, Johnson  MR, Melvin  LS, Howlett  AC. 
+Determination and characterization of a cannabinoid receptor in rat 
+brain. Mol Pharmacol. 1988;34(5):605–613.
+12.	 Showalter  VM, Compton  DR, Martin  BR, Abood  ME. Evaluation of 
+binding in a transfected cell line expressing a peripheral cannabinoid 
+11
+Soroceanu et al. Cannabidiol sensitizes glioblastoma to temozolomide
+Neuro-Oncology 
+Advances
+receptor (CB2): identification of cannabinoid receptor subtype selective 
+ligands. J Pharmacol Exp Ther. 1996;278(3):989–999.
+13.	 McAllister  SD, Christian  RT, Horowitz  MP, Garcia  A, Desprez  PY. 
+Cannabidiol as a novel inhibitor of Id-1 gene expression in aggressive 
+breast cancer cells. Mol Cancer Ther. 2007;6(11):2921–2927.
+14.	 Ligresti A, Moriello AS, Starowicz K, et al. Antitumor activity of plant 
+cannabinoids with emphasis on the effect of cannabidiol on human 
+breast carcinoma. J Pharmacol Exp Ther. 2006;318(3):1375–1387.
+15.	 Seltzer ES, Watters AK, MacKenzie D, Jr., Granat LM, Zhang D. Cannabidiol 
+(CBD) as a Promising Anti-Cancer Drug. Cancers (Basel). 2020;12(11):3203.
+16.	 Massi P, Solinas M, Cinquina V, Parolaro D. Cannabidiol as potential 
+anticancer drug. Br J Clin Pharmacol. 2013;75(2):303–312.
+17.	 Marcu JP, Christian RT, Lau D, et al. Cannabidiol enhances the inhibitory 
+effects of delta9-tetrahydrocannabinol on human glioblastoma cell pro­
+liferation and survival. Mol Cancer Ther. 2010;9(1):180–189.
+18.	 Torres S, Lorente M, Rodríguez-Fornés F, et al. A combined preclinical 
+therapy of cannabinoids and temozolomide against glioma. Mol Cancer 
+Ther. 2011;10(1):90–103.
+19.	 Soroceanu L, Murase R, Limbad C, et al. Id-1 is a key transcriptional reg­
+ulator of glioblastoma aggressiveness and a novel therapeutic target. 
+Cancer Res. 2013;73(5):1559–1569.
+20.	 Guzmán  M, Duarte  MJ, Blázquez  C, et  al. A pilot clinical study of 
+Delta9-tetrahydrocannabinol in patients with recurrent glioblastoma 
+multiforme. Br J Cancer. 2006;95(2):197–203.
+21.	 Hinz B, Ramer R. Anti-tumour actions of cannabinoids. Br J Pharmacol. 
+2019;176(10):1384–1394.
+22.	 Kenyon  J, Liu  W, Dalgleish  A. report of objective clinical responses 
+of cancer patients to pharmaceutical-grade synthetic cannabidiol. 
+Anticancer Res. 2018;38(10):5831–5835.
+23.	 Likar R, Koestenberger M, Stultschnig M, Nahler G. Concomitant treat­
+ment of malignant brain tumours with CBD—a case series and review 
+of the literature. Anticancer Res. 2019;39(10):5797–5801.
+24.	 Lee J, Kotliarova S, Kotliarov Y, et al. Tumor stem cells derived from 
+glioblastomas cultured in bFGF and EGF more closely mirror the pheno­
+type and genotype of primary tumors than do serum-cultured cell lines. 
+Cancer Cell. 2006;9(5):391–403.
+25.	 Zusman E, Sidorov M, Ayala A, et al. Tissues harvested using an automated 
+surgical approach confirm molecular heterogeneity of glioblastoma and en­
+hance specimen’s translational research value. Front Oncol. 2019;9:1119.
+26.	 Singer  E, Judkins  J, Salomonis  N, et  al. Reactive oxygen species-
+mediated therapeutic response and resistance in glioblastoma. Cell 
+Death Dis. 2015;6:e1601.
+27.	 Murase  R, Kawamura  R, Singer  E, et  al. Targeting multiple can­
+nabinoid anti-tumour pathways with a resorcinol derivative leads 
+to inhibition of advanced stages of breast cancer. Br J Pharmacol. 
+2014;171(19):4464–4477.
+28.	 Soroceanu L, Matlaf L, Khan S, et al. Cytomegalovirus immediate-early 
+proteins promote stemness properties in glioblastoma. Cancer Res. 
+2015;75(15):3065–3076.
+29.	 Chou  TC. Theoretical basis, experimental design, and computerized 
+simulation of synergism and antagonism in drug combination studies. 
+Pharmacol Rev. 2006;58(3):621–681.
+30.	 Chou  TC, Tan  QH, Sirotnak  FM. Quantitation of the synergistic interac­
+tion of edatrexate and cisplatin in vitro. Cancer Chemother Pharmacol. 
+1993;31(4):259–264.
+31.	 Ward  SJ, McAllister  SD, Kawamura  R, Murase  R, Neelakantan  H, 
+Walker  EA. Cannabidiol inhibits paclitaxel-induced neuropathic pain 
+through 5-HT(1A) receptors without diminishing nervous system func­
+tion or chemotherapy efficacy. Br J Pharmacol. 2014;171(3):636–645.
+32.	 Bao  S, Wu  Q, McLendon  RE, et  al. Glioma stem cells promote 
+radioresistance by preferential activation of the DNA damage response. 
+Nature. 2006;444(7120):756–760.
+33.	 Hjelmeland AB, Rich JN. The quest for self-identity: not all cancer stem 
+cells are the same. Clin Cancer Res. 2012;18(13):3495–3498.
+34.	 Rich  JN. Cancer stem cells in radiation resistance. Cancer Res. 
+2007;67(19):8980–8984.
+35.	 Zhang J, Stevens MF, Bradshaw TD. Temozolomide: mechanisms of ac­
+tion, repair and resistance. Curr Mol Pharmacol. 2012;5(1):102–114.
+36.	 Cardaci  S, Filomeni  G, Ciriolo  MR. Redox implications of AMPK-
+mediated signal transduction beyond energetic clues. J Cell Sci. 
+2012;125(Pt 9):2115–2125.
+37.	 Zhang N, Wu X, Yang L, et al. FoxM1 inhibition sensitizes resistant gli­
+oblastoma cells to temozolomide by downregulating the expression of 
+DNA-repair gene Rad51. Clin Cancer Res. 2012;18(21):5961–5971.
+38.	 Desprez PY, Murase R, Limbad C, et al. Cannabidiol treatment re­
+sults in a common gene expression response across aggressive 
+cancer cells from various origins. Cannabis Cannabinoid Res. 
+2021;6(2):148–155.
+39.	 Bahadur  S, Sahu  AK, Baghel  P, Saha  S. Current promising treat­
+ment strategy for glioblastoma multiform: A  review. Oncol Rev. 
+2019;13(2):417.
+40.	 Iffland  K, Grotenhermen  F. An update on safety and side effects of 
+cannabidiol: a review of clinical data and relevant animal studies. 
+Cannabis Cannabinoid Res. 2017;2(1):139–154.
+41.	 Deiana S, Watanabe A, Yamasaki Y, et al. Plasma and brain pharmacokinetic 
+profile of cannabidiol (CBD), cannabidivarine (CBDV), Δ 9-tetrahydrocannabivarin 
+(THCV) and cannabigerol (CBG) in rats and mice following oral and 
+intraperitoneal administration and CBD action on obsessive-compulsive behav­
+iour. Psychopharmacology (Berl). 2012;219(3):859–873.
+42.	 López-Valero I, Saiz-Ladera C, Torres S, et al. Targeting glioma initiating 
+cells with a combined therapy of cannabinoids and temozolomide. 
+Biochem Pharmacol. 2018;157:266–274.
+43.	 López-Valero I, Torres S, Salazar-Roa M, et al. Optimization of a preclin­
+ical therapy of cannabinoids in combination with temozolomide against 
+glioma. Biochem Pharmacol. 2018;157:275–284.
+44.	 Ramer R, Merkord J, Rohde H, Hinz B. Cannabidiol inhibits cancer cell in­
+vasion via upregulation of tissue inhibitor of matrix metalloproteinases-1. 
+Biochem Pharmacol. 2010;79(7):955–966.
+45.	 Ramer  R, Rohde  A, Merkord  J, Rohde  H, Hinz  B. Decrease of plas­
+minogen activator inhibitor-1 may contribute to the anti-invasive 
+action of cannabidiol on human lung cancer cells. Pharm Res. 
+2010;27(10):2162–2174.
+46.	 Morelli  MB, Offidani  M, Alesiani  F, et  al. The effects of cannabidiol 
+and its synergism with bortezomib in multiple myeloma cell lines. 
+A  role for transient receptor potential vanilloid type-2. Int J Cancer. 
+2014;134(11):2534–2546.
+47.	 Solinas M, Massi P, Cinquina V, et al. Cannabidiol, a non-psychoactive can­
+nabinoid compound, inhibits proliferation and invasion in U87-MG and T98G 
+glioma cells through a multitarget effect. PLoS One. 2013;8(10):e76918.
+48.	 De Petrocellis L, Ligresti A, Schiano Moriello A, et al. Non-THC can­
+nabinoids inhibit prostate carcinoma growth in vitro and in vivo: 
+pro-apoptotic effects and underlying mechanisms. Br J Pharmacol. 
+2013;168(1):79–102.
+49.	 Velasco G, Sánchez C, Guzmán M. Towards the use of cannabinoids as 
+antitumour agents. Nat Rev Cancer. 2012;12(6):436–444.
+50.	 Vara  D, Salazar  M, Olea-Herrero  N, Guzmán  M, Velasco  G, Díaz-
+Laviada I. Anti-tumoral action of cannabinoids on hepatocellular car­
+cinoma: role of AMPK-dependent activation of autophagy. Cell Death 
+Differ. 2011;18(7):1099–1111.
+51.	 Dando I, Donadelli M, Costanzo C, et al. Cannabinoids inhibit energetic 
+metabolism and induce AMPK-dependent autophagy in pancreatic 
+cancer cells. Cell Death Dis. 2013;4:e664.
+52.	 Koo CY, Muir KW, Lam EW. FOXM1: From cancer initiation to progres­
+sion and treatment. Biochim Biophys Acta. 2012;1819(1):28–37.

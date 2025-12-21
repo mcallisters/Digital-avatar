@@ -1,0 +1,1117 @@
+RESEARCH PAPER
+Cannabidiol inhibits
+paclitaxel-induced
+neuropathic pain through
+5-HT1A receptors without
+diminishing nervous system
+function or chemotherapy
+efﬁcacy
+Sara Jane Ward1, Sean D McAllister2, Rumi Kawamura2, Ryuchi Murase2,
+Harshini Neelakantan3 and Ellen A Walker3
+1Center for Substance Abuse Research, Temple University School of Medicine, Philadelphia, PA,
+USA, 2Cancer Research, California Paciﬁc Medical Center Research Institute, San Francisco, CA,
+USA, and 3Pharmaceutical Sciences, Temple University School of Pharmacy, Philadelphia, PA,
+USA
+Correspondence
+Sara Jane Ward, Center for
+Substance Abuse Research,
+Temple University School of
+Medicine, 3500 N Broad St,
+Philadelphia, PA 19140, USA.
+E-mail: saraward@temple.edu
+----------------------------------------------------------------
+Keywords
+cannabidiol; paclitaxel;
+chemotherapy-induced
+neuropathic pain; CIPN; 5-HT1A;
+breast cancer; cannabinoid;
+mechanical sensitivity
+----------------------------------------------------------------
+Received
+10 March 2013
+Revised
+12 August 2013
+Accepted
+26 August 2013
+BACKGROUND AND PURPOSE
+Paclitaxel (PAC) is associated with chemotherapy-induced neuropathic pain (CIPN) that can lead to the cessation of treatment
+in cancer patients even in the absence of alternate therapies. We previously reported that chronic administration of the
+non-psychoactive cannabinoid cannabidiol (CBD) prevents PAC-induced mechanical and thermal sensitivity in mice. Hence,
+we sought to determine receptor mechanisms by which CBD inhibits CIPN and whether CBD negatively effects nervous
+system function or chemotherapy efﬁcacy.
+EXPERIMENTAL APPROACH
+The ability of acute CBD pretreatment to prevent PAC-induced mechanical sensitivity was assessed, as was the effect of CBD
+on place conditioning and on an operant-conditioned learning and memory task. The potential interaction of CBD and PAC
+on breast cancer cell viability was determined using the MTT assay.
+KEY RESULTS
+PAC-induced mechanical sensitivity was prevented by administration of CBD (2.5 – 10 mg·kg−1) in female C57Bl/6 mice. This
+effect was reversed by co-administration of the 5-HT1A antagonist WAY 100635, but not the CB1 antagonist SR141716 or the
+CB2 antagonist SR144528. CBD produced no conditioned rewarding effects and did not affect conditioned learning and
+memory. Also, CBD + PAC combinations produce additive to synergistic inhibition of breast cancer cell viability.
+CONCLUSIONS AND IMPLICATIONS
+Our data suggest that CBD is protective against PAC-induced neurotoxicity mediated in part by the 5-HT1A receptor system.
+Furthermore, CBD treatment was devoid of conditioned rewarding effects or cognitive impairment and did not attenuate
+PAC-induced inhibition of breast cancer cell viability. Hence, adjunct treatment with CBD during PAC chemotherapy may be
+safe and effective in the prevention or attenuation of CIPN.
+BJP
+British Journal of
+Pharmacology
+DOI:10.1111/bph.12439
+www.brjpharmacol.org
+636
+British Journal of Pharmacology (2014) 171 636–645
+© 2013 The British Pharmacological Society
+Abbreviations
+CB, cannabinoid; CBD, cannabidiol; CI, combination index; CIPN, chemotherapy-induced peripheral neuropathy; CPP,
+conditioned place preference; CRM, cremophor; PAC, paclitaxel; THC, tetrahydrocannabinol; TRPV, transient receptor
+potential vanilloid
+Introduction
+Chemotherapy-induced peripheral neuropathy (CIPN) is a
+serious dose-limiting side effect associated with several com-
+monly used chemotherapeutic agents, including taxanes,
+platinum agents and vinca alkaloids. CIPN occurs in 30–40%
+of patients but incidences can approach 75% with certain
+regimens. Common peripheral sensory symptoms include
+paresthesias and dysesthesias, pain, numbness and tingling,
+and sensitivity to touch and temperature. Motor symptoms
+include
+weakness
+and
+gait
+and
+balance
+disturbances
+(Visovsky et al., 2007). In most cases, CIPN is only partially
+reversible with cessation of treatment and in the worst cases
+damage can be permanent. To date, no one drug or drug class
+is considered to be safe and effective for treatment of CIPN
+(Lynch et al., 2004), making the identiﬁcation of alternative
+effective analgesics a crucial medical need.
+The exact mechanism of CIPN has not been fully eluci-
+dated and can differ across classes of chemotherapeutic
+agents. In general, these agents can affect cellular microtu-
+bules, disrupt mitochondrial function or impair DNA synthe-
+sis.
+Such
+assaults
+on
+peripheral
+nerves
+can
+lead
+to
+sensitization and spontaneous activity of these ﬁbres (Xiao
+and Bennett, 2008), alteration of voltage-gated sodium and
+transient receptor potential vanilloid (TRPV) channel activity
+and expression (Adelsberger et al., 2000; Gauchan et al.,
+2009), dorsal column ascending ﬁbre pathology (Cavaletti
+et al., 1995), and inﬁltration of activated microglia and
+release of pro-inﬂammatory cytokines (Hu and McLachlan,
+2002), ultimately leading to ascending pain pathway sensiti-
+zation
+(Peters
+et al.,
+2007).
+Functional
+changes
+to
+the
+descending inhibitory pain pathway can also result, altering
+noradrenaline and 5-HT signalling and further amplifying
+the effects of central sensitization (Baron et al., 2010).
+Cannabinoids suppress neuropathic pain induced by trau-
+matic nerve injury, toxic insults and metabolic changes (for
+review, see Guindon and Hohmann, 2008). The mixed CB1/
+CB2 agonist WIN55,212-2 suppresses neuropathic nocicep-
+tion induced by the chemotherapeutic agent paclitaxel (PAC)
+through a CB1-speciﬁc mechanism (Pascual et al., 2005).
+WIN55,212-2 also suppresses vincristine-induced neuropathy
+through activation of both CB1 and CB2 receptors (Rahn et al.,
+2007).
+Activation
+of
+CB2
+receptors
+partially
+attenuates
+vincristine-induced
+neuropathy
+(Rahn
+et al.,
+2007)
+and
+fully attenuates PAC-induced neuropathy (Rahn et al., 2008;
+Deng et al., 2012) in rats. In humans, several studies have
+demonstrated anti-neuropathic effects of whole cannabis,
+Δ9-tetrahydrocannabinol (THC), or its synthetic analogues
+nabilone or dronabinol (Pinsger et al., 2006; Skrabek et al.,
+2008; Ware et al., 2010). However, several reports describe
+these effects as modest, while others have reported negative
+results (Wade et al., 2004; Johnson et al., 2010). Importantly,
+patients in the vast majority of studies also report several
+adverse events such as dizziness, dryness, sedation, disorien-
+tation and decreased concentration, and while these were not
+categorized as serious they probably limit the tolerability and
+compliance with such treatments.
+One of the more successful cannabis-based pharmaceuti-
+cals for the treatment of pain is the buccal spray Sativex [1:1
+formulation of THC and the phytocannabinoid cannabidiol
+(CBD)], approved in the EU and Canada for treatment of
+multiple sclerosis spasticity, with an additional license in
+Canada for use in multiple sclerosis-associated neuropathic
+pain and cancer pain. Sativex has recently entered directly
+into US late-stage trials because of its promising therapeutic
+uses, and has shown pain-relieving effects in two recent clini-
+cal trials: one for cancer pain (Johnson et al., 2010) and one
+for neuropathic pain associated with multiple sclerosis
+(Langford et al., 2013). However, the psychoactive side effects
+of Sativex mediated by THC may limit its broader utility in
+the clinic. For example, THC and Sativex have been deter-
+mined to produce similar subjective and physiological effects
+( Johnson et al., 2010; Karschner et al., 2011). However,
+mounting preclinical evidence now demonstrates that CBD
+alone has anti-neuropathic effects (Costa et al., 2007; Toth
+et al., 2010; Xiong et al., 2012; see Fernández-Ruiz et al., 2013
+for review). To date, no clinical trials have yet commenced to
+study the efﬁcacy of the non-psychoactive CBD as a mono-
+therapy for the treatment of neuropathic pain. We have
+recently reported that 14 days of administration of CBD pre-
+vents the onset of PAC-induced mechanical and thermal sen-
+sitivity in a female mouse model of CIPN (Ward et al., 2011).
+In the present set of experiments, we aimed to determine
+whether sub-chronic dosing regimen of CBD would prevent
+PAC-induced mechanical sensitivity while also determining
+whether this effect is mediated by activation of 5-HT1A recep-
+tors. CBD binds to the 5-HT1A receptor as an agonist with
+micromolar afﬁnity (Russo et al., 2005), and research has
+demonstrated potent anti-neuropathic effects with 5-HT1A
+agonists (e.g. Colpaert, 2006). Indeed, intra-periaqueductal
+grey injection of CBD produces dose-dependent antinocicep-
+tion that is blocked by co-administration of the 5-HT1A
+antagonist WAY100635 (Maione et al., 2011). Lastly, we also
+sought to determine whether treatment with CBD would
+have any effects on conditioned reward, learning and
+memory, and the inhibitory activity of PAC on breast cancer
+cell viability.
+Methods
+Animals. Female C57Bl/6 mice weighing 16–20 g (Taconic
+Farms, Cranbury, NJ, USA; Jackson Labs, Chicago, IL, USA)
+were
+acclimatized
+to
+the
+temperature-
+and
+humidity-
+controlled vivarium and housed in groups of four for at least
+5 days before initiation of behavioural studies. Artiﬁcial
+BJP
+Cannabidiol prevents chemotherapy neuropathic pain
+British Journal of Pharmacology (2014) 171 636–645
+637
+lighting provided a reverse 12 h light/dark cycle (lights off
+10:00 h). The animals had free access to dietary food and
+water except where noted. The total number of animals used
+was 240 and the procedures used were as humane as possible
+and complied with the guidelines of the Temple University
+Institutional Animal Care and Use Committee. All studies
+involving animals are reported in accordance with the
+ARRIVE
+guidelines
+for
+reporting
+experiments
+involving
+animals (Kilkenny et al., 2010; McGrath et al., 2010).
+Drugs. PAC solution [Teva Parenteral Medicines: dissolved
+in 1:1 mixture of alcohol and cremophor (CRM)] was
+obtained from Temple University Hospital Cancer Center
+(Philadelphia, PA, USA). For cell viability studies in breast
+cancer cell lines, PAC was obtained from Sigma (St. Louis,
+MO, USA). CBD, morphine sulfate, and the CB1 (SR141716A)
+and CB2 receptor (SR144528) antagonist were provided by the
+National Institute on Drug Abuse drug supply program
+(Bethesda, MD, USA). WAY100635 was purchased from RBI.
+PAC was diluted in 0.9% saline. CBD was dissolved in a 1:1
+mixture of ethanol and CRM (Sigma-Aldrich, St. Louis, MO,
+USA) and diluted with saline to a ﬁnal ratio of 1:1:18
+(ethanol : CRM : saline). Morphine and WAY100635 were dis-
+solved in 0.9% saline. All injections were given i.p. in a
+volume of 10 μL·g−1 of body weight.
+Mechanical allodynia
+In the ﬁrst set of experiments, mechanical allodynia was
+assessed in ﬁve groups of mice (n = 8 per group) using von
+Frey monoﬁlaments of varying forces (0.07–4.0 g) applied to
+the mid-plantar surface of the right hind paw, with each
+application held in c-shape for 6 s using the up-down method
+of Dixon (1980). Mice were placed in individual Plexiglas
+compartments (Med Associates, St. Albans, VT, USA) on top of
+a wire grid ﬂoor suspended 20 cm above the laboratory bench
+top and acclimatized to the environment for 15 min before
+each test session. Baseline sensitivity to the monoﬁlaments
+was assessed 1 day before the start of drug administration and
+continued weekly for 10 weeks. On experimental days 1, 3, 5
+and 7, mice received the following two i.p. injections, spaced
+15 min apart: group 1 – CRM vehicle, CRM vehicle; group 2
+– CRM vehicle, 4.0 mg·kg−1 PAC; group 3 – CRM vehicle,
+8.0 mg·kg−1 PAC; group 4 – 2.5 mg·kg−1 CBD, 8.0 mg·kg−1 PAC;
+5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC. Mechanical allodynia was
+not assessed on injection days. PAC and CBD doses were
+based on signiﬁcant ﬁndings from Ward et al. (2011).
+In the second set of experiments, mechanical allodynia
+was assessed in an identical manner to that described above.
+Four groups of mice were treated on experimental days 1, 3,
+5 and 7 with three i.p. injections spaced 15 min apart: group
+1 – saline, CRM vehicle, CRM vehicle; group 2 – saline, CRM
+vehicle, 8.0 mg·kg−1 PAC; group 3 – saline, 5.0 mg·kg−1 CBD,
+8.0 mg·kg−1
+PAC;
+group
+4
+–
+1.0 mg·kg−1
+WAY100635,
+5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC. Dose of WAY100635 was
+based on several studies investigating blockade of 5-HT1A
+agonist-mediated behavioural pharmacological effects (e.g.
+Hagiwara et al., 2008).
+In the third set of experiments, mechanical allodynia was
+assessed 1 day before the start of drug administration and on
+day 15 following the ﬁrst injections. Five groups of mice were
+treated on experimental days 1, 3, 5 and 7 with three i.p.
+injections spaced 15 min apart: group 1 – saline, CRM
+vehicle, CRM vehicle; group 2 – saline, CRM vehicle,
+8.0 mg·kg−1
+PAC;
+group
+3
+–
+saline,
+5.0 mg·kg−1
+CBD,
+8.0 mg·kg−1 PAC; group 4 – 3.0 mg·kg−1 SR141716, 5.0 mg·kg−1
+CBD, 8.0 mg·kg−1 PAC; group 5 – 3.0 mg·kg−1 SR144528,
+5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC. Doses of SR141716 and
+SR144528 were based on several studies investigating block-
+ade of CB1 and CB2 agonist-mediated effects respectively
+(Rahn et al., 2007; 2008).
+Place conditioning
+The conditioned rewarding effects of CBD and morphine
+were assessed using a standard mouse place conditioning
+procedure and Med Associates mouse three compartment
+place conditioning chambers (MED-CPP-3013). Mice received
+vehicle or morphine (2.5–10 mg·kg −1, i.p.; 15 min pretreat-
+ment) or vehicle or CBD (2.5–10 mg·kg−1, i.p.; 30 min pre-
+treatment)
+on
+alternate
+days
+for
+30 min
+conditioning
+sessions for 6 successive days. Vehicle injections were paired
+with the black compartment and the drug injections with the
+white compartment of the conditioned place preference
+(CPP) apparatus. On day 7, test sessions were conducted
+where mice in a drug-free state had 30 min free access to all
+chambers following an initial 5 min acclimation in the
+central grey compartment. The time spent in the drug- and
+vehicle-paired compartments was recorded on the test day
+and the data are presented as time spent in the drug-paired
+compartment.
+Autoshaping
+The effect of CBD (2.0–20 mg·kg−1, i.p.) on acquisition and
+retention of a conditioned learning task was assessed using a
+modiﬁed autoshaping procedure and Med Associates mouse
+operant conditioning chambers (ENV 307W) as described in
+Foley et al. (2008). Brieﬂy, mice were weighed and food-
+restricted for 24 h before the experimental session. On the
+acquisition day, mice were placed inside a standard mouse
+experimental chamber, and the availability of a sweet liquid
+reinforcer (50% vanilla Ensure in tap water; Abbott Labora-
+tories, Columbus, OH, USA) under a variable interval sched-
+ule was signalled by a tone. The mouse was reinforced with
+the vanilla Ensure if it made a nose-poke response into a
+centre dipper receptacle during an 8 s period following the
+tone. Each acquisition session lasted for 2 h or until 20 rein-
+forced nose pokes were recorded. For the retention test, mice
+were placed back into the chambers 24 h following the
+acquisition session under the same conditions. In the present
+experiment, mice were pretreated with vehicle or CBD
+30 min before the acquisition session.
+Cell culture and treatments
+The mouse and human breast cancer cell lines used were 4T1
+(obtained
+from
+ATCC)
+and
+MDA-MB231-luc-D3H2LN
+(obtained from Caliper; Jenkins et al., 2005) cells respectively.
+Cell lines were maintained at 37°C and 5% CO2. In all experi-
+ments, the different cell populations were ﬁrst cultured in
+RPMI media containing 10% FBS. Cells were then seeded into
+96-well plates in 10% FBS and on the ﬁrst day of treatment
+the media was replaced with vehicle control or drug in RPMI
+and 0.1% FBS as previously reported (McAllister et al., 2005).
+The media with the appropriate compounds were replaced
+every 24 h.
+BJP
+S J Ward et al.
+638
+British Journal of Pharmacology (2014) 171 636–645
+MTT assay
+Assays were performed as previously described (McAllister
+et al., 2007). Cell viability (%) was calculated as the MTT
+absorbance of the treated cells/control cells × 100.
+Pharmacological and statistical analyses
+IC50 values were calculated using CompuSyn (Paramus, NJ,
+USA). To test for synergism, the combination index (CI) was
+also calculated using Compusyn where CI <1, = 1 and >1
+indicates synergism, additive effect and antagonism, respec-
+tively, as previously described (Chou et al., 1993; Chou, 2006)
+and as previously published by our group (Marcu et al., 2010).
+Based on the classic isobologram for mutually exclusive effects
+relative to the end point of measurement, the CI value for x %
+inhibition is calculated as: CI = (D)1/(Dx)1 + (D)2/(Dx)2.
+(D)1 PAC; (D)2 represents CBD; (Dx)1 and (Dx)2 are the
+doses for x% growth that can be obtained using the ICF
+equation described above. (D)1 and (D)2 are the concentra-
+tions in the combination which also inhibit cell growth by x
+% (Chou et al., 1993).
+Results
+Mechanical allodynia
+Treatment with either 4.0 or 8.0 mg·kg−1 PAC on alternating
+days for a total of four injections produced mechanical sen-
+sitivity in female C57Bl/6 mice. Peak sensitivity was achieved
+by week 2 post-treatment and lasted for the full 10 weeks of
+the study for the 8.0 mg·kg−1 PAC dose. Co-administration of
+either 2.5 or 5.0 mg·kg−1 CBD 15 min prior to each PAC injec-
+tion prevented PAC-induced mechanical sensitivity. Two-way
+ANOVA revealed signiﬁcant main effects of treatment [F(4, 310)
+= 27.71, P < 0.0001] and time [F(9, 310) = 5.001, P < 0.001]
+and no signiﬁcant interaction (F <1.0). Bonferroni post-tests
+revealed a signiﬁcant increase in sensitivity in both the 4.0
+and 8.0 mg·kg−1 PAC groups compared with Veh/Veh. In con-
+trast, the PAC groups pretreated with either 2.5 or 5.0 mg·kg−1
+CBD were not signiﬁcantly different from Veh/Veh in their
+mechanical sensitivity (Figure 1).
+Additional administration of the 5-HT1A antagonist WAY
+100635 (1.0 mg·kg−1) before PAC and CBD treatment attenu-
+ated the reversal of PAC-induced mechanical sensitivity by
+CBD. Two-way ANOVA revealed signiﬁcant effects of treatment
+[F(3, 280) = 24.66, P < 0.0001] and time [F(9, 280) = 5.058,
+P < 0.001] and no signiﬁcant interaction (F <1.0). Bonferroni
+post-test revealed a signiﬁcant increase in the sensitivity of
+the PAC group and the WAY/CBD/PAC groups compared with
+Veh/Veh/Veh. In contrast, the Veh/CBD/PAC group did not
+differ signiﬁcantly from the Veh/Veh/Veh group on mechani-
+cal sensitivity (Figure 2).
+Conversely, additional administration of either the CB1
+antagonist SR141716 (3.0 mg·kg−1) or the CB2 antagonist
+SR144528 (3.0 mg·kg−1) had no effect on the reversal of PAC-
+induced mechanical sensitivity by CBD as measured on day
+15 post-initiation of treatment. One-way ANOVA revealed a
+signiﬁcant effect of treatment [F(8, 79) = 7.647, P < 0.05].
+Dunnett’s multiple comparison test determined that only the
+Veh/Veh/PAC, WAY/CBD/PAC, SR1/Veh/PAC and SR2/Veh/
+PAC groups were statistically different from the Veh/Veh/Veh
+control group (P < 0.05), showing signiﬁcant mechanical
+allodynia (Figure 3). Furthermore, the ability of WAY to block
+CBD’s anti-allodynic effect could not be attributed to the
+effect of WAY alone on PAC-induced mechanical sensitivity,
+as WAY itself did not potentiate the effect of PAC alone
+(WAY/Veh/PAC).
+Place conditioning and autoshaping
+There was no effect of CBD on time spent in the white,
+CBD-paired
+compartment
+compared
+with
+CRM
+vehicle
+control, although there was a trend towards a decrease in the
+time spent in the CBD-paired compartment at the highest
+dose tested. One-way ANOVA revealed no signiﬁcant effect of
+treatment [F(3, 31) = 2.477, n.s.]. By comparison, morphine
+treatment signiﬁcantly increased the time spent in the white,
+morphine-paired compartment compared with saline vehicle
+control [F(3, 30) = 15.66, P < 0.0001] (Figure 4). Furthermore,
+CBD treatment had no effect on the time to earn 10 reinforc-
+ers during the acquisition [F(3, 32) <1] or retention [F(3, 25)
+= 1.692, n.s.] sessions (Figure 5).
+CBD enhances PAC inhibition of breast
+cancer cell viability
+Multiple studies now show that CBD can act as a direct
+antitumor agent against aggressive cancers (Massi et al.,
+Figure 1
+Effect of CBD pretreatment (2.5, 5.0 mg·kg−1, i.p.) on PAC-induced
+mechanical allodynia in female C57Bl/6 mice. Baseline sensitivity to
+von Frey ﬁlaments was assessed on the day before drug administration
+and continued weekly for 10 weeks. Mice received the following two
+i.p. injections spaced 15 min apart on days 1, 3, 5 and 7: CRM vehicle,
+CRM
+vehicle;
+CRM
+vehicle,
+4.0 mg·kg−1
+PAC;
+CRM
+vehicle,
+8.0 mg·kg−1 PAC; 2.5 mg·kg−1 CBD, 8.0 mg·kg−1 PAC; 5.0 mg·kg−1
+CBD, 8.0 mg·kg−1 PAC. Two-way ANOVA revealed signiﬁcant main
+effects of treatment [F(4, 310) = 27.71, P < 0.0001] and time [F(9, 310)
+= 5.001, P < 0.001] and no signiﬁcant interaction (F < 1.0). Bonferroni
+post-tests revealed a signiﬁcant increase in sensitivity in both the 4.0
+and 8.0 mg·kg−1 PAC groups compared with Veh/Veh. In contrast, the
+PAC groups pretreated with either 2.5 or 5.0 mg·kg−1 CBD were not
+signiﬁcantly different from Veh/Veh in their mechanical sensitivity.
+X-axis: time points pre- or post-day ﬁrst injection. Y-axis: threshold
+pressure to elicit hind paw withdrawal from von Frey ﬁlament. Data
+points represent the mean and SEM, n = 8 per group.
+BJP
+Cannabidiol prevents chemotherapy neuropathic pain
+British Journal of Pharmacology (2014) 171 636–645
+639
+2013). Therefore, there is the potential for CBD to produce
+synergistic, additive or antagonist effects when combined
+with PAC. We studied these potential interactions by evalu-
+ating the effects of the drugs alone and in combination on
+breast cancer cell viability. 4T1 and luciferase-labelled MDA-
+MB231-luc-D3H2LN (LN 231) cells were treated for 2 days
+with a range of concentrations of either PAC or CBD and the
+ability of the drugs to inhibit cell viability was assessed using
+the MTT assay (Figure 6A). In this assay, CBD was more
+potent than PAC at inhibiting cell viability and CBD acted as
+a full agonist whereas PAC acted as a partial agonist. PAC
+could not fully inhibit cell viability even up to concentration
+of 50 μM. PAC began to precipitate out of solution in the MTT
+assay at the higher concentration range which precluded us
+from further concentrating the drug. The average values from
+the concentration response curves which were then used to
+derive medium-effect plot parameters including the dose-
+reduction index were calculated (Table 1). Using the calcu-
+lated IC50 values, various dose ratios of CBD and PAC were
+combined in both 4T1 and LN 231 cells and viability was
+evaluated (Figure 6B and C). The use of higher dose ratios
+was limited by the solubility of PAC; however, this did not
+affect the calculation of a CI. As shown in Figure 6D, the
+combination of CBD and PAC led to an additive and
+synergistic inhibition of cell viability in 4T1 and LN 231 cells
+respectively.
+Discussion
+We had previously reported that a 14 day dosing regimen of
+CBD (5.0 and 10 mg·kg−1) prevented the onset of PAC-
+induced mechanical and thermal sensitivity (Ward et al.,
+2011). In the present study, we determined that both 2.5 and
+5 mg·kg−1 CBD treatment, administered only before each of
+the four PAC injections of a standard dosing regimen for
+inducing CIPN in rodents, also prevents the development of
+PAC-induced mechanical sensitivity in female C57Bl/6 mice.
+The present study further demonstrated that 5-HT1A receptors
+are partially involved in the neuroprotective effect of CBD in
+this model, in that co-administration of the 5-HT1A antago-
+nist blocked the preventive effect of CBD on PAC-induced
+mechanical sensitivity. In contrast, neither the CB1 antago-
+nist SR141716 nor the CB2 antagonist SR144528 affected the
+efﬁcacy of CBD, suggesting its neuroprotective effect was not
+mediated by activation of CB1 or CB2 receptors. Furthermore,
+Figure 2
+Effect of WAY100635 pretreatment (1.0 mg·kg−1, i.p.) on CBD pre-
+vention of PAC-induced mechanical allodynia in female C57Bl/6
+mice. Baseline sensitivity to von Frey ﬁlaments was assessed on the
+day before drug administration and continued weekly for 10 weeks.
+Mice received the following three i.p. injections spaced 15 min apart
+on days 1, 3, 5 and 7: saline, CRM vehicle, CRM vehicle; saline, CRM
+vehicle, 8.0 mg·kg−1 PAC; saline, 5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC;
+1.0 mg·kg−1 WAY100635, 5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC. Two-
+way ANOVA revealed signiﬁcant effects of treatment [F(3, 280) = 24.66,
+P < 0.0001] and time [F(9, 280) = 5.058, P < 0.001] and no signiﬁ-
+cant interaction (F <1.0). Bonferroni post-test revealed a signiﬁcant
+increase in the sensitivity of the PAC group and the WAY/CBD/PAC
+groups compared with Veh/Veh/Veh. In contrast, the Veh/CBD/PAC
+group did not differ signiﬁcantly from the Veh/Veh/Veh group on
+mechanical sensitivity. X-axis: time points pre- or post-day ﬁrst injec-
+tion. Y-axis: threshold pressure to elicit hind paw withdrawal from
+von Frey ﬁlament. Data points represent the mean and SEM, n = 8
+per group.
+Figure 3
+Effect of CB1 (SR141716; SR1) or CB2 (SR144528; SR2) receptor
+antagonism on CBD prevention of PAC-induced mechanical allodynia
+in female C57Bl/6 mice. Sensitivity to von Frey ﬁlaments was assessed
+on day 15 post-treatment. Mice received the following three i.p.
+injections spaced 15 min apart on days 1, 3, 5 and 7: saline, CRM
+vehicle, CRM vehicle; saline, CRM vehicle, 8.0 mg·kg−1 PAC; saline,
+5.0 mg·kg−1 CBD, 8.0 mg·kg−1 PAC; 1.0 mg·kg−1 WAY, 5.0 mg·kg−1
+CBD, 8.0 mg·kg−1 PAC; 3.0 mg·kg−1 SR141716, 5.0 mg·kg−1 CBD,
+8.0 mg·kg−1
+PAC;
+3.0 mg·kg−1
+SR144528,
+5.0 mg·kg−1
+CBD,
+8.0 mg·kg−1
+PAC;
+1.0 mg·kg−1
+WAY,
+CRM,
+8.0 mg·kg−1
+PAC;
+3.0 mg·kg−1
+SR141716,
+CRM,
+8.0 mg·kg−1
+PAC;
+3.0 mg·kg−1
+SR144528, CRM, 8.0 mg·kg−1 PAC. One-way ANOVA revealed a signiﬁ-
+cant effect of treatment [F(8, 79) = 7.647, P < 0.05]. Dunnett’s
+multiple comparison test determined that only the Veh/Veh/PAC,
+WAY/CBD/PAC, SR1/Veh/PAC and SR2/Veh/PAC groups were statisti-
+cally different from the Veh/Veh/Veh control group (P < 0.05). X-axis:
+treatment. Y-axis: threshold pressure to elicit hind paw withdrawal
+from von Frey ﬁlament. Data points represent the mean and SEM,
+n = 8 per group.
+BJP
+S J Ward et al.
+640
+British Journal of Pharmacology (2014) 171 636–645
+treatment with the antagonists alone did not further exacer-
+bate PAC-induced mechanical sensitivity. In addition, CBD
+did not produce conditioned rewarding effects using the
+place conditioning procedure, nor did it produce deﬁcits in
+acquisition or retention of an operant learning task using the
+autoshaping procedure. Lastly, CBD did not attenuate the
+anti-neoplastic effect of PAC on breast cancer cells in culture.
+Indeed, at optimal concentrations, CBD + PAC combinations
+produce additive to synergistic inhibition of breast cancer cell
+viability.
+Cannabinoids represent a promising pharmacotherapeu-
+tic strategy for treatment of neuropathic pain considering
+that available alternatives are not always successful in the
+clinic. A putative role for cannabinoids in the amelioration of
+established PAC-induced CIPN has recently been demon-
+strated. Pascual et al. (2005) showed that the non-selective
+cannabinoid agonist WIN 55,212-2 reduced an established
+thermal hyperalgesia and tactile allodynia 22 days post-PAC
+treatment in rats, and that this effect was blocked by the CB1
+antagonist SR141716, suggesting the involvement of the CB1
+receptor; the potential participation of the CB2 receptor in
+mediating this effect, however, was not investigated. The
+anti-neuropathic efﬁcacy of non-selective CB agonist thera-
+pies, including the THC : CBD combination Sativex, appears
+promising; nonetheless, unwanted side effects, mainly the
+production of psychoactivity produced through activation of
+CB1 receptors, remain a hindrance to their wider use (Johnson
+et al., 2010; Karschner et al., 2011; but see Langford et al.,
+2013). The efﬁcacy and safety of CB2 selective agents in
+humans for treatment of neuropathic pain remain to be
+determined. Activation of CB2 receptors has been shown to
+suppress established chemotherapy-induced CIPN in rats
+(Naguib et al., 2008; Rahn et al., 2008; Deng et al., 2012). In
+the study of Rahn et al, CB2 agonist administration was most
+effective at 30 min post-injection, with mechanical sensitiv-
+ity re-emerging 60 min following agonist administration,
+suggesting that repeated administration would be necessary
+to treat the CIPN symptoms in the long term.
+Based on growing preclinical literature, the myriad of
+CBD’s pharmacological effects, from anti-neuropathic to
+anxiolytic and antipsychotic, may be mediated through
+either CB receptor-dependent and independent mechanisms
+or combinations thereof (Izzo et al., 2009). It is important
+from both a basic science mechanistic as well as drug
+discovery
+perspective
+to
+identify
+which
+of
+these
+are
+necessary and/or sufﬁcient for CBD’s anti-neuropathic effects
+speciﬁcally. In the present study, we demonstrated that acti-
+vation of 5-HT1A receptors is necessary for the protective
+effect of CBD against PAC-induced neuropathic pain, in that
+pretreatment with WAY100635 blocked this effect. CBD acts
+as a direct agonist at 5-HT1A receptors (Russo et al., 2005;
+Alves et al., 2010), and activation of the 5-HT1A receptor in
+the rostroventromedial medulla plays an important role
+in modulating the descending inhibitory pain pathway
+(Colpaert, 2006; Viisanen and Pertovaara, 2010). Importantly,
+5-hydroxytryptaminergic drugs presently represent one of
+the only drug classes showing efﬁcacy in the treatment of
+neuropathic pain in human clinical trials (Finnerup et al.,
+2010). 5-HT1A agonism has also been shown to be neuropro-
+tective via attenuation of microglial activation and oxidative
+stress (Collier et al., 2011a,b), two immune alterations rel-
+evant to CIPN. Results from the present study failed to show
+a role for CB1 or CB2 receptor activation in CBD’s anti-
+neuropathic effect. Although CBD has no appreciable afﬁnity
+for CB1 or CB2 receptors, some evidence suggests that it can
+Figure 4
+Ability of CBD (2.5–10 mg·kg−1, i.p.) or morphine (2.5–10 mg·kg−1,
+i.p.) to produce place conditioning in female C57Bl/6 mice. Mice
+received vehicle or morphine (2.5–10 mg·kg−1, i.p.; 15 min pretreat-
+ment) or vehicle or CBD (2.5–10 mg·kg−1, i.p.; 30 min pretreatment)
+on alternate days for 30 min conditioning sessions for 6 successive
+days. One-way ANOVAs revealed no signiﬁcant effect of CBD treatment
+[F(3, 31) = 2.477, n.s.] and a signiﬁcant effect of morphine treatment
+on time spent in the white compartment compared with saline
+vehicle control [F(3, 30) = 15.66, P < 0.0001]. X-axis: treatment.
+Y-axis: the time spent in the drug-paired (white) compartment on
+the treatment-free test day.
+Figure 5
+Effect of CBD administration (2.5–20 mg·kg−1, i.p.) on acquisition
+and retention of a conditioned food reward task. Nose-poke
+responses are reinforced when made within 8 s following a tone
+signalling availability of the sweet liquid reinforcer (50% vanilla
+Ensure in tap water). Each session lasted for 2 h or until 20 reinforced
+nose pokes were recorded. CBD treatment had no effect on the time
+to earn 10 reinforcers during the acquisition [F(3, 32) = <1] or
+retention [F(3, 25) = 1.692, n.s.] sessions. X-axis: treatment. Y-axis:
+the time elapsed between the ﬁrst earned reinforcer and the tenth
+reinforcer.
+BJP
+Cannabidiol prevents chemotherapy neuropathic pain
+British Journal of Pharmacology (2014) 171 636–645
+641
+act as an indirect CB agonist via enhancement of eCB levels
+(Bisogno et al., 2001; Campos et al., 2013). However, our
+results are in agreement with the previous report by Comelli
+et al. (2008) demonstrating that CBD’s anti-hyperalgesic
+effect did not involve CB1 and CB2 receptors. Others have
+shown that neither CB1 nor CB2 receptor activation was
+involved in CBD’s neuroprotective (Sagredo et al., 2007;
+2011) or anti-inﬂammatory (Costa et al., 2004) effects in
+other rodent models, whereas CBD-induced tail ﬂick analge-
+sia was blocked by co-administration of the CB1 antagonist
+SR141716 (Maione et al., 2011). CB1 receptor involvement in
+the pharmacological effects of CBD on non-nociceptive
+behaviours has also been reported (Casarotto et al., 2010; Do
+Monte et al., 2013). Additionally, CBD binds with moderate
+afﬁnity to TRPV1 (vanilloid) receptors and important nocic-
+eptive modulators, and anti-neuropathic effects of CBD have
+Figure 6
+Treatments combining CBD and PAC produce additive to synergistic inhibition of breast cancer cell viability. Cell viability was measured using the
+MTT assay. (A) 4T1 and MDA-MB231-luc-D3H2LN (LN 231) cells were treated for 2 days with vehicle, CBD or PAC. Speciﬁc dose ratios of CBD
+and Pac where then combined in (B) 4T1 and (C) MDA-MB231-luc-D3H2LN cells. Cell viability (%) was calculated as the MTT product absorbance
+in the treated cells/control cells × 100. These data were used to calculate (D) CI values as described in Methods. A CI value of <1, 1 and >1 indicates
+synergism, additivity and antagonism respectively (Chou et al., 1993). Data are the mean of at least three independent experiments; bars, ±SEM.
+Table 1
+Calculated median-effect plot parameters and DRI for drugs and drug combinations
+Cell line
+Chemotherapy
+Median-effect plot parameters
+DRI
+Dm
+m
+r
+50% inhibition
+4T1
+CBD
+2.7 μM
+2.5
+0.98
+PAC
+35 μM
+1.8
+0.86
+2.0
+CBD + PAC
+18 μM
+3.0
+0.99
+LN 231
+CBD
+4.1 μM
+3.2
+0.99
+Pac
+51 μM
+0.3
+0.92
+15
+CBD + PAC
+5.0 μM
+2
+1.0
+The median-effect dose (Dm), slope (m), linear correlation coefﬁcient (r) and DRI (dose-reduction index) for drugs were calculated using
+Compusyn.
+BJP
+S J Ward et al.
+642
+British Journal of Pharmacology (2014) 171 636–645
+been shown to depend upon TRPV1 activation (Comelli et al.,
+2008), while acute antinociceptive effects have not (Maione
+et al., 2011). Taken together with these other ﬁndings, our
+results suggest that speciﬁc pharmacological effects of CBD,
+such as its activity at 5-HT1A and TRPV1 receptors, mediate
+CBD’s anti-neuropathic effects, while its activity at other
+targets, including CB receptors, may be more important for
+other actions.
+A novel strategy investigated in the present study is that
+of assessing the ability of CB-based pharmacotherapy to
+prevent the development of PAC-induced mechanical sensi-
+tivity as opposed to acutely reversing it. Other studies have
+demonstrated the ability of agents from other drug classes,
+including anticonvulsants (Xiao et al., 2007), antidepressants
+(Xiao et al., 2008) and opioids (Rahn et al., 2008), to reduce
+CIPN symptoms in rodents, but to date no one drug or drug
+class is considered to be effective for reversal of CIPN (Lynch
+et al., 2004). CIPN represents a neuropathic pain state with
+the unique possibility of aiming to prevent its onset with
+effective adjunctive treatment, as opposed to only attempting
+to reverse its symptoms following its onset. However, such
+investigations into prevention of PAC-induced CIPN in
+rodents are few. Interestingly, CBD has also recently been
+reported to protect against the onset of type I diabetic periph-
+eral neuropathic pain (Toth et al., 2010), hepatic ischaemia/
+reperfusion injury (Mukhopadhyay et al., 2011), and retinal
+inﬂammation and degeneration (El-Remessy et al., 2008) in
+rodent models. While clinical trials are ongoing investigating
+the anti-inﬂammatory effects of CBD as a monotherapy in
+disease states such as inﬂammatory bowel disease and graft
+versus host disease, its efﬁcacy at preventing the onset of
+neuropathic pain in humans remains to be determined.
+CBD represents a signiﬁcant improvement in CB-based
+pharmacotherapy, in that CBD represents a cannabinoid that
+is regarded as being devoid of psychoactive euphoric effects.
+Surprisingly, however, a few preclinical studies to date have
+investigated CBD in reward models (e.g. Parker et al., 2004).
+Here we demonstrated across a wider range of doses that CBD
+does not produce a CPP in C57Bl/6 mice using parameters
+that readily detect the conditioned rewarding properties of
+the same doses of morphine (Figure 4). CBD does, however,
+bind to several brain receptors and its anxiolytic and antip-
+sychotic actions have been well characterized in animals and
+more recently in humans, so it is worth investigating whether
+CBD produces other CNS effects that would be considered
+adverse. An important pharmacological effect of CB receptor
+activation in addition to euphoria that has been extensively
+studied is disruption of learning and memory processes (see
+Lichtman et al., 2002 for review). In the present study, we
+demonstrated that CBD across a wide range of doses did not
+impair acquisition or retention of an instrumental learning
+task. Interestingly, others have reported that CBD actually
+enhances certain types of learning, speciﬁcally extinction
+(Bitencourt et al., 2008) and reconsolidation (Stern et al.,
+2012). Determination of the effect of a putative anti-CIPN
+pharmacotherapy on learning and memory is important
+because cancer chemotherapeutics themselves are associated
+with a form of cognitive impairment in many cancer patients
+also known as ‘chemofog’ or ‘chemobrain’ (Argyriou et al.,
+2011). CB agonists are likely to exacerbate these effects, while
+in contrast CBD should not affect cognition, and may there-
+fore prove to be a more tolerable alternative as an adjuvant
+chemotherapy agent. In fact, as oxidative stress is a leading
+hypothesis
+regarding
+the
+mechanism
+underlying
+chemotherapy-associated cognitive impairment, the ability
+of CBD to reverse this phenomenon should also be investi-
+gated.
+Finally, CBD has direct antitumor activity in multiple
+types of cancer (Massi et al., 2013). We determined that at
+optimal concentrations, CBD in combination with PAC pro-
+duces additive to synergistic inhibition of breast cancer cell
+viability. Our results in breast cancer cells are in agreement
+with
+a
+recent
+investigation
+demonstrating
+CBD
+could
+enhance the activity of ﬁrst-line agents targeting prostate
+cancer in culture and in vivo (Aviello et al., 2012). The doses
+that prevent PAC-induced allodynia in our model overlap
+with doses of CBD that attenuate breast cancer metastasis in
+vivo (McAllister et al., 2011). This integrated approach to
+using CBD to prevent CIPN while directly and indirectly
+targeting tumour progression makes it a potential valuable
+therapeutic for the treatment of cancer patients undergoing
+treatments with ﬁrst-line agents.
+In summary, our data suggest that CBD is protective
+against PAC-induced neurotoxicity and that this effect is in
+part mediated by the 5-HT1A receptor system. Furthermore,
+CBD treatment is devoid of other nervous system effects such
+as conditioned reward or cognitive impairment. CBD also did
+not attenuate the efﬁcacy of PAC in inhibiting breast cancer
+cell viability. Taken together, adjunct treatment with CBD
+during PAC chemotherapy treatment may be safe and effec-
+tive in the prevention or attenuation of CIPN.
+Acknowledgements
+We acknowledge Khristina Pavlenko and Mak Sarich.
+Conﬂict of interest
+There are no conﬂicts of interest present.
+References
+Adelsberger H, Quasthoff S, Grosskreutz J, Lepier A, Eckel F, Lersch
+C (2000). The chemotherapeutic oxaliplatin alters voltage-gated
+Na(+) channel kinetics on rat sensory neurons. Eur J Pharmacol
+406: 25–32.
+Alves FH, Crestani CC, Gomes FV, Guimarães FS, Correa FM, Resstel
+LB (2010). Cannabidiol injected into the bed nucleus of the stria
+terminalis modulates baroreﬂex activity through 5-HT1A receptors.
+Pharmacol Res 62: 228–236.
+Argyriou AA, Assimakopoulos K, Iconomou G, Giannakopoulou F,
+Kalofonos HP (2011). Either called ‘chemobrain’ or ‘chemofog,’ the
+long-term chemotherapy-induced cognitive decline in cancer
+survivors is real. J Pain Symptom Manage 41: 126–139.
+Aviello G, Romano B, Borrelli F, Capasso R, Gallo L, Piscitelli F et al.
+(2012). Chemopreventive effect of the non-psychotropic
+phytocannabinoid cannabidiol on experimental colon cancer. J Mol
+Med (Berl) 90: 925–934.
+BJP
+Cannabidiol prevents chemotherapy neuropathic pain
+British Journal of Pharmacology (2014) 171 636–645
+643
+Baron R, Binder A, Wasner G (2010). Neuropathic pain: diagnosis,
+pathophysiological mechanisms, and treatment. Lancet Neurol 9:
+807–819.
+Bisogno T, Hanus L, De Petrocellis L, Tchilibon S, Ponde DE, Brandi
+I (2001). Molecular targets for cannabidiol and its synthetic
+analogues: effect on vanilloid VR1 receptors and on the cellular
+uptake and enzymatic hydrolysis of anandamide. Br J Pharmacol
+134: 845–852.
+Bitencourt RM, Pamplona FA, Takahashi RN (2008). Facilitation of
+contextual fear memory extinction and anti-anxiogenic effects of
+AM404 and cannabidiol in conditioned rats. Eur
+Neuropsychopharmacol 18: 849–859.
+Campos AC, Ortega Z, Palazuelos J, Fogaça MV, Aguiar DC,
+Díaz-Alonso J (2013). The anxiolytic effect of cannabidiol on
+chronically stressed mice depends on hippocampal neurogenesis:
+involvement of the endocannabinoid system. Int J
+Neuropsychopharmacol 16: 1407–1419.
+Casarotto PC, Gomes FV, Resstel LB, Guimarães FS (2010).
+Cannabidiol inhibitory effect on marble-burying behaviour:
+involvement of CB1 receptors. Behav Pharmacol 21: 353–358.
+Cavaletti G, Tredici G, Braga M, Tazzari S (1995). Experimental
+peripheral neuropathy induced in adult rats by repeated
+intraperitoneal administration of taxol. Exp Neurol 133: 64–72.
+Chou TC (2006). Theoretical basis, experimental design, and
+computerized simulation of synergism and antagonism in drug
+combination studies. Pharmacol Rev 58: 621–681.
+Chou TC, Tan QH, Sirotnak FM (1993). Quantitation of the
+synergistic interaction of edatrexate and cisplatin in vitro. Cancer
+Chemother Pharmacol 31: 259–264.
+Collier RJ, Wang Y, Smith SS, Martin E, Ornberg R, Rhoades K
+(2011a). Complement deposition and microglial activation in the
+outer retina in light-induced retinopathy: inhibition by a 5-HT1A
+agonist. Invest Ophthalmol Vis Sci 52: 8108–8116.
+Collier RJ, Patel Y, Martin EA, Dembinska O, Hellberg M, Krueger
+DS (2011b). Agonists at the serotonin receptor (5-HT(1A)) protect
+the retina from severe photo-oxidative stress. Invest Ophthalmol
+Vis Sci 52: 2118–2126.
+Colpaert FC (2006). 5-HT(1A) receptor activation: new molecular
+and neuroadaptive mechanisms of pain relief. Curr Opin Investig
+Drugs 7: 40–47.
+Comelli F, Giagnoni G, Bettoni I, Colleoni M, Costa B (2008).
+Antihyperalgesic effect of a Cannabis sativa extract in a rat model
+of neuropathic pain: mechanisms involved. Phytother Res 22:
+1017–1024.
+Costa B, Giagnoni G, Franke C, Trovato AE, Colleoni M (2004).
+Vanilloid TRPV1 receptor mediates the antihyperalgesic effect of the
+nonpsychoactive cannabinoid, cannabidiol, in a rat model of acute
+inﬂammation. Br J Pharmacol 143: 247–250.
+Costa B, Trovato AE, Comelli F, Giagnoni G, Colleoni M (2007).
+The non-psychoactive cannabis constituent cannabidiol is an orally
+effective therapeutic agent in rat chronic inﬂammatory and
+neuropathic pain. Eur J Pharmacol 556: 75–83.
+Deng L, Guindon J, Vemuri VK, Thakur GA, White FA, Makriyannis
+A et al. (2012). The maintenance of cisplatin- and
+paclitaxel-induced mechanical and cold allodynia is suppressed by
+cannabinoid CB2 receptor activation and independent of CXCR4
+signaling in models of chemotherapy-induced peripheral
+neuropathy. Mol Pain 8: 71.
+Dixon WJ (1980). Efﬁcient analysis of experimental observations.
+Annu Rev Pharmacol Toxicol 20: 441–462.
+Do Monte FH, Souza RR, Bitencourt RM, Kroon JA, Takahashi RN
+(2013). Infusion of cannabidiol into infralimbic cortex facilitates
+fear extinction via CB1 receptors. Behav Brain Res 250: 23–27.
+El-Remessy AB, Tang Y, Zhu G, Matragoon S, Khalifa Y, Liu EK et al.
+(2008). Neuroprotective effects of cannabidiol in endotoxin-induced
+uveitis: critical role of p38 MAPK activation. Mol Vis 14:
+2190–2203.
+Fernández-Ruiz J, Sagredo O, Pazos MR, García C, Pertwee R,
+Mechoulam R et al. (2013). Cannabidiol for neurodegenerative
+disorders: important new clinical applications for this
+phytocannabinoid? Br J Clin Pharmacol 75: 323–333.
+Finnerup NB, Sindrup SH, Jensen TS (2010). The evidence for
+pharmacological treatment of neuropathic pain. Pain 150: 573–581.
+Foley JJ, Raffa RB, Walker EA (2008). Effects of chemotherapeutic
+agents 5-ﬂuorouracil and methotrexate alone and combined in a
+mouse model of learning and memory. Psychopharmacology (Berl)
+199: 527–538.
+Gauchan P, Andoh T, Ikeda K, Fujita M, Sasaki A, Kato A et al.
+(2009). Mechanical allodynia induced by paclitaxel, oxaliplatin and
+vincristine: different effectiveness of gabapentin and different
+expression of voltage-dependent calcium channel alpha(2)delta-1
+subunit. Biol Pharm Bull 32: 732–734.
+Guindon J, Hohmann AG (2008). Cannabinoid CB2 receptors: a
+therapeutic target for the treatment of inﬂammatory and
+neuropathic pain. Br J Pharmacol 153: 319–334.
+Hagiwara H, Fujita Y, Ishima T, Kunitachi S, Shirayama Y, Iyo M
+et al. (2008). Phencyclidine-induced cognitive deﬁcits in mice are
+improved by subsequent subchronic administration of the
+antipsychotic drug perospirone: role of serotonin 5-HT1A receptors.
+Eur Neuropsychopharmacol 8: 448–454.
+Hu P, McLachlan EM (2002). Macrophage and lymphocyte invasion
+of dorsal root ganglia after peripheral nerve lesions in the rat.
+Neuroscience 112: 23–38.
+Izzo AA, Borrelli F, Capasso R, Di Marzo V, Mechoulam R (2009).
+Non-psychotropic plant cannabinoids: new therapeutic
+opportunities from an ancient herb. Trends Pharmacol Sci 30:
+515–527.
+Jenkins DE, Hornig YS, Oei Y, Dusich J, Purchio T (2005).
+Bioluminescent human breast cancer cell lines that permit rapid
+and sensitive in vivo detection of mammary tumors and multiple
+metastases in immune deﬁcient mice. Breast Cancer Res 7:
+R444–R454.
+Johnson JR, Burnell-Nugent M, Lossignol D, Ganae-Motan ED, Potts
+R, Fallon MT (2010). Multicenter, double-blind, randomized,
+placebo-controlled, parallel-group study of the efﬁcacy, safety, and
+tolerability of THC : CBD extract and THC extract in patients with
+intractable cancer-related pain. J Pain Symptom Manage 39:
+167–179.
+Karschner EL, Darwin WD, McMahon RP, Liu F, Wright S, Goodwin
+RS et al. (2011). Subjective and physiological effects after controlled
+Sativex and oral THC administration. Clin Pharmacol Ther 89:
+400–407.
+Kilkenny C, Browne W, Cuthill IC, Emerson M, Altman DG (2010).
+Animal research: reporting in vivo experiments: the ARRIVE
+guidelines. Br J Pharmacol 160: 1577–1579.
+Langford RM, Mares J, Novotna A, Vachova M, Novakova I, Notcutt
+W (2013). A double-blind, randomized, placebo-controlled,
+parallel-group study of THC/CBD oromucosal spray in combination
+with the existing treatment regimen, in the relief of central
+neuropathic pain in patients with multiple sclerosis. J Neurol 260:
+984–997.
+BJP
+S J Ward et al.
+644
+British Journal of Pharmacology (2014) 171 636–645
+Lichtman AH, Varvel SA, Martin BR (2002). Endocannabinoids in
+cognition and dependence. Prostaglandins Leukot Essent Fatty
+Acids 66: 269–285.
+Lynch JJ 3rd, Wade CL, Zhong CM, Mikusa JP, Honore P (2004).
+Attenuation of mechanical allodynia by clinically utilized drugs in
+a rat chemotherapy-induced neuropathic pain model. Pain 110:
+56–63.
+McAllister SD, Chan C, Taft RJ, Luu T, Abood ME, Moore DH et al.
+(2005). Cannabinoids selectively inhibit proliferation and induce
+death of cultured human glioblastoma multiforme cells.
+J Neurooncol 74: 31–40.
+McAllister SD, Christian RT, Horowitz MP, Garcia A, Desprez PY
+(2007). Cannabidiol as a novel inhibitor of Id-1 gene expression in
+aggressive breast cancer cells. Mol Cancer Ther 6: 2921–2927.
+McAllister SD, Murase R, Christian RT, Lau D, Zielinski AJ, Allison J
+et al. (2011). Pathways mediating the effects of cannabidiol on the
+reduction of breast cancer cell proliferation, invasion, and
+metastasis. Breast Cancer Res Treat 129: 37–47.
+McGrath J, Drummond G, McLachlan E, Kilkenny C, Wainwright C
+(2010). Guidelines for reporting experiments involving animals: the
+ARRIVE guidelines. Br J Pharmacol 160: 1573–1576.
+Maione S, Piscitelli F, Gatta L, Vita D, De Petrocellis L, Palazzo E
+et al. (2011). Non-psychoactive cannabinoids modulate the
+descending pathway of antinociception in anaesthetized rats
+through several mechanisms of action. Br J Pharmacol 162:
+584–596.
+Marcu JP, Christian RT, Lau D, Zielinski AJ, Horowitz MP, Lee J
+et al. (2010). Cannabidiol enhances the inhibitory effects of
+delta9-tetrahydrocannabinol on human glioblastoma cell
+proliferation and survival. Mol Cancer Ther 9: 180–189.
+Massi P, Solinas M, Cinquina V, Parolaro D (2013). Cannabidiol as
+potential anticancer drug. Br J Clin Pharmacol 75: 303–312.
+Mukhopadhyay P, Rajesh M, Horváth B, Bátkai S, Park O,
+Tanchian G et al. (2011). Cannabidiol protects against hepatic
+ischemia/reperfusion injury by attenuating inﬂammatory signaling
+and response, oxidative/nitrative stress, and cell death. Free Radic
+Biol Med 50: 1368–1381.
+Naguib M, Diaz P, Xu JJ, Astruc-Diaz F, Craig S, Vivas-Mejia P et al.
+(2008). MDA7: a novel selective agonist for CB2 receptors that
+prevents allodynia in rat neuropathic pain models. Br J Pharmacol
+155: 1104–1116.
+Parker LA, Burton P, Sorge RE, Yakiwchuk C, Mechoulam R (2004).
+Effect of low doses of delta9-tetrahydrocannabinol and cannabidiol
+on the extinction of cocaine-induced and amphetamine-induced
+conditioned place preference learning in rats. Psychopharmacology
+(Berl) 175: 360–366.
+Pascual D, Goicoechea C, Suardíaz M, Martín MI (2005). A
+cannabinoid agonist, WIN 55,212-2, reduces neuropathic
+nociception induced by paclitaxel in rats. Pain 118: 23–34.
+Peters CM, Jimenez-Andrade JM, Jonas BM, Sevcik MA, Koewler NJ,
+Ghilardi JR et al. (2007). Intravenous paclitaxel administration in
+the rat induces a peripheral sensory neuropathy characterized by
+macrophage inﬁltration and injury to sensory neurons and their
+supporting cells. Exp Neurol 203: 42–54.
+Pinsger M, Schimetta W, Volc D, Hiermann E, Riederer F, Pölz W
+(2006). Beneﬁts of an add-on treatment with the synthetic
+cannabinomimetic nabilone on patients with chronic pain–a
+randomized controlled trial. Wien Klin Wochenschr 118: 327–335.
+Rahn EJ, Makriyannis A, Hohmann AG (2007). Activation of
+cannabinoid CB1 and CB2 receptors suppresses neuropathic
+nociception evoked by the chemotherapeutic agent vincristine in
+rats. Br J Pharmacol 152: 765–777.
+Rahn EJ, Zvonok AM, Thakur GA, Khanolkar AD, Makriyannis A,
+Hohmann AG (2008). Selective activation of cannabinoid CB2
+receptors suppresses neuropathic nociception induced by treatment
+with the chemotherapeutic agent paclitaxel in rats. J Pharmacol
+Exp Ther 327: 584–591.
+Russo EB, Burnett A, Hall B, Parker KK (2005). Agonistic properties
+of cannabidiol at 5-HT1a receptors. Neurochem Res 30: 1037–1043.
+Sagredo O, Ramos JA, Decio A, Mechoulam R, Fernández-Ruiz J
+(2007). Cannabidiol reduced the striatal atrophy caused
+3-nitropropionic acid in vivo by mechanisms independent of the
+activation of cannabinoid, vanilloid TRPV1 and adenosine A2A
+receptors. Eur J Neurosci 26: 843–851.
+Sagredo O, Pazos MR, Satta V, Ramos JA, Pertwee RG,
+Fernández-Ruiz J (2011). Neuroprotective effects of
+phytocannabinoid-based medicines in experimental models of
+Huntington’s disease. J Neurosci Res 89: 1509–1518.
+Skrabek RQ, Galimova L, Ethans K, Perry D (2008). Nabilone for the
+treatment of pain in ﬁbromyalgia. J Pain 9: 164–173.
+Stern CA, Gazarini L, Takahashi RN, Guimarães FS, Bertoglio LJ
+(2012). On disruption of fear memory by reconsolidation blockade:
+evidence from cannabidiol treatment. Neuropsychopharmacology
+37: 2132–2142.
+Toth CC, Jedrzejewski NM, Ellis CL, Frey WH 2nd (2010).
+Cannabinoid-mediated modulation of neuropathic pain and
+microglial accumulation in a model of murine type I diabetic
+peripheral neuropathic pain. Mol Pain 6: 16.
+Viisanen H, Pertovaara A (2010). Roles of the rostroventromedial
+medulla and the spinal 5-HT(1A) receptor in descending
+antinociception induced by motor cortex stimulation in the
+neuropathic rat. Neurosci Lett 476: 133–137.
+Visovsky C, Collins M, Abbott L, Aschenbrenner J, Hart C (2007).
+Putting evidence into practice: evidence-based interventions for
+chemotherapy-induced peripheral neuropathy. Clin J Oncol Nurs
+11: 901–913.
+Wade DT, Makela P, Robson P, House H, Bateman C (2004). Do
+cannabis-based medicinal extracts have general or speciﬁc effects on
+symptoms in multiple sclerosis? A double-blind, randomized,
+placebo-controlled study on 160 patients. Mult Scler 10: 434–441.
+Ward SJ, Ramirez MD, Neelakantan H, Walker EA (2011).
+Cannabidiol prevents the development of cold and mechanical
+allodynia in paclitaxel-treated female C57Bl6 mice. Anesth Analg
+113: 947–950.
+Ware MA, Wang T, Shapiro S, Robinson A, Ducruet T, Huynh T
+et al. (2010). Smoked cannabis for chronic neuropathic pain: a
+randomized controlled trial. CMAJ 182: E694–E701.
+Xiao W, Boroujerdi A, Bennett GJ, Luo ZD (2007).
+Chemotherapy-evoked painful peripheral neuropathy: analgesic
+effects of gabapentin and effects on expression of the alpha-2-delta
+type-1 calcium channel subunit. Neuroscience 144: 714–720.
+Xiao W, Naso L, Bennett GJ (2008). Experimental studies of
+potential analgesics for the treatment of chemotherapy-evoked
+painful peripheral neuropathies. Pain Med 9: 505–517.
+Xiao WH, Bennett GJ (2008). C-ﬁber spontaneous discharge evoked
+by chronic inﬂammation is suppressed by a long-term infusion of
+lidocaine yielding nanogram per milliliter plasma levels. Pain 137:
+218–228.
+Xiong W, Cui T, Cheng K, Yang F, Chen SR, Willenbring D et al.
+(2012). Cannabinoids suppress inﬂammatory and neuropathic pain
+by targeting α3 glycine receptors. J Exp Med 209: 1121–1134.
+BJP
+Cannabidiol prevents chemotherapy neuropathic pain
+British Journal of Pharmacology (2014) 171 636–645
+645

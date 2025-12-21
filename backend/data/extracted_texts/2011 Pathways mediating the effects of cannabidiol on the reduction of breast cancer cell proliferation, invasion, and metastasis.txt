@@ -1,0 +1,720 @@
+Pathways mediating the effects of cannabidiol on the reduction
+of breast cancer cell proliferation, invasion, and metastasis
+Sean D. McAllister, Ryuichi Murase, Rigel T. Christian, Darryl Lau, Anne J. Zielinski,
+Juanita Allison, Carolina Almanza, Arash Pakdel, Jasmine Lee, Chandani Limbad, Yong
+Liu, Robert J. Debs, Dan H. Moore, and Pierre-Yves Desprez
+California Pacific Medical Center, Research Institute, 475 Brannan Street, San Francisco, CA
+94107, USA
+Sean D. McAllister: mcallis@cpmcri.org
+Abstract
+Invasion and metastasis of aggressive breast cancer cells are the final and fatal steps during cancer
+progression. Clinically, there are still limited therapeutic interventions for aggressive and
+metastatic breast cancers available. Therefore, effective, targeted, and non-toxic therapies are
+urgently required. Id-1, an inhibitor of basic helix-loop-helix transcription factors, has recently
+been shown to be a key regulator of the metastatic potential of breast and additional cancers. We
+previously reported that cannabidiol (CBD), a cannabinoid with a low toxicity pro-file, down-
+regulated Id-1 gene expression in aggressive human breast cancer cells in culture. Using cell
+proliferation and invasion assays, cell flow cytometry to examine cell cycle and the formation of
+reactive oxygen species, and Western analysis, we determined pathways leading to the down-
+regulation of Id-1 expression by CBD and consequently to the inhibition of the proliferative and
+invasive phenotype of human breast cancer cells. Then, using the mouse 4T1 mammary tumor cell
+line and the ranksum test, two different syngeneic models of tumor metastasis to the lungs were
+chosen to determine whether treatment with CBD would reduce metastasis in vivo. We show that
+CBD inhibits human breast cancer cell proliferation and invasion through differential modulation
+of the extracellular signal-regulated kinase (ERK) and reactive oxygen species (ROS) pathways,
+and that both pathways lead to down-regulation of Id-1 expression. Moreover, we demonstrate that
+CBD up-regulates the pro-differentiation factor, Id-2. Using immune competent mice, we then
+show that treatment with CBD significantly reduces primary tumor mass as well as the size and
+number of lung metastatic foci in two models of metastasis. Our data demonstrate the efficacy of
+CBD in pre-clinical models of breast cancer. The results have the potential to lead to the
+development of novel non-toxic compounds for the treatment of breast cancer metastasis, and the
+information gained from these experiments broaden our knowledge of both Id-1 and cannabinoid
+biology as it pertains to cancer progression.
+Keywords
+Id-1; Id-2; Helix-loop-helix; Cannabinoid; ERK; ROS; Lung metastasis
+© Springer Science+Business Media, LLC. 2010
+Correspondence to: Sean D. McAllister, mcallis@cpmcri.org.
+Conflict of interest The authors have declared that no competing interests exist.
+Electronic supplementary material The online version of this article (doi:10.1007/s10549-010-1177-4) contains supplementary
+material, which is available to authorized users.
+NIH Public Access
+Author Manuscript
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+Published in final edited form as:
+Breast Cancer Res Treat. 2011 August ; 129(1): 37–47. doi:10.1007/s10549-010-1177-4.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Introduction
+The process of metastasis to other tissues of the body is the final and fatal step during cancer
+progression and is the least understood genetically [1]. Despite all currently available
+treatments, breast cancer is most often incurable once clinically apparent metastases
+develop. Clearly, effective and non-toxic therapies for the treatment of aggressive and
+metastatic breast cancers are urgently required.
+Id proteins are inhibitors of basic helix-loop-helix transcription factors that control cell
+differentiation, development, and carcinogenesis [2]. Whereas Id-2 protein has been reported
+to maintain a differentiated phenotype in normal and cancerous breast cells in mouse and
+human, increase of Id-1 expression was shown to be associated with a proliferative and
+invasive phenotype in all these cells [3, 4]. Id-1 enhances breast cancer cell proliferation and
+invasion through modulation of specific cyclin-dependent kinase inhibitors and matrix
+metalloproteinases [5]. We found that Id-1 was constitutively expressed at a high level in
+aggressive breast cancer cells and human biopsies, and that aggressiveness was reverted in
+culture and in vivo when Id-1 expression was targeted using antisense technology [3].
+Importantly, Id-1 was identified as the most active candidate gene in a non-biased in vivo
+selection, transcriptomic analysis and functional verification validation of a set of human
+genes that mark and mediate breast cancer tumorigenicity and metastasis to the lungs [4].
+Functional studies have demonstrated that Id-1 is required for tumor initiating functions
+during metastatic colonization of the lung microenvironment [6]. Id-1 also cooperates with
+the oncogenic Ras to induce metastatic mammary carcinoma, and inactivation of conditional
+Id-1 expression in the tumor cells can lead to a dramatic reduction of pulmonary metastatic
+load [7]. Since Id-1 is not expressed in differentiated tissue, but in metastatic tumor cells,
+reducing Id-1 expression provides a rationale and targeted therapeutic strategy for the
+treatment of aggressive human breast cancers [3, 4].
+The endocannabinoid system was discovered through research focusing on the primary
+psychoactive active component of Cannabis sativa, Δ9-tetrahydrocannabinol (Δ9-THC), and
+other synthetic alkaloids [8]. While there are more than 60 cannabinoids in Cannabis sativa,
+those present in appreciable quantities include Δ9-THC and cannabidiol (CBD) [9]. Δ9-
+THC and additional cannabinoid agonist have been shown to interact with two G-protein
+coupled receptors named CB1 and CB2 [10]. The psychotropic effects of Δ9-THC, mediated
+through the CB1 receptor, limit its clinical utility. CBD, however, does not bind to CB1 and
+CB2 receptors with appreciable affinity and does not have psychotropic activities [11–13].
+CBD is well tolerated in vivo during acute and chronic systemic administration [14–18], and
+cannabinoids are already being used in clinical trials for purposes unrelated to their anti-
+tumor activity [19, 20]. We recently discovered that CBD was the first non-toxic plant-based
+agent that could down-regulate Id-1 expression in aggressive hormone-independent breast
+cancer cells [21]. CBD has also been shown to inhibit breast cancer metastasis in xenograft
+models [22]. However, the distinct signaling pathways that would explain the inhibitory
+action of CBD on breast cancer metastasis have not been elucidated. In addition, CBD has
+been shown to modulate immune system function [23, 24]; therefore, determination of CBD
+antitumor activity in immune competent animals is critical.
+We sought to investigate the signal transduction pathways leading to CBD-induced down-
+regulation of Id-1. We found that CBD up-regulates the active isoform of the extracellular
+signal-regulated kinase (ERK) and production of reactive oxygen species (ROS), and that
+interfering with either of these two pathways can prevent the inhibition of Id-1 expression,
+cell proliferation, and/or invasion by CBD treatments in human breast cancer cells.
+Furthermore, we show that treatment with CBD leads to the inhibition of Id-1 gene
+expression, proliferation, and invasion in mouse mammary cancer cells, and a reduction of
+McAllister et al.
+Page 2
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+primary tumor volume and number of lung metastatic foci in vivo. CBD, therefore,
+represents a potential non-toxic exogenous agent for the treatment of patients with
+metastatic breast cancer.
+Materials and methods
+Ethics statement
+All procedures used in this study were in compliance with the Public Health Service Policy
+on Humane Care and Use of Laboratory Animals and incorporated the 1985 U.S.
+Government Principle. Studies were approved by the California Pacific Medical Center
+Research Institute’s Institutional Animal Care and Use Committee under the protocol
+#07.05.005. Animals were maintained using the highest possible standard care, and priority
+was given to their welfare above experimental demands at all times.
+Cell culture and treatments
+Human breast cancer MDA-MB231 cells were obtained from ATCC and cultured in RPMI
+media containing 10% fetal bovine serum (FBS). Mouse 4T1 cells were originally obtained
+from Dr. Fred Miller of the Karmanos Cancer Institute (Detroit, MI) and were cultured in
+Modified Eagle’s Medium (DMEM) supplemented with 10% FBS, 2 mM L-glutamine, and
+insulin (0.5 HSP units/ml). On the first day of treatments, media were replaced with vehicle
+control or 1.5 μM CBD in 0.1% FBS-containing media as reported [25]. The media with the
+appropriate compounds were replaced every 24 h. CBD was obtained from NIH through the
+National Institute of Drug Abuse.
+Western analysis
+Proteins were separated by SDS/PAGE, blotted on Immo-bilon membrane, and probed with
+anti-Id-1, anti-Id-2, anti-phospho-p38, anti-phospho-ERK1/2, anti-ERK1/2, anti-NFkB, and
+the appropriate secondary antibody as we previously described [3, 26]. As a normalization
+control for loading, blots were stripped and re-probed with mouse anti-α-tubulin or anti-β-
+actin (Abcam, Cambridge, MA).
+Cell cycle analysis
+Cells were grown in Petri dishes and received drug treatments for 2 days. The cells were
+then harvested and centrifuged at 1200 rpm for 5 min. The pellet was washed with PBS +
+1% BSA, and centrifuged again. The pellet was resuspended in 0.5 ml of 2%
+paraformaldehyde (diluted in PBS) and fixed overnight at room temperature. The next day,
+cells were pelleted and resuspended in 0.5 ml 0.3% Triton in PBS and incubated for 5 min at
+room temperature. Cells were then washed twice with PBS + 1% BSA. Cells were finally
+suspended in PBS (0.1% BSA) with 10 μg/ml Propidium Iodide and 100 μg/ml RNAse.
+Cells were then incubated for 30 min at room temperature before being stored at 4°C. Cell
+cycle was measured using a FACS Calibur, and Cell Quest Pro and Modfit software.
+MTT assay
+To quantify cell viability, the MTT assay was used (Chemicon, Temecula, CA). Cells were
+seeded in 96-well plates. Upon completion of the drug treatments, cells were incubated at
+37°C with MTT for 4 h, and then isopropanol with 0.04 N HCl was added and the
+absorbance was read after 1 h in a plate reader with a test wavelength of 570 nm. The
+absorbance of the media alone at 570 nm was subtracted, and % control was calculated as
+the absorbance of the treated cells/control cells ×100.
+McAllister et al.
+Page 3
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Boyden chamber invasion assay
+Assays were performed in modified Boyden Chambers (BD Biosciences, San Diego, CA) as
+previously described [3]. Cells at 1.5 × 104 per well were added to the upper chamber in 500
+μl of serum-free medium supplemented with insulin (5 μg/ml). The lower chamber was
+filled with 500 μl of conditioned medium from fibroblasts. After a 20-h incubation, cells
+were fixed and stained as previously described [3]. Cells that remained in the Matrigel or
+attached to the upper side of the filter were removed with cotton tips. All the invasive breast
+cancer cells on the lower side of the filter were counted using a light microscope.
+Reactive oxygen species measurements
+The production of cellular reactive oxygen species (ROS)/ H2O2 was measured using
+2′-7′Dichlorodihydrofluorescein (DCFH-DA, Sigma-Aldrich). Cells were plated onto 6-
+well dishes and received drug treatments for 3 days. On the second day, 10 μM DCFH-DA
+was added to the media (DMEM with 0.1% FBS) and the cells were incubated with DCFH-
+DA for 12 h. The next day, the cells were trypsinized, washed with PBS, and the fluorescent
+intensity was measured using a FACS Calibur and Cell Quest Pro software.
+Generation of primary breast tumors and metastases
+Mouse 4T1 cells grown in DMEM with 10% FBS were harvested from dishes while in their
+exponential growth phase in culture with 0.1% trypsin/EDTA, and washed twice with
+serum-free DMEM. Breast primary tumors and metastases were generated in female BALB/
+c mice by the subcutaneous injection of 1 × 105 cells of the mouse mammary tumor cell line
+4T1 under the fourth major nipple. Treatment with cannabidiol was initiated upon first
+detection of the primary tumors (approximately 1 mm3 at day 7). To determine the tumor
+size in situ, the perpendicular largest diameters of the tumors were measured in millimeters
+and tumor volume was calculated as (L × W2)/2 based on a modified ellipsoidal formula.
+Approximately 30 days after injection of the tumor cell line, the mice were euthanized. The
+weight and size of primary tumors were determined, and the lungs were dissected out,
+infused with 15% India ink intratracheally, and fixed in Fekete’s solution. Visible lung
+metastases were measured and counted by using a dissecting microscope. For the tail vein
+experiments, mice were injected i.v. with 5 × 104 4T1 cells. Two days after the injection, the
+tumor-bearing mice were injected i.p. once a day with vehicle (control) or 1 mg/kg CBD for
+15 days. After mice were euthanized, the lungs were dissected and the foci counted as
+described above.
+Statistical analysis
+The IC50 values with corresponding 95% confidence limits were compared by analysis of
+logged data (GraphPad Prism, San Diego, CA). Significant differences were also determined
+using ANOVA or the unpaired Student’s t-test, where suitable. Bonferroni-Dunn post hoc
+analyses were conducted when appropriate. Pairwise differences in G0/G1, S and G2/GM in
+treated vs. control groups were made using a Wilcoxon ranked-sign test. P values < 0.05
+defined statistical significance.
+To measure secondary tumor growth rates in the ortho-topic mouse model, we calculated at
+each time point the total tumor burden per mouse by summing the product of the number of
+metastatic foci in a size category times the midpoint size for that category (e.g., for category
+0–1, the midpoint is 0.5; for 1–2, the midpoint is 1.5). We then calculated the average tumor
+burden per metastatic focus by dividing the total tumor burden by the number of metastatic
+foci. For these summaries we compared (dose > 0 vs. dose 0) at each time point using the
+Wilcoxon ranksum test since the distributions of these measures were skewed. Pairwise
+differences in the area between the primary tumor growth curves were also compared using
+McAllister et al.
+Page 4
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+a ranksum test. Our range of measurements of secondary lung metastases size included
+metastatic foci <1 mm, 1–2 mm, and <2 mm. From these data, an average volume per
+metastatic focus was calculated. For example, mouse 1 in the control group had 28
+metastatic foci <1 mm, 29 foci 1–2 mm, and 11 foci >2 mm. The total volume was (28 ×
+0.5) + (29 × 1.5) + (11 × 2.5) = 85. Therefore, the average volume per metastatic foci was
+calculated to be 1.25, where the total volume was divided by the number of metastases
+(87/68 = 1.25). Differences in the average volume per metastatic foci were compared using a
+ranksum test. P values <0.05 defined statistical significance.
+Results
+CBD up-regulates extracellular signal-regulated kinase phosphorylation
+We have recently shown in culture that cannabidiol effectively down-regulates Id-1 gene
+expression in breast cancer cells through the inhibition of the endogenous Id-1 promoter and
+its corresponding mRNA and protein levels [21]. However, the signal transduction
+mechanisms leading to CBD-induced down-regulation of Id-1 have not been discovered.
+The ability of CB1 and CB2 agonists to inhibit cell growth and invasion has been linked to
+the modulation of ERK and p38 MAPK activity [27–29]. We determined in MDA-MB231
+cells that when inhibition of Id-1 was first observed (48 h), there was a corresponding
+increase in the active isoform of ERK with no significant change in total ERK (Fig. 1A). In
+contrast, no modulation of p38 MAPK activity was observed at 24 h as well as 48 h.
+We and others previously reported that another member of the Id family, Id-2, was
+specifically and highly expressed in non-invasive breast cancer cells and represented a
+marker of good prognosis in breast cancer patients [30, 31]. We therefore determined
+whether Id-2 expression was up-regulated in human metastatic breast cancer cells upon
+CBD treatment. After 72 h in the presence of CBD, Id-1 expression was almost undetectable
+whereas the expression of the pro-differentiation factor Id-2 was significantly increased
+(Fig. 1B). In order to determine whether the modulation of transcription factor expression
+was a general phenomenon produced during treatment with CBD, we also assessed the
+expression of NFkB. We did not detect any difference in the overall level of expression
+between control and CBD-treated cells.
+CBD inhibits Id-1 expression and corresponding human breast cancer cell proliferation
+and invasiveness through ERK
+We next determined whether CBD inhibition of Id-1 and corresponding breast cancer
+proliferation and invasion was directly linked to the upregulation of ERK activity. We found
+that the ERK inhibitor, U0126, could partially reverse the ability of CBD to inhibit the
+proliferation of MDA-MB231 cells (Fig. 2A). We also found that U0126 could partially
+reverse the ability of CBD to inhibit the invasion of MDA-MB231 cells (Fig. 2B). These
+data suggest that activation of ERK by CBD leads to the inhibition of breast cancer cell
+aggressiveness. To further confirm the involvement of ERK, the expression of Id-1 in MDA-
+MB231 cells treated with CBD in the presence and absence of U0126 was assessed using
+Western analysis (Fig. 2C). The ERK inhibitor was able to attenuate the ability of CBD to
+inhibit Id-1 expression. Taken as a whole, these data suggest that CBD-induced up-
+regulation of the active isoform of ERK leads to inhibition of both breast cancer cell
+proliferation and invasion, in part, through the down-regulation of Id-1 expression.
+TOC reduces the ability of CBD to inhibit Id-1 expression and corresponding breast cancer
+cell proliferation and invasion
+The ability of CBD to inhibit cancer cell proliferation has also been associated with
+mitochondrial damage and the increase in production of ROS [28, 32], whereas, the effects
+McAllister et al.
+Page 5
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+of ROS induction by CBD on invasion have not been reported. We determined that the ROS
+scavenger, α-tocopherol (TOC), could reverse the ability of CBD to inhibit the proliferation
+of MDA-MB231 cells (Fig. 3A). Moreover, we found that TOC could also significantly
+reverse the ability of CBD to inhibit the invasion of MDA-MB231 cells (Fig. 3B) and to
+down-regulate Id-1 protein expression (Fig. 3C). In agreement with the experiments utilizing
+TOC, CBD led to a direct increase in ROS formation (Fig. 3D), an increase that was
+reverted upon co-treatment with TOC. These data suggest that production of ROS by CBD
+can lead to the inhibition of both human breast cancer cell proliferation and invasion, in part,
+through the down-regulation of Id-1 gene expression.
+CBD down-regulates Id-1 expression, proliferation, and invasion in mouse metastatic
+breast cancer cells
+We next determined that CBD treatment of mouse meta-static breast cancer 4T1 cells, an
+aggressive cell line that over-expresses Id-1 [3], led to an inhibition of Id-1 protein
+expression (Fig. 4A). Using the MTT assay, we determined that the IC50 value for CBD
+inhibition of 4T1 cell proliferation was 1.5 μM (1.3–1.7). The significant reduction in 4T1
+cell proliferation observed in the presence of CBD led us to hypothesize that there would be
+a corresponding modulation of the cell cycle. Therefore, 4T1 cells were treated with vehicle
+(Control) or 1.5 μM CBD, and the cell cycle was analyzed using propidium iodide staining
+and cell flow cytometry (Fig. 4B). Pairwise differences in G0/G1, S, and G2/GM of control
+and treated (CBD 1.5 μM) cells were compared using a Wilcoxon ranked-sign test. CBD
+produced a significant increase in the population of cells in the G0/G1 phase (33% ± 4 for
+the Control and 58% ± 4 for 1.5 μM CBD) and a marked decrease in cells in the S phase
+(56% ± 7 for the Control and 23% ± 7 for 1.5 μM CBD). The differences for G1 and S were
+statistically significant (2-sided, P = 0.03). However, the difference for the number of cells
+in G2/GM was not significant (P = 0.06) (11% ± 3 for the Control and 19% ± 3 for CBD
+1.5). Similar changes were observed in MDA-MB231 cells, albeit, the overall magnitude of
+effect produced by CBD was reduced compared to 4T1 cells (data not shown). In agreement
+with our previous findings in human metastatic breast cancer cells [21], we observed that the
+down-regulation of Id-1 in 4T1 cells led to a corresponding inhibition of cell invasiveness
+(Fig. 4C).
+CBD reduces breast cancer metastasis in vivo using syngeneic models
+CBD has been shown to reduce breast cancer metastasis in vivo in a xenograft model of
+breast cancer using the MDA-MB231 cells [22]. However, it is known that CBD can
+modulate specific functions of the immune system [23, 24]. Since the immune system has an
+important role in the inhibition of cancer progression [33], it was essential to determine
+whether CBD demonstrates antitumor activity in an immune competent mouse model using
+syngeneic animals. In addition, we wanted to carry out a more detailed analysis on
+secondary metastatic foci formation in the presence of CBD. As our in vivo model, we used
+the 4T1 murine metastatic breast cancer cells described above, which primarily metastasize
+to the lung of syngeneic BALB/c mice. As presented above, CBD was effective at down-
+regulating Id-1 and corresponding 4T1 cell proliferation and invasiveness (Fig. 4). We
+therefore determined whether CBD would inhibit tumor growth and metastasis of 4T1 cells
+to the lung in vivo.
+To investigate the activity of CBD in vivo, 4T1 cells were first grown orthotopically in
+syngeneic BALB/c mice. In this model, the activity of CBD can be assessed on the growth
+of the primary tumor as well as on the metastatic spread to the lung. Mice were treated daily
+by intra-peritoneal injection with vehicle (used as a control) or either 1 or 5 mg/kg of CBD.
+We found that both doses of CBD significantly reduced the growth of the primary tumor in
+vivo (Fig. 5A). Pairwise differences in the area between the primary tumor growth curves
+McAllister et al.
+Page 6
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+were compared using a ranksum test. A significant reduction in the primary tumor growth
+was observed in both CBD-treated groups beginning at day 18 and continued throughout the
+study (P < 0.01). The peak inhibitory activity of CBD was observed from day 22–24 (P <
+0.0001). As demonstrated in Fig. 5A, the primary tumor acquired resistance to the inhibitory
+properties of CBD by approximately day 25, and by the end of the study (day 30) there was
+no significant difference between treatment groups when the weight of the tumors were
+assessed (Fig. 5B).
+We next determined that 1 and 5 mg/kg CBD reduced metastasis of 4T1 breast cancer cells
+in vivo. The average number of metastatic foci was 26 in the control group, 17 in the group
+treated with 1 mg/kg CBD, and 10 in the group treated with 5 mg/kg CBD (Fig. 5C). In each
+of these groups secondary lung metastases were measured to include metastatic foci < 1 mm,
+1–2 mm, and >2 mm. From these data, an average volume per metastatic foci was calculated
+as described in the methods. Differences in the average volume per metastatic foci were
+compared using a ranksum test. We determined that 1 and 5 mg/kg of CBD significantly
+decreased the average volume per metastases in a dose-dependent manner (P < 0.05) as
+shown in Fig. 5D. In addition, a visual analysis of the lungs using a dissecting microscope
+revealed no metastases in one of the eight mice in the 1 mg/kg group and in two of the eight
+mice in the 5 mg/kg group (Fig. 5C). This is in contrast to the control group, where
+metastases could be visualized in all the lungs analyzed. The data also showed that CBD
+selectively inhibited the formation of metastatic foci >1 mm (Supplementary Figure 1).
+To further determine whether CBD could effectively reduce the formation of metastases, we
+injected 4T1 cells directly into the tail vein of syngeneic BALB/c mice and then treated the
+animals (Fig. 6). In this model, cancer cells have direct access to the blood stream resulting
+in a significant enhancement of lung metastasis and reduced variability in the number of
+metastases formed. Two days after i.v. injection of 4T1 cells, the tumor-bearing mice were
+injected i.p. once a day with vehicle or 1 mg/kg CBD for 15 days. As described for the
+orthotopic model, treatment with CBD resulted in a reduction of the total amount of
+metastatic foci, specifically intermediate sized (1–2 mm) or macrometastases (>2 mm). In
+conclusion, the in vivo data demonstrate that CBD decreases primary tumor growth and
+significantly reduces metastasis in immune competent mouse models of breast cancer.
+Discussion
+The path of cancer progression is determined by alterations in the regulatory mechanisms of
+growth/invasion and differentiation. The expression of Id-1 protein (an inhibitor of basic
+helix-loop-helix transcription factors) has been reported to be dysregulated in over 20 types
+of cancer, and suggested as a key determinant of tumorigenesis and/or metastasis in a wide
+range of tissues, including the breast [34, 35]. Reducing Id-1 expression (a gene whose
+expression is absent in most of the healthy adult tissues) could therefore provide a rational
+therapeutic strategy for the treatment of aggressive cancers. Our previous data suggested that
+CBD represented a non-toxic plant derived compound that could reduce Id-1 expression and
+corresponding breast cancer metastasis [21]. A key piece of data that was needed in order to
+increase enthusiasm for the development of future clinical trials was the establishment of
+molecular pathways leading to reduction of Id-1 expression and corresponding breast cancer
+metastasis. In addition, CBD has been shown to be immune suppressive; therefore, it was
+essential to determine whether antimeta-static activity of the cannabinoid would be observed
+in immune competent mice.
+Activation of the ERK is generally accepted to result in the stimulation of cell growth [36].
+However, other studies show that in certain instances ERK activation can lead to the
+inhibition of cell growth [37–39]. The defining factor is the duration of the stimulus, i.e.,
+McAllister et al.
+Page 7
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+more sustained up-regulation of ERK activity leads to inhibition of cell growth whereas
+short-term up-regulation leads to cell growth [37–39]. In cancer cell lines, CB1 and CB2
+agonists have been shown to modulate ERK and p38 MAPK [28, 29, 40, 41]. However,
+there is a clear difference in the activity produced (sustained stimulation versus inhibition),
+and is dependent upon the agonist used and the cancer cell line studied. Sustained up-
+regulation of ERK activity by treatment with CB1 and CB2 agonists has been shown to be an
+essential component of receptor-mediated signal transduction leading to the inhibition of
+brain cancer cell growth [40, 42]. Although CBD has negligible affinity for CB1 and CB2
+receptors, CBD has been shown to control cell migration through the activation of ERK [13,
+43]. Our data demonstrated that treatment of breast cancer MDA-MB231 cells with CBD
+leads to the up-regulation of the active isoform of ERK, and this led to the inhibition of Id-1
+gene expression, and consequently the down-regulation of cell growth and invasion.
+ROS can act in concert with intracellular signaling pathways to regulate the balance of cell
+proliferation versus cell cycle arrest [44]. The ability of CBD to inhibit cancer cell
+proliferation has been associated with mitochondrial damage and the increase in production
+of ROS potentially through alterations in NAD(P)H oxidases [28, 32]. We determined that
+CBD directly produced the formation of ROS and that the ROS scavenger, α-tocopherol
+(TOC), could reverse the ability of CBD to inhibit Id-1 expression as well as the
+proliferation and invasion of MDA-MB231 cells. These data provide evidence that the
+production of ROS by CBD leads to the inhibition of breast cancer cell aggressiveness.
+Overall, our results also suggest that the two independent pathways activated by CBD (ERK
+and ROS) can both decrease Id-1 gene expression, and consequently cell proliferation and
+invasion.
+We found that systemic administration of CBD could lead to a significant reduction in
+primary tumor growth and metastasis in immune competent mouse models of breast cancer.
+The primary tumors acquired resistance to the inhibitory properties of CBD by
+approximately day 25. The data are suggestive of adaptive versus innate drug resistance and
+could involve a number of mechanisms such as the altered activity of key metabolic
+pathways [45]. Treatment of tumor-bearing mice with CBD produced a dose-dependent
+reduction in the total number and volume of secondary tumors formed, and preferentially
+reduced metastatic foci over 1 mm in size. In the highest dose group (5 mg/kg), a visual
+analysis of the lungs using a dissecting microscope revealed no metastases in two of the
+eight mice. The more effective inhibition of metastasis by CBD compared to its activity on
+primary tumor growth may be the result of its preferential effects on cell invasiveness,
+particularly in the in vivo model where metastasis occurs following primary tumor
+formation. Regarding the model of metastasis after tail vein injection, it has been previously
+reported that trapping and extravasation into lung tissue after tail vein injection, and before
+metastasis formation, could take up to 3–4 days [46]. Thus, since extravasation was only
+complete after 4 days, a treatment with CBD starting one day after the injection of cells
+could have some effects on the escape of cancer cells from the circulation. The inhibition of
+4T1 cell growth could also explain the differences in size of metastatic foci between control
+and treated groups in both in vivo models presented.
+We analyzed the expression of the marker of proliferation Ki67 in 4T1-derived metastases in
+lung samples collected from vehicle- and CBD-treated groups (data not shown). Only a
+limited number of tumor-bearing lung samples could be obtained from mice that responded
+to CBD treatment because of the significant efficacy of the treatment. Moreover, the need to
+use a majority of the lungs for measurement of metastatic foci precluded the
+immunohistochemical analysis of these samples. In the limited number of tumor-bearing
+samples available, no differences in the proliferation of 4T1 cells between vehicle- and
+CBD-treated groups were observed. Although, this result suggests CBD does not inhibit 4T1
+McAllister et al.
+Page 8
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+cell proliferation in the lung, we hypothesize that the formation of a limited number of
+tumors in the CBD-treated group could also be the result of the expansion of clones or
+populations of tumor cells resistant to the treatment. Therefore, it is expected that
+differences in Ki67 staining would not be observed. Future studies will be needed in order to
+understand the full spectrum of inhibitory effects that CBD treatment has on the formation
+of metastases in lung.
+In summary, the effects of CBD may occur through reduction of tumor cell proliferation, a
+decrease in the in-travasation and extravasation of tumor cells, and/or through tumor
+reinitiation after cells reach their target tissues. Moreover, new blood vessels are required for
+a tumor mass to progress beyond 2 mm [47]; therefore, CBD may also inhibit angiogenesis.
+Indeed, the most dramatic effect of CBD on secondary tumors was on the reduction of meta-
+static foci >2 mm. Since Id-1 is also expressed in endothelial cells during neoangiogenesis
+[2], treatment with CBD could also down-regulate Id-1 gene expression in both tumor cells
+and endothelial cells involved in neovascularization.
+Conclusions
+We expect that analogs of CBD could be created that are more active at inhibiting Id-1 and
+corresponding breast cancer cell aggressiveness compared to CBD. Therefore, our objective
+is to bring CBD to the clinic first, and then follow up with second-generation analogs. The
+development of a compound (and perhaps a family of compounds) that is non-toxic,
+efficacious, and specifically targets metastatic cancer cells would make a significant
+contribution to the eradication of breast cancer. There is a general consensus in the field of
+cancer research that targeting multiple pathways that control tumor progression is the best
+strategy for the eradication of aggressive cancers [48]. Since CBD has a low toxicity, it
+would be an ideal candidate for use in combination treatments with additional drugs already
+used in the clinic. Importantly, CBD appears to be interacting through a cellular system that
+regulates the expression of key transcriptional factors (e.g., Id-1) that control breast cancer
+cell proliferation, migration, and invasion. The experiments described in this manuscript not
+only define the pathways that CBD is working through to control breast cancer cell
+aggressiveness, but also demonstrate the efficacy of CBD in pre-clinical models. A greater
+understanding of this system may lead to future therapies for breast cancer patients,
+including the additional refinement of CBD analog synthesis.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors wish to thank Drs. Claudia Gravekamp and Yoko Itahana for helpful scientific discussions, and Dr.
+Liliana Soroceanu for critical reading of the manuscript. This study was supported by the National Institutes of
+Health (CA102412, CA111723, DA09978, CA082548, and CA135281), and the Research Institute at California
+Pacific Medical Center.
+Abbreviations
+CBD
+Cannabidiol
+Δ9-THC
+Δ9-Tetrahydrocannabinol
+ERK
+Extracellular signal-regulated kinase
+FBS
+Fetal bovine serum
+McAllister et al.
+Page 9
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Id
+Inhibitor of DNA binding
+ROS
+Reactive oxygen species
+TOC
+α-Tocopherol
+References
+1. Braun S, Harbeck N. Molecular markers of metastasis in breast cancer: current understanding and
+prospects for novel diagnosis and prevention. Expert Rev Mol Med. 2001; 3:1–14. [PubMed:
+14585146]
+2. Perk J, Iavarone A, Benezra R. Id family of helix-loop-helix proteins in cancer. Nat Rev Cancer.
+2005; 5(8):603–614. [PubMed: 16034366]
+3. Fong S, Itahana Y, Sumida T, Singh J, Coppe JP, Liu Y, Richards PC, Bennington JL, Lee NM,
+Debs RJ, et al. Id-1 as a molecular target in therapy for breast cancer cell invasion and metastasis.
+Proc Natl Acad Sci USA. 2003; 100(23):13543–13548. [PubMed: 14578451]
+4. Minn AJ, Gupta GP, Siegel PM, Bos PD, Shu W, Giri DD, Viale A, Olshen AB, Gerald WL,
+Massague J. Genes that mediate breast cancer metastasis to lung. Nature. 2005; 436(7050):518–524.
+[PubMed: 16049480]
+5. Coppe JP, Smith AP, Desprez PY. Id proteins in epithelial cells. Exp Cell Res. 2003; 285(1):131–
+145. [PubMed: 12681293]
+6. Gupta GP, Perk J, Acharyya S, de Candia P, Mittal V, Todorova-Manova K, Gerald WL, Brogi E,
+Benezra R, Massague J. ID genes mediate tumor reinitiation during breast cancer lung metastasis.
+Proc Natl Acad Sci USA. 2007; 104(49):19506–19511. [PubMed: 18048329]
+7. Swarbrick A, Roy E, Allen T, Bishop JM. Id1 cooperates with oncogenic Ras to induce metastatic
+mammary carcinoma by subversion of the cellular senescence response. Proc Natl Acad Sci USA.
+2008; 105(14):5402–5407. [PubMed: 18378907]
+8. Pertwee RG. Pharmacology of cannabinoid CB1 and CB2 receptors. Pharmacol Ther. 1997 Nov.
+74:129–180. [PubMed: 9336020]
+9. McPartland JM, Russo EB. Cannabis and cannabis extract: greater than the sum of the parts? J
+Cannabis Ther. 2001; 1:103–132.
+10. McAllister SD, Glass M. CB(1) and CB(2) receptor-mediated signalling: a focus on
+endocannabinoids. Prostaglandins Leukot Essent Fatty Acids. 2002; 66(2–3):161–171. [PubMed:
+12052033]
+11. Showalter VM, Compton DR, Martin BR, Abood ME. Evaluation of binding in a transfected cell
+line expressing a peripheral cannabinoid receptor (CB2): identification of cannabinoid receptor
+subtype selective ligands. J Pharmacol Exp Ther. 1996; 278:989–999. [PubMed: 8819477]
+12. Alozie SO, Martin BR, Harris LS, Dewey WL. 3H-delta 9-Tetrahydrocannabinol, 3H-cannabinol
+and 3H-cannabidiol: penetration and regional distribution in rat brain. Pharmacol Biochem Behav.
+1980; 12(2):217–218. [PubMed: 6246544]
+13. Walter L, Franklin A, Witting A, Wade C, Xie Y, Kunos G, Mackie K, Stella N. Nonpsychotropic
+cannabinoid receptors regulate microglial cell migration. J Neurosci. 2003; 23(4):1398–1405.
+[PubMed: 12598628]
+14. Brady KT, Balster RL. The effects of delta 9-tetrahydro-cannabinol alone and in combination with
+cannabidiol on fixed-interval performance in rhesus monkeys. Psychopharmacology. 1980; 72(1):
+21–26. [PubMed: 6258188]
+15. Hiltunen AJ, Jarbe TU. Cannabidiol attenuates delta 9-tetrahydrocannabinol-like discriminative
+stimulus effects of cannabinol. Eur J Pharmacol. 1986; 125(2):301–304. [PubMed: 3017729]
+16. Hiltunen AJ, Jarbe TU, Wangdahl K. Cannabinol and cannabidiol in combination: temperature,
+open-field activity, and vocalization. Pharmacol Biochem Behav. 1988; 30(3):675–678. [PubMed:
+3211977]
+17. Hollister LE, Gillespie H. Interactions in man of delta-9-tetrahydrocannabinol. II. cannabinol and
+cannabidiol. Clin Pharmacol Ther. 1975; 18(1):80–83. [PubMed: 1097148]
+McAllister et al.
+Page 10
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+18. Abood, ME.; Raman, C.; Kim, K.; Moore, DH. ALS and other motor neuron diseases. Vol. 2004.
+Talyor and Francis; Philadelphia, USA: 2004 Dec 2–4. Evaluation of cannabidiol in the ALS
+mouse model; p. 92-93.(poster 61)
+19. Nurmikko TJ, Serpell MG, Hoggart B, Toomey PJ, Morlion BJ, Haines D. Sativex successfully
+treats neuropathic pain characterised by allodynia: a randomised, double-blind, placebo-controlled
+clinical trial. Pain. 2007; 133(1–3):210–220. [PubMed: 17997224]
+20. Rog DJ, Nurmikko TJ, Young CA. Oromucosal delta9-tetrahydrocannabinol/cannabidiol for
+neuropathic pain associated with multiple sclerosis: an uncontrolled, open-label, 2-year extension
+trial. Clin Ther. 2007; 29(9):2068–2079. [PubMed: 18035205]
+21. McAllister SD, Christian RT, Horowitz MP, Garcia A, Desprez PY. Cannabidiol as a novel
+inhibitor of Id-1 gene expression in aggressive breast cancer cells. Mol Cancer Ther. 2007; 6(11):
+2921–2927. [PubMed: 18025276]
+22. Ligresti A, Moriello AS, Starowicz K, Matias I, Pisanti S, De Petrocellis L, Laezza C, Portella G,
+Bifulco M, Di Marzo V. Antitumor activity of plant cannabinoids with emphasis on the effect of
+cannabidiol on human breast carcinoma. J Pharmacol Exp Ther. 2006; 318(3):1375–1387.
+[PubMed: 16728591]
+23. Kaplan BL, Springs AE, Kaminski NE. The profile of immune modulation by cannabidiol (CBD)
+involves deregulation of nuclear factor of activated T cells (NFAT). Biochem Pharmacol. 2008;
+76(6):726–737. [PubMed: 18656454]
+24. Malfait AM, Gallily R, Sumariwalla PF, Malik AS, Andreakos E, Mechoulam R, Feldmann M.
+The nonpsychoactive cannabis constituent cannabidiol is an oral anti-arthritic therapeutic in
+murine collagen-induced arthritis. Proc Natl Acad Sci USA. 2000; 97(17):9561–9566. [PubMed:
+10920191]
+25. McAllister SD, Chan C, Taft RJ, Luu T, Abood ME, Moore DH, Aldape K, Yount G.
+Cannabinoids selectively inhibit proliferation and induce death of cultured human glioblastoma
+multiforme cells. J NeuroOncol. 2005; 74(1):31–40. [PubMed: 16078104]
+26. Lin CQ, Singh J, Murata K, Itahana Y, Parrinello S, Liang SH, Gillett CE, Campisi J, Desprez PY.
+A role for Id-1 in the aggressive phenotype and steroid hormone response of human breast cancer
+cells. Cancer Res. 2000; 60(5):1332–1340. [PubMed: 10728695]
+27. Guzman M. Cannabinoids: potential anticancer agents. Nat Rev Cancer. 2003; 3(10):745–755.
+[PubMed: 14570037]
+28. McKallip RJ, Jia W, Schlomer J, Warren JW, Nagarkatti PS, Nagarkatti M. Cannabidiol-induced
+apoptosis in human leukemia cells: a novel role of cannabidiol in the regulation of p22phox and
+Nox4 expression. Mol Pharmacol. 2006; 70(3):897–908. [PubMed: 16754784]
+29. Ramer R, Hinz B. Inhibition of cancer cell invasion by cannabinoids via increased expression of
+tissue inhibitor of matrix metalloproteinases-1. J Natl Cancer Inst. 2008; 100(1):59–69. [PubMed:
+18159069]
+30. Itahana Y, Singh J, Sumida T, Coppe JP, Parrinello S, Bennington JL, Desprez PY. Role of Id-2 in
+the maintenance of a differentiated and noninvasive phenotype in breast cancer cells. Cancer Res.
+2003; 63(21):7098–7105. [PubMed: 14612502]
+31. Stighall M, Manetopoulos C, Axelson H, Landberg G. High ID2 protein expression correlates with
+a favourable prognosis in patients with primary breast cancer and reduces cellular invasiveness of
+breast cancer cells. Int J Cancer. 2005; 115(3):403–411. [PubMed: 15688367]
+32. Massi P, Vaccani A, Bianchessi S, Costa B, Macchi P, Parolaro D. The non-psychoactive
+cannabidiol triggers caspase activation and oxidative stress in human glioma cells. Cell Mol Life
+Sci. 2006; 63(17):2057–2066. [PubMed: 16909207]
+33. Andersen MH, Sorensen RB, Schrama D, Svane IM, Becker JC, Thor Straten P. Cancer treatment:
+the combination of vaccination with other therapies. Cancer Immunol Immunother. 2008; 57(11):
+1735–1743. [PubMed: 18286284]
+34. Fong S, Debs RJ, Desprez PY. Id genes and proteins as promising targets in cancer therapy. Trends
+Mol Med. 2004; 10(8):387–392. [PubMed: 15310459]
+35. Ling MT, Wang X, Zhang X, Wong YC. The multiple roles of Id-1 in cancer progression.
+Differentiation. 2006; 74(9–10):481–487. [PubMed: 17177845]
+McAllister et al.
+Page 11
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+36. Derkinderen P, Enslen H, Girault JA. The ERK/MAP-kinases cascade in the nervous system.
+Neuroreport. 1999; 10(5):R24–R34. [PubMed: 10321455]
+37. Pumiglia KM, Decker SJ. Cell cycle arrest mediated by the MEK/mitogen-activated protein kinase
+pathway. Proc Natl Acad Sci USA. 1997; 94(2):448–452. [PubMed: 9012803]
+38. Mohr S, McCormick TS, Lapetina EG. Macrophages resistant to endogenously generated nitric
+oxide-mediated apoptosis are hypersensitive to exogenously added nitric oxide donors:
+dichotomous apoptotic response independent of caspase 3 and reversal by the mitogen-activated
+protein kinase kinase (MEK) inhibitor PD 098059. Proc Natl Acad Sci USA. 1998; 95(9):5045–
+5050. [PubMed: 9560225]
+39. York RD, Yao H, Dillon T, Ellig CL, Eckert SP, McCleskey EW, Stork PJ. Rap1 mediates
+sustained MAP kinase activation induced by nerve growth factor. Nature. 1998; 392(6676):622–
+626. [PubMed: 9560161]
+40. Galve-Roperh I, Sanchez C, Cortes ML, del Pulgar TG, Izquierdo M, Guzman M. Anti-tumoral
+action of cannabinoids: involvement of sustained ceramide accumulation and extracellular signal-
+regulated kinase activation. Nat Med. 2000; 6(3):313–319. [PubMed: 10700234]
+41. Sarfaraz S, Afaq F, Adhami VM, Malik A, Mukhtar H. Cannabinoid receptor agonist-induced
+apoptosis of human prostate cancer cells LNCaP proceeds through sustained activation of ERK1/2
+leading to G1 cell cycle arrest. J Biol Chem. 2006; 281(51):39480–39491. [PubMed: 17068343]
+42. Velasco G, Galve-Roperh I, Sanchez C, Blazquez C, Guzman M. Hypothesis: cannabinoid therapy
+for the treatment of gliomas? Neuropharmacology. 2004; 47(3):315–323. [PubMed: 15275820]
+43. Mo FM, Offertaler L, Kunos G. Atypical cannabinoid stimulates endothelial cell migration via a
+Gi/Go-coupled receptor distinct from CB1, CB2 or EDG-1. Eur J Pharmacol. 2004; 489(1–2):21–
+27. [PubMed: 15063151]
+44. Lambeth JD. NOX enzymes and the biology of reactive oxygen. Nat Rev Immunol. 2004; 4(3):
+181–189. [PubMed: 15039755]
+45. Mimeault M, Hauke R, Batra SK. Recent advances on the molecular mechanisms involved in the
+drug resistance of cancer cells and novel targeting therapies. Clin Pharmacol Ther. 2008; 83(5):
+673–691. [PubMed: 17786164]
+46. Cameron MD, Schmidt EE, Kerkvliet N, Nadkarni KV, Morris VL, Groom AC, Chambers AF,
+MacDonald IC. Temporal progression of metastasis in lung: cell survival, dormancy, and location
+dependence of metastatic inefficiency. Cancer Res. 2000; 60(9):2541–2546. [PubMed: 10811137]
+47. Folkman J. What is the evidence that tumors are angiogenesis dependent? J Natl Cancer Inst. 1990;
+82(1):4–6. [PubMed: 1688381]
+48. Dent P, Curiel DT, Fisher PB, Grant S. Synergistic combinations of signaling pathway inhibitors:
+mechanisms for improved cancer therapy. Drug Resist Updat. 2009; 12(3):65–73. [PubMed:
+19395305]
+McAllister et al.
+Page 12
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 1.
+CBD up-regulates ERK phosphorylation and Id-2 expression. (A) Proteins from MDA-
+MB231 cells treated with 1.5 μM CBD (as previously described [21]) for 1 or 2 days were
+extracted and analyzed for Id-1, total ERK, pERK, or p38 by Western blot analysis. (B)
+Proteins from MDA-MB231 cells treated with CBD for 3 days were extracted and analyzed
+for Id-1, Id-2, or NFkappaB by Western blot analysis
+McAllister et al.
+Page 13
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 2.
+ERK partly mediates the inhibitory activity of CBD on cell growth and invasion. MDA-
+MB231 cells were treated for 3 days with vehicle (Control) or 1.5 μM CBD in the presence
+and absence of 0.1–0.5 μM U0126. Cell proliferation (A) and invasion (B) were measured
+using the MTT and Boyden chamber assays, respectively. Data are presented as relative
+proliferation or invasiveness of the cells, where the respective controls are set as 100%. (C)
+Proteins from MDA-MB231 cells treated with vehicle (control) or 1.5 μM of CBD for 3
+days in the absence or presence of U0126 were extracted and analyzed for Id-1 by Western
+blot analysis. (*) indicates statistically significant difference from control (P < 0.05). (#)
+indicates statistically significant difference from CBD (P < 0.05)
+McAllister et al.
+Page 14
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 3.
+Production of ROS represents another factor involved in the inhibitory activity of CBD.
+MDA-MB231 cells were treated for 3 days with vehicle (Control) or 1.5 μM CBD in the
+presence and absence of 20 μM TOC. Cell proliferation (A) and invasion (B) were
+measured using the MTT and Boyden chamber assay, respectively. (C) Proteins from cells
+treated with vehicle (control) or 1.5 μM of CBD for 3 days in the absence or presence of
+TOC were extracted and analyzed for Id-1 by Western blot analysis. (D) The production of
+ROS was measured using 2′-7′Dichloro-dihydrofluorescein (Sigma-Aldrich). (*) indicates
+statistically significant differences from control (P < 0.05)
+McAllister et al.
+Page 15
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 4.
+CBD inhibits the expression of Id-1 and corresponding breast cancer proliferation and
+invasion in mouse 4T1 cells. (A) 4T1 cells were treated for 3 days with 1.5 μM CBD,
+proteins were extracted and analyzed for Id-1 expression. (B) 4T1 cells were collected and
+cell cycle analyzed using a desktop FACS Calibur with Cell Quest Pro software (BD
+Bioscience, CA). The distribution of cells in different cell cycle stages was determined
+according to their DNA content. (C) Invasion assays were carried out using the Boyden
+chamber assay. (*) indicates statistically significant differences from control (P < 0.05)
+McAllister et al.
+Page 16
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 5.
+CBD reduces primary tumor growth and metastasis of 4T1 cancer cells in an orthotopic
+mouse model. Primary tumors and subsequent secondary tumors (metastases) were
+generated in BALB/c mice by subcutaneous injection of 1 × 105 4T1 cells under the fourth
+major nipple. Treatment with CBD was initiated upon detection of the first palpable tumor
+(approximately 7 days). (A) The primary tumor volume was calculated by measuring the
+perpendicular largest diameters of the tumor with a caliper. (B) The weight of the tumors
+was also measured. (C) The visible lung metastases were measured using a dissecting
+microscope. (D) The average volume per metastatic foci was calculated as described in the
+methods. (*) indicates statistically significant differences from vehicle (P < 0.05)
+McAllister et al.
+Page 17
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Fig. 6.
+CBD reduces the number of metastatic foci in the syngeneic model of tail vein injection.
+Lung metastases were generated in BALB/c mice after tail vein injection of 5 × 105 4T1
+cells. One day after the injection, the tumor-bearing mice were injected i.p. once a day with
+vehicle or 1 mg/kg CBD for 15 days. Visible lung metastases were counted and measured by
+using a dissecting microscope (A). Lung metastases measured included those (B) <1 mm,
+(C) 1–2 mm, and (D) >2 mm
+McAllister et al.
+Page 18
+Breast Cancer Res Treat. Author manuscript; available in PMC 2012 August 02.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript

@@ -1,0 +1,1516 @@
+Structural Mimicry in Class A G Protein-coupled Receptor
+Rotamer Toggle Switches
+THE IMPORTANCE OF THE F3.36(201)/W6.48(357) INTERACTION IN CANNABINOID CB1
+RECEPTOR ACTIVATION*
+Received for publication, June 15, 2004, and in revised form, August 19, 2004
+Published, JBC Papers in Press, August 23, 2004, DOI 10.1074/jbc.M406648200
+Sean D. McAllister‡, Dow P. Hurst§, Judy Barnett-Norris§, Diane Lynch§, Patricia H. Reggio§,
+and Mary E. Abood‡¶
+From the ‡California Pacific Medical Center Research Institute, San Francisco, California 94115 and
+§Kennesaw State University, Kennesaw, Georgia 30144
+In this study, we tested the hypothesis that a CB1
+TMH3-4-5-6
+aromatic
+microdomain,
+which
+includes
+F3.25(190), F3.36(201), W5.43(280), and W6.48(357), is cen-
+trally involved in CB1 receptor activation, with the
+F3.36(201)/W6.48(357) interaction key to the mainte-
+nance of the CB1-inactive state. We have shown previ-
+ously that when F3.36(201), W5.43(280), and W6.48(357)
+are individually mutated to alanine, a significant reduc-
+tion in ligand binding affinity is observed in the pres-
+ence of WIN 55,212-2 and SR141716A but not CP55,940
+and anandamide. In the work presented here, we report
+a detailed functional analysis of the F3.36(201)A,
+F3.25(190)A, W5.43(280)A, and W6.48(357)A mutant
+receptors in stable cell lines created in HEK cells for
+agonist-stimulated guanosine 5-3-O-(thio)triphosphate
+(GTPS) binding and GIRK1/4 channel current effects in
+Xenopus oocytes where the mutant proteins were ex-
+pressed transiently. The F3.36(201)A mutation showed
+statistically significant increases in ligand-independent
+stimulation of GTPS binding versus wild type CB1, al-
+though basal levels for the W6.48(357)A mutant were not
+statistically different from wild type CB1. F3.36(201)A
+demonstrated a limited activation profile in the pres-
+ence of multiple agonists. In contrast, enhanced agonist
+activation was produced by W6.48(357)A. These results
+suggest that a F3.36(201)/W6.48(357)-specific contact is
+an important constraint for the CB1-inactive state that
+may need to break during activation. Modeling studies
+suggest that the F3.36(201)/W6.48(357) contact can exist
+in the inactive state of CB1 and be broken in the acti-
+vated state via a 1 rotamer switch (F3.36(201) trans,
+W6.48(357) g) 3 (F3.36(201) g, W6.48(357) trans). The
+F3.36(201)/W6.48(357) interaction therefore may repre-
+sent a “toggle switch” for activation of CB1.
+The cannabinoid CB1 receptor belongs to the class A rho-
+dopsin-like family of G protein-coupled receptors (GPCRs)1
+(see helix net, Fig. 1) (2). The availability of high resolution
+crystal structures of rhodopsin (Rho) (3, 4) (Protein Data
+Bank accession code 1GZM) and the availability of biophysi-
+cal data on the conformational changes that occur when
+rhodopsin and other class A receptors are activated (6–8)
+have greatly aided the study of structure-function relation-
+ships in class A GPCRs. Ballesteros et al. (9) have proposed
+that “structural mimicry” may occur in GPCRs such that
+different amino acids or alternate microdomains in class A
+receptors (e.g. the amine receptors) can support similar de-
+viations from the regular -helical structure seen in Rho,
+thereby resulting in similar tertiary structures. In the work
+presented here, we provide evidence that “structural (func-
+tional) mimicry” by alternate microdomains may also support
+the core function of signaling activation through transmem-
+brane helix conformational change in the class A family.
+There is a growing body of evidence in the literature that
+activation of GPCRs is accompanied by rigid domain motions
+and rotations of transmembrane helices (TMHs) 3 and 6 (6–8).
+At their intracellular ends, TMHs 3 and 6 in Rho are con-
+strained by an E3.49(134)/R3.50(135)/E6.30 (247) salt bridge
+that limits the relative mobility of the cytoplasmic ends of
+TMH3 and TMH6 in the inactive state (3) and acts like an
+“ionic lock” (10, 11). During activation, P6.50 of the highly
+conserved CWXP motif in TMH6 of GPCRs may act as a flexible
+hinge, permitting TMH6 to straighten upon activation, moving
+its intracellular end away from TMH3 and upwards toward the
+lipid bilayer (12).
+Khorana and co-workers (13) have reported that even in the
+dark (inactive) state of Rho, only some strong constraints exist,
+whereas the majority of the molecule experiences conforma-
+tional flexibility. Therefore, light activation of Rho does not
+require the breaking and forming of thousands of specific con-
+tacts within nanoseconds, rather only a few specific contacts
+restricting the inactive state, including indole side chain con-
+tacts of tryptophan residues, need to break on activation. These
+changes can then be transmitted through the entire membrane
+protein because of its dynamic plasticity. One of the tryptophan
+residues that Khorana and co-workers (13) have reported to be
+restricted is W6.48(265). In the dark (inactive) state of Rho, the
+-ionone ring of 11-cis-retinal is close to W6.48(265) of the
+* This work has been supported by National Institutes on Drug Abuse
+Grants DA09978, DA05274 (to M. E. A.), DA00489, and DA03934 (to
+P. H. R.). The costs of publication of this article were defrayed in part by
+the payment of page charges. This article must therefore be hereby
+marked “advertisement” in accordance with 18 U.S.C. Section 1734
+solely to indicate this fact.
+ Current address: University of North Carolina, Greensboro, NC
+27402.
+¶ To whom correspondence should be addressed: Forbes Norris ALS/
+MDA Research Center, 2351 Clay St, Suite 416, California Pacific
+Medical Center Research Institute, San Francisco, CA 94115. Tel.:
+415-600-3607; Fax: 415-563-7325; E-mail: mabood@cooper.cpmc.org.
+1 The abbreviations used are: GPCR, G protein-coupled receptor; CB,
+cannabinoid; TMH, transmembrane helix; GIRK, G protein-coupled
+inwardly rectifying potassium; Rho, rhodopsin; WT, wild type; GTPS,
+guanosine 5-3-O-(thio)triphosphate; CM, conformational memories.
+THE JOURNAL OF BIOLOGICAL CHEMISTRY
+Vol. 279, No. 46, Issue of November 12, pp. 48024–48037, 2004
+© 2004 by The American Society for Biochemistry and Molecular Biology, Inc.
+Printed in U.S.A.
+This paper is available on line at http://www.jbc.org
+48024
+This is an Open Access article under the CC BY license.
+CWXP motif on TMH F and helps constrain it in a 1  g
+conformation (3). In the light-activated state, the -ionone
+ring moves away from TMH F and toward TMH D where it
+resides close to A4.58(169) (14). This movement releases the
+constraint on W6.48(265), making it possible for W6.48(265)
+to undergo a conformational change. Lin and Sakmar (15)
+reported
+that
+perturbations
+in
+the
+environment
+of
+W6.48(265) of Rho occur during the conformational change
+concomitant with receptor activation. This suggests that the
+conformation of W6.48(265) when Rho is in its inactive/
+ground state (R; 1  g) changes during activation (i.e.
+W6.48(265) 1 g 3 trans) (16).
+In the class A cationic neurotransmitter receptors, a highly
+conserved cluster of aromatic amino acids is found on TMH6
+that faces the binding site crevice bracketing W6.48 (F6.44,
+W6.48, F6.51, and F6.52) (16). Shi et al. (16) have proposed that
+an aromatic at 6.52 (F6.52) in the 2-adrenergic receptor may
+serve to constrain W6.48 in its inactive state (i.e. g 1) and is
+part of a rotamer toggle switch (C6.47 trans/W6.48 g/F6.52
+g 3 C6.47 g/W6.48 trans/F6.52 trans) for activation of this
+receptor.
+Restriction of W6.48 by a TMH6 aromatic cluster is not
+possible in the cannabinoid receptors, as the CB1 receptor
+has leucines at 6.44, 6.51, and 6.52. Instead, the CB1 receptor
+contains a microdomain of aromatic residues that face into
+the ligand-binding pocket in the TMH3-4-5-6 region, includ-
+ing
+F3.25(190),
+F3.36(201),
+W4.64(256),
+Y5.39(276),
+W5.43(280), and W6.48(357) (Fig. 2). In work reported here,
+we suggest that the F3.36(201)/W6.48(357) interaction may
+act as a mimic of the 11-cis-retinal/W6.48 interaction in the
+Rho dark state and may serve as the “toggle switch” for CB1
+activation, with F3.36(201) 1 trans/W6.48(357) 1 g repre-
+senting the inactive (R) and F3.36(201) 1 g/W6.48(357) 1
+trans representing the active (R*) state of CB1. Modeling,
+mutation, and functional studies undertaken to test the im-
+portance of the TMH3-4-5-6 aromatic microdomain in ligand
+recognition and in the conformational changes that accom-
+pany activation of CB1 suggest that a F3.36(201)/W6.48(357)-
+specific contact is an important constraint for the CB1-
+inactive state.
+FIG. 2. Models of the CB1 R and R* states in the TMH3-4-5-6
+region (in the absence of ligand) are illustrated here (1). A, in the
+R state model, a salt bridge can form between K3.28(193) and D6.58
+(367) (shown in green). F3.25(190) (shown in gray) is close enough to
+have a cation- interaction with K3.28(193). A microdomain of clus-
+tered aromatic residues (shown in yellow) W6.48(357)/F3.36(201)/
+W5.43(280)/Y5.39(276)/W4.64(256) exists in the CB1 TMH3-4-5-6 re-
+gion. B, the conformational changes that occur upon receptor activation
+(R 3 R* transition) result in rotations of TMH3 and -6, as well as a
+change in the conformation of TMH6 (by moderation of its proline kink
+angle) (6–8, 10). The K3.28(193)-D6.58(367) salt bridge is broken (res-
+idues illustrated in green) and K3.28(193) and F3.25(190) (in gray) are
+now oriented toward the TMH2/7 region of CB1. The aromatic cluster
+present in the inactive state model also undergoes re-arrangement,
+with W6.48(357)/W5.43(280)/Y5.39(276)/W4.64(256) (shown in yellow)
+maintaining an extended cluster, whereas F3.36(201) (yellow) is no
+longer part of this cluster.
+FIG. 1. A helix net representation of the sequence of the mouse CB1 receptor. The amino acids of the TMH3-4-5-6 aromatic microdomain
+are highlighted in boldface.
+Toggle Switch Activation of CB1 Receptor
+48025
+EXPERIMENTAL PROCEDURES
+Molecular Modeling
+Amino Acid Numbering System—In the discussion of receptor resi-
+dues below, the amino acid numbering scheme proposed by Ballesteros
+and Weinstein (17) is used. In this numbering system, the most highly
+conserved residue in each transmembrane helix (TMH) is assigned a
+locant of 0.50. This number is preceded by the TMH number and
+followed in parentheses by the sequence number. All other residues in
+a TMH are numbered relative to this residue. In this numbering sys-
+tem, for example, the most highly conserved residue in TMH2 of the
+mouse CB1 receptor is D2.50(164). The residue that immediately pre-
+cedes it is A2.49(163). Fig. 1 serves as a reference for this numbering
+system in mouse CB1.
+Definition of Rotameric State of 1—Different nomenclatures have
+been used to define the rotameric state of side chain torsion angles. The
+nomenclature employed here for the 1 torsion angle is that described
+by Shi et al. (16). When the heavy atom at the  position is opposite to
+the backbone nitrogen when viewed from the -carbon to the -carbon,
+the 1 is defined to be trans. When the heavy atom at the  position is
+opposite to the backbone carbon when viewed from the -carbon to the
+-carbon, the 1 is defined to be gauche (g). When the heavy atom at
+the  position is opposite to the -hydrogen when viewed from the
+-carbon to the -carbon, the 1 is defined to be gauche (g). By using
+this nomenclature system, the side chain conformations discussed here
+are categorized into g (0°  1  120°), trans (120°  1  240°), or g
+(240°  1  360°).
+Conformational Memories Studies of TMH6 and the W6.48A Mutant
+TMH6—In order to explore the consequences of the W6.48A mutation
+upon the conformation of TMH6, we used the conformational memories
+(CM) method (18), a method that employs multiple Monte Carlo/simu-
+lated annealing random walks and the Amber* force field. Conforma-
+tional memories has been shown to converge in a very practical number
+of steps and to be capable of overcoming energy barriers efficiently. By
+using CM, the conformational properties of a helix can be fully charac-
+terized by the free energy of each of the conformations that the helix can
+adopt, and this property includes not only the intrinsic energy of each
+conformational state but also the probability that the helix will adopt
+each particular conformation relative to all other ones accessible in an
+equilibrated thermodynamic ensemble.
+The calculation is performed in two phases. In the first phase, re-
+peated runs of Monte Carlo/simulated annealing are carried out to map
+the entire conformational space of the helix. In the second phase, new
+Monte Carlo/simulated annealing runs are performed only in the pop-
+ulated regions identified in the first phase of the calculation.
+WT TMH6 Versus TMH6 W6.48A Mutant—The CB1 TMH6 (from
+residue 6.30 to residue 6.57, DIRLAKTLVLILVVLIICWGPLLAIMVY)
+and
+the
+TMH6
+W6.48A
+mutant
+(DIRLAKTLVLILVVLIICAGPL-
+LAIMVY) were built using MacroModel (19). In the Rho 2.8-Å crystal
+structure (3), 1 of W6.48 is g. In order to be consistent with this
+result, 1  g, 60° was chosen as the starting conformation for
+W6.48(357) in the WT TMH6 run. Our previous CM studies of TMH6
+have suggested that when C6.47(356) adopts a trans conformation (1 
+180°) and forms a hydrogen bond with the backbone of TMH6, TMH6
+exhibits its greatest flexibility. In the studies reported here, the 1 of
+C6.47(356) was set to trans. The s for all other amino acids in TMH6
+were left at the default values used by MacroModel when an -helix is
+built (19). The charges on all charged residues in each TMH6 studied
+were reduced to one-third of their values to prevent artifacts during the
+CM runs.
+All calculations were performed using a distance-dependent dielec-
+tric. Each TMH6 was first minimized using the Amber* forcefield in
+MacroModel (19). For WT CB1 TMH6 73 torsion angles were allowed to
+vary during the CM runs, whereas 71 torsion angles were allowed to
+vary in the CB1 TMH6 W6.48(357)A mutant run. These included all
+helix backbone s and s, as well as amino acid side chain torsion
+angles
+for
+L6.39(348)
+to
+I6.54(363)
+(excluding
+1
+dihedrals
+on
+-branched residues and 2 on C6.47(356) in this span). The backbone
+s and s for I6.46(355) through P6.50(359) (i.e. the turn before
+P6.50(359)) were allowed to vary 50° from their minimized values. All
+other backbone torsions were allowed to vary  10°. The 1 and 2 for
+W6.48(357) in WT TMH6 and the 1 for C6.47(356) (in both the WT and
+W6.48(357)A mutant runs) were allowed to vary 60°. The 2 for
+C6.47(356) was not allowed to vary in either run. All other side chain
+torsion angles were allowed to vary  180° without constraints. The
+calculation was performed in two phases as indicated below.
+Exploratory Phase—In the exploratory phase, a random walk was
+used to identify the region of conformational space that is populated for
+each torsion angle studied. Starting at a temperature of 2070 K, 20,000
+steps were applied to the rotatable bonds with cooling in 18 steps to a
+final temperature of 310 K. Trial conformations were generated at each
+temperature by randomly picking three torsion angles from the set of 73
+(71 in the W6.48A mutant) and changing each angle by a random value
+within the range set in the calculation (see above). After each step, the
+generated trial conformation was either accepted or rejected using the
+Metropolis criterion. This calculation was repeated for a total of 100
+cycles. Accepted conformations were used to map the conformational
+space of TMH6 by creating “memories” of values for each torsion angle
+that were accepted.
+Biased Annealing Phase—In the second phase of the CM calculation,
+the only torsion angle moves attempted were those that would keep the
+angle in the “populated conformational space” mapped in the explora-
+tory phase. The biased annealing phase began at a temperature of 722
+K cooling to 310 K in 8 steps. 100 structures were written out at 310 K.
+Analysis of Output—Finally, the output of 100 structures at 310 K
+was clustered using X-Cluster in MacroModel (19). This program re-
+orders the structures according to their root mean square deviation and
+groups the structures into families of similar conformers. The resulting
+100 structures from CM were also analyzed using the program, ProKink
+(20). This program, which is embedded in the Simulaid Conversion
+program,2 was used to calculate the face shift, wobble, and bend angles
+of each helix. Statistically significant differences between the face shift,
+wobble, and bend angles of the R and R* CB1 WT versus W6.48A R and
+R* helix families were evaluated in the two-sample independent t test
+computed using OriginPro version 7 (Origin Lab Corp.).
+Models of CB1 R and R* States—In the present study, the literature
+on GPCR activation discussed above was used to generate an R* CB1
+TMH bundle from a model of the inactive (R) CB1 receptor based on the
+2.8-Å crystal structure of rhodopsin (3). The creation of these two forms
+of CB1 is described briefly below.
+Model of Inactive State (R) Form of CB1—A model of the R form of
+CB1 was created using the 2.8-Å crystal structure of bovine Rho (3).
+First, the sequence of the mouse CB1 receptor (22) (see Fig. 1) was
+aligned with the sequence of bovine Rho using the same highly con-
+served residues as alignment guides that were used initially to generate
+our first model of CB1 (23). TMH5 in CB1 lacks the highly conserved
+proline in TMH5 of Rho. Therefore, the sequence of CB1 in the TMH5
+region was aligned with that of Rho as described previously using its
+hydrophobicity profile (23). The mouse CB1 sequence (22) is 97.7%
+identical to the human CB1 sequence (2) overall and 100% identical
+within the transmembrane regions. The mouse sequence is one residue
+longer (473 residues) than the human sequence (472 residues) due to an
+additional residue in the N terminus.
+Initial helix ends for mouse CB1 were chosen in analogy with those of
+Rho (3). With the exception of TMH1, these helix ends were found to be
+within one turn of the helix ends originally calculated by us and re-
+ported in 1995 (23). Two changes dictated by the CB1 sequence were
+made in the helix ends. The shortness of the E1 loop region in CB1
+necessitated starting TMH3 at 3.23 (N3.23(188) to R3.56(221)). The
+break in helicity caused by the GWNC sequence motif on the extracel-
+lular end of TMH4 necessitated that TMH4 end at 4.62 instead of 4.66
+(as is found in Rho). Changes to the general Rho structure that were
+necessitated by sequence divergences included the absence of helix-
+kinking proline residues in TMH1 and TMH5, the lack of a GG motif in
+TMH2, as well as the presence of extra flexibility in TMH6 (24). Our
+recent conformational memories study of TMH6 in CB1 revealed that
+TMH6 in CB1 has high flexibility due to the small size of residue 6.49 (a
+glycine) immediately preceding Pro 6.50. The conformer selected from
+our CM results for inclusion in the CB1 R bundle (Pro kink angle 
+53.1o) was chosen so that R3.50(215) and D6.30(339) could form a salt
+bridge at the intracellular ends of TMH3 and -6 in the CB1 TMH
+bundle. An analogous salt bridge has been shown to be an important
+stabilizer of the inactive state of the 2-adrenergic receptor, the 5HT-2a
+receptor (10), and to be present in Rho (3). Because of the extreme
+flexibility of TMH6 in CB1, we have proposed that an additional
+TMH3–6 salt bridge, K3.28(193)–D6.58(367), stabilizes the inactive
+state on the extracellular side of the TMH bundle (25).
+Model of Active (R*) Form of CB1—Based upon experimental results
+for rhodopsin and the 2-adrenergic receptor (6, 10, 15, 26), the R*
+(active) CB1 bundle was created from the inactive (R) model of CB1 by
+substituting a less kinked TMH6 (21.8o kink angle) from our CM results
+(25)for which the R3.50(215) and D6.30(339) salt bridge would be bro-
+ken due to the movement of the intracellular end of TMH6 away from
+2 M. Mezei, personal communication.
+Toggle Switch Activation of CB1 Receptor
+48026
+that of TMH3 and out into lipid (10). Rotations of both TMH3 and
+TMH6 were also central to the creation of the R* model. The details of
+these rotations are presented elsewhere (24).
+Preparation of Helices—Each helix of the model was capped as the
+acetamide at its N terminus and as the N-methyl amide at its C
+terminus. Ionizable residues in the first turn of either end of the helix
+were neutralized, as were any lipid facing charged residues. Ionizable
+residues were considered charged if they appeared anywhere else in the
+helix.
+Energy Minimization, Unoccupied Receptor States—The energy of
+the CB1 R or CB1 R* TMH bundle complex was minimized using the
+AMBER* united atom force field in Macromodel 6.5 (Schro¨dinger Inc.,
+Portland, OR). A distance-dependent dielectric, 8.0-Å extended non-
+bonded cut-off (updated every 10 steps), 20.0-Å electrostatic cut-off,
+4.0-Å hydrogen bond cut-off, and explicit hydrogens on sp2 carbons
+were used. The first stage of the calculation consisted of 2000 steps of
+Polak-Ribier conjugate gradient (CG) minimization in which a force
+constant of 225 kJ/mol was used on the helix backbone atoms in order
+to hold the TMH backbones fixed, while permitting the side chains to
+relax. The second stage of the calculation consisted of 100 steps of CG
+in which the force constant on the helix backbone atoms was reduced
+to 50 kJ/mol in order to allow the helix backbones to adjust. Stages
+one and two were repeated with the number of CG steps in stage two
+incremented from 100 to 500 steps until a gradient of 0.001 kJ/
+(molÅ2) was reached. This same protocol was followed for the
+W6.48(357)A TMH bundle.
+Assessment of Aromatic Stacking Interactions—Residues were desig-
+nated here as participating in an aromatic stacking interaction if sub-
+ject rings had centroid to centroid distances (d) between 4.5 and 7.0Å.
+These interactions were further classified as “tilted t” arrangements if
+30°    90° and as parallel arrangements for   30° (where  is the
+angle between normal vectors of interacting rings) (27). Parallel ar-
+rangements were considered favorable only if the interacting rings were
+offset from each other (28). All measurements were made using
+MacroModel 8.1.
+Assessment of Cation- Interactions—In their study of cation- in-
+teractions in the protein data bank, Gallivan and Dougherty (29) con-
+sidered a cation- interaction to be present in structures when both r 
+10 Å and r  10 Å, where r is the distance between the ammonium
+nitrogen (NZ) of the protonated residue and the aromatic ring centroid,
+and r is the distance between CE of the protonated residue (in the case
+here, a Lys) and the aromatic ring centroid (29). However, these inves-
+tigators reported that in 88% of the cation- interactions considered,
+r  5 Å and r  5 Å. A cation- interaction was judged to be present in
+the work presented here if r  5 Å and r  5 Å. The r and r distances
+were measured here using MacroModel 8.1.
+Ligand Conformations and Docking Positions—The binding site con-
+formations and anchoring interactions inside the receptor used for each
+ligand discussed here are based on our recently published work (1).
+Mutation Studies
+Materials—SR141716A and CP55,940 were obtained from the Na-
+tional Institute on Drug Abuse. WIN 55,212-2 was purchased from RBI
+(Natick, MA), and anandamide was purchased from Tocris (Ellisville, MI).
+Mutagenesis, Cell Culture, and Radioligand Binding—The cell lines
+used in this study have been described previously (1). Site-directed
+mutations were introduced into mouse CB1 in pcDNA3 at the desig-
+nated sites using the QuikChange mutagenesis technique (Stratagene,
+La Jolla, CA). Stable cell lines were created by transfection of wild type
+or mutant CB1pcDNA3 into HEK 293 cells by the LipofectAMINE
+reagent (Invitrogen) and cultured as described previously (30). Cell
+lines containing moderate to high levels of receptor mRNA, assessed by
+Northern analysis, were tested for receptor binding and signal trans-
+duction properties. Receptor binding was determined as described
+previously (1). Cell lines with the most similar receptor expression
+profile, as ascertained by Bmax values, were chosen for further analysis
+(Table I).
+[35S]GTPS Binding Assay—The basal activity and the ability of
+various cannabinoids to stimulate the wild type CB1 receptor or the
+mutant receptors were tested with [35S]GTPS binding. Cells were har-
+vested in phosphate-buffered saline containing 1 mM EDTA and centri-
+fuged at 500  g for 5 min. The cell pellet was homogenized and centri-
+fuged at 50,000  g for 10 min at 4 °C. The pellet was resuspended in
+buffer composed of (mM): Tris-HCl 50, EDTA 1, and MgCl2 3, pH 7.4, to
+yield protein concentration of 2–4 mg/ml. Membrane preparations were
+aliquoted and stored at 80 °C. Binding was initiated by the addition of
+20 	g of membrane protein into glass tubes containing 0.1 nM [35S]GTPS,
+10 	M GDP in GTPS binding buffer (50 mM Tris-HCl, 100 mM NaCl, 3
+mM MgCl2, 0.2 mM EGTA, 0.1% bovine serum albumin, pH 7.4). Nonspe-
+cific binding was assessed in the presence of 20 	M unlabeled GTPS.
+Binding assays were performed for 90 min at 30 °C with various concen-
+trations of WIN 55212-2, CP55,940, anandamide, and SR141716A in a
+total volume of 500 	l. Free and bound radioligands were separated by a
+rapid filtration through Whatman GF/C filters. Filters were shaken for
+1 h in 6 ml of scintillation fluid (Fisher), and radioactivity was determined
+by a liquid scintillation counter.
+Expression in Oocytes and Recordings—This technique was per-
+formed as described previously (31). Briefly, 0.013 pg of GIRK1 and
+GIRK4 and 25 ng of CB1 (wild type or mutant) cRNAs were co-injected
+using a micromanipulator (Drummond Scientific Co., Broomall, PA)
+into Xenopus laevis oocytes (Xenopus One, Dexter, MI). Recordings were
+performed after 7–9 days of incubation in 0.5 L-15 media (Sigma)
+supplemented with L-glutamine and antibiotics. For recordings, the
+eggs were placed in a chamber (total volume 200 ml) and perfused at 4
+ml/min with LK (2 mM KCl, 96 mM NaCl, 2 mM CaCl2, 1.8 mM MgCl2,
+and 5 mM HEPES, pH 7.5), HK (96 mM KCl, 2 mM NaCl, 2 mM CaCl2,
+1.8 mM MgCl2, and 5 mM HEPES, pH 7.5), or HK plus drug. Bovine
+serum albumin (3 	M) was added to all drug solutions to minimize
+absorption of cannabinoid compounds to the perfusion system. Oocytes
+were impaled with two microelectrodes filled with 3 M KCl and were
+voltage-clamped at reported voltages using an Axon GeneClamp ampli-
+fier (Axon Instruments, Foster City, CA). Currents were filtered at 10
+Hz, collected, and analyzed using a Macintosh Centris 650 containing a
+16-bit analog-digital interface board and voltage-clamp software run-
+ning under the IGOR graphics environment (Wavemetrics, Lake
+Oswego, OR). Oocytes were voltage clamped at 80 mV and super-
+fused in a low potassium (LK) solution containing 96 mM Na and 2
+mM K. When a high potassium (HK) solution containing 96 mM K
+and 2 mM Na was exchanged for LK, an inward current was pro-
+duced and termed IHK. IHK represents the basal activity of GIRK1/4
+channels. This current reached a plateau with 30 s (31). At this
+point application of the cannabinoid agonists (WIN 55,212-2 or anan-
+damide) in HK further enhanced the inward current. This agonist-
+induced current was named IAg. Concentration-response curves were
+generated by nonlinear regression of log percent concentration en-
+hancement data (IAg/IHK  100) with the use of the GraphPad Prism
+program (GraphPad, San Diego, CA).
+Statistical Analyses—The EC50 and Emax values were calculated by
+unweighted least squares nonlinear regression of log concentration values
+versus percent effect. Significant differences were determined (GraphPad
+Prism) using analysis of variance or the unpaired Student’s t test, where
+TABLE I
+Binding profile of wild type and mutant cell lines used in this study
+The Kd and Bmax values were obtained from saturation experiments using 	3H
+CP55,940 performed on membranes prepared from wild type and
+mutant HEK cell lines as described previously (1). Inhibition constants (Ki) values were obtained from competitive binding experiments using the
+listed ligands versus 	3H
+CP55,940 (1). Data are the means and corresponding 95% confidence limits of three independent experiments each
+performed in triplicate.
+Cell line
+CP55,940, Kd (nM)/Bmax
+WIN 55,212-2, Ki (nM)
+Anandamide, Ki (	M)
+SR141716A, Ki (nM)
+pmol/mg
+CB1
+1.5 (0.53–2.4)/4.4 (3.5–5.3)
+12 (7.0–20)
+0.3 (0.1–0.6)
+4.8 (2.2–10)
+F3.25(190)A
+5.5 (0.3–10)/3.2 (1.9–4.5)
+15 (3.7–49)
+1.8a (0.6–5.6)
+9.6 (4.6–20)
+F3.36(201)A
+2.3 (0.6–4.1)/5.2 (3.6–6.9)
+107a (44–261)
+0.3 (0.1–1.1)
+14a (7.3–29)
+W5.43(280)A
+5.4 (1.2–9.5)/1.9a (1.1–2.6)
+199a (43–914)
+0.3 (0.2–0.7)
+46%a displacement at 5 	M
+W6.48(357)A
+3.2 (2.0–4.4)/4.4 (3.8–5.2)
+45a (22–92)
+0.3 (0.1–0.5)
+33a (23–45)
+a Values indicate statistically significant differences from wild type (p  0.05).
+Toggle Switch Activation of CB1 Receptor
+48027
+suitable. Bonferroni-Dunn post-hoc analyses were conducted when appro-
+priate. p values 0.05 defined statistical significance.
+RESULTS
+The TMH3-4-5-6 Aromatic Microdomain at the CB1
+Receptor; Comparison of R and R* State Models in the
+Absence of Ligand
+CB1 R State—Fig. 2A illustrates key features of the CB1
+TMH bundle model in the inactive (R) state in the TMH3-4-5-6
+region. One of the significant features of this model is a salt
+bridge between K3.28(193) and D6.58(367) (N-O distance  2.6
+Å; N-H-O angle  159°) (51). This salt bridge is made possible
+by the profound flexibility in TMH6 due to the presence of
+G6.49 in the CWXP motif of TMH6 (25). The TMH3-4-5-6
+region of the R bundle in the absence of ligand is characterized
+by a W6.48(357)/F3.36(201)/W5.43(280)/Y5.39(276)/W4.64(256)
+aromatic cluster in which W6.48(357) stacks with F3.36(201)
+(d  5.3 Å,   90°), whereas F3.36(201) stacks with
+W5.43(280) (d  5.6 Å,   40°). W5.43(280) also has an off-set
+parallel stack with Y5.39(276) (d  5.9 Å,   0°), whereas
+Y5.39(276) stacks with W4.64(256) (d  6.5 Å,   90°) (see
+“Experimental Procedures” for definitions of d and ).
+Residue 3.25 (190) does not stack with the other aromatic
+residues in the TMH3-4-5-6 region but still appears to be an
+important residue. In the R bundle, F3.25(190) is located di-
+rectly extracellular to K3.28 and is close enough to K3.28 to be
+able to form a cation- interaction with K3.28 (193) (NZ-cen-
+troid distance, r  3.1 Å, CE-centroid distance, r  4.9 Å; see
+“Experimental Procedures” for definitions of distances). In the
+R state, the 1 for K3.28 (193) and for F3.25(190) is trans.
+CB1 R* State—Fig. 2B illustrates key features of the CB1
+TMH bundle model in the active (R*) state in the TMH3-4-5-6
+region. The conformational changes that occur upon receptor
+activation result in rotations of TMH3 and -6 as well as a
+change in the conformation of TMH6 (by moderation of its
+proline kink angle) (6–8, 10). In our models, both W6.48(357)
+and F3.36(201) undergo a change in their 1 values from R to
+R*. 1 in W6.48(357) changes from g to trans and 1 of
+F3.36(201) changes from trans to g (see “Experimental Pro-
+cedures” for definition of 1). In the R* TMH bundle, the
+K3.28(193) and D6.58(367) salt bridge is broken (N-O dis-
+tance  16.8 Å) because TMH3 and -6 rotate (counterclockwise
+from extracellular view) during the R to R* transition (i.e.
+activation)
+(26,
+32).
+K3.28(193)
+has
+rotated
+away
+from
+D6.58(367) toward TMH2/TMH7, and D6.58(367) has rotated
+toward the TMH5–6 interface and is raised higher above the
+ligand-binding pocket due to the moderation of the TMH6
+proline kink angle. The W6.48(357)/F3.36(201)/W5.43(280)/
+Y5.39(276)/W4.64(256) aromatic cluster present in the inac-
+tive state in the absence of ligand also undergoes re-
+arrangement, with F3.36(201) no longer part of this cluster.
+In the TMH3-4-5-6 region of R* in the absence of ligand,
+W6.48(357) and W5.43(280) form an off-set parallel aromatic
+stacking interaction with each other (d  4.9 Å,   30°).
+W5.43(280) also stacks with Y5.39 (d  6.6 Å,   60°),
+whereasY5.39 stacks with W4.64 (d  5.7 Å,   90°). This
+series of aromatic stacking interactions results in a large
+aromatic stack in R* comprised of W6.48(357)/W5.43(280)/
+Y5.39(276)/W4.64(256). F3.36(201) (1  g) is not located
+near another TMH3-4-5-6 aromatic residue in the R* bundle,
+instead F3.36(201) is bounded by V3.40(205), V3.32(197), and
+L6.44(353).
+As stated above, in the R* state, the rotation of TMH3 upon
+activation causes K3.28(193) to point toward TMH2/TMH7,
+and because F3.25(190) is one turn above K3.28(193), it also
+now faces the TMH2/TMH7 region. The 1 for both K3.28(193)
+and F3.25(190) is g in the R* bundle.
+Ligand Binding
+We have recently published mutation and modeling studies
+of the CB1 TMH3-4-5-6 aromatic microdomain in which bind-
+ing sites for the inverse agonist SR141716A and the CB1 ago-
+nists WIN 55212-2 and anandamide were identified (1).
+Functional Analysis of Mutant Receptors
+We have shown previously that the aromatic residues
+F3.36(201), W5.43(280), and W6.48(357) form specific interac-
+tion sites in CB1 for aminoalkylindole agonist (WIN 55,212-2)
+and diaryl pyrazole inverse agonist/antagonist (SR141716A)
+ligands but not for endogenous (anandamide) and bicyclic can-
+nabinoid (CP55,940) agonists (1). When the aromatic residues
+were individually mutated to alanine, a significant reduction in
+ligand binding affinity was only observed in the presence of
+WIN 55,212-2 and SR141716A but not CP55,940 and anand-
+amide. The study presented here is a detailed functional anal-
+ysis of these mutant receptors using two different cellular
+backgrounds. The mutants were studied in stable cell lines
+created in HEK cells or in oocytes where the mutant proteins
+were expressed transiently. The mutations were analyzed in
+two ways. Direct receptor-G protein stimulation in HEK cells
+was assessed using [35S]GTPS binding, and G protein stimu-
+lation downstream of the receptor was evaluated by measuring
+enhancement of GIRK channel activity in oocytes.
+F3.36A(201)—The F3.36A(201) mutation produced a signifi-
+cant reduction in agonist-dependent activation produced by
+WIN 55,212-2 (Fig. 3, A and B, and Tables II and III). This
+could be observed at the level of direct receptor-G protein
+stimulation (GTPS), and this outcome was even more pro-
+found downstream at GIRK1/4 channels. The affinity of WIN
+55,212-2 at F3.36A(201) was reduced 8.9-fold in HEK cells,
+whereas the affinity of CP55,940 and anandamide was unaf-
+fected (1). Even the addition of high concentrations of WIN
+55,212-2 could not produce substantial receptor activation sug-
+gesting the loss of affinity for the ligand, produced by the
+mutation, was not solely responsible for decreased activation.
+To strengthen this conclusion further, CP55,940 and anandam-
+ide were also tested because the mutation to alanine at
+F3.36(201) had no effect on the affinity of these ligands for the
+receptor (Table I). Full receptor activation could also not be
+produced with CP55,940 (see Fig. 3D and Table II) or with
+anandamide (see Fig. 3C and Table III).
+We next examined whether observed reductions in function
+were the result of a constitutively activated receptor. The CB1
+receptor has been shown to have a high level of agonist-inde-
+pendent activation (i.e. constitutive activity) in transfected cell
+lines where the reporter system is a G protein-activated ion
+channel or an intracellular kinase (33, 34). The ability of CB1 to
+activate G proteins in the absence of exogenously applied ago-
+nist has also been shown for native CB1 receptors in human
+and rat brain (35, 36). Kearn and co-workers (37) have esti-
+mated that in WT CB1, the receptor populations are 70% inac-
+tive state (R) and 30% active state (R*).
+Agonist-independent activation of GPCRs can be assessed by
+measuring basal turnover of [35S]GTPS in transfected cells
+and by comparing the IHK of GIRK1/4 in injected oocytes (38,
+39). Consistent with previous findings (39), we found a 56%
+increase (WT CB1  1055  58 dpm, untransfected  675* 
+73 dpm) in agonist-independent activation of [35S]GTPS in
+HEK cells expressing WT CB1 compared with untransfected
+cells (Fig. 7 and Table IV). When the agonist-independent
+GTPS activity of F3.36A(201) was compared with WT CB1, a
+73% increase (F3.36(201)A  1825  138 dpm, WT CB1 
+1055  58 dpm) was observed with the mutant (Fig. 7 and
+Table IV). A 62% increase was also observed when IHK or basal
+Toggle Switch Activation of CB1 Receptor
+48028
+activity of GIRK1/4 was evaluated between F3.36A(201) and
+WT CB1 (Fig. 8 and Table IV). Although the amount of receptor
+expressed in oocytes used for the GIRK assay cannot be deter-
+mined, the Bmax values for the WT and F3.36(201)A cell lines
+used for the GTPS assay were not statistically different from
+one
+another
+(WT
+CB1
+Bmax
+
+4.4
+(3.5–5.3)
+pmol/mg;
+F3.36(201)A-Bmax  5.2 (3.6–6.9) pmol/mg; Table I). Thus, the
+73% increase (relative to WT) in the level of GTPS binding
+seen in the HEK cells stably transfected with F3.36(201)A
+cannot be attributed to an overexpression of mutant receptor
+protein (Table I). These combined data strongly suggested the
+F3.36A(201) mutant receptor had even greater constitutive
+activity than WT CB1. To further support this hypothesis, the
+properties of the mutant receptor were evaluated using the
+CB1-selective inverse agonist SR141716A. An inverse agonist
+should reduce the basal activity of the constitutively activated
+mutant receptor because the inverse agonist will force the
+receptor to adopt an inactive conformation; this was the case
+(Figs. 3E and 7). Furthermore, compared with WT CB1 the
+inverse agonist response of SR141716A at F3.36A(201) was
+significantly increased (Fig. 3E). No inverse agonism was pro-
+duced at WT CB1 except at the highest (5 	M) concentration
+(17  2%, n  3) (Fig. 3E). However, inhibition of GTPS
+binding occurred with F3.36(201)A in the presence of nanomo-
+lar concentrations of SR141716A with EC50 and Emax values of
+0.6 (0.1–3.2) nM and 24 (30 to 18) %, respectively.
+Modeling studies also suggest that the F3.36(201)A mutant
+should be constitutively active, if it is assumed that changes in
+FIG. 3. Comparison of WT CB1 (f) and F3.36(201)A (Œ) receptor activation. WIN 55,212-2 (A), CP55,940 (D), and SR141716A (E) were
+used for concentration-response analysis of [35S]GTPS binding in HEK cell membranes expressing wild type or mutant receptor protein. ●
+represents the WT CB1 response to SR141716A. Each data point shown is the mean  S.E. of at least three independent experiments performed
+in triplicate. WIN 55,212-2 (B) and anandamide (C) were also used for concentration-response analysis in oocytes co-expressing GIRK1/4 and CB1
+(WT or mutant) cRNAs. The amount of RNA injected and the recording protocol are described under the “Experimental Procedures.” Each data
+point in the concentration-response curve is the mean  S.E. of 4–15 determinations made from at least two batches of oocytes.
+TABLE II
+Cannabinoid agonist stimulation of 	35S
+GTPS from membranes prepared from wild type and mutant cell lines
+Data shown are the means  S.E. of at least three experiments performed in triplicate.
+Agonist
+Cell line
+EC50
+Emax
+nM
+%
+WIN 55,212-2
+CB1
+5.3 (2.8–10)
+76 (69–82)
+F3.25(190)A
+33a (21–53)
+74 (68–80)
+F3.36(201)A
+9.3 (3.2–26)
+45a (41–51)
+W5.43(280)A
+1,300a (309–5,521)
+81 (40–121)
+W6.48(357)A
+61a (40–94)
+147a (133–162)
+CP55,940
+CB1
+0.5 (0.2–1.5)
+38 (32–43)
+F3.36(201)A
+0.3 (0.1–0.6)
+24a (21–26)
+W5.43(280)A
+33a (5.9–85)
+53 (34–71)
+W6.48(357)A
+1.3 (0.8–2.2)
+100a (94–107)
+a Values indicate statistically significant differences from wild type (p  0.05).
+Toggle Switch Activation of CB1 Receptor
+48029
+the TMH3-4-5-6 aromatic cluster influence the state preference
+for the receptor. The loss of aromaticity at 3.36 (i.e. in the
+F3.36(201)A
+mutation)
+would
+result
+in
+the
+inability
+of
+W6.48(357) to participate in the extended aromatic cluster to
+which it belongs in WT CB1. Specifically, this mutation would
+reduce the aromatic cluster present in the R state of WT CB1
+from W6.48(357)/F3.36(201)W5.43(280)/Y5.39(276)/W4.64(256)
+to W5.43(280)/Y5.39(276)/W4.64(256) (Fig. 2A). However, the
+F3.36(201)A mutation would not have an effect on the R* state,
+as F3.36(201) is not part of the aromatic cluster in the R* state
+of CB1 (Fig. 2B). Thus, the W6.48(357)/W5.43(280)/Y5.39(276)/
+W4.64(256) cluster present in the R* state would be unchanged
+by the F3.36(201)A mutation. The net result of the F3.36(201)A
+mutation, therefore, should be a de-stabilization of the inactive
+state of CB1, leading to increased constitutive activity.
+W5.43(280)A—The EC50 values reported in Tables II and III
+show that the potency of WIN 55,212-2 at the W5.43(280)A
+mutant was reduced 245- and 16.8-fold when this receptor was
+studied by using GTPS binding or by measuring enhancement
+of GIRK channel activity, respectively (Fig. 4, A and B and
+Tables II and III).
+The full effect of WIN 55,212-2, however, at the W5.43(280)A
+mutant receptor could be achieved at higher concentrations.
+The substantial reductions in potency, in two cell systems, may
+be due in part to the decreased affinity of WIN 55,212-2 at
+W5.43(280)A. The affinity of WIN 55,212-2 at W5.43(280)A was
+reduced 16.8-fold in HEK cells, whereas the affinity of
+CP55,940 and anandamide was unaffected (Table I) (1). Be-
+cause the affinities of CP55,940 and anandamide were unaf-
+fected at this mutation, the functional responses produced by
+these ligands were tested at W5.43(280)A to determine
+whether the effects observed in the presence of WIN 55,212-2
+were primarily a result of a reduction in affinity at the mutant
+receptor. As shown in Fig. 4, C and D, there was a substantial
+reduction in the potency of both anandamide and CP55,940 at
+W5.43(280)A. It is clear in Table I, however, that the Bmax of
+the W5.43(280)A mutant was statistically lower than that of
+WT CB1. Lower receptor expression levels can produce a right-
+ward shift in plots of response versus log[ligand] compared with
+a system in which a greater amount of receptor protein is
+expressed, despite the fact that the ligand has equal affinity in
+both systems. Thus, the reduced expression level of the
+W5.43(280)A mutant compared with WT CB1 may explain the
+rightward shifts in Fig. 4, C and D, seen for anandamide and
+CP55940 (40). There were no significant changes in agonist-
+independent activation of W5.43(280)A in either cell system
+tested (Figs. 7 and 8 and Table IV).
+W6.48A(357)—The EC50 values reported in Tables II and III
+show that the potency of WIN 55,212-2 at the W6.48(357)A
+mutant was reduced 12- and 1.8-fold when this receptor was
+studied using GTPS binding or by measuring enhancement of
+GIRK channel activity, respectively (Fig. 5, A and B, and Ta-
+bles II and III). However, the loss of potency observed with
+GIRK channel activity was not significant. The effects on po-
+tency may be due to the decreased affinity of WIN 55,212-2 at
+W6.48(357)A. The affinity of WIN 55,212-2 at W6.48(357)A was
+reduced 3.8-fold in HEK cells, whereas the affinity of CP55,940
+and anandamide was unaffected (Table I) (1). Because the
+affinity of CP55,940 and anandamide was unaffected at this
+mutation, the functional responses produced by these ligands
+were tested at W6.48A(357). As shown in Fig. 5, C and D, and
+Tables II and III, there was no significant reduction in the
+potency of either CP55,940 or anandamide at W6.48A(357).
+These data suggest the loss in potency observed for WIN
+55,212-2 stimulation of GTPS binding at W6.48(357)A was the
+result of the selective loss of affinity for WIN 55,212-2 at this
+mutant receptor. It should be noted that a comparison of the
+shifts in potency for WIN 55,212-2 at both W6.48(357)A and
+W5.43(280)A demonstrate the GTPS assay is more sensitive
+to this observable effect compared with studying GIRK channel
+activity (Figs. 4, A and B and Fig. 5, A and B, and Tables II and
+III).
+Most interestingly, the maximum stimulation of GTPS ac-
+tivity produced by WIN 55,212-2 at W6.48(357)A was signifi-
+TABLE IV
+Agonist-independent activation (or basal activity) of WT CB1 and
+mutant receptors assessed by measuring basal turnover of [35S]GTPS
+binding or the IHK of GIRK1/4
+(SR) indicates reduction of basal 	35S
+GTPS binding in the presence
+of 1 	M SR141716A. 	35S
+GTPS binding data shown are the mean 
+S.E. of at least three experiments performed in triplicate. To determine
+basal potassium channel activity or IHK, a large number of oocytes (n 
+20–46) were analyzed for each condition from at least two batches of
+oocytes.
+Measure
+Cell line
+dpm
+Basal 	35S
+GTPS
+WT CB1
+1055  58
+Untransfected HEK
+675a  73
+F3.25(190)A
+1114  55
+F3.36(201)A
+1825a  138
+F3.36(201)A (SR)
+1042  69
+W5.43(280)A
+891  45
+W6.48(357)A
+1263  12
+Cell line
+IHK
+	A
+IHK of GIRK1/4
+WT CB1
+0.74  0.12
+F3.25(190)A
+0.87  0.12
+F3.36(201)A
+1.2a  0.09
+W5.43(280)A
+0.92  0.14
+W6.48(357)A
+0.79  0.09
+a Values indicate statistically significant differences from wild type
+(p  0.05).
+TABLE III
+Cannabinoid agonist stimulation of GIRK1/4 currents in oocytes expressing wild type and mutant CB1 proteins
+The amount of RNA injected and the recording protocol are described under “Experimental Procedures.” Each data point in the concentration-
+response curve is the mean  S.E. of 4–15 determinations made from at least two batches of oocytes.
+Agonist
+Cell line
+EC50 ()
+Emax
+nM
+%
+WIN 55,212-2
+WT CB1
+13 (4–47)
+127 (106–148)
+F3.25(190)A
+25 (11–61)
+116 (101–132)
+F3.36(201)A
+24a (8) at 1 	M
+W5.43(280)A
+218a (66–723)
+129 (93–165)
+W6.48(357)A
+23 (12–44)
+121 (104–137)
+Anandamide
+WT CB1
+3 (2–5)
+93 (90–115)
+F3.25(190)A
+47a (30–75)
+59a (41–76)
+F3.36(201)A
+8a (0.5) at 1 	M
+W5.43(280)A
+13a (6–36)
+58a (48–73)
+W6.48(357)A
+5 (2–16)
+114 (101–127)
+a Values indicate statistically significant differences from wild type (p  0.05).
+Toggle Switch Activation of CB1 Receptor
+48030
+cantly enhanced compared with WT CB1 (Fig. 5A and Table II).
+To determine whether this effect was specific for aminoalky-
+lindoles, the bicyclic cannabinoid CP55,940 was also tested at
+W6.48(357)A. As observed with WIN 55,212-2, CP55,940 also
+produced
+enhanced
+stimulation
+of
+GTPS
+activity
+at
+W6.48(357)A compared with WT CB1 (Fig. 5D). The enhanced
+activity of WIN 55,212-2 at W6.48(357)A was not observed
+when GIRK channel activity was measured (Fig. 5B).
+There were no significant changes in agonist-independent
+activation of W6.48(357)A in either cell system tested (Figs. 7
+and 8 and Table IV). Consistent with unchanged constitutive
+activity, the response to the inverse agonist at W6.48(357)A
+was not different from the response of WT CB1 to the inverse
+agonist (Fig. 5E). Modeling studies also suggest that the
+W6.48(357)A mutant should not be constitutively active, if it is
+assumed that changes in the TMH3-4-5-6 aromatic cluster
+influence the state preference for the receptor. The W6.48A
+mutation will affect the TMH3-4-5-6 aromatic cluster in both
+the R and R* states. In the R state, the W6.48A mutation will
+result in the loss of one aromatic stacking interaction, i.e. the
+W6.48(357)/F3.36(201)/W5.43(280)/Y5.39(276)/W4.64(256)
+cluster in R will become a F3.36(201)/W5.43(280)/Y5.39(276)/
+W4.64(256) cluster in the mutant. In the R* state, the
+W6.48(357)/W5.43(280)/Y5.39(276)/W4.64(256) cluster present
+in the R* state will become a W5.43(280)/Y5.39(276)/
+W4.64(256) cluster in the mutant. Because aromatic stacking
+in both the R and R* states will be equally impacted, it is
+reasonable to expect that the W6.48A mutant will not produce
+a change in basal levels for the W6.48A mutant relative to WT
+CB1, and this is what was seen experimentally.
+F3.25(190)A—We previously reported that F3.25(190) is not
+part of the binding site of WIN 55,212-2, SR141716A, or
+CP55,940 but is a part of the anandamide-binding pocket (1).
+When F3.25(190) was mutated to an alanine, a 6-fold reduction
+in binding affinity was observed in the presence of ananda-
+mide, but no changes were observed in the presence of WIN
+55,212-2, SR141716A, and CP55,940 (Table I). When GIRK
+channel activity was measured there was a significant reduc-
+tion in both the potency and efficacy of anandamide at
+F3.25(190)A but no change in the presence of WIN 55,212-2
+(Fig. 6, A and B, and Table III).
+This result correlates with the binding data and receptor
+modeling. The effect seen with anandamide is likely to be
+related in part to the decreased affinity of anandamide for the
+F3.25(190)A mutant, as F3.25(190) is part of the anandamide-
+binding site (1). Anandamide stimulation of GTPS turnover,
+in HEK cells transfected with F3.25(190)A, could not be meas-
+ured because the partial agonist nature of the endogenous
+ligand results in a nonsignificant amount of GTPS stimula-
+tion (41). Therefore, the findings with anandamide and the
+GIRK channel activity could not be compared with GTPS
+stimulation because anandamide did not produce a significant
+functional response in HEK cells. There was a 6.2-fold decrease
+FIG. 4. Comparison of WT (f) CB1 and W5.43(280)A (Œ) receptor activation. WIN 55,212-2 (A) and CP55,940 (D) were used for
+concentration-response analysis of [35S]GTPS binding in HEK cell membranes expressing wild type or mutant receptor protein. Each data point
+shown is the mean  S.E. of at least three independent experiments performed in triplicate. WIN 55,212-2 (B) and anandamide (C) were also used
+for concentration-response analysis in oocytes co-expressing GIRK1/4 and CB1 (WT or mutant) cRNAs. The amount of RNA injected and the
+recording protocol are described under the “Experimental Procedures.” Each data point in the concentration-response curve is the mean  S.E. of
+4–15 determinations made from at least two batches of oocytes.
+Toggle Switch Activation of CB1 Receptor
+48031
+in the potency of WIN 55,212-2 when receptor activation was
+assessed by measuring GTPS activity.
+These agonists do not exhibit affinity changes from WT in
+the F3.25(190)A mutant. However, the effects observed on po-
+tency and/or efficacy reported here for WIN 55212-2 at the
+F3.25(190)A mutant may be related to the general role
+F3.25(190) plays in positioning K3.28 in the TMH bundle. As is
+clear from Fig. 2, F3.25(190) is just above K3.28 in the inactive
+state of CB1 and has a cation- interaction (r  5 Å) with this
+residue. Gallivan and Dougherty (29) have reported that 14.5%
+of all cation- interactions found in the “Protein Data Bank
+Select” list of Sander and co-workers (42, 43) represent such
+Lys-Phe interactions. Our modeling studies suggest that these
+residues move in concert with each other, as they both have
+trans 1s in the R state and g 1s in the R* state. F3.25(190)
+may act as a chaperone of K3.28 to position it in the correct
+location in R* for ligand interaction and to shield it from the
+extracellular milieu in the R state. Because residue positions in
+TMH3 R* may be changed in the absence of aromaticity at
+position 3.25, it is possible that ligands that do not bind to
+F3.25(190) can have their potency and/or efficacy affected by
+the F3.25(190)A mutation.
+There were no significant changes in agonist-independent
+activation of F3.25(190)A in either cell system tested (Fig. 7
+and Fig. 8 and Table IV). F3.25(190) is not part of the TMH3-
+4-5-6 aromatic cluster that characterizes the R and R* states of
+CB1 (see Fig. 2). Therefore, the mutation of this aromatic
+residue to a nonaromatic residue would not be expected to
+affect basal levels.
+Toggle Switch Residues
+Fig. 9 illustrates the relationship between F3.36(201) and
+W6.48(357)in the R and R* states of CB1. In the context of the
+inactive state model (see Fig. 9, left), F3.36(201) (1  trans)
+is located opposite W6.48(357)(1  g) and has an aromatic
+stacking interaction with W6.48(357) that would prevent the 1
+of W6.48(357) from changing from g to trans, thus stabilizing
+TMH6 in its inactive conformation. In the active state of CB1,
+F3.36(201)
+and
+W6.48(357)
+change
+conformations
+(F3.36(201)(1  trans)/W6.48(357)(1  g) 3 F3.36(201)(1
+ g)/W6.48(1  trans)) in order to rotate past each other and
+F3.36(201) (1  g) and W6.48(357) (1  trans) are located
+too far apart in R* to interact with each other (see Fig. 9, right).
+Conformational
+Memories
+Study
+of
+WT
+TMH6
+Versus
+W6.48A TMH6—TMH6 in the class A GPCRs contains the
+highly conserved sequence motif, CWXP. This proline contain-
+ing region of TMH6 is thought to act as a flexible hinge during
+GPCR activation (44). Proline residues are known to perturb
+the structure of helices by introducing a kink between the
+segments preceding (pre-proline helix) and following the pro-
+line residue (post-proline helix). The distortion of the helical
+structure results from the avoided steric clash between the ring
+of the proline at position (i) and the backbone carbonyl at
+position (i  4), as well as the elimination of helix backbone
+FIG. 5. Comparison of WT (f) CB1 and (Œ) W6.48(357)A receptor activation. WIN 55,212-2 (A), CP55,940 (D), and SR141716A (E) were
+used for concentration-response analysis of [35S]GTPS binding in HEK cell membranes expressing wild type or mutant receptor protein. ●
+represents the WT CB1 response to SR141716A. Each data point shown is the mean  S.E. of at least three independent experiments performed
+in triplicate. WIN 55,212-2 (B) and anandamide (C) were used for concentration-response analysis in oocytes co-expressing GIRK1/4 and CB1 (WT
+or mutant) cRNAs. The amount of RNA injected and the recording protocol are described under the “Experimental Procedures.” Each data point
+in the concentration-response curve is the mean  S.E. of 4–15 determinations made from at least two batches of oocytes.
+Toggle Switch Activation of CB1 Receptor
+48032
+hydrogen bonds for the carbonyls at positions (i  3) and (i  4).
+Both the departure from the ideal helical pattern and the
+reduction in H-bond stabilization contribute to the observed
+flexibility of a proline-containing -helix. Table V lists the
+results of ProKink analyses of WT TMH6 CM output and the
+W6.48A TMH6 CM output. This analysis yields values not only
+FIG. 7. Agonist-independent activation of WT CB1 and mutant
+receptors
+was
+assessed
+by
+measuring
+basal
+turnover
+of
+[35S]GTPS binding. (SR) indicates reduction of basal [35S]GTPS
+binding in the presence of 1 	M SR141716A. Data shown are the
+mean  S.E. of at least three experiments performed in triplicate. The
+* indicates statistically significant differences from wild type (p  0.05).
+FIG. 8. Agonist-independent activity of GIRK1/4 channels was
+assessed by measuring IHK in oocytes expressing WT or mutant
+CB1 receptors. A large number of oocytes (n  20–46) were analyzed
+for each condition from at least two batches of oocytes. The amount of
+RNA injected and the recording protocol are described under the “Ex-
+perimental Procedures.” The * indicates statistically significant differ-
+ences from wild type (*, p  0.05, one-way analysis of variance).
+FIG. 6. Comparison of WT (f) CB1 and F3.25(190)A (Œ) receptor activation. Anandamide (A) and WIN 55,212-2 (B) were used for
+concentration-response analysis in oocytes co-expressing GIRK1/4 and CB1 (WT or mutant) cRNAs. The amount of RNA injected and the recording
+protocol are described under the “Experimental Procedures.” Each data point in the concentration-response curve is the mean  S.E. of 4–15
+determinations made from at least two batches of oocytes. C, WIN 55,212-2 was used for concentration-response analysis of [35S]GTPS binding
+in HEK cell membranes expressing wild type or mutant receptor protein. Each data point shown is the mean  S.E. of at least three independent
+experiments performed in triplicate.
+Toggle Switch Activation of CB1 Receptor
+48033
+for the bend angle of this proline-containing helix but also the
+wobble angles and face shifts for these helices. The bend angle
+is the angle between the two parts when the helix is kinked
+along its axis. The wobble angle is the angle that defines the
+orientation of the post-proline helix in three-dimensional
+space, with respect to the pre-proline helix. The face shift
+measures the distortion that causes a twisting of the helix
+“face” in such a way that amino acids that used to be on the
+same side (face) of the helix are shifted and are on different
+sides of the helix as a result of the bend (20).
+The results of conformational memories calculations on WT
+CB1 and the W6.48A mutant are summarized in Table V. In
+each case, X-cluster identified two major clusters of conform-
+ers. The first cluster contained TMH6s with large bend angles,
+whereas the second cluster contained TMH6s with straighter
+helices (i.e. smaller bend angles). Because TMH6 is more
+kinked in the inactive state (R) and straightens in the activated
+state (R*), these two clusters are labeled R and R* in Table V
+(12). The ProKink program (20) was used to analyze each helix
+within each cluster in terms of bend angle, wobble angle, and
+face shift and to compute averages and standard deviations for
+each cluster.
+For WT CB1, cluster 1 contained 40 members with an
+average proline bend (kink) angle of 75.9  1.0°, whereas
+cluster 2 contained 51 members with average bend angle of
+33.7  1.1°. The TMH6 used in our CB1 R model was selected
+from the more bent cluster, cluster 1, whereas the TMH6
+used in our CB1 R* model was selected from the straighter
+cluster, Cluster 2 (see “Experimental Procedures”). For the
+TMH6 W6.48A mutant, cluster 1 contained 19 members with
+an average proline bend (kink) angle of 74.0  1.0°, whereas
+cluster 2 contained 72 members with an average proline bend
+angle of 36.8  1.2°.
+At the 0.01 level, the difference of population means for the
+kink, wobble, and face shift angles for the W6.48A mutant
+reported in Table V were not significantly different from the
+corresponding measures in WT CB1, except for the R* wobble
+angle. Here the W6.48A R* wobble angle (105.6  3.4°) was
+found to be significantly different from the WT R* wobble angle
+(120.5  4.6°) at the 0.01 level. Fig. 10 illustrates the steric
+consequence of this 15° difference in wobble angle. In the R to
+R* transition, the salt bridge between R3.50 and D/E6.30 is
+thought to be broken via a conformational change in TMH6
+mediated by the flexible hinge region (CWXP motif) of TMH6.
+Fig. 10 shows that D6.30 in the W6.48A mutant is capable of
+pulling further away from the intracellular end of TMH3 and
+R3.50 than is D6.30 in WT TMH6.
+DISCUSSION
+Mutation of the toggle switch residues, F3.36(201) and
+W6.48(357), yielded perhaps the most interesting results of all
+aromatic microdomain mutations reported here. Mutation of
+F3.36(201) resulted in elevated basal signaling (increased con-
+stitutive activity) and reduced ligand efficacies. Mutation of
+W6.48(357) resulted in unaltered basal signaling but greatly
+enhanced ligand efficacies. These results are discussed below.
+F3.36(201)A Mutation—F3.36(201) is revealed here to be a
+key residue both for ligand binding and for CB1 activation. One
+of the significant results in the work reported here is that
+although WT CB1 and the F3.36(201)A mutant have statisti-
+cally equivalent protein expression levels in HEK293 cells (see
+Table I), an F3.36(201)A mutation results in a statistically
+significant higher level of ligand-independent activation of CB1
+(i.e. higher basal levels, increased constitutive activity) as as-
+sessed by [35S]GTPS binding. In addition to the demonstra-
+tion of elevated basal levels, another way to test for constitutive
+activity in a mutant receptor is to examine the effects on basal
+signaling produced by an inverse agonist. If the receptor is
+constitutively active, then the inverse agonist should be able to
+reduce basal levels (i.e. reduce [35S]GTPS binding). We have
+shown here by assessing basal turnover of [35S]GTPS binding,
+that the CB1 inverse agonist, SR141716A reduces basal signal-
+ing in the F3.36(201)A mutant, and this effect is statistically
+significant (p  0.05) (see Fig. 7 and Table IV). Another tradi-
+tional expectation of constitutively active receptors is that the
+affinities of agonists should increase, and the affinities of in-
+verse agonists should decrease due to the shift in the receptor
+population toward R*. The majority of GPCR mutations that
+have led to constitutive activity has been mutations in the
+intracellular half-of the TMH bundle, away from the ligand-
+binding pocket. Very typically, these have been mutations to
+TMH6 (45). However, the mutation that produced an increase
+in constitutive activity here, F3.36(201)A, involves a key resi-
+due in the ligand-binding pocket. For this reason, measured
+ligand affinities for agonists, for example, would be the result of
+two opposing factors as follows: an increase in affinity due to
+the higher percentage R* in the F3.36(201)A mutant, but a
+FIG. 9. The relationship between F3.36(201) and W6.48(357) in
+the inactive (R) and active (R*) states of CB1 as predicted by
+molecular modeling is illustrated here. The major view is from
+TMH5 looking toward TMHs3/6. Left, in the R state, W6.48(357) adopts
+a g 1, whereas F3.36(201) adopts a trans 1. In this arrangement,
+W6.48(357) and F3.36(201) are engaged in an aromatic stacking inter-
+action that stabilizes the R state. By analogy with Rho, the CB1-inactive
+state is also characterized by a salt bridge between R3.50(215) and
+D6.30(339) at the intracellular side of CB1 that keeps the intracellular
+ends of TMH3 and 6 close (3). The TMH6 kink extracellular to
+W6.48(357) permits a hypothesized salt bridge between K3.28(193) and
+D6.58 (367) to form (51). This salt bridge is made possible by the
+profound flexibility in TMH6 due to the presence of G6.49(358) in the
+CWXP motif of TMH6 (25). Right, in the R* state, W6.48(357) and
+F3.36(201) have moved apart due to rotation of TMH3 and -6 during
+activation. W6.48(357) has adopted a trans 1 and has moved toward
+the viewer and F3.36(201) has adopted a g 1 and has moved away
+from the viewer. The R3.50(215)/D6.30(339) salt bridge is broken, and
+the proline kink in TMH6 has moderated. Inset, this inset provides an
+extracellular view of CB1. Here it is clear that in R, F3.36(201) and
+W6.48(357) are engaged in an aromatic stacking interaction, but in R*,
+F3.36(201) and W6.48(357) are no longer close enough to interact.
+Toggle Switch Activation of CB1 Receptor
+48034
+decrease in affinity (some likely more than others depending on
+binding site) due to a change in the ligand-binding site inter-
+actions and/or in the binding pocket itself. For this reason, it is
+not appropriate to use a shift in ligand affinities as a test for
+constitutive activity here.
+The W6.48(357)/F3.36(201) Toggle Switch in WT CB1—In
+recently published Monte Carlo/stochastic dynamics calculations
+on the inactive state of CB1, we found that one of the most
+persistent aromatic stacking interactions in the inactive state of
+CB1 is the F3.36(201)/W6.48(357) interaction (46). Models of the
+CB1 inactive (R) and active (R*) TMH bundles illustrated here in
+Fig. 9 show that in the inactive state residues W6.48(357)(1 
+g) and F3.36(201) (1  trans) are engaged in a direct aromatic
+stacking interaction. In this interaction, F3.36(201) appears to
+serve the function of confining W6.48(357) to the g 1 rotamer
+state and restricting movement of W6.48. In Rho, the -ionone
+ring of 11-cis-retinal appears to serve the same function as
+F3.36(201) in CB1 (3, 14) (Fig. 11), i.e. it sterically confines
+W6.48(265) to the g 1 rotamer state and restricts the move-
+ment of W6.48. Khorana and co-workers (13) have recently re-
+ported one of the specific contacts that must break in Rho for
+activation involves W6.48(265).
+The conformational changes that occur upon receptor activa-
+tion result in rotations of TMH3 and -6, as well as a change in
+the conformation of TMH6 (by moderation of its proline kink
+angle) (6–8,12). In the light-activated state of Rho, the -io-
+none ring moves away from TMH F and toward TMH D where
+it resides close to A4.58(169) (14). This movement releases the
+constraint on W6.48, making it possible for W6.48(265) to un-
+dergo a conformational change. For the CB1 receptor, counter-
+clockwise (from the extracellular side) rotations of TMH3 and
+-6 concomitant with activation (26, 32) would move F3.36(201)
+and W6.48(357) past each other, with W6.48(357) moving to-
+ward the viewer in Fig. 11 and F3.36(201) moving away from
+the viewer (also see Fig. 9). Our modeling studies of the CB1
+TMH bundle suggest that these rotations cannot take place
+without a rotamer change for both W6.48(357) and F3.36(201)
+due to steric clashing. In our models, activation is accompanied
+by a 1 change in W6.48(357) from g 3 trans and a 1 change
+in F3.36(201) from trans 3 g (see above and Fig. 9). The
+W6.48(357)/F3.36(201) interaction may act as the toggle switch
+for CB1 activation, with W6.48(357) 1 g/F3.36(201) 1 trans
+representing the inactive and W6.48(357) 1 trans/F3.36(201)
+1 g representing the active state of CB1 (see Fig. 9). If this is
+true, then mutation of F3.36(201) to a smaller residue, a resi-
+due that is no longer a steric block to conformational change in
+W6.48, would be expected to increase ligand-independent acti-
+vation of CB1, and this is what is seen here experimentally.
+Whereas the F3.36(201)A mutation leads to a high degree of
+constitutive activity as is indicated in Fig. 7, this mutation also
+results in the reduced efficacy for WIN and CP. This reduction
+cannot be explained simply by reduced ligand affinity, as the
+affinity of CP is not affected by this mutation, but its efficacy is
+affected. It is possible that because the WT CB1 receptor itself
+exhibits a high level of constitutive activity (33–35) and be-
+cause the F3.36(201)A mutant exhibits an increase in consti-
+tutive
+activity
+relative
+to
+WT
+CB1,
+the
+population
+of
+F3.36(201)A mutant receptors is already shifted heavily to-
+ward R*. This should not interfere with agonist binding, as
+agonists have higher affinity for the R* state. However, this
+would leave fewer receptors for ligands to activate, resulting in
+a reduced Emax. This explanation is consistent with that of
+Milligan (45) in a recent review concerning constitutive activity
+of GPCRs. Milligan (45) noted that “a number of GPCRs do
+seem to have significant levels of constitutive activity when
+expressed in cell lines; in some cases, ligand-induced stimula-
+tion of activity is relatively small compared with the signal in
+the absence of ligand” (45). Alternatively, the profound effect
+on ligand-dependent activation seen here for the F3.36(201)A
+mutation may indicate that aromaticity at residue 3.36 is cen-
+TABLE V
+Results of conformational memories study of WT versus W6.48(357)A TMH6
+No. members
+Bend angle
+Wobble angle
+Face shift
+degrees  S.E.
+degrees  S.E.
+degrees  S.E.
+WT
+R CLS 1
+40
+75.9  1.0
+47.5  8.2
+60.3  4.1
+R* CLS 2
+51
+33.7  1.1
+120.5  4.6
+57.8  7.0
+W6.48(357)A
+R CLS 1
+19
+74.0  1.0
+39.6  1.8
+60.9  2.2
+R* CLS 2
+72
+36.8  1.2
+105.6b  3.4
+59.6  5.9
+a CLS, cluster.
+b Statistically significant difference from WT at the p  0.01 level.
+FIG. 10. A comparison of conformational memories results for
+WT CB1 TMH6 and the CB1 W6.48A TMH6 mutant. Left, here the
+WT CB1 TMH6 R* cluster in green (51 members, see Table V) is shown
+superimposed at their extracellular ends with the CB1 W6.48A TMH6
+mutant R* cluster in yellow (72 members, see Table V). Statistically,
+these two clusters differed only in their wobble angles (see Table V). The
+view is through the plane of the proline kink. Here it is clear that the
+wobble angle difference between the two groups results in a change in
+the three-dimensional placement of the intracellular ends of these two
+clusters. Right, a single helix from the WT R* cluster (bend angle 
+33.8° and wobble angle  120.9°) and a single helix from the W6.48A
+R* cluster (bend angle  35.5° and wobble angle  105.1°) are shown
+here superimposed at their extracellular ends and positioned inside the
+R* bundle. These helices have similar bend angles but differ by 15.8° in
+their wobbles angles. The receptor state symbolized in the figure is the
+activated (R*) state. The counterclockwise (from extracellular perspec-
+tive) rotations of TMH3 and -6 and the straightening of TMH6 upon
+activation result in the loss of the R3.50(215)/D6.30(339) salt bridge as
+R3.50(215) and D6.30(339) move away from each other, opening a space
+between TMH3 and -6 at their intracellular ends. It is clear here that
+the change in wobble angle between the WT TMH6 (green) and W6.48A
+mutant TMH6 (yellow) results in a greater displacement of D6.30(339)
+relative to R3.50(215) in the W6.48A mutant (yellow).
+Toggle Switch Activation of CB1 Receptor
+48035
+tral to the CB1 agonist-induced activation process and, conse-
+quently, that mutation to a nonaromatic residue impairs the
+function of this mutant CB1.
+W6.48(357)A Mutation—The W6.48(357)A mutation did not
+result in a statistically significant change in basal levels rela-
+tive to WT CB1 (see Fig. 7). Our CB1 modeling studies have
+shown that when W6.48(357) is mutated to alanine, helix pack-
+ing allows F3.36(201) to interact with both A6.48 and L6.51.
+This interaction would serve the same function as F3.36(201)
+serves in WT CB1, i.e. effectively helping to stabilize TMH6 in
+its inactive state conformation. Therefore, these results sug-
+gest that basal levels should not change between WT CB1 and
+the W6.48(357)A mutant. Looking at this from another per-
+spective, consideration of the changes in the aromatic microdo-
+main as a result of this mutation also suggests that aromatic
+stacking in both the R and R* states will be equally impacted
+by the W6.48(357)A mutation (see “Results”), it is reasonable
+then to expect that the W6.48(357)A mutant will not produce a
+change in basal levels relative to WT CB1, and this is what was
+seen experimentally.
+Although the W6.48(357)A mutation had no effect on basal
+levels, it had noticeable effects on ligand-induced activation,
+such that the efficacy of every ligand tested was enhanced. One
+of the steps that has been proposed to occur during GPCR
+activation is the breaking of an ionic lock (salt bridge) between
+R3.50 and E/D6.30 that constrains the intracellular ends of
+TMH3 and TMH6 to remain close in the inactive state (see Fig.
+9, left) (10). GPCR activation appears to open a cleft at the
+cytoplasmic face of a GPCR. Meng and Bourne (47) have de-
+scribed activation as a “blossoming open” of the receptor at its
+intracellular end. This opening permits G protein docking and
+interaction with the cytoplasmic domains of the receptor. In
+Rho, upon light activation, receptor residues in the IC-2 and
+IC-3 loops have been cross-linked with the C terminus of the
+G protein subunit and residues in the a4-b6 loop of G, indi-
+cating that these sites on the G subunit are receptor-binding
+sites (48). It is clear from the conformational memories results
+reported here in Table V that the accessible conformations of
+TMH6 are altered by the W6.48A mutation, with a 15° change
+in the wobble angle for the population of W6.48(357)A TMH6
+R*, compared with that of the R* WT CB1 TMH6 population. As
+illustrated in Fig. 10, this change leads to TMH6 conformations
+in which D6.30(339) in TMH6 is pulled further back from
+R3.50(215) in TMH3, resulting in a wider “blossomed” intra-
+cellular end of CB1 in the TMH6 W6.48(357)A mutant. Such a
+wider opening may permit better coupling between the G pro-
+tein and the W6.48(357)A mutant upon ligand activation, thus
+resulting in increased Emax values.
+This phenomenon of dramatic enhancement of Emax values
+upon mutation of residue W6.48(357) has been seen previously
+in the CCK-B gastrin receptor (49). Blaker and co-workers (49)
+found that whereas a W6.48(346)A mutation did not affect
+basal inositol phosphate production, this mutation affected the
+functional activity of PD-135,158 (from 20  1% for WT CCK-B
+to 43  5% in the W6.48(346)A mutant). An enhancement
+of Emax has also been seen previously for mutations at other
+loci. For example, in the 
+-opioid receptor, Befort and co-
+workers (50) found that a Y308F mutation in TMH7 resulted in
+a marked increase in the efficacy of the potent agonist
+BW373U86. Consistent with the interpretation of the CB1
+W6.48(357)A mutation discussed above, these authors (50) at-
+tributed this increase to a change in the receptor active state
+conformation, such that the receptor can interact with hetero-
+trimeric G proteins more effectively.
+Conclusions—Modeling, mutation, and functional studies
+undertaken to test the importance of the TMH3-4-5-6 aromatic
+microdomain in ligand recognition and in the conformational
+changes that accompany activation of CB1 suggest that a
+F3.36(201)/W6.48(357)-specific contact is an important
+constraint for the CB1-inactive state that may need to break
+during activation. Modeling studies suggest that the
+F3.36(201)/W6.48(357) contact can exist in the inactive state of
+CB1 and be broken in the activated state via a 1 rotamer
+switch (F3.36(201) trans, W6.48(357) g) 3 (F3.36(201) g,
+W6.48(357) trans). The F3.36(201)/W6.48(357) interaction,
+therefore, may represent a toggle switch for activation of CB1.
+REFERENCES
+1. McAllister, S. D., Rizvi, G., Anavi-Goffer, S., Hurst, D. P., Barnett-Norris, J.,
+Lynch, D. L., Reggio, P. H., and Abood, M. E. (2003) J. Med. Chem. 46,
+5139–5152
+2. Gerard, C. M., Mollereau, C., Vassart, G., and Parmentier, M. (1991) Biochem.
+J. 279, 129–134
+3. Palczewski, K., Kumasaka, T., Hori, T., Behnke, C. A., Motoshima, H., Fox,
+B. A., Le Trong, I., Teller, D. C., Okada, T., Stenkamp, R. E., Yamamoto, M.,
+and Miyano, M. (2000) Science 289, 739–745
+4. Okada, T., Fujiyoshi, Y., Silow, M., Navarro, J., Landau, E. M., and Shichida,
+Y. (2002) Proc. Natl. Acad. Sci. U. S. A. 99, 5982–5987
+5. Reggio, P. H., Basu-Dutt, S., Barnett-Norris, J., Castro, M. T., Hurst, D. P.,
+Seltzman, H. H., Roche, M. J., Gilliam, A. F., Thomas, B. F., Stevenson,
+L. A., Pertwee, R. G., and Abood, M. E. (1998) J. Med. Chem. 41, 5177–5187
+6. Farrens, D., Altenbach, C., Ynag, K., Hubbell, W., and Khorana, H. (1996)
+Science 274, 768–770
+7. Gether, U., Lin, S., Ghanouni, P., Ballesteros, J., Weinstein, H., and Kobilka,
+B. (1997) EMBO J. 16, 6737–6747
+8. Ghanouni, P., Steenhuis, J. J., Farrens, D. L., and Kobilka, B. K. (2001) Proc.
+Natl. Acad. Sci. U. S. A. 98, 5997–6002
+9. Ballesteros, J. A., Shi, L., and Javitch, J. A. (2001) Mol. Pharmacol. 60, 1–19
+10. Ballesteros, J., Jensen, A., Liapakis, G., Rasmussen, S., Shi, L., Gether, U.,
+and Javitch, J. (2001) J. Biol. Chem. 276, 29171–29177
+11. Visiers, I., Ebersole, B. J., Dracheva, S., Ballesteros, J., Sealfon, S. C., and
+Weinstein, H. (2002) Int. J. Quantum Chem. 88, 65–75
+12. Jensen, A. D., Guarnieri, F., Rasmussen, S. G., Asmar, F., Ballesteros, J. A.,
+and Gether, U. (2001) J. Biol. Chem. 276, 9279–9290
+13. Klein-Seetharaman, J., Yanamala, N. V., Javeed, F., Reeves, P. J., Getmanova,
+E. V., Loewen, M. C., Schwalbe, H., and Khorana, H. G. (2004) Proc. Natl.
+Acad. Sci. U. S. A. 101, 3409–3413
+14. Borhan, B., Souto, M. L., Imai, H., Shichida, Y., and Nakanishi, K. (2000)
+Science 288, 2209–2212
+15. Lin, S., and Sakmar, T. (1996) Biochemistry 35, 11149–11159
+16. Shi, L., Liapakis, G., Xu, R., Guarnieri, F., Ballesteros, J. A., and Javitch, J. A.
+(2002) J. Biol. Chem. 277, 40989–40996
+17. Ballesteros, J. A., and Weinstein, H. (1995) Methods Neurosci. 25, 366–428
+18. Guarnieri, F., and Weinstein, H. (1996) J. Am. Chem. Soc. 118, 5580–5589
+FIG. 11. Inactive state (R) three-dimensional representations
+of the similar orientations of 11-cis-retinal/W6.48(265) in Rho (3)
+and the F3.36(201)/W6.48(357) pair in CB1. The view is from TMH5
+looking toward TMH6. Activation will cause TMH6 to undergo a coun-
+terclockwise rotation (from extracellular view) (26). This will cause
+W6.48(357) to rotate toward the viewer. Left, the -ionone ring of
+11-cis-retinal constrains W6.48(265) in a g 1 in the dark (inactive)
+state of rhodopsin and opposes rotation of TMH6 (3). Right, F3.36(201)
+in a trans 1 constrains W6.48(357) in a g 1 in the CB1 inactive state
+model and opposes rotation of TMH6.
+Toggle Switch Activation of CB1 Receptor
+48036
+19. Mohamadi, F., Richards, N. G. J., Guida, W. C., Lizkamp, R., Lipton, M.,
+Caulfield, C., Chang, G., Hendickson, T., and Still, W. C. (1990) J. Comp.
+Chem. 11, 440–467
+20. Visiers, I., Braunheim, B. B., and Weinstein, H. (2000) Protein Eng. 13,
+603–606
+21. Deleted in proof
+22. Abood, M. E. (1997) Biochem. Pharmacol. 53, 207–214
+23. Bramblett, R. D., Panu, A. M., Ballesteros, J. A., and Reggio, P. H. (1995) Life
+Sci. 56, 1971–1982
+24. Barnett-Norris, J., Hurst, D. P., Lynch, D. L., Guarnieri, F., Makriyannis, A.,
+and Reggio, P. H. (2002) J. Med. Chem. 45, 3649–3659
+25. Barnett-Norris, J., Hurst, D. P., Buehner, K., Ballesteros, J. A., Guarnieri, F.,
+and Reggio, P. H. (2002) Int. J. Quantum Chem. 88, 76–86
+26. Javitch, J. A., Fu, D., Liapakis, G., and Chen, J. (1997) J. Biol. Chem. 272,
+18546–18549
+27. Burley, S. K., and Petsko, G. A. (1985) Science 229, 23–28
+28. Hunter, C. A., Singh, J., and Thornton, J. M. (1991) J. Mol. Biol. 218, 837–846
+29. Gallivan, J. P., and Dougherty, D. A. (1999) Proc. Natl. Acad. Sci. U. S. A. 96,
+9459–9464
+30. Tao, Q., McAllister, S. D., Andreassi, J., Nowell, K. W., Cabral, G. A., Hurst,
+D. P., Bachtel, K., Ekman, M. C., Reggio, P. H., and Abood, M. E. (1999)
+Mol. Pharmacol. 55, 605–613
+31. McAllister, S., Griffin, G., Satin, L., and Abood, M. (1999) J. Pharmacol. Exp.
+Ther. 291, 618–626
+32. Hulme, E. C., Lu, Z. L., Ward, S. D., Allman, K., and Curtis, C. A. (1999) Eur.
+J. Pharmacol. 375, 247–260
+33. Bouaboula, M., Perrachon, S., Milligan, L., Canat, X., Rinaldi-Carmona, M.,
+Portier, M., Barth, F., Calandra, B., Pecceu, F., Lupker, J., Maffrand, J.-P.,
+LeFur, G., and Casellas, P. (1997) J. Biol. Chem. 272, 22330–22339
+34. Pan, X., Ikeda, S., and Lewis, D. (1998) Mol. Pharmacol. 54, 1064–1072
+35. Meschler, J. P., Kraichely, D. M., Wilken, G. H., and Howlett, A. C. (2000)
+Biochem. Pharmacol. 60, 1315–1323
+36. Mato, S., Pazos, A., and Valdizan, E. M. (2002) Eur. J. Pharmacol. 443, 43–46
+37. Kearn, C., Greenberg, M., DiCamelli, R., Kurzawa, K., and Hillard, C. (1999)
+J. Neurochem. 72, 2379–2387
+38. Chan, K. W., Langan, M. N., Sui, J. L., Kozak, J. A., Pabon, A., Ladias, J. A.,
+and Logothetis, D. E. (1996) J. Gen. Physiol. 107, 381–397
+39. MacLennan, S., Reynen, P., Kwan, J., and Bonhaus, D. (1998) Br. J. Pharma-
+col. 124, 619–622
+40. Kenakin, T. (1997) Pharmacologic Analysis of Drug-Receptor Interaction, 3rd
+Ed., Lippincott-Raven, Philadelphia
+41. Griffin, G. R., Atkinson, P. J., Showalter, V. M., Martin, B. R., and Abood,
+M. E. (1998) J. Pharmacol. Exp. Ther. 285, 553–560
+42. Hobohm, U., Scharf, M., Schneider, R., and Sander, C. (1992) Protein Sci. 1,
+409–417
+43. Hobohm, U., and Sander, C. (1994) Protein Sci. 3, 522–524
+44. Sansom, M. S., and Weinstein, H. (2000) Trends Pharmacol. Sci. 21, 445–451
+45. Milligan, G. (2003) Mol. Pharmacol. 64, 1271–1276
+46. McAllister, S. D., Tao, Q., Barnett-Norris, J., Buehner, K., Hurst, D. P.,
+Guarnieri, F., Reggio, P. H., Nowell Harmon, K. W., Cabral, G. A., and
+Abood, M. E. (2002) Biochem. Pharmacol. 63, 2121–2136
+47. Meng, E. C., and Bourne, H. R. (2001) Trends Pharmacol. Sci. 22, 587–593
+48. Hamm, H. E. (2001) Proc. Natl. Acad. Sci. U. S. A. 98, 4819–4821
+49. Blaker, M., Ren, Y., Seshadri, L., McBride, E. W., Beinborn, M., and Kopin,
+A. S. (2000) Mol. Pharmacol. 58, 399–406
+50. Befort, K., Zilliox, C., Filliol, D., Yue, S., and Kieffer, B. L. (1999) J. Biol. Chem.
+274, 18574–18581
+51. Hurst, D. P., Lynch, D. L., Barnett-Norris, J., Hyatt, S. M., Seltzman, H. H.,
+Zhong, M., Song, Z. H., Nie, J., Lewis, D., and Reggio, P. H. (2002) Mol.
+Pharmacol. 62, 1274–1287
+Toggle Switch Activation of CB1 Receptor
+48037
