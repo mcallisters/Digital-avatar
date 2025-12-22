@@ -19,7 +19,7 @@ app = FastAPI(title="Sean's Digital Twin API")
 # CORS configuration for Vercel frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://digital-avatar.onrender.com"],  # Update with your Vercel domain in production
+    allow_origins=["http://localhost:3000", "https://digital-avatar-one.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
