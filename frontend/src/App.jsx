@@ -14,7 +14,7 @@ function App() {
 
   const sampleQuestions = [
     "What's your experience with machine learning?",
-    "Tell me about your glioblastoma research",
+    "Tell me about your cancer research",
     "What projects have you worked on?",
     "What are your technical skills?",
     "What publications have you authored?",
