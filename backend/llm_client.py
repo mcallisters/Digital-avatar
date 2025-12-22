@@ -91,4 +91,4 @@ def get_moderation(text: str) -> dict:
     except Exception as e:
         print(f"Error calling moderation API: {e}")
         # Fail open - don't block on moderation API errors
-        return {"flagged": False, "categories": {}, "category_scores": {}}
+        return {"flagged": False, "categories": {}, "category_scores": {}}# Force rebuild
