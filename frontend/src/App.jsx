@@ -7,9 +7,20 @@ function App() {
   const [sessionId, setSessionId] = useState(null);
   const [loading, setLoading] = useState(false);
   const [showInfo, setShowInfo] = useState(false);
+  const [showSamples, setShowSamples] = useState(false);
   const messagesEndRef = useRef(null);
 
   const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+
+  const sampleQuestions = [
+    "What's your experience with machine learning?",
+    "Tell me about your glioblastoma research",
+    "What projects have you worked on?",
+    "What are your technical skills?",
+    "What publications have you authored?",
+    "Can we schedule a meeting?",
+    "What do you do for fun?"
+  ];
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -18,6 +29,11 @@ function App() {
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
+
+  const handleSampleClick = (question) => {
+    setInput(question);
+    setShowSamples(false);
+  };
 
   const sendMessage = async () => {
     if (!input.trim() || loading) return;
@@ -88,12 +104,26 @@ function App() {
         {/* Header */}
         <div className="header">
           <h1>Hi, I am Sean's Digital Avatar, how can I help you today?</h1>
-          <button 
-            className="info-button"
-            onClick={() => setShowInfo(!showInfo)}
-          >
-            <span className="info-icon">ⓘ</span> What can you do?
-          </button>
+          <div className="header-buttons">
+            <button 
+              className="info-button"
+              onClick={() => {
+                setShowInfo(!showInfo);
+                setShowSamples(false);
+              }}
+            >
+              <span className="info-icon">ⓘ</span> What can you do?
+            </button>
+            <button 
+              className="info-button"
+              onClick={() => {
+                setShowSamples(!showSamples);
+                setShowInfo(false);
+              }}
+            >
+              <span className="info-icon">💡</span> Sample Questions
+            </button>
+          </div>
         </div>
 
         {/* Info Panel */}
@@ -107,6 +137,24 @@ function App() {
               <li><strong>Calendar:</strong> Scheduling meetings and checking availability</li>
               <li><strong>Hobbies:</strong> Sean's interests outside of professional work</li>
             </ul>
+          </div>
+        )}
+
+        {/* Sample Questions Panel */}
+        {showSamples && (
+          <div className="info-panel">
+            <h3>Try asking:</h3>
+            <div className="sample-questions">
+              {sampleQuestions.map((question, index) => (
+                <button
+                  key={index}
+                  className="sample-question-btn"
+                  onClick={() => handleSampleClick(question)}
+                >
+                  {question}
+                </button>
+              ))}
+            </div>
           </div>
         )}
 

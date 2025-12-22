@@ -47,6 +47,12 @@ body {
   line-height: 1.4;
 }
 
+.header-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
 .info-button {
   display: flex;
   align-items: center;
@@ -97,6 +103,32 @@ body {
 .info-panel strong {
   color: #1a1a1a;
 }
+
+/* Sample Questions */
+.sample-questions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.sample-question-btn {
+  background-color: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 12px 16px;
+  text-align: left;
+  color: #1a1a1a;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sample-question-btn:hover {
+  background-color: #f5f5f5;
+  border-color: #1a1a1a;
+  transform: translateX(4px);
+}
+
 
 /* Messages */
 .messages {
