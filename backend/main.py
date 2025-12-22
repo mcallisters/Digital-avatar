@@ -101,6 +101,41 @@ def route_to_agent(category: str, user_message: str, conversation_history: list)
     """
     Routes the classified query to the appropriate specialized agent
     """
+    # Handle greetings before classification
+    greetings = ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "howdy", "yo"]
+    message_lower = user_message.lower().strip()
+    
+    # Check if message is just a greeting (with or without punctuation)
+    clean_message = message_lower.rstrip('!.,?')
+    if clean_message in greetings:
+        return "Hi! I'm Sean's digital twin. I can help you with questions about my work experience, projects, publications, calendar availability, or hobbies. What would you like to know?"
+    
+    # Handle follow-up responses (yes, tell me more, etc.)
+    follow_ups = ["yes", "yeah", "yep", "sure", "ok", "okay", "tell me more", "more details", 
+                  "continue", "go on", "please do", "i'd like to know more", "sounds good"]
+    
+    if clean_message in follow_ups and conversation_history:
+        # Look at last assistant message to determine context
+        for msg in reversed(conversation_history):
+            if msg.get("role") == "assistant":
+                content = msg.get("content", "").lower()
+                # Check which topic was being discussed
+                if "publication" in content or "paper" in content or "research" in content:
+                    category = "publications"
+                    break
+                elif "project" in content or "github" in content or "application" in content:
+                    category = "projects"
+                    break
+                elif "work" in content or "experience" in content or "company" in content:
+                    category = "general"
+                    break
+                elif "meeting" in content or "calendar" in content or "schedule" in content:
+                    category = "calendar"
+                    break
+                elif "hobby" in content or "hobbies" in content or "fun" in content:
+                    category = "hobbies"
+                    break
+    
     agent_map = {
         "general": general_agent,
         "projects": projects_agent,
@@ -110,7 +145,7 @@ def route_to_agent(category: str, user_message: str, conversation_history: list)
     }
     
     if category == "else":
-        return "I appreciate your question, but that's outside my scope. Do you have additional questions about Sean's work experience, projects, publications, calendar availability, and hobbies."
+        return "I appreciate your question, but that's outside my scope. I'm here to discuss Sean's work experience, projects, publications, calendar availability, and hobbies. Feel free to ask me about any of those topics!"
     
     agent_function = agent_map.get(category)
     if not agent_function:
