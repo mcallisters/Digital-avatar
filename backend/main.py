@@ -1,3 +1,4 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -13,8 +14,28 @@ from agents import (
     calendar_agent,
     hobbies_agent
 )
+from src.vector_store import init_vector_store
 
-app = FastAPI(title="Sean's Digital Twin API")
+
+# ── Startup / shutdown ────────────────────────────────────────────────────────
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Initialize the vector store once at startup."""
+    print("[startup] Initializing publications vector store...")
+    try:
+        init_vector_store()
+        print("[startup] Vector store ready.")
+    except Exception as e:
+        print(f"[startup] WARNING: Vector store failed to initialize: {e}")
+        print("[startup] Publications agent will fall back to publications.json")
+    yield
+    # (shutdown logic goes here if needed)
+
+
+# ── App ───────────────────────────────────────────────────────────────────────
+
+app = FastAPI(title="Sean's Digital Twin API", lifespan=lifespan)
 
 # CORS configuration for Vercel frontend
 app.add_middleware(
@@ -28,18 +49,22 @@ app.add_middleware(
 # In-memory conversation storage (use Redis/DB for production)
 conversations = {}
 
+
 class QueryRequest(BaseModel):
     message: str
     session_id: Optional[str] = None
+
 
 class QueryResponse(BaseModel):
     response: str
     session_id: str
     category: Optional[str] = None
 
+
 @app.get("/")
 async def root():
     return {"message": "Sean's Digital Twin API is running"}
+
 
 @app.post("/chat", response_model=QueryResponse)
 async def chat(request: QueryRequest):
@@ -49,11 +74,11 @@ async def chat(request: QueryRequest):
     try:
         # Generate or retrieve session ID
         session_id = request.session_id or str(uuid.uuid4())
-        
+
         # Initialize conversation history if new session
         if session_id not in conversations:
             conversations[session_id] = []
-        
+
         # Step 1: Guardrails check
         guardrails_result = check_guardrails(request.message)
         if not guardrails_result["passed"]:
@@ -63,17 +88,17 @@ async def chat(request: QueryRequest):
                 session_id=session_id,
                 category="blocked"
             )
-        
+
         # Step 2: Classify the query
         category = classify_query(request.message)
-        
+
         # Step 3: Route to appropriate agent
         agent_response = route_to_agent(
             category=category,
             user_message=request.message,
             conversation_history=conversations[session_id]
         )
-        
+
         # Step 4: Update conversation history
         conversations[session_id].append({
             "role": "user",
@@ -83,43 +108,45 @@ async def chat(request: QueryRequest):
             "role": "assistant",
             "content": agent_response
         })
-        
+
         # Limit conversation history to last 10 messages (5 turns)
         if len(conversations[session_id]) > 10:
             conversations[session_id] = conversations[session_id][-10:]
-        
+
         return QueryResponse(
             response=agent_response,
             session_id=session_id,
             category=category
         )
-        
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error processing request: {str(e)}")
+
 
 def route_to_agent(category: str, user_message: str, conversation_history: list) -> str:
     """
     Routes the classified query to the appropriate specialized agent
     """
     # Handle greetings before classification
-    greetings = ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening", "howdy", "yo"]
+    greetings = ["hi", "hello", "hey", "greetings", "good morning", "good afternoon",
+                 "good evening", "howdy", "yo"]
     message_lower = user_message.lower().strip()
-    
-    # Check if message is just a greeting (with or without punctuation)
     clean_message = message_lower.rstrip('!.,?')
+
     if clean_message in greetings:
-        return "Hi! I'm Sean's digital twin. I can help you with questions about my work experience, projects, publications, calendar availability, or hobbies. What would you like to know?"
-    
-    # Handle follow-up responses (yes, tell me more, etc.)
-    follow_ups = ["yes", "yeah", "yep", "sure", "ok", "okay", "tell me more", "more details", 
-                  "continue", "go on", "please do", "i'd like to know more", "sounds good"]
-    
+        return ("Hi! I'm Sean's digital twin. I can help you with questions about "
+                "my work experience, projects, publications, calendar availability, "
+                "or hobbies. What would you like to know?")
+
+    # Handle follow-up responses
+    follow_ups = ["yes", "yeah", "yep", "sure", "ok", "okay", "tell me more",
+                  "more details", "continue", "go on", "please do",
+                  "i'd like to know more", "sounds good"]
+
     if clean_message in follow_ups and conversation_history:
-        # Look at last assistant message to determine context
         for msg in reversed(conversation_history):
             if msg.get("role") == "assistant":
                 content = msg.get("content", "").lower()
-                # Check which topic was being discussed
                 if "publication" in content or "paper" in content or "research" in content:
                     category = "publications"
                     break
@@ -135,37 +162,40 @@ def route_to_agent(category: str, user_message: str, conversation_history: list)
                 elif "hobby" in content or "hobbies" in content or "fun" in content:
                     category = "hobbies"
                     break
-    
+
     agent_map = {
-        "general": general_agent,
-        "projects": projects_agent,
+        "general":      general_agent,
+        "projects":     projects_agent,
         "publications": publications_agent,
-        "calendar": calendar_agent,
-        "hobbies": hobbies_agent
+        "calendar":     calendar_agent,
+        "hobbies":      hobbies_agent,
     }
-    
+
     if category == "else":
-        return "I appreciate your question, but that's outside my scope. I'm here to discuss Sean's work experience, projects, publications, calendar availability, and hobbies. Feel free to ask me about any of those topics!"
-    
+        return ("I appreciate your question, but that's outside my scope. I'm here "
+                "to discuss Sean's work experience, projects, publications, calendar "
+                "availability, and hobbies. Feel free to ask me about any of those topics!")
+
     agent_function = agent_map.get(category)
     if not agent_function:
         return "I'm not sure how to help with that. Could you rephrase your question?"
-    
+
     return agent_function(user_message, conversation_history)
+
 
 @app.delete("/session/{session_id}")
 async def clear_session(session_id: str):
-    """
-    Clear a conversation session
-    """
+    """Clear a conversation session"""
     if session_id in conversations:
         del conversations[session_id]
         return {"message": "Session cleared successfully"}
     return {"message": "Session not found"}
 
+
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
 
 if __name__ == "__main__":
     import uvicorn
