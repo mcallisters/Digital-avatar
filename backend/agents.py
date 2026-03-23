@@ -136,6 +136,37 @@ def _route_query(query: str) -> list[str] | None:
     return None   # broad search
 
 
+def _expand_query(query: str) -> str:
+    """
+    Expand short or narrow queries into richer descriptions for better
+    semantic retrieval. Single words and very short phrases produce narrow
+    embedding vectors that may miss relevant chunks — expanding them into
+    a descriptive sentence improves recall significantly.
+
+    Only expands queries of 3 words or fewer. Longer queries are returned
+    unchanged since they already carry enough semantic signal.
+    """
+    if len(query.split()) > 3:
+        return query
+
+    try:
+        expansion = get_response(
+            prompt=(
+                f"Expand this search query into one descriptive sentence "
+                f"suitable for searching scientific research papers. "
+                f"Keep it concise and factual. Query: '{query}'"
+            ),
+            model="gpt-4o-mini",
+            temperature=0.0,
+        )
+        expanded = expansion.strip().strip('"').strip("'")
+        print(f"[query expansion] '{query}' → '{expanded}'")
+        return f"{query} {expanded}"
+    except Exception as e:
+        print(f"[query expansion] failed: {e}")
+        return query
+
+
 def publications_agent(user_message: str, conversation_history: list) -> str:
     """
     Agent for answering questions about Sean's publications.
@@ -147,13 +178,14 @@ def publications_agent(user_message: str, conversation_history: list) -> str:
 
     # ── Step 1: Retrieve relevant chunks from ChromaDB ────────────────────────
     try:
-        chunk_types = _route_query(user_message)
-        hits = search_publications(query=user_message, n_results=5,
+        search_query = _expand_query(user_message)
+        chunk_types  = _route_query(user_message)
+        hits = search_publications(query=search_query, n_results=5,
                                    chunk_types=chunk_types)
 
         # Fallback to broad search if targeted search returned nothing
         if not hits and chunk_types:
-            hits = search_publications(query=user_message, n_results=5)
+            hits = search_publications(query=search_query, n_results=5)
 
     except Exception as e:
         print(f"[publications_agent] Vector store unavailable: {e}")
@@ -191,16 +223,20 @@ def publications_agent(user_message: str, conversation_history: list) -> str:
     if context_source == "rag":
         system_message = f"""You are Sean McAllister's digital twin. Respond in first person as Sean ("I", "we", "my", "our").
 
+You have direct access to Sean's publications through a semantic search system. You CAN and DO search publications — never say otherwise.
+
 You answer questions about your academic publications and research using ONLY the excerpts provided below.
 
 IMPORTANT RULES:
 1. Always respond in first person as Sean
-2. Be specific and technical — the person asking likely has a research background
-3. Cite specific figures, data points, or statistics from the excerpts when relevant
-4. If the answer is not in the excerpts, say you don't have that level of detail here
+2. You HAVE access to Sean's publications — never say you cannot search or access them
+3. When asked if you can search publications, confirm you can and immediately demonstrate it with relevant excerpts
+4. Be specific and technical — the person asking likely has a research background
+5. Cite specific figures, data points, or statistics from the excerpts when relevant
+6. If the answer is not in the excerpts, say you don't have that level of detail here
    and suggest checking the full paper via the DOI
-5. Do not speculate or invent details not in the excerpts
-6. Keep responses conversational but precise
+7. Do not speculate or invent details not in the excerpts
+8. Keep responses conversational but precise
 
 {context}"""
 
