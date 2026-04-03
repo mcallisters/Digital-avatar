@@ -2,7 +2,7 @@ from llm_client import get_response
 import json
 import re
 from pathlib import Path
-from src.vector_store import search_publications
+from src.vector_store import search_publications, get_all_publications
 
 # Path to data directory
 DATA_DIR = Path(__file__).parent / "data"
@@ -96,7 +96,7 @@ CONTEXT ABOUT SEAN'S PROJECTS:
     return response
 
 
-# ── Query intent detector ─────────────────────────────────────────────────────
+# ── Query intent detectors ────────────────────────────────────────────────────
 
 _METHODS_RE = re.compile(
     r"\b(method|protocol|procedure|how\s+(did|was|were)|technique|assay|"
@@ -117,6 +117,15 @@ _RESULTS_RE = re.compile(
 _OVERVIEW_RE = re.compile(
     r"\b(about|summary|overview|abstract|background|hypothesis|goal|aim|"
     r"purpose|what\s+is|describe\s+the|tell\s+me\s+about|focus\s+of)\b",
+    re.IGNORECASE,
+)
+
+# Detect listing intent — return full catalogue rather than semantic search
+_LIST_RE = re.compile(
+    r"\b(list|all|every|complete|full list|how many|count|show me all|"
+    r"what have you published|all your papers|all publications|"
+    r"all your publications|what papers|what are your publications|"
+    r"publications do you have|papers do you have)\b",
     re.IGNORECASE,
 )
 
@@ -175,6 +184,30 @@ def publications_agent(user_message: str, conversation_history: list) -> str:
     and injects them into the prompt. Falls back to publications.json
     summary if the vector store is unavailable.
     """
+
+    # ── Listing intent: return full catalogue from ChromaDB ──────────────────
+    if _LIST_RE.search(user_message):
+        all_pubs = get_all_publications()
+        if all_pubs:
+            lines = [f"Here are all {len(all_pubs)} of my publications, listed by year:\n"]
+            for p in all_pubs:
+                lines.append(
+                    f"- **\"{p['title']}\"** ({p['year']}) — DOI: {p['doi']}"
+                )
+            listing_context = "\n".join(lines)
+            system_message = f"""You are Sean McAllister's digital twin. Respond in first person as Sean ("I", "my").
+You are listing all of Sean's publications from the vector store.
+Present the list clearly and offer to provide details on any specific paper.
+IMPORTANT: Always respond in first person as Sean. Never refer to Sean in third person.
+
+{listing_context}"""
+            return get_response(
+                prompt=user_message,
+                model="gpt-4o-mini",
+                system_message=system_message,
+                conversation_history=conversation_history,
+                temperature=0.1,
+            )
 
     # ── Step 1: Retrieve relevant chunks from ChromaDB ────────────────────────
     try:
@@ -259,7 +292,7 @@ IMPORTANT RULES:
         model="gpt-4o-mini",
         system_message=system_message,
         conversation_history=conversation_history,
-        temperature=0.3,   # lower = more faithful to retrieved facts
+        temperature=0.3,
     )
 
     return response

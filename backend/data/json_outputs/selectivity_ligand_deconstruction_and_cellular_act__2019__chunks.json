@@ -120,11 +120,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 2:\n\nA) This panel shows a ribbon structure model of the acetylated lysine binding site within the bromodomain of BPTF. The fluorine atom is highlighted in cyan, and N2881, a crucial residue for binding, is emphasized.",
-    "word_count": 37,
-    "figure_id": "figure_2",
-    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_2.png",
-    "caption": "Figure 2:\n\nA) This panel shows a ribbon structure model of the acetylated lysine binding site within the bromodomain of BPTF. The fluorine atom is highlighted in cyan, and N2881, a crucial residue for binding, is emphasized.",
+    "content": "Figure 1: Left) structure of racemic AU1 (rac-1). Right) Ribbon diagrams from the crystal structures of the bromodomain of BPTF (gray) overlaid with the bromodomain of SFW BPTF (blue) with the fluorine of W2824 labeled in green. Bottom) Domain scheme for BPTF with PHD and bromodomain (BRD) labeled.\n\nThe figure has three parts:",
+    "word_count": 53,
+    "figure_id": "figure_1",
+    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_1.png",
+    "caption": "Figure 1: Left) structure of racemic AU1 (rac-1). Right) Ribbon diagrams from the crystal structures of the bromodomain of BPTF (gray) overlaid with the bromodomain of SFW BPTF (blue) with the fluorine of W2824 labeled in green. Bottom) Domain scheme for BPTF with PHD and bromodomain (BRD) labeled.\n\nThe figure has three parts:",
     "confidence": "figure"
   },
   {
@@ -136,11 +136,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 4: Sample titration data of 9, a broadening and shifting of the 5FW BPTF resonance is observed. Full titration can be found in the Supporting Information.\n\nThe figure includes two main components. The top panel is a series of stacked ¹⁹F NMR spectra showing a shift and broadening in response to increasing concentrations of Compound 9 (from 0 to 250 μM). The x-axis shows chemical shift in ppm, while no y-axis is labeled, which typically indicates relative intensity. The broadening and shifting indicate an interaction between the ligand and BPTF.",
-    "word_count": 91,
-    "figure_id": "figure_4",
-    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_4.png",
-    "caption": "Figure 4: Sample titration data of 9, a broadening and shifting of the 5FW BPTF resonance is observed. Full titration can be found in the Supporting Information.\n\nThe figure includes two main components. The top panel is a series of stacked ¹⁹F NMR spectra showing a shift and broadening in response to increasing concentrations of Compound 9 (from 0 to 250 μM). The x-axis shows chemical shift in ppm, while no y-axis is labeled, which typically indicates relative intensity. The broadening and shifting indicate an interaction between the ligand and BPTF.",
+    "content": "Figure 2:\n\n- Panel A is a ribbon structure image showing the acetylated lysine binding site of the bromodomain of BPTF. The labeled residues are N2881 and W2824, with the fluorine atom indicated in cyan.",
+    "word_count": 35,
+    "figure_id": "figure_2",
+    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_2.png",
+    "caption": "Figure 2:\n\n- Panel A is a ribbon structure image showing the acetylated lysine binding site of the bromodomain of BPTF. The labeled residues are N2881 and W2824, with the fluorine atom indicated in cyan.",
     "confidence": "figure"
   },
   {
@@ -152,11 +152,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 5. Ligand deconstruction study of (S)-1, with the exception of F1, all fragments bind 5FW BPTF with similar ligand efficiencies, indicating binding contacts are dispersed throughout the molecule. Using PrOF NMR, a binding isotherm can be generated to quantify weak binding ligands. F6 is shown as a representative example. NB = No observable binding. Rac-1 ligand efficiency = 0.22\n\n- The figure displays chemical structures of six fragments labeled F1 to F6 with their corresponding binding constants (\\(K_d\\)) and ligand efficiencies.",
-    "word_count": 82,
-    "figure_id": "figure_5",
-    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_5.png",
-    "caption": "Figure 5. Ligand deconstruction study of (S)-1, with the exception of F1, all fragments bind 5FW BPTF with similar ligand efficiencies, indicating binding contacts are dispersed throughout the molecule. Using PrOF NMR, a binding isotherm can be generated to quantify weak binding ligands. F6 is shown as a representative example. NB = No observable binding. Rac-1 ligand efficiency = 0.22\n\n- The figure displays chemical structures of six fragments labeled F1 to F6 with their corresponding binding constants (\\(K_d\\)) and ligand efficiencies.",
+    "content": "Figure 4: Sample titration data of 9, a broadening and shifting of the 5FW BPTF resonance is observed. Full titration can be found in the Supporting Information.\n\n- The top panel is a series of \\( ^{19}F \\) NMR spectra showing the broadening and shifting of the 5FW BPTF resonance as the concentration of compound 9 increases from 25 µM to 250 µM.",
+    "word_count": 63,
+    "figure_id": "figure_4",
+    "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_4.png",
+    "caption": "Figure 4: Sample titration data of 9, a broadening and shifting of the 5FW BPTF resonance is observed. Full titration can be found in the Supporting Information.\n\n- The top panel is a series of \\( ^{19}F \\) NMR spectra showing the broadening and shifting of the 5FW BPTF resonance as the concentration of compound 9 increases from 25 µM to 250 µM.",
     "confidence": "figure"
   },
   {
@@ -168,11 +168,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 6:\n\nA) This panel shows a conformation space network as a 3D plot, where nodes represent ligand poses. The nodes are colored from blue/black (unbound) to green/yellow (fully bound) according to the solvent accessible surface area (SASA) of the ligand. It illustrates the pathways between different binding poses and highlights two starting poses and the most probable pose.",
-    "word_count": 59,
+    "content": "Figure 6:\n\nA) This panel illustrates a conformation space network, where nodes indicate ligand poses and coloring reflects the solvent accessible surface area (SASA), with blue/black indicating unbound and green/yellow indicating fully bound states. The network highlights two starting poses and the most probable binding pose.",
+    "word_count": 46,
     "figure_id": "figure_6",
     "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_6.png",
-    "caption": "Figure 6:\n\nA) This panel shows a conformation space network as a 3D plot, where nodes represent ligand poses. The nodes are colored from blue/black (unbound) to green/yellow (fully bound) according to the solvent accessible surface area (SASA) of the ligand. It illustrates the pathways between different binding poses and highlights two starting poses and the most probable pose.",
+    "caption": "Figure 6:\n\nA) This panel illustrates a conformation space network, where nodes indicate ligand poses and coloring reflects the solvent accessible surface area (SASA), with blue/black indicating unbound and green/yellow indicating fully bound states. The network highlights two starting poses and the most probable binding pose.",
     "confidence": "figure"
   },
   {
@@ -184,11 +184,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 7. Selectivity of (S)-1 toward four different bromodomains, BRD4(1), BRDT(1), PCAF, and PfGCN5. All experiments were carried out with 50 µM protein in the absence (black spectrum) or presence of 100 µM (S)-1 (red spectrum).\n\nThe figure presents a series of NMR spectra illustrating the selectivity of the compound (S)-1 towards four different proteins. Each panel represents a distinct protein with labeled tryptophan residues (e.g., W75, W120). The x-axis shows the chemical shift, while the y-axis displays the relative peak intensity. The presence of (S)-1 is indicated by changes in the spectrum (red dashed line), compared to the absence of the compound (black line). The key finding is that (S)-1 binds differently to each bromodomain, altering the NMR chemical shifts. Overall, the figure demonstrates the binding selectivity of (S)-1 for specific bromodomains.",
-    "word_count": 133,
+    "content": "Figure 7. Selectivity of (S)-1 toward four different bromodomains, BRD4(1), BRDT(1), PCAF, and PfGCN5. All experiments were carried out with 50 μM protein in the absence (black spectrum) or presence of 100 μM (S)-1 (red spectrum).\n\n- The figure contains NMR spectra for four different bromodomains (5FW BRD4, 5FW BRDT, 5FW PCAF, and 5FW PfGCN5). Each spectrum shows resonances with chemical shifts on the x-axis and intensity on the y-axis.",
+    "word_count": 70,
     "figure_id": "figure_7",
     "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_7.png",
-    "caption": "Figure 7. Selectivity of (S)-1 toward four different bromodomains, BRD4(1), BRDT(1), PCAF, and PfGCN5. All experiments were carried out with 50 µM protein in the absence (black spectrum) or presence of 100 µM (S)-1 (red spectrum).\n\nThe figure presents a series of NMR spectra illustrating the selectivity of the compound (S)-1 towards four different proteins. Each panel represents a distinct protein with labeled tryptophan residues (e.g., W75, W120). The x-axis shows the chemical shift, while the y-axis displays the relative peak intensity. The presence of (S)-1 is indicated by changes in the spectrum (red dashed line), compared to the absence of the compound (black line). The key finding is that (S)-1 binds differently to each bromodomain, altering the NMR chemical shifts. Overall, the figure demonstrates the binding selectivity of (S)-1 for specific bromodomains.",
+    "caption": "Figure 7. Selectivity of (S)-1 toward four different bromodomains, BRD4(1), BRDT(1), PCAF, and PfGCN5. All experiments were carried out with 50 μM protein in the absence (black spectrum) or presence of 100 μM (S)-1 (red spectrum).\n\n- The figure contains NMR spectra for four different bromodomains (5FW BRD4, 5FW BRDT, 5FW PCAF, and 5FW PfGCN5). Each spectrum shows resonances with chemical shifts on the x-axis and intensity on the y-axis.",
     "confidence": "figure"
   },
   {
@@ -200,11 +200,11 @@
     "year": "2019",
     "doi": "10.1039/x0xx00000x",
     "source_file": "2019 Selectivity, ligand deconstruction, and cellular activity analysis of a BPTF bromodomain inhibitor.pdf",
-    "content": "Figure 8. Sensitivity of cancer cell lines to (S)-1 and (R)-1. A) CRISPR-Cas9 BPTF-targeting. HepG2, MCF-7 and K562 cell lines were infected with all in one CRISPR-Cas9-GFP lentiviral particles, expressing sgRNAs targeting RPA3 gene (depletion control) and the BPTF gene. Fold change was calculated by comparing final measure of GFP to initial infection GFP. n=2 technical replicates. B) Cell viability analysis in cancer cell lines treated with 5 µM of either (S)-1 or (R)-1 for 72 h, following incubation with AlamarBlue for 4 h. Error bars demonstrate standard deviation across biological replicates.\n\n- **Panel A**: This panel shows bar plots of CRISPR-Cas9 interference on cancer cell lines (HepG2, MCF-7, K562) targeting BPTF and RPA3 genes. The x-axis lists the vectors used, and the y-axis shows the percentage of GFP positive cells. The key finding is the change in GFP expression over time, indicating gene targeting efficiency.",
-    "word_count": 146,
+    "content": "Figure 8: Sensitivity of cancer cell lines to (S)-1 and (R)-1. A) CRISPR-Cas9 BPTF-targeting. HepG2, MCF-7 and K562 cell lines were infected with all in one CRISPR-Cas9-GFP lentiviral particles, expressing sgRNAs targeting RPA3 gene (depletion control) and the BPTF gene. Fold change was calculated by comparing final measure of GFP to initial infection GFP. n=2 technical replicates. B) Cell viability analysis in cancer cell lines treated with 5 μM of either (S)-1 or (R)-1 for 72 h, following incubation with AlamarBlue for 4 h. Error bars demonstrate standard deviation across biological replicates.\n\n- **Panel A**: Bar graphs showing the fold change in GFP expression in HepG2, MCF-7, and K562 cell lines after CRISPR-Cas9 infection targeting the RPA3 and BPTF genes over time. The x-axis represents the condition (Empty vector, sgRNA), and the y-axis shows the fold change percentage. Key finding: Targeting BPTF with CRISPR-Cas9 affects GFP expression levels in these cancer cell lines.",
+    "word_count": 153,
     "figure_id": "figure_8",
     "image_path": "data/figures/selectivity_ligand_deconstruction_and_cellular_act__2019__figure_8.png",
-    "caption": "Figure 8. Sensitivity of cancer cell lines to (S)-1 and (R)-1. A) CRISPR-Cas9 BPTF-targeting. HepG2, MCF-7 and K562 cell lines were infected with all in one CRISPR-Cas9-GFP lentiviral particles, expressing sgRNAs targeting RPA3 gene (depletion control) and the BPTF gene. Fold change was calculated by comparing final measure of GFP to initial infection GFP. n=2 technical replicates. B) Cell viability analysis in cancer cell lines treated with 5 µM of either (S)-1 or (R)-1 for 72 h, following incubation with AlamarBlue for 4 h. Error bars demonstrate standard deviation across biological replicates.\n\n- **Panel A**: This panel shows bar plots of CRISPR-Cas9 interference on cancer cell lines (HepG2, MCF-7, K562) targeting BPTF and RPA3 genes. The x-axis lists the vectors used, and the y-axis shows the percentage of GFP positive cells. The key finding is the change in GFP expression over time, indicating gene targeting efficiency.",
+    "caption": "Figure 8: Sensitivity of cancer cell lines to (S)-1 and (R)-1. A) CRISPR-Cas9 BPTF-targeting. HepG2, MCF-7 and K562 cell lines were infected with all in one CRISPR-Cas9-GFP lentiviral particles, expressing sgRNAs targeting RPA3 gene (depletion control) and the BPTF gene. Fold change was calculated by comparing final measure of GFP to initial infection GFP. n=2 technical replicates. B) Cell viability analysis in cancer cell lines treated with 5 μM of either (S)-1 or (R)-1 for 72 h, following incubation with AlamarBlue for 4 h. Error bars demonstrate standard deviation across biological replicates.\n\n- **Panel A**: Bar graphs showing the fold change in GFP expression in HepG2, MCF-7, and K562 cell lines after CRISPR-Cas9 infection targeting the RPA3 and BPTF genes over time. The x-axis represents the condition (Empty vector, sgRNA), and the y-axis shows the fold change percentage. Key finding: Targeting BPTF with CRISPR-Cas9 affects GFP expression levels in these cancer cell lines.",
     "confidence": "figure"
   }
 ]

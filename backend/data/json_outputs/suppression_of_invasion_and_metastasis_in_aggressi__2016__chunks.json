@@ -104,11 +104,11 @@
     "year": "2016",
     "doi": "10.1016/j.canlet.2016.04.021",
     "source_file": "2016 Suppression of invasion and metastasis in aggressive salivary cancer cells through targeted inhibition of ID1 gene expression.pdf",
-    "content": "Figure 1. Effect of ID1 downregulation using genetic knockdown on SGCs in culture and in vivo. (A) Comparison of ID1, vimentin and VEGF expression in ACCM cells infected with Ctl shRNA or ID1 shRNA, and using Western analysis. Actin was used as a control for protein integrity and quantification. (B) Cell proliferation (left panel) and cell invasion (right panel) were investigated in ACCM cells infected with Ctl shRNA or ID1 shRNA. (C) Gelatin zymogram analysis showing MMP-9 activity in ACCM cells infected with Ctl shRNA or ID1 shRNA. (D) The pictures are representative of lung tumor formation after injection of ACCM cells infected with Ctl shRNA or ID1 shRNA. (E) The number of lung metastatic foci was compared between ACCM cells infected with Ctl shRNA or ID1 shRNA.\n\n- Panel A: A Western blot showing the expression levels of ID1, vimentin, VEGF, and actin in ACCM cells treated with control shRNA (Ctl shRNA) or ID1 shRNA. The key finding is the reduced expression of ID1, vimentin, and VEGF in ID1 shRNA-treated cells compared to Ctl shRNA.",
-    "word_count": 176,
+    "content": "Figure 1. Fig. 1\n\n(A) This panel shows Western blot analysis comparing the expression of ID1, vimentin, and VEGF in ACCM cells treated with control shRNA and ID1 shRNA, indicating a reduction in protein expression with ID1 shRNA treatment.",
+    "word_count": 39,
     "figure_id": "figure_1",
     "image_path": "data/figures/suppression_of_invasion_and_metastasis_in_aggressi__2016__figure_1.png",
-    "caption": "Figure 1. Effect of ID1 downregulation using genetic knockdown on SGCs in culture and in vivo. (A) Comparison of ID1, vimentin and VEGF expression in ACCM cells infected with Ctl shRNA or ID1 shRNA, and using Western analysis. Actin was used as a control for protein integrity and quantification. (B) Cell proliferation (left panel) and cell invasion (right panel) were investigated in ACCM cells infected with Ctl shRNA or ID1 shRNA. (C) Gelatin zymogram analysis showing MMP-9 activity in ACCM cells infected with Ctl shRNA or ID1 shRNA. (D) The pictures are representative of lung tumor formation after injection of ACCM cells infected with Ctl shRNA or ID1 shRNA. (E) The number of lung metastatic foci was compared between ACCM cells infected with Ctl shRNA or ID1 shRNA.\n\n- Panel A: A Western blot showing the expression levels of ID1, vimentin, VEGF, and actin in ACCM cells treated with control shRNA (Ctl shRNA) or ID1 shRNA. The key finding is the reduced expression of ID1, vimentin, and VEGF in ID1 shRNA-treated cells compared to Ctl shRNA.",
+    "caption": "Figure 1. Fig. 1\n\n(A) This panel shows Western blot analysis comparing the expression of ID1, vimentin, and VEGF in ACCM cells treated with control shRNA and ID1 shRNA, indicating a reduction in protein expression with ID1 shRNA treatment.",
     "confidence": "figure"
   },
   {
@@ -120,11 +120,11 @@
     "year": "2016",
     "doi": "10.1016/j.canlet.2016.04.021",
     "source_file": "2016 Suppression of invasion and metastasis in aggressive salivary cancer cells through targeted inhibition of ID1 gene expression.pdf",
-    "content": "Figure 2. Effect of the re-establishment of PR on the phenotype of SGCs. (A) Expression of PR isoforms (upper panel) and ID1 protein (lower panel) in T47D, control MDA-MB231, and PR-transfected ACCM cell populations using Western blotting. Actin was used as a control for protein integrity and quantification. (B) Gelatin zymogram analysis showing MMP-9 activity 48 hr after treatment with Pg. (C) Results of the scratch assays on cultures of progesterone-treated ACCM-Ctl and ACCM-PR cells. NIH ImageJ was used to measure (at 0, 12, 24 or 36 hr) the area of the scratch remaining after cell migration. (D) Number of lung metastatic foci in mice injected with ACCM-Ctl or ACCM-PR cells, and treated or not with Pg.\n\n- **Panel A**: Western blot images for PR isoforms and ID1 protein, demonstrating their expression among different cell lines including PR-transfected ACCM cells. Actin serves as the loading control.",
-    "word_count": 146,
+    "content": "Figure 2. Effect of the re-establishment of PR on the phenotype of SGCs. (A) Expression of PR isoforms (upper panel) and ID1 protein (lower panel) in T47D, control MDA-MB231, and PR-transfected ACCM cell populations using Western blotting. Actin was used as a control for protein integrity and quantification. (B) Gelatin zymogram analysis showing MMP-9 activity 48 hr after treatment with Pg. (C) Results of the scratch assays on cultures of progesterone-treated ACCM-Ctl and ACCM-PR cells. NIH ImageJ was used to measure (at 0, 12, 24 or 36 hr) the area of the scratch remaining after cell migration. (D) Number of lung metastatic foci in mice injected with ACCM-Ctl or ACCM-PR cells, and treated or not with Pg.\n\n- Panel A: Western blot images showing the expression levels of PR-B, PR-A, and ID1 proteins across different cell lines, with actin as a loading control. The key finding is the re-establishment of PR isoforms in PR-transfected ACCM cells compared to controls.",
+    "word_count": 159,
     "figure_id": "figure_2",
     "image_path": "data/figures/suppression_of_invasion_and_metastasis_in_aggressi__2016__figure_2.png",
-    "caption": "Figure 2. Effect of the re-establishment of PR on the phenotype of SGCs. (A) Expression of PR isoforms (upper panel) and ID1 protein (lower panel) in T47D, control MDA-MB231, and PR-transfected ACCM cell populations using Western blotting. Actin was used as a control for protein integrity and quantification. (B) Gelatin zymogram analysis showing MMP-9 activity 48 hr after treatment with Pg. (C) Results of the scratch assays on cultures of progesterone-treated ACCM-Ctl and ACCM-PR cells. NIH ImageJ was used to measure (at 0, 12, 24 or 36 hr) the area of the scratch remaining after cell migration. (D) Number of lung metastatic foci in mice injected with ACCM-Ctl or ACCM-PR cells, and treated or not with Pg.\n\n- **Panel A**: Western blot images for PR isoforms and ID1 protein, demonstrating their expression among different cell lines including PR-transfected ACCM cells. Actin serves as the loading control.",
+    "caption": "Figure 2. Effect of the re-establishment of PR on the phenotype of SGCs. (A) Expression of PR isoforms (upper panel) and ID1 protein (lower panel) in T47D, control MDA-MB231, and PR-transfected ACCM cell populations using Western blotting. Actin was used as a control for protein integrity and quantification. (B) Gelatin zymogram analysis showing MMP-9 activity 48 hr after treatment with Pg. (C) Results of the scratch assays on cultures of progesterone-treated ACCM-Ctl and ACCM-PR cells. NIH ImageJ was used to measure (at 0, 12, 24 or 36 hr) the area of the scratch remaining after cell migration. (D) Number of lung metastatic foci in mice injected with ACCM-Ctl or ACCM-PR cells, and treated or not with Pg.\n\n- Panel A: Western blot images showing the expression levels of PR-B, PR-A, and ID1 proteins across different cell lines, with actin as a loading control. The key finding is the re-establishment of PR isoforms in PR-transfected ACCM cells compared to controls.",
     "confidence": "figure"
   },
   {
@@ -136,11 +136,11 @@
     "year": "2016",
     "doi": "10.1016/j.canlet.2016.04.021",
     "source_file": "2016 Suppression of invasion and metastasis in aggressive salivary cancer cells through targeted inhibition of ID1 gene expression.pdf",
-    "content": "Figure 3. Fig. 3.\n\nPanel A: A Western blot image showing ID1 and Actin protein expression in ACCM and ACC2 cells treated with vehicle or CBD. The ID1 protein levels are reduced in cells treated with CBD.",
-    "word_count": 37,
+    "content": "Figure 3. Fig. 3.\n\n- Panel A: Western blot images showing ID1 and Actin expression in ACCM and ACC2 cells treated with either vehicle or CBD. CBD treatment appears to reduce ID1 expression.",
+    "word_count": 33,
     "figure_id": "figure_3",
     "image_path": "data/figures/suppression_of_invasion_and_metastasis_in_aggressi__2016__figure_3.png",
-    "caption": "Figure 3. Fig. 3.\n\nPanel A: A Western blot image showing ID1 and Actin protein expression in ACCM and ACC2 cells treated with vehicle or CBD. The ID1 protein levels are reduced in cells treated with CBD.",
+    "caption": "Figure 3. Fig. 3.\n\n- Panel A: Western blot images showing ID1 and Actin expression in ACCM and ACC2 cells treated with either vehicle or CBD. CBD treatment appears to reduce ID1 expression.",
     "confidence": "figure"
   }
 ]

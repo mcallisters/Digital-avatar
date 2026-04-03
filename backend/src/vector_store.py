@@ -435,6 +435,42 @@ def get_publications_context(
     return "\n".join(lines)
 
 
+
+def get_all_publications() -> list[dict]:
+    """
+    Return one metadata record per unique paper from ChromaDB.
+    Used for listing all publications without semantic search.
+    Results are sorted by year descending.
+    """
+    client = _get_client()
+    try:
+        col   = client.get_collection(name=COLLECTION_NAME)
+        items = col.get(include=["metadatas"])
+        metas = items["metadatas"]
+
+        # Deduplicate by paper_id — keep one record per paper
+        seen = {}
+        for m in metas:
+            pid = m.get("paper_id", "")
+            if pid and pid not in seen:
+                seen[pid] = {
+                    "paper_id": pid,
+                    "title":    m.get("title",   ""),
+                    "authors":  m.get("authors", ""),
+                    "year":     m.get("year",    ""),
+                    "doi":      m.get("doi",     ""),
+                }
+
+        # Sort by year descending
+        return sorted(
+            seen.values(),
+            key=lambda x: x["year"],
+            reverse=True,
+        )
+    except Exception as e:
+        print(f"[get_all_publications] Error: {e}")
+        return []
+
 # ── Startup helper ────────────────────────────────────────────────────────────
 
 def init_vector_store(force_rebuild: bool = False):
