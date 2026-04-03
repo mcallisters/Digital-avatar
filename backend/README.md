@@ -18,7 +18,7 @@ Specialized Agents (General, Projects, Publications, Calendar, Hobbies)
 Response
 ```
 
-**Publications agent** uses semantic RAG — queries are embedded and matched against 100+ chunks from 22 papers stored in ChromaDB, rather than a static JSON summary.
+**Publications agent** uses semantic RAG — queries are embedded and matched against chunks from 27 papers stored in ChromaDB, rather than a static JSON summary. Listing queries return the full catalogue directly from ChromaDB without semantic search.
 
 ---
 
@@ -36,8 +36,7 @@ backend/
 │   ├── pdf_reader.py            # Step 1 — text extraction + figure detection
 │   ├── section_parser.py        # Step 2 — header detection + normalization
 │   ├── chunker.py               # Step 3 — standardized JSON chunks
-│   ├── vector_store.py          # Step 4 — ChromaDB embedding + search
-│   └── agents_publications.py  # Publications RAG agent (reference)
+│   └── vector_store.py          # Step 4 — ChromaDB embedding + search
 │
 ├── scripts/                     # Offline pipeline tools (run locally)
 │   ├── ingest_papers.py         # Batch ingest PDFs end-to-end
@@ -48,10 +47,11 @@ backend/
 ├── data/
 │   ├── resume.json              # Work experience, education, skills
 │   ├── projects.json            # Personal and community projects
-│   ├── publications.json        # Publications list (fallback)
+│   ├── publications.json        # Publications list (fallback only)
 │   ├── hobbies.json             # Interests outside of work
-│   ├── json_outputs/            # Chunked JSON per paper (22 papers)
+│   ├── json_outputs/            # Chunked JSON per paper (27 papers)
 │   ├── chroma_db/               # ChromaDB persistent vector store
+│   ├── chroma_db_README.md      # ChromaDB pipeline explainer
 │   ├── pdfs/                    # Drop new PDFs here for ingestion
 │   └── pdfs_archive/            # Processed PDFs moved here after ingestion
 │
@@ -103,12 +103,6 @@ OPENAI_API_KEY=sk-your-actual-api-key-here
 python main.py
 ```
 
-Or using uvicorn directly:
-
-```bash
-uvicorn main:app --reload --host 0.0.0.0 --port 8000
-```
-
 On startup you should see:
 
 ```
@@ -124,7 +118,28 @@ The API will be available at `http://localhost:8000`
 
 Publications use semantic search rather than a static JSON file. On startup, `main.py` calls `init_vector_store()` which loads the pre-built ChromaDB index from `data/chroma_db/`.
 
-**Current index:** 22 papers, 108 chunks, embedded with `text-embedding-3-small`.
+**Current index:** 27 papers, embedded with `text-embedding-3-small`.
+
+### How the publications agent works
+
+The agent handles three distinct query types:
+
+**1. Listing queries** — "list all your publications", "what papers have you published?"
+- Bypasses semantic search entirely
+- Calls `get_all_publications()` to retrieve one record per unique paper from ChromaDB
+- Returns all papers sorted by year with titles and DOIs
+
+**2. Short scientific term queries** — "pharmacogenomics", "glioblastoma", "EGFR"
+- Pre-classifier detects scientific terms and routes to publications before the LLM classifier
+- Query is expanded into a descriptive sentence before searching ChromaDB
+- Improves recall for narrow single-word queries
+
+**3. Content queries** — "what methods did you use?", "what did you find about CBD?"
+- Query intent detected via regex (methods / results / overview / broad)
+- Top-5 semantically matched chunks retrieved from ChromaDB
+- Chunks injected into GPT-4o-mini prompt as context
+- Agent responds in first person citing specific figures, data points, and DOIs
+- Falls back to `publications.json` summary if the vector store is unavailable
 
 ### Adding a new paper
 
@@ -140,6 +155,11 @@ mv "data/pdfs/2024 My New Paper Title.pdf" data/pdfs_archive/
 
 # 4. Verify indexing
 python scripts/ingest_papers.py --stats
+
+# 5. Commit updated index
+git add data/chroma_db/ data/json_outputs/
+git commit -m "Add new paper: 2024 My New Paper Title"
+git push
 ```
 
 ### Inspecting the vector store
@@ -153,15 +173,10 @@ python scripts/inspect_store.py --query "cannabidiol glioblastoma"
 
 # Filter by chunk type
 python scripts/inspect_store.py --type results
+
+# Check a specific paper is indexed
+python scripts/inspect_store.py --paper mct_22_0486_1100_1111
 ```
-
-### How the publications agent works
-
-1. Query intent is detected via regex (methods / results / overview / broad)
-2. Top-5 semantically matched chunks are retrieved from ChromaDB
-3. Chunks are injected into the GPT-4o-mini prompt as context
-4. Agent responds in first person citing specific figures, data points, and DOIs
-5. Falls back to `publications.json` summary if the vector store is unavailable
 
 ---
 
@@ -225,23 +240,26 @@ The `data/chroma_db/` and `data/json_outputs/` folders are committed to the repo
 # Health check
 curl http://localhost:8000/health
 
-# General query
-curl -X POST http://localhost:8000/chat \
+# List all publications (catalogue query)
+curl -s -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
-  -d '{"message": "What projects have you worked on?"}'
+  -d '{"message": "list all your publications"}' | python3 -m json.tool
+
+# Single scientific term (tests pre-classifier + query expansion)
+curl -s -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "pharmacogenomics"}' | python3 -m json.tool
 
 # Publications RAG query
-curl -X POST http://localhost:8000/chat \
+curl -s -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
-  -d '{"message": "What have you published on cannabidiol and cancer?"}'
+  -d '{"message": "What have you published on cannabidiol and cancer?"}' | python3 -m json.tool
 
 # Methods-specific query (tests chunk routing)
-curl -X POST http://localhost:8000/chat \
+curl -s -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
-  -d '{"message": "How did you screen drugs in your pharmacogenomic study?"}'
+  -d '{"message": "How did you screen drugs in your pharmacogenomic study?"}' | python3 -m json.tool
 ```
-
-Or use the interactive docs at `http://localhost:8000/docs`
 
 ---
 
@@ -283,6 +301,7 @@ allow_origins=["https://your-vercel-app.vercel.app"]
 - Publications agent uses `gpt-4o-mini` at temperature 0.3 for factual accuracy
 - All other agents use `gpt-4o-mini` at temperature 0.7
 - Vector store initializes at startup — cold start adds ~2 seconds on Render free tier
+- See `chroma_db_README.md` for a full explainer of how the vector store works
 
 ---
 
